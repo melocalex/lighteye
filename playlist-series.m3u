@@ -87,6 +87,12 @@ https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-name="Latina Clasicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Séries",Latina Clasicos
 #EXTGRP:🌎 América Latina • Séries
 http://45.171.108.253:8888/LATINA/index.m3u8
+#EXTINF:-1 tvg-id="MegaFiccion.cl@SD" tvg-name="Mega Ficcion" tvg-logo="https://i.imgur.com/aQdhJie.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Séries",Mega Ficcion
+#EXTGRP:🌎 América Latina • Séries
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-id="Medium.de@ES" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Medium
+#EXTGRP:🇪🇸 España • Filmes
+https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-name="Ana y los 7" tvg-logo="https://i.imgur.com/X5g6gXS.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Ana y los 7
 #EXTGRP:🇪🇸 España • Séries
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
@@ -141,6 +147,12 @@ https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 tvg-id="Investiga.us@LatAm" tvg-name="Investiga" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",Investiga
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+#EXTINF:-1 tvg-id="Misteriossinresolver.us@SD" tvg-name="Misterios sin resolver" tvg-logo="https://i.imgur.com/8mnvubb.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",Misterios sin resolver
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:-1 tvg-id="MTVTeenMom.us@LatAm" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",MTV Teen Mom
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@CA" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",48 Hours
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
@@ -273,6 +285,18 @@ https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
 #EXTINF:-1 tvg-id="Matlock.us@CA" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Matlock
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-name="Midsomer Murders" tvg-logo="https://i.imgur.com/VFqfyfY.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Midsomer Murders
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-62e92447ea1e2a000735ed33.m3u8
+#EXTINF:-1 tvg-id="MissionImpossible.us@CA" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Mission Impossible
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
+#EXTINF:-1 tvg-id="MoreTrueCrime.us@SD" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",More True Crime
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
+#EXTINF:-1 tvg-id="MST3K.us@US" tvg-name="MST3K" tvg-logo="https://i.imgur.com/2LSdcga.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",MST3K
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-545943f1c9f133a519bbac92.m3u8
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Séries",Alerte a Malibu
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
@@ -360,6 +384,15 @@ https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" tvg-name="Married with Children" tvg-logo="https://i.imgur.com/L9Epmtf.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Married with Children
 #EXTGRP:🇬🇧 United Kingdom • Séries
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
+#EXTINF:-1 tvg-id="MoreTVCrime.de@GB" tvg-name="More TV Crime" tvg-logo="https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",More TV Crime
+#EXTGRP:🇬🇧 United Kingdom • Séries
+https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
+#EXTINF:-1 tvg-id="MostHaunted.uk@UK" tvg-name="Most Haunted" tvg-logo="https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Most Haunted
+#EXTGRP:🇬🇧 United Kingdom • Séries
+https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
+#EXTINF:-1 tvg-id="Mythbusters.us@UK" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Mythbusters
+#EXTGRP:🇬🇧 United Kingdom • Séries
+https://jmp2.uk/plu-5bd833b41843b56328bac189.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-name="AMC Series Latin America" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-language="spa" group-title="🌐 International • Séries",AMC Series Latin America
 #EXTGRP:🌐 International • Séries
 https://streaming.onnethn.com/AMC/playlist.m3u8
@@ -463,6 +496,12 @@ https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
 #EXTINF:-1 tvg-id="Matlock.se@DK" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Matlock
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
+#EXTINF:-1 tvg-id="Medium.se@DK" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Medium
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
+#EXTINF:-1 tvg-id="MissionImpossible.se@DK" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Mission Impossible
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-name="4ever Drama" tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",4ever Drama
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/260/index.m3u8
@@ -509,3 +548,9 @@ https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" tvg-name="MBC Masr Drama" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" tvg-language="ara" tvg-country="SA" group-title="🏳️ Other Countries • Séries",MBC Masr Drama
 #EXTGRP:🏳️ Other Countries • Séries
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-name="Mir Seriala" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Mir Seriala
+#EXTGRP:🏳️ Other Countries • Séries
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa" tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Séries",Mireasa
+#EXTGRP:🏳️ Other Countries • Séries
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
