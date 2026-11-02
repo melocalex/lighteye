@@ -297,6 +297,15 @@ https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
 #EXTINF:-1 tvg-id="MST3K.us@US" tvg-name="MST3K" tvg-logo="https://i.imgur.com/2LSdcga.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",MST3K
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-545943f1c9f133a519bbac92.m3u8
+#EXTINF:-1 tvg-id="NashBridges.us@SD" tvg-name="Nash Bridges" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Nash Bridges
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
+#EXTINF:-1 tvg-id="Nashville.us@CA" tvg-name="Nashville" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Nashville
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
+#EXTINF:-1 tvg-id="NCISLosAngeles.us@CA" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",NCIS: Los Angeles
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Séries",Alerte a Malibu
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
@@ -424,6 +433,9 @@ https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/2e3muOJ.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Filmes",HBO 2
 #EXTGRP:🏳️ Other Countries • Filmes
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-name="Nashe" tvg-logo="https://i.imgur.com/KO8dhi9.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe
+#EXTGRP:🏳️ Other Countries • Filmes
+http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 tvg-id="2900Happiness.se@DK" tvg-name="2900 Happiness" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",2900 Happiness
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
@@ -502,6 +514,18 @@ https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.se@DK" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Mission Impossible
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
+#EXTINF:-1 tvg-id="NCIS.se@DK" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",NCIS
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
+#EXTINF:-1 tvg-id="NCISDetbedstemedGibbs.se@DK" tvg-name="NCIS: Det bedste med Gibbs" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",NCIS: Det bedste med Gibbs
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
+#EXTINF:-1 tvg-id="NCISDetbedstemedTonyZiva.se@DK" tvg-name="NCIS: Det bedste med Tony & Ziva" tvg-logo="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",NCIS: Det bedste med Tony & Ziva
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
+#EXTINF:-1 tvg-id="NCISLosAngeles.se@DK" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",NCIS: Los Angeles
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-name="4ever Drama" tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",4ever Drama
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/260/index.m3u8
@@ -554,3 +578,6 @@ http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-name="Mireasa" tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Séries",Mireasa
 #EXTGRP:🏳️ Other Countries • Séries
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-name="Nevskiy" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Nevskiy
+#EXTGRP:🏳️ Other Countries • Séries
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8

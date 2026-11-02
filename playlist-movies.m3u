@@ -147,6 +147,9 @@ http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/pw4NZK1.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Filmes",MyTime Movie Network
 #EXTGRP:🌎 América Latina • Filmes
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NextHD.py@SD" tvg-name="Next HD" tvg-logo="https://i.imgur.com/c2rF3SS.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Filmes",Next HD
+#EXTGRP:🌎 América Latina • Filmes
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki" tvg-logo="https://i.imgur.com/b3Ospym.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Cine Friki
 #EXTGRP:🇪🇸 España • Filmes
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
@@ -185,7 +188,7 @@ https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" tvg-language="spa;eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Cine Sony
 #EXTGRP:🇺🇸 United States • Filmes
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+http://186.148.196.82:8001/play/a0a4
 #EXTINF:-1 tvg-id="Cinemax.us@West" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Cinemax
 #EXTGRP:🇺🇸 United States • Filmes
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
@@ -336,6 +339,12 @@ https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@AU" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/h1ejU90.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",MovieSphere
 #EXTGRP:🇺🇸 United States • Filmes
 https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-name="MyTime Movie Network East" tvg-logo="https://i.imgur.com/HYgxPVQ.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",MyTime Movie Network East
+#EXTGRP:🇺🇸 United States • Filmes
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NEWKMOVIES.us@SD" tvg-name="NEW K.MOVIES" tvg-logo="https://i.imgur.com/wCgirjc.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",NEW K.MOVIES
+#EXTGRP:🇺🇸 United States • Filmes
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-language="bul" tvg-country="US" group-title="🇺🇸 United States • Filmes",AXN Black
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -346,6 +355,9 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 tvg-id="Moviedome.us@Germany" tvg-name="Moviedome" tvg-logo="https://i.imgur.com/8c54ycg.png" tvg-language="deu" tvg-country="US" group-title="🇺🇸 United States • Filmes",Moviedome
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk@SD" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/pw4NZK1.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Filmes",MyTime Movie Network
+#EXTGRP:🇬🇧 United Kingdom • Filmes
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-name="AMC Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="bul" tvg-country="UK" group-title="🇬🇧 United Kingdom • Filmes",AMC Europe
 #EXTGRP:🇬🇧 United Kingdom • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -390,7 +402,7 @@ https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 #EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD" tvg-name="Grjngo Western Movies" tvg-logo="https://i.imgur.com/wFqhK3p.png" tvg-language="eng;deu" tvg-country="DE" group-title="🏳️ Other Countries • Filmes",Grjngo Western Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-name="HBO Asia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",HBO Asia
+#EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-name="HBO Asia" tvg-logo="https://i.imgur.com/cE2gBt6.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",HBO Asia
 #EXTGRP:🏳️ Other Countries • Filmes
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@HD" tvg-name="HBO Hits Asia" tvg-logo="https://i.imgur.com/CTjmocc.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",HBO Hits Asia
@@ -496,6 +508,9 @@ http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-name="Cafe Film" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Filmes",Cafe Film
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-language="cze" tvg-country="NL" group-title="🏳️ Other Countries • Filmes",Canal+ Action Europe
+#EXTGRP:🏳️ Other Countries • Filmes
+http://193.33.39.108:9016/play/a02n
 #EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-name="CCTV-Storm Theater" tvg-logo="https://i.imgur.com/rEttkKm.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",CCTV-Storm Theater
 #EXTGRP:🏳️ Other Countries • Filmes
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -866,3 +881,22 @@ http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="MWDMovies.mm@SD" tvg-name="MWD Movies" tvg-logo="https://i.imgur.com/5KRsqeF.png" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Filmes",MWD Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-name="Nash Kinopokaz" tvg-logo="https://i.imgur.com/iwTMl8O.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nash Kinopokaz
+#EXTGRP:🏳️ Other Countries • Filmes
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-name="Nashe" tvg-logo="https://i.imgur.com/KO8dhi9.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe
+#EXTGRP:🏳️ Other Countries • Filmes
+http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua@SD" tvg-name="Nashe Lubimoe Kino Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/%D0%9D%D0%B0%D1%88%D0%B5_%D0%A3%D0%BB%D1%8E%D0%B1%D0%BB%D0%B5%D0%BD%D0%B5_%D0%9A%D1%96%D0%BD%D0%BE.webp" tvg-language="rus;ukr" tvg-country="UA" group-title="🏳️ Other Countries • Filmes",Nashe Lubimoe Kino Ukraine
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-name="Nashe muzhskoe" tvg-logo="https://i.imgur.com/QRWKpmb.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe muzhskoe
+#EXTGRP:🏳️ Other Countries • Filmes
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-name="Nashe Novoe Kino" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe Novoe Kino
+#EXTGRP:🏳️ Other Countries • Filmes
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NHBollyFlix.in@HD" tvg-name="NH BollyFlix" tvg-logo="https://i.ibb.co/yF9MPTDK/blyflx.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",NH BollyFlix
+#EXTGRP:🏳️ Other Countries • Filmes
+https://jmp2.uk/stvp-IN46000140Q
