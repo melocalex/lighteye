@@ -89,6 +89,9 @@ http://181.78.8.199:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-name="Monterrico TV" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Esportes",Monterrico TV
 #EXTGRP:🌎 América Latina • Esportes
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Esportes",Ovacion TV
+#EXTGRP:🌎 América Latina • Esportes
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN SPORTS XTRA en Espanol
 #EXTGRP:🇺🇸 United States • Esportes
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
@@ -98,6 +101,12 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-name="Golf Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Esportes",Golf Channel Latin America
 #EXTGRP:🇺🇸 United States • Esportes
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us@LatAm" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Esportes",Pluto TV Deportes
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-id="PlutoTVESports.us@LatAm" tvg-name="Pluto TV E-Sports" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Esportes",Pluto TV E-Sports
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
 #EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-name="30A Golf Kingdom" tvg-logo="https://i.imgur.com/Lv53nh4.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",30A Golf Kingdom
 #EXTGRP:🇺🇸 United States • Esportes
 https://30a-tv.com/feeds/vidaa/golf.m3u8
@@ -194,6 +203,30 @@ https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",NFL Network
 #EXTGRP:🇺🇸 United States • Esportes
 http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-name="NHL Network" tvg-logo="https://i.imgur.com/UNZ8bef.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",NHL Network
+#EXTGRP:🇺🇸 United States • Esportes
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHRATV.us@SD" tvg-name="NHRA TV" tvg-logo="https://i.imgur.com/jZgcm4k.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",NHRA TV
+#EXTGRP:🇺🇸 United States • Esportes
+https://d265y4sk8257lt.cloudfront.net/nh.m3u8
+#EXTINF:-1 tvg-id="Overtime.us@SD" tvg-name="Overtime" tvg-logo="https://i.imgur.com/9S9k4IK.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Overtime
+#EXTGRP:🇺🇸 United States • Esportes
+https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+#EXTINF:-1 tvg-id="PBRRidePass.us@SD" tvg-name="PBR RidePass" tvg-logo="https://i.imgur.com/gUxH97E.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",PBR RidePass
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
+#EXTINF:-1 tvg-id="PFLMMA.us@SD" tvg-name="PFL MMA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",PFL MMA
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
+#EXTINF:-1 tvg-id="PGATour.us@SD" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",PGA Tour
+#EXTGRP:🇺🇸 United States • Esportes
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCompetition.us@SD" tvg-name="Pluto TV Competition" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Pluto TV Competition
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.us@CA" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Pluto TV Snooker 900
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Esportes",DAZN Combat
 #EXTGRP:🇬🇧 United Kingdom • Esportes
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
@@ -212,13 +245,13 @@ http://45.186.254.75:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-name="ESPN 4 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 4 Latin America
 #EXTGRP:🌐 International • Esportes
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-name="ESPN 5 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 5 Latin America
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-name="ESPN 5 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 5 Latin America
 #EXTGRP:🌐 International • Esportes
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-name="ESPN 6 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 6 Latin America
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-name="ESPN 6 Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 6 Latin America
 #EXTGRP:🌐 International • Esportes
 https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-name="ESPN 7 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 7 Latin America
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-name="ESPN 7 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 7 Latin America
 #EXTGRP:🌐 International • Esportes
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-id="Go3Sport1.ee@SD" tvg-name="Go3 Sport 1" tvg-logo="https://i.imgur.com/0eZa0qh.png" tvg-language="est;lav;lit" group-title="🌐 International • Esportes",Go3 Sport 1
@@ -291,6 +324,18 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-name="Nautical Channel" tvg-logo="https://i.imgur.com/2ByDyzL.png" tvg-language="eng;ita;fra" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Nautical Channel
 #EXTGRP:🏳️ Other Countries • Esportes
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-name="Oman Sports TV" tvg-logo="https://i.imgur.com/1omi7p8.png" tvg-language="eng;ara" tvg-country="OM" group-title="🏳️ Other Countries • Esportes",Oman Sports TV
+#EXTGRP:🏳️ Other Countries • Esportes
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHandbollHighlights.se@SE" tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png" tvg-language="eng;swe" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Handboll Highlights
+#EXTGRP:🏳️ Other Countries • Esportes
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHandbollLive.se@SE" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" tvg-language="eng;swe" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Handboll Live
+#EXTGRP:🏳️ Other Countries • Esportes
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.se@DK" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Snooker 900
+#EXTGRP:🏳️ Other Countries • Esportes
+https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Esportes",A Spor
 #EXTGRP:🏳️ Other Countries • Esportes
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -407,12 +452,12 @@ http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr@SD" tvg-name="Equidia" tvg-logo="https://i.imgur.com/QPpbRcZ.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Equidia
 #EXTGRP:🏳️ Other Countries • Esportes
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Germany" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-language="deu" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.fr@Czechia" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-language="ces" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Eurosport 1
 #EXTGRP:🏳️ Other Countries • Esportes
-http://88.212.7.14/live/esp1_hun/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-language="hun" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Eurosport 2
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Czechia" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-language="ces" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Eurosport 2
 #EXTGRP:🏳️ Other Countries • Esportes
-http://88.212.7.14/live/esp2_hun/index.m3u8
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",Eurosport 4K Czechia
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -525,3 +570,24 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-name="More Than Sports TV" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Esportes",More Than Sports TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-name="Okko Futbol" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Okko Futbol
+#EXTGRP:🏳️ Other Countries • Esportes
+http://178.124.179.122:8080/Setanta1/index.m3u8
+#EXTINF:-1 tvg-id="ORFSportPlus.at@SD" tvg-name="ORF Sport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/960px-ORF_Sport%2B.svg.png" tvg-language="deu" tvg-country="AT" group-title="🏳️ Other Countries • Esportes",ORF Sport+
+#EXTGRP:🏳️ Other Countries • Esportes
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-name="Persiana Fight" tvg-language="fas" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Persiana Fight
+#EXTGRP:🏳️ Other Countries • Esportes
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-name="PK Sports" tvg-logo="https://i.imgur.com/qtbSnrY.png" tvg-language="urd" tvg-country="PK" group-title="🏳️ Other Countries • Esportes",PK Sports
+#EXTGRP:🏳️ Other Countries • Esportes
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFishing.se@DK" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png" tvg-language="dan" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Fishing
+#EXTGRP:🏳️ Other Countries • Esportes
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHandboldHighlights.se@DK" tvg-name="Pluto TV Handbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" tvg-language="dan" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Handbold Highlights
+#EXTGRP:🏳️ Other Countries • Esportes
+https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHandboldLive.se@DK" tvg-name="Pluto TV Handbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" tvg-language="dan" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Handbold Live
+#EXTGRP:🏳️ Other Countries • Esportes
+https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
