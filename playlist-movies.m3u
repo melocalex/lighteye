@@ -150,6 +150,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-name="Next HD" tvg-logo="https://i.imgur.com/c2rF3SS.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Filmes",Next HD
 #EXTGRP:🌎 América Latina • Filmes
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-name="Popcorn Central" tvg-logo="https://i.imgur.com/ULGVjyC.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Filmes",Popcorn Central
+#EXTGRP:🌎 América Latina • Filmes
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki" tvg-logo="https://i.imgur.com/b3Ospym.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Cine Friki
 #EXTGRP:🇪🇸 España • Filmes
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
@@ -183,6 +186,9 @@ https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPsycho.de@ES" tvg-name="Pluto TV Psycho" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Pluto TV Psycho
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Pluto TV Zombies
+#EXTGRP:🇪🇸 España • Filmes
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-name="AXN CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="bul" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN CEE
 #EXTGRP:🇪🇸 España • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -456,6 +462,24 @@ https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us@CA" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Sci-Fi
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpotlight.us@SD" tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/UmuJkVB.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Spotlight
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
+#EXTINF:-1 tvg-id="PlutoTVStaffPicks.us@SD" tvg-name="Pluto TV Staff Picks" tvg-logo="https://i.imgur.com/JzwO8IO.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Staff Picks
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTerror.us@SD" tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/eWtoHDM.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Terror
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@US" tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/ULKvDN7.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Thrillers
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrendingNow.us@SD" tvg-name="Pluto TV Trending Now" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Trending Now
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Westerns
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-language="bul" tvg-country="US" group-title="🇺🇸 United States • Filmes",AXN Black
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -478,6 +502,9 @@ https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFantasyHorror.de@GB" tvg-name="Pluto TV Fantasy & Horror" tvg-logo="https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Filmes",Pluto TV Fantasy & Horror
 #EXTGRP:🇬🇧 United Kingdom • Filmes
 https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.de@GB" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Filmes",Pluto TV Westerns
+#EXTGRP:🇬🇧 United Kingdom • Filmes
+https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-name="AMC Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="bul" tvg-country="UK" group-title="🇬🇧 United Kingdom • Filmes",AMC Europe
 #EXTGRP:🇬🇧 United Kingdom • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -510,6 +537,12 @@ https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMovies.de@DACH" tvg-name="Pluto TV Movies" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" tvg-language="deu" group-title="🌐 International • Filmes",Pluto TV Movies
 #EXTGRP:🌐 International • Filmes
 https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVStarTrek.de@DACH" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" tvg-language="deu" group-title="🌐 International • Filmes",Pluto TV Star Trek
+#EXTGRP:🌐 International • Filmes
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWestern.de@DACH" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" tvg-language="deu" group-title="🌐 International • Filmes",Pluto TV Western
+#EXTGRP:🌐 International • Filmes
+https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-name="Indywood TV" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Indywood TV
 #EXTGRP:🏳️ Other Countries • Notícias
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
@@ -600,6 +633,9 @@ https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.se@DK" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Sci-Fi
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWildWest.se@DK" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Wild West
+#EXTGRP:🏳️ Other Countries • Filmes
+https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-name="&TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",&TV
 #EXTGRP:🏳️ Other Countries • Filmes
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
@@ -755,6 +791,9 @@ http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax2.cz@Czechia" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Filmes",Cinemax 2
 #EXTGRP:🏳️ Other Countries • Filmes
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="CineStarActionBulgaria.bg@SD" tvg-name="CineStar Action Bulgaria" tvg-logo="https://i.imgur.com/bTf7A9J.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",CineStar Action Bulgaria
+#EXTGRP:🏳️ Other Countries • Filmes
+http://213.91.179.28:8000/play/a06b
 #EXTINF:-1 tvg-id="CineWow.ro@SD" tvg-name="CineWow" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Filmes",CineWow
 #EXTGRP:🏳️ Other Countries • Filmes
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
@@ -873,9 +912,6 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GroovyTV.gr@SD" tvg-name="Groovy TV" tvg-logo="https://i.imgur.com/ZYNQuf1.png" tvg-language="ell" tvg-country="GR" group-title="🏳️ Other Countries • Filmes",Groovy TV
 #EXTGRP:🏳️ Other Countries • Filmes
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 tvg-id="HalloweenNonStop.ro@SD" tvg-name="Halloween Non Stop" tvg-logo="https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Filmes",Halloween Non Stop
-#EXTGRP:🏳️ Other Countries • Filmes
-https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn@SD" tvg-name="Harbin Movie Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",Harbin Movie Channel
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -1166,3 +1202,21 @@ https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerieSciFi.de@IT" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" tvg-language="ita" tvg-country="DE" group-title="🏳️ Other Countries • Filmes",Pluto TV Serie Sci-Fi
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVStarTrek.se@DK" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" tvg-language="dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Star Trek
+#EXTGRP:🏳️ Other Countries • Filmes
+https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVToto.de@IT" tvg-name="Pluto TV Toto" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png" tvg-language="ita" tvg-country="DE" group-title="🏳️ Other Countries • Filmes",Pluto TV Toto
+#EXTGRP:🏳️ Other Countries • Filmes
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+#EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-name="Premialnoe" tvg-logo="https://i.imgur.com/ck4aLBP.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Premialnoe
+#EXTGRP:🏳️ Other Countries • Filmes
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-name="Pro Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Filmes",Pro Cinema
+#EXTGRP:🏳️ Other Countries • Filmes
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="PublicMovies.in@SD" tvg-name="Public Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png" tvg-language="kan" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Public Movies
+#EXTGRP:🏳️ Other Countries • Filmes
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="PunjabiShorts.in@SD" tvg-name="Punjabi Shorts" tvg-logo="https://www.thegtcnetwork.com/punjabi-shorts.jpg" tvg-language="pan" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Punjabi Shorts
+#EXTGRP:🏳️ Other Countries • Filmes
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
