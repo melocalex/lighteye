@@ -20,12 +20,6 @@ https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 3
 #EXTGRP:🇵🇹 Portugal • Esportes
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 4
-#EXTGRP:🇵🇹 Portugal • Esportes
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 5
-#EXTGRP:🇵🇹 Portugal • Esportes
-http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-language="eng" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",FUEL TV
 #EXTGRP:🇵🇹 Portugal • Esportes
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
@@ -92,6 +86,12 @@ https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-name="Ovacion TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Esportes",Ovacion TV
 #EXTGRP:🌎 América Latina • Esportes
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Esportes",Real Madrid TV
+#EXTGRP:🇪🇸 España • Esportes
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-name="Real Madrid TV English" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-language="eng" tvg-country="ES" group-title="🇪🇸 España • Esportes",Real Madrid TV English
+#EXTGRP:🇪🇸 España • Esportes
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN SPORTS XTRA en Espanol
 #EXTGRP:🇺🇸 United States • Esportes
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
@@ -119,6 +119,9 @@ http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" tvg-name="American Ninja Warrior" tvg-logo="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",American Ninja Warrior
 #EXTGRP:🇺🇸 United States • Esportes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN Sports USA
+#EXTGRP:🇺🇸 United States • Esportes
+https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN SPORTS XTRA
 #EXTGRP:🇺🇸 United States • Esportes
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -233,6 +236,15 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-name="Racer Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Racer Network
 #EXTGRP:🇺🇸 United States • Esportes
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+#EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-name="Rally TV" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Rally TV
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",REV'N Action
+#EXTGRP:🇺🇸 United States • Esportes
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-name="Right Now TV" tvg-logo="https://i.imgur.com/u8zXUOg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Right Now TV
+#EXTGRP:🇺🇸 United States • Esportes
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-name="DAZN Combat" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Esportes",DAZN Combat
 #EXTGRP:🇬🇧 United Kingdom • Esportes
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
@@ -345,6 +357,9 @@ https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.se@DK" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-language="eng" tvg-country="AT" group-title="🏳️ Other Countries • Esportes",Red Bull TV
+#EXTGRP:🏳️ Other Countries • Esportes
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Esportes",A Spor
 #EXTGRP:🏳️ Other Countries • Esportes
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -615,3 +630,6 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVSerieA.it@SD" tvg-name="Radio TV Serie A" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Radio TV Serie A
 #EXTGRP:🏳️ Other Countries • Esportes
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Realitatea Sportiva
+#EXTGRP:🏳️ Other Countries • Esportes
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8

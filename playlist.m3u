@@ -299,7 +299,7 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Discovery Kids Latin America
 #EXTGRP:🇧🇷 Brasil • Infantil
-http://38.224.231.176:8000/play/a01j/index.m3u8
+http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",DumDum
 #EXTGRP:🇧🇷 Brasil • Infantil
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
@@ -594,9 +594,6 @@ https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-name="Rede Minas" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Educação",Rede Minas
 #EXTGRP:🇧🇷 Brasil • Educação
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",1001 Noites
-#EXTGRP:🇧🇷 Brasil • Variedades
-https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",Canal Rural
 #EXTGRP:🇧🇷 Brasil • Variedades
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
@@ -914,12 +911,6 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 3
 #EXTGRP:🇵🇹 Portugal • Esportes
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 4
-#EXTGRP:🇵🇹 Portugal • Esportes
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 5
-#EXTGRP:🇵🇹 Portugal • Esportes
-http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-language="eng" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",FUEL TV
 #EXTGRP:🇵🇹 Portugal • Esportes
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
@@ -1211,6 +1202,27 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe@SD" tvg-name="Radio Uno Tacna" tvg-logo="https://i.imgur.com/PswowQP.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Notícias",Radio Uno Tacna
 #EXTGRP:🌎 América Latina • Notícias
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-name="RCV TV" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" tvg-language="spa" tvg-country="HN" group-title="🌎 América Latina • Notícias",RCV TV
+#EXTGRP:🌎 América Latina • Notícias
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 tvg-id="RDN.do@SD" tvg-name="RDN" tvg-logo="https://i.imgur.com/x02CGSW.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Notícias",RDN
+#EXTGRP:🌎 América Latina • Notícias
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-name="Red+" tvg-logo="https://i.imgur.com/kuqkTMC.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Notícias",Red+
+#EXTGRP:🌎 América Latina • Notícias
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="RNN.do@DOS" tvg-name="RNN" tvg-logo="https://i.imgur.com/12Z9qPw.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Notícias",RNN
+#EXTGRP:🌎 América Latina • Notícias
+https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-name="RPP TV" tvg-logo="https://i.imgur.com/oBz3CgE.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Notícias",RPP TV
+#EXTGRP:🌎 América Latina • Notícias
+http://190.93.224.42/RPP/index.m3u8
+#EXTINF:-1 tvg-id="RSelvaTV.pe@SD" tvg-name="RSelvaTV" tvg-logo="https://i.imgur.com/DAK5ZnD.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Notícias",RSelvaTV
+#EXTGRP:🌎 América Latina • Notícias
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="RTU.ec@SD" tvg-name="RTU" tvg-logo="https://i.imgur.com/1OWvMP4.png" tvg-language="spa" tvg-country="EC" group-title="🌎 América Latina • Notícias",RTU
+#EXTGRP:🌎 América Latina • Notícias
+http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-name="AS3 Sport TV" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" tvg-language="spa" tvg-country="VE" group-title="🌎 América Latina • Esportes",AS3 Sport TV
 #EXTGRP:🌎 América Latina • Esportes
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
@@ -1605,6 +1617,9 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-id="PronemsTV.do@SD" tvg-name="Pronems TV" tvg-logo="https://i.imgur.com/a9ORO1G.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Entretenimento",Pronems TV
 #EXTGRP:🌎 América Latina • Entretenimento
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+#EXTINF:-1 tvg-id="RETV.do@SD" tvg-name="R&E TV" tvg-logo="https://i.imgur.com/HpKQYp3.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Entretenimento",R&E TV
+#EXTGRP:🌎 América Latina • Entretenimento
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioOmegaTV.hn@SD" tvg-name="Radio Omega TV" tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" tvg-language="spa" tvg-country="HN" group-title="🌎 América Latina • Entretenimento",Radio Omega TV
 #EXTGRP:🌎 América Latina • Entretenimento
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
@@ -1614,6 +1629,15 @@ https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="RadioYguazuTV.ar@SD" tvg-name="Radio Yguazu TV" tvg-logo="https://i.imgur.com/kVi0ICm.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Entretenimento",Radio Yguazu TV
 #EXTGRP:🌎 América Latina • Entretenimento
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-name="RCN Mas" tvg-logo="https://i.imgur.com/MJzuRAN.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Entretenimento",RCN Mas
+#EXTGRP:🌎 América Latina • Entretenimento
+http://45.226.205.96:48000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-name="RCN Novelas" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Entretenimento",RCN Novelas
+#EXTGRP:🌎 América Latina • Entretenimento
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RSVHonduras.hn@SD" tvg-name="RSV Honduras" tvg-logo="https://i.imgur.com/yr7Ellh.jpg" tvg-language="spa" tvg-country="HN" group-title="🌎 América Latina • Entretenimento",RSV Honduras
+#EXTGRP:🌎 América Latina • Entretenimento
+https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr@SD" tvg-name="88 Stereo" tvg-logo="https://i.imgur.com/i3YwORV.png" tvg-language="spa" tvg-country="CR" group-title="🌎 América Latina • Música",88 Stereo
 #EXTGRP:🌎 América Latina • Música
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
@@ -1856,9 +1880,33 @@ https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe@SD" tvg-name="Radio Tropical" tvg-logo="https://i.imgur.com/TBPVOBI.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Música",Radio Tropical
 #EXTGRP:🌎 América Latina • Música
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="RadioZona903.cl@SD" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Música",Radio Zona 90.3
+#EXTGRP:🌎 América Latina • Música
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 #EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-name="Radiola TV" tvg-logo="https://i.imgur.com/3AXjotA.jpg" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Música",Radiola TV
 #EXTGRP:🌎 América Latina • Música
 http://158.172.217.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="RanchenatoTV.co@SD" tvg-name="Ranchenato TV" tvg-logo="https://i.imgur.com/TCv5NqN.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Música",Ranchenato TV
+#EXTGRP:🌎 América Latina • Música
+http://181.78.12.119:16123/play/ch15/index.m3u8
+#EXTINF:-1 tvg-id="RetromusicaTelevision.cl@SD" tvg-name="Retromusica Television" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Música",Retromusica Television
+#EXTGRP:🌎 América Latina • Música
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-id="RewindTV.cl@SD" tvg-name="Rewind TV" tvg-logo="https://i.imgur.com/OG0RC2e.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Música",Rewind TV
+#EXTGRP:🌎 América Latina • Música
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Reyali.co@SD" tvg-name="Reyali" tvg-logo="https://i.imgur.com/YmFjnsF.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Música",Reyali
+#EXTGRP:🌎 América Latina • Música
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-id="RitoqueTV.cl@SD" tvg-name="Ritoque TV" tvg-logo="https://i.imgur.com/nTVJcFA.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Música",Ritoque TV
+#EXTGRP:🌎 América Latina • Música
+https://streaming.purum.cl/ritoquetv/index.m3u8
+#EXTINF:-1 tvg-id="RockPop.ar@SD" tvg-name="Rock & Pop" tvg-logo="https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Música",Rock & Pop
+#EXTGRP:🌎 América Latina • Música
+http://190.128.214.97:64333/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-name="Rumba TV" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Música",Rumba TV
+#EXTGRP:🌎 América Latina • Música
+http://186.148.196.100:8000/play/a02h
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-name="13C" tvg-logo="https://i.imgur.com/Zfe2f5j.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Cultura",13C
 #EXTGRP:🌎 América Latina • Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -2129,6 +2177,15 @@ https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioHogar.pa@SD" tvg-name="Radio Hogar" tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" tvg-language="spa" tvg-country="PA" group-title="🌎 América Latina • Cultura",Radio Hogar
 #EXTGRP:🌎 América Latina • Cultura
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
+#EXTINF:-1 tvg-id="RCCTV.py@SD" tvg-name="RCC TV" tvg-logo="https://i.imgur.com/sd9iOIh.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Cultura",RCC TV
+#EXTGRP:🌎 América Latina • Cultura
+https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="ReformaTV.ve@SD" tvg-name="Reforma TV" tvg-logo="https://i.imgur.com/iZMDddR.png" tvg-language="spa" tvg-country="VE" group-title="🌎 América Latina • Cultura",Reforma TV
+#EXTGRP:🌎 América Latina • Cultura
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-name="Rhema TV" tvg-logo="https://i.imgur.com/5o821rT.png" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Cultura",Rhema TV
+#EXTGRP:🌎 América Latina • Cultura
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
 #EXTINF:-1 tvg-id="GuadalupeMedia.bz@SD" tvg-name="Guadalupe Media" tvg-logo="https://i.imgur.com/EfaOwRE.png" tvg-language="eng" tvg-country="BZ" group-title="🌎 América Latina • Cultura",Guadalupe Media
 #EXTGRP:🌎 América Latina • Cultura
 https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
@@ -2190,6 +2247,9 @@ https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ProductivaTV.py@SD" tvg-name="Productiva TV" tvg-logo="https://i.imgur.com/KXHK7UP.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Variedades",Productiva TV
 #EXTGRP:🌎 América Latina • Variedades
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="RedTVShop.bo@SD" tvg-name="Red TV Shop" tvg-logo="https://i.imgur.com/I7yB176.png" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Variedades",Red TV Shop
+#EXTGRP:🌎 América Latina • Variedades
+https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" tvg-name="DeFiance Media" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" tvg-language="eng" tvg-country="PR" group-title="🌎 América Latina • Variedades",DeFiance Media
 #EXTGRP:🌎 América Latina • Variedades
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
@@ -3387,6 +3447,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 #EXTINF:-1 tvg-id="QuinceUCR.cr@SD" tvg-name="Quince UCR" tvg-logo="https://i.imgur.com/U7DUlem.png" tvg-language="spa" tvg-country="CR" group-title="🌎 América Latina • Geral",Quince UCR
 #EXTGRP:🌎 América Latina • Geral
 https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTelevision.do@HD" tvg-name="R Television" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",R Television
+#EXTGRP:🌎 América Latina • Geral
+https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RadioAmericaTV.cl@SD" tvg-name="Radio America TV" tvg-logo="https://i.imgur.com/8DXWU8z.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Radio America TV
 #EXTGRP:🌎 América Latina • Geral
 https://v2.tustreaming.cl/americamovil/index.m3u8
@@ -3459,6 +3522,93 @@ http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8
 #EXTINF:-1 tvg-id="RadioTVOriente.pe@SD" tvg-name="RadioTV Oriente" tvg-logo="https://i.imgur.com/iHaFLHX.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",RadioTV Oriente
 #EXTGRP:🌎 América Latina • Geral
 https://live.obslivestream.com/tvoriente/index.m3u8
+#EXTINF:-1 tvg-id="RCGTV.mx@SD" tvg-name="RCG TV" tvg-logo="https://i.imgur.com/kYtAR26.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Geral",RCG TV
+#EXTGRP:🌎 América Latina • Geral
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-name="RCN HD2" tvg-logo="https://i.imgur.com/SrMPTfc.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",RCN HD2
+#EXTGRP:🌎 América Latina • Geral
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do@SD" tvg-name="Ready TV Canal 6" tvg-logo="https://i.imgur.com/ZONPQhR.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Ready TV Canal 6
+#EXTGRP:🌎 América Latina • Geral
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="RealTelevision.pe@SD" tvg-name="Real Television" tvg-logo="https://i.imgur.com/7KECyh5.jpeg" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",Real Television
+#EXTGRP:🌎 América Latina • Geral
+https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedAmericaTV.bo@SD" tvg-name="Red America TV" tvg-logo="https://i.imgur.com/qYNmeDe.png" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Geral",Red America TV
+#EXTGRP:🌎 América Latina • Geral
+https://edge.enhdtv.com/redamerica/index.m3u8
+#EXTINF:-1 tvg-id="RedInteriorTV.py@SD" tvg-name="Red Interior TV" tvg-logo="https://i.imgur.com/z89GLCw.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Geral",Red Interior TV
+#EXTGRP:🌎 América Latina • Geral
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+#EXTINF:-1 tvg-id="RedRubi.bo@SD" tvg-name="Red Rubi" tvg-logo="https://i.imgur.com/Y4KOypc.jpeg" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Geral",Red Rubi
+#EXTGRP:🌎 América Latina • Geral
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="RedTVEVentanas.ec@SD" tvg-name="Red TVE Ventanas" tvg-logo="https://i.imgur.com/Pzf2ZAW.png" tvg-language="spa" tvg-country="EC" group-title="🌎 América Latina • Geral",Red TVE Ventanas
+#EXTGRP:🌎 América Latina • Geral
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" tvg-name="Red Uno" tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Geral",Red Uno
+#EXTGRP:🌎 América Latina • Geral
+http://190.181.61.93:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="RedADvenirTV.bo@KSCE" tvg-name="RedADvenir TV" tvg-logo="https://i.imgur.com/970zAEn.png" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Geral",RedADvenir TV
+#EXTGRP:🌎 América Latina • Geral
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegionTVCallao.pe@SD" tvg-name="Region TV Callao" tvg-logo="https://i.imgur.com/I4grcqk.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",Region TV Callao
+#EXTGRP:🌎 América Latina • Geral
+https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="RegionalTVYaguaron.py@SD" tvg-name="Regional TV Yaguaron" tvg-logo="https://i.imgur.com/iL5JnSy.jpeg" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Geral",Regional TV Yaguaron
+#EXTGRP:🌎 América Latina • Geral
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+#EXTINF:-1 tvg-id="ReporteroTV.do@HD" tvg-name="Reportero TV" tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Reportero TV
+#EXTGRP:🌎 América Latina • Geral
+https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+#EXTINF:-1 tvg-id="RepublicaTV.py@SD" tvg-name="Republica TV" tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Geral",Republica TV
+#EXTGRP:🌎 América Latina • Geral
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RialTV.cl@SD" tvg-name="Rial TV" tvg-logo="https://i.imgur.com/zcwQyPI.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Rial TV
+#EXTGRP:🌎 América Latina • Geral
+https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-id="RNTelevision.pe@SD" tvg-name="RN Television" tvg-logo="https://i.imgur.com/oFGiW7u.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",RN Television
+#EXTGRP:🌎 América Latina • Geral
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1 tvg-id="RoccoTV.cl@SD" tvg-name="Rocco TV" tvg-logo="https://i.imgur.com/QFzCKRa.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Rocco TV
+#EXTGRP:🌎 América Latina • Geral
+https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do@SD" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/EXnsmhx.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Romana TV Canal 42
+#EXTGRP:🌎 América Latina • Geral
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-id="RTCTelevision.cl@SD" tvg-name="RTC Television" tvg-logo="https://i.imgur.com/w91IBj7.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",RTC Television
+#EXTGRP:🌎 América Latina • Geral
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RTN.ar@SD" tvg-name="RTN" tvg-logo="https://i.imgur.com/8xqYg4C.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",RTN
+#EXTGRP:🌎 América Latina • Geral
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-name="RTP" tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Geral",RTP
+#EXTGRP:🌎 América Latina • Geral
+http://190.181.61.93:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="RTP.pe@SD" tvg-name="RTP" tvg-logo="https://i.imgur.com/nHMqAHn.jpeg" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",RTP
+#EXTGRP:🌎 América Latina • Geral
+https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-name="RTQ Queretaro" tvg-logo="https://i.imgur.com/RRckCvf.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Geral",RTQ Queretaro
+#EXTGRP:🌎 América Latina • Geral
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTRTV.ec@SD" tvg-name="RTRTV" tvg-logo="https://i.imgur.com/dvP2yqB.png" tvg-language="spa" tvg-country="EC" group-title="🌎 América Latina • Geral",RTRTV
+#EXTGRP:🌎 América Latina • Geral
+https://tv3ecuador.site/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="RTS.ec@SD" tvg-name="RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" tvg-language="spa" tvg-country="EC" group-title="🌎 América Latina • Geral",RTS
+#EXTGRP:🌎 América Latina • Geral
+http://45.224.97.181:9999/RTS/index.m3u8
+#EXTINF:-1 tvg-id="RTV.ec@SD" tvg-name="RTV" tvg-logo="https://i.imgur.com/DzxGHRZ.png" tvg-language="spa" tvg-country="EC" group-title="🌎 América Latina • Geral",RTV
+#EXTGRP:🌎 América Latina • Geral
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" tvg-name="RTV Canal 57" tvg-logo="https://i.imgur.com/tnOGWqL.png" tvg-language="spa" tvg-country="SV" group-title="🌎 América Latina • Geral",RTV Canal 57
+#EXTGRP:🌎 América Latina • Geral
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+#EXTINF:-1 tvg-id="RTVNuble.cl@SD" tvg-name="RTV Nuble" tvg-logo="https://i.imgur.com/BDKgDZG.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",RTV Nuble
+#EXTGRP:🌎 América Latina • Geral
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD" tvg-name="Rumbo Minero TV" tvg-logo="https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",Rumbo Minero TV
+#EXTGRP:🌎 América Latina • Geral
+http://45.70.201.81:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Argentina" tvg-name="TNT Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",TNT Latin America
 #EXTGRP:🌎 América Latina • Geral
 http://45.171.64.30:6060/play/a03i/index.m3u8
@@ -3486,6 +3636,9 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="OndaValenciaTV.es@SD" tvg-name="Onda Valencia TV" tvg-logo="https://i.imgur.com/6HxLUQd.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Notícias",Onda Valencia TV
 #EXTGRP:🇪🇸 España • Notícias
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-name="RT en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Notícias",RT en Espanol
+#EXTGRP:🇪🇸 España • Notícias
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-name="3Cat Cameres del temps" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-language="cat" tvg-country="ES" group-title="🇪🇸 España • Notícias",3Cat Cameres del temps
 #EXTGRP:🇪🇸 España • Notícias
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -3496,6 +3649,12 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTGRP:🇪🇸 España • Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Esportes",Real Madrid TV
+#EXTGRP:🇪🇸 España • Esportes
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-name="Real Madrid TV English" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-language="eng" tvg-country="ES" group-title="🇪🇸 España • Esportes",Real Madrid TV English
+#EXTGRP:🇪🇸 España • Esportes
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki" tvg-logo="https://i.imgur.com/b3Ospym.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Cine Friki
 #EXTGRP:🇪🇸 España • Filmes
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
@@ -3532,10 +3691,25 @@ https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Pluto TV Zombies
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Finland" tvg-name="Rakuten TV Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="fin;eng" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Top Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-name="AXN CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="bul" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN CEE
 #EXTGRP:🇪🇸 España • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-name="Rakuten TV Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Action Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Comedy Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Drama Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-name="Rakuten TV Family Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Family Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-name="Ana y los 7" tvg-logo="https://i.imgur.com/X5g6gXS.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Ana y los 7
 #EXTGRP:🇪🇸 España • Séries
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
@@ -3608,6 +3782,9 @@ https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTeen.de@ES" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Infantil",Pluto TV Teen
 #EXTGRP:🇪🇸 España • Infantil
 https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+#EXTINF:-1 tvg-id="Rugrats.de@ES" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Infantil",Rugrats
+#EXTGRP:🇪🇸 España • Infantil
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-id="KinoKazka.es@SD" tvg-name="KinoKazka" tvg-logo="https://i.imgur.com/y6SWpsX.png" tvg-language="ukr" tvg-country="ES" group-title="🇪🇸 España • Infantil",KinoKazka
 #EXTGRP:🇪🇸 España • Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -3657,6 +3834,9 @@ https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ETB2On.es@HD" tvg-name="ETB2 On" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg" tvg-language="eus" tvg-country="ES" group-title="🇪🇸 España • Entretenimento",ETB2 On
 #EXTGRP:🇪🇸 España • Entretenimento
 https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-name="ROTV Valencia" tvg-logo="https://i.imgur.com/0TDnVQ4.png" tvg-language="ron" tvg-country="ES" group-title="🇪🇸 España • Entretenimento",ROTV Valencia
+#EXTGRP:🇪🇸 España • Entretenimento
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es@SD" tvg-name="Activa TV" tvg-logo="https://i.imgur.com/VCUZKiw.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Música",Activa TV
 #EXTGRP:🇪🇸 España • Música
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
@@ -3666,6 +3846,9 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="MusicTVGranada.es@SD" tvg-name="Music TV Granada" tvg-logo="https://i.ibb.co/Swd9NP7n/music-tv-granada.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Música",Music TV Granada
 #EXTGRP:🇪🇸 España • Música
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="RTVVida.es@SD" tvg-name="RTV Vida" tvg-logo="https://i.imgur.com/EqUfEAh.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Música",RTV Vida
+#EXTGRP:🇪🇸 España • Música
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es@SD" tvg-name="POP World TV" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" tvg-language="eng" tvg-country="ES" group-title="🇪🇸 España • Música",POP World TV
 #EXTGRP:🇪🇸 España • Música
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
@@ -3866,6 +4049,16 @@ http://185.81.77.4/BocairentTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioTelevisionMarbella.es@SD" tvg-name="Radio Television Marbella" tvg-logo="https://i.imgur.com/o9Ro8TR.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Geral",Radio Television Marbella
 #EXTGRP:🇪🇸 España • Geral
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+#EXTINF:-1 tvg-id="RiberaTV.es@SD" tvg-name="Ribera TV" tvg-logo="https://i.imgur.com/mPvSubP.png" tvg-language="spa;cat" tvg-country="ES" group-title="🇪🇸 España • Geral",Ribera TV
+#EXTGRP:🇪🇸 España • Geral
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-id="RNEparatodos.es@SD" tvg-name="RNE para todos" tvg-logo="https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Geral",RNE para todos
+#EXTGRP:🇪🇸 España • Geral
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
+#EXTINF:-1 tvg-id="RTVManilva.es@SD" tvg-name="RTV Manilva" tvg-logo="https://i.imgur.com/zKgrnXx.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Geral",RTV Manilva
+#EXTGRP:🇪🇸 España • Geral
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_e2ae1780dc2a11eca660b7b17b7952a5
+https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
 #EXTINF:-1 tvg-id="28kanala.es@SD" tvg-name="28 kanala" tvg-logo="https://i.imgur.com/DyvK28q.png" tvg-language="eus" tvg-country="ES" group-title="🇪🇸 España • Geral",28 kanala
 #EXTGRP:🇪🇸 España • Geral
 https://streaming.28kanala.eus/hls/z.m3u8
@@ -4043,6 +4236,9 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.us@SD" tvg-name="Payvand TV" tvg-logo="https://i.imgur.com/A4gqEmG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Notícias",Payvand TV
 #EXTGRP:🇺🇸 United States • Notícias
 https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Notícias",Reuters TV
+#EXTGRP:🇺🇸 United States • Notícias
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="AmuTV.us@SD" tvg-name="Amu TV" tvg-logo="https://i.imgur.com/KXdvPum.png" tvg-language="prd;pus" tvg-country="US" group-title="🇺🇸 United States • Notícias",Amu TV
 #EXTGRP:🇺🇸 United States • Notícias
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
@@ -4085,6 +4281,9 @@ http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" tvg-name="American Ninja Warrior" tvg-logo="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",American Ninja Warrior
 #EXTGRP:🇺🇸 United States • Esportes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN Sports USA
+#EXTGRP:🇺🇸 United States • Esportes
+https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN SPORTS XTRA
 #EXTGRP:🇺🇸 United States • Esportes
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -4199,6 +4398,15 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-name="Racer Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Racer Network
 #EXTGRP:🇺🇸 United States • Esportes
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+#EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-name="Rally TV" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Rally TV
+#EXTGRP:🇺🇸 United States • Esportes
+https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",REV'N Action
+#EXTGRP:🇺🇸 United States • Esportes
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-name="Right Now TV" tvg-logo="https://i.imgur.com/u8zXUOg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Right Now TV
+#EXTGRP:🇺🇸 United States • Esportes
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AneflixLive.us@HD" tvg-name="Aneflix Live" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Aneflix Live
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-referrer=https://vaughn.live/
@@ -4284,6 +4492,9 @@ https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNuestroCine.us@LatAm" tvg-name="Pluto TV Nuestro Cine" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Nuestro Cine
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-name="Runtime Espanol" tvg-logo="https://i.imgur.com/OMQq19N.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Runtime Espanol
+#EXTGRP:🇺🇸 United States • Filmes
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",00s Replay
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
@@ -4486,6 +4697,12 @@ https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Westerns
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
+#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Rawhide
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
+#EXTINF:-1 tvg-id="Runtime.us@SD" tvg-name="Runtime" tvg-logo="https://i.imgur.com/2USCMvP.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Runtime
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-language="bul" tvg-country="US" group-title="🇺🇸 United States • Filmes",AXN Black
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -4760,6 +4977,9 @@ https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWipeout.us@SD" tvg-name="Pluto TV Wipeout" tvg-logo="https://i.imgur.com/KVTNBFr.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Pluto TV Wipeout
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-name="Rakuten Viki" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Rakuten Viki
+#EXTGRP:🇺🇸 United States • Séries
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Séries",Alerte a Malibu
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
@@ -4942,6 +5162,9 @@ https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-name="Nickelodeon Clasico" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Infantil",Nickelodeon Clasico
 #EXTGRP:🇺🇸 United States • Infantil
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-id="Rugrats.us@LatAm" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Infantil",Rugrats
+#EXTGRP:🇺🇸 United States • Infantil
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us@SD" tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/z3npqO1.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Infantil",3ABN Kids
 #EXTGRP:🇺🇸 United States • Infantil
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
@@ -5083,6 +5306,9 @@ https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeMovies.us@SD" tvg-name="Pluto TV Anime Movies" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png" tvg-language="eng;jap" tvg-country="US" group-title="🇺🇸 United States • Animação",Pluto TV Anime Movies
 #EXTGRP:🇺🇸 United States • Animação
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-name="RetroCrush" tvg-logo="https://i.imgur.com/M40b4YI.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Animação",RetroCrush
+#EXTGRP:🇺🇸 United States • Animação
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.us@West" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",Adult Swim
 #EXTGRP:🇺🇸 United States • Entretenimento
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
@@ -5122,6 +5348,9 @@ http://15.204.246.24:8080/PasionesHD/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAmoryMentiras.us@LatAm" tvg-name="Pluto TV Amor y Mentiras" tvg-logo="https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG_1771861302998.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",Pluto TV Amor y Mentiras
 #EXTGRP:🇺🇸 United States • Entretenimento
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+#EXTINF:-1 tvg-id="RevryLatinX.us@SD" tvg-name="Revry LatinX" tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1676133370_91639_20154.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",Revry LatinX
+#EXTGRP:🇺🇸 United States • Entretenimento
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="30ARidiculousTV.us@SD" tvg-name="30A Ridiculous TV" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",30A Ridiculous TV
 #EXTGRP:🇺🇸 United States • Entretenimento
 https://30a-tv.com/feeds/720p/63.m3u8
@@ -5395,6 +5624,15 @@ https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReality.us@CA" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",Pluto TV Reality
 #EXTGRP:🇺🇸 United States • Entretenimento
 https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
+#EXTINF:-1 tvg-id="Ridiculousness.us@SD" tvg-name="Ridiculousness" tvg-logo="https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",Ridiculousness
+#EXTGRP:🇺🇸 United States • Entretenimento
+https://jmp2.uk/plu-6996296087742204bff43147.m3u8
+#EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-name="RiffTrax" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",RiffTrax
+#EXTGRP:🇺🇸 United States • Entretenimento
+https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
+#EXTINF:-1 tvg-id="Roar.us@KCWX" tvg-name="Roar" tvg-logo="https://iili.io/FxYNwOB.md.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",Roar
+#EXTGRP:🇺🇸 United States • Entretenimento
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria" tvg-name="AXN White" tvg-logo="https://i.imgur.com/47IKxmt.png" tvg-language="bul" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",AXN White
 #EXTGRP:🇺🇸 United States • Entretenimento
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -5486,6 +5724,9 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us@SD" tvg-name="HMI PROMZ NEWS" tvg-logo="https://i.imgur.com/gwPaw3v.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Música",HMI PROMZ NEWS
 #EXTGRP:🇺🇸 United States • Música
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="RJTV.us@SD" tvg-name="RJTV" tvg-logo="https://i.imgur.com/a1zuW2C.png" tvg-language="fas" tvg-country="US" group-title="🇺🇸 United States • Música",RJTV
+#EXTGRP:🇺🇸 United States • Música
+https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/Ugb4AFo.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Cultura",3ABN Latino
 #EXTGRP:🇺🇸 United States • Cultura
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
@@ -5708,6 +5949,9 @@ https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 #EXTINF:-1 tvg-id="RadioTelePuissance.us@SD" tvg-name="Radio Tele Puissance" tvg-logo="https://i.imgur.com/ZLPwJug.png" tvg-language="fra;eng" tvg-country="US" group-title="🇺🇸 United States • Cultura",Radio Tele Puissance
 #EXTGRP:🇺🇸 United States • Cultura
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNChicago.us@SD" tvg-name="RTN Chicago" tvg-logo="https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png" tvg-language="ron;eng" tvg-country="US" group-title="🇺🇸 United States • Cultura",RTN Chicago
+#EXTGRP:🇺🇸 United States • Cultura
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us@SD" tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Cultura",3ABN French
 #EXTGRP:🇺🇸 United States • Cultura
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
@@ -5846,6 +6090,9 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="PBS.us@East" tvg-name="PBS" tvg-logo="https://i.imgur.com/8c8isLj.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Educação",PBS
 #EXTGRP:🇺🇸 United States • Educação
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-id="RedApple21.us@SD" tvg-name="Red Apple 21" tvg-logo="https://i.imgur.com/ICcQUCH.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Educação",Red Apple 21
+#EXTGRP:🇺🇸 United States • Educação
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-name="Payam Javan TV" tvg-logo="https://i.imgur.com/GYfsHh9.png" tvg-language="fas" tvg-country="US" group-title="🇺🇸 United States • Educação",Payam Javan TV
 #EXTGRP:🇺🇸 United States • Educação
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
@@ -6095,6 +6342,18 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us@SD" tvg-name="QVC3" tvg-logo="https://i.imgur.com/edswdOO.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Variedades",QVC3
 #EXTGRP:🇺🇸 United States • Variedades
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-id="RecipeTV.us@SD" tvg-name="Recipe.TV" tvg-logo="https://i.imgur.com/HcL4a8z.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Variedades",Recipe.TV
+#EXTGRP:🇺🇸 United States • Variedades
+https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroTV.us@East" tvg-name="Retro TV" tvg-logo="https://i.imgur.com/iUTL0pm.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Variedades",Retro TV
+#EXTGRP:🇺🇸 United States • Variedades
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
+#EXTINF:-1 tvg-id="Revry.us@Poland" tvg-name="Revry" tvg-logo="https://i.imgur.com/XuTUaq4.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Variedades",Revry
+#EXTGRP:🇺🇸 United States • Variedades
+https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryQueer.us@SD" tvg-name="Revry Queer" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Variedades",Revry Queer
+#EXTGRP:🇺🇸 United States • Variedades
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCTravel.us@Germany" tvg-name="BBC Travel" tvg-logo="https://i.imgur.com/QiuYWs9.png" tvg-language="deu" tvg-country="US" group-title="🇺🇸 United States • Variedades",BBC Travel
 #EXTGRP:🇺🇸 United States • Variedades
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
@@ -6173,6 +6432,9 @@ https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD" tvg-name="Radio y Television Marti" tvg-logo="https://i.imgur.com/J2ZMa4g.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Geral",Radio y Television Marti
 #EXTGRP:🇺🇸 United States • Geral
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-name="RCTV3" tvg-logo="https://i.imgur.com/TvFKG35.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Geral",RCTV3
+#EXTGRP:🇺🇸 United States • Geral
+https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ABC.us@KAAL" tvg-name="ABC" tvg-logo="https://i.imgur.com/pvXZ8DX.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",ABC
 #EXTGRP:🇺🇸 United States • Geral
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
@@ -6573,6 +6835,18 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitChannel.us@SD" tvg-name="Pursuit Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",Pursuit Channel
 #EXTGRP:🇺🇸 United States • Geral
 https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTV.us@SD" tvg-name="RCTV" tvg-logo="https://i.imgur.com/DWwequ0.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",RCTV
+#EXTGRP:🇺🇸 United States • Geral
+https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RealAmericasVoice.us@KPVMLD" tvg-name="Real America's Voice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",Real America's Voice
+#EXTGRP:🇺🇸 United States • Geral
+https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/T9HHmAO.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",Real Wild
+#EXTGRP:🇺🇸 United States • Geral
+https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Revolt.us@SD" tvg-name="Revolt" tvg-logo="https://i.imgur.com/eaYnGpH.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",Revolt
+#EXTGRP:🇺🇸 United States • Geral
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="Armenia1.am@America" tvg-name="Armenia 1" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-language="arm" tvg-country="US" group-title="🇺🇸 United States • Geral",Armenia 1
 #EXTGRP:🇺🇸 United States • Geral
 https://dash2.antik.sk/live/test_armenia/playlist.m3u8
@@ -6612,6 +6886,12 @@ https://parshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PayameAfghanTV.us@SD" tvg-name="Payam-e-Afghan TV" tvg-logo="https://i.imgur.com/t9wYYY9.png" tvg-language="prd;pus" tvg-country="US" group-title="🇺🇸 United States • Geral",Payam-e-Afghan TV
 #EXTGRP:🇺🇸 United States • Geral
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="RTN.us@SD" tvg-name="RTN" tvg-logo="https://i.imgur.com/jjUzuLV.png" tvg-language="rus" tvg-country="US" group-title="🇺🇸 United States • Geral",RTN
+#EXTGRP:🇺🇸 United States • Geral
+http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1 tvg-id="RTViUS.us@SD" tvg-name="RTVi US" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" tvg-language="rus" tvg-country="US" group-title="🇺🇸 United States • Geral",RTVi US
+#EXTGRP:🇺🇸 United States • Geral
+https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" tvg-name="Afghanistan International" tvg-logo="https://i.imgur.com/r8MmFRX.png" tvg-language="pus;ara;eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Notícias",Afghanistan International
 #EXTGRP:🇬🇧 United Kingdom • Notícias
 https://hls.afintl.com/hls/stream.m3u8
@@ -6960,6 +7240,9 @@ https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD" tvg-name="LCI" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-language="fra" group-title="🌐 International • Notícias",LCI
 #EXTGRP:🌐 International • Notícias
 http://149.62.177.107:9999/LCI/index.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-name="RT France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" tvg-language="fra" group-title="🌐 International • Notícias",RT France
+#EXTGRP:🌐 International • Notícias
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" tvg-language="spa" group-title="🌐 International • Esportes",DSports
 #EXTGRP:🌐 International • Esportes
 http://45.186.254.75:8000/play/a0en/index.m3u8
@@ -7182,6 +7465,9 @@ https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-name="MCM Top" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-language="fra" group-title="🌐 International • Música",MCM Top
 #EXTGRP:🌐 International • Música
 http://185.228.163.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-name="BTL TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" tvg-language="eng;urd;pan" group-title="🌐 International • Cultura",BTL TV
+#EXTGRP:🌐 International • Cultura
+https://livecdn.live247stream.com/btl/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk@HD" tvg-name="Master Chefs Academy TV" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" tvg-language="ara;eng" group-title="🌐 International • Educação",Master Chefs Academy TV
 #EXTGRP:🌐 International • Educação
 https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
@@ -7197,6 +7483,10 @@ https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-name="Horse & Country TV" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-language="eng" group-title="🌐 International • Variedades",Horse & Country TV
 #EXTGRP:🌐 International • Variedades
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-name="RTG int." tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-language="eng" group-title="🌐 International • Variedades",RTG int.
+#EXTGRP:🌐 International • Variedades
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1 tvg-id="DMAX.de@SD" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png" tvg-language="deu" group-title="🌐 International • Variedades",DMAX
 #EXTGRP:🌐 International • Variedades
 http://5.180.164.197:8080/DMAX/index.m3u8
@@ -7218,6 +7508,10 @@ https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-name="PBC Tapesh TV" tvg-logo="https://i.imgur.com/50JzsmH.png" tvg-language="fas" group-title="🌐 International • Geral",PBC Tapesh TV
 #EXTGRP:🌐 International • Geral
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiWorldPremium.it@SD" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/tDuKkh3.png" tvg-language="ita" group-title="🌐 International • Geral",Rai World Premium
+#EXTGRP:🌐 International • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-language="spa" tvg-country="CN" group-title="🏳️ Other Countries • Notícias",CGTN Spanish
 #EXTGRP:🏳️ Other Countries • Notícias
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
@@ -7396,6 +7690,15 @@ https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/maste
 #EXTINF:-1 tvg-id="PrudentMedia.in@SD" tvg-name="Prudent Media" tvg-logo="https://i.imgur.com/DG0x4UD.png" tvg-language="gom;eng" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Prudent Media
 #EXTGRP:🏳️ Other Countries • Notícias
 https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 tvg-id="RepublicTV.in@SD" tvg-name="Republic TV" tvg-logo="https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Republic TV
+#EXTGRP:🏳️ Other Countries • Notícias
+https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RT.ru@HD" tvg-name="RT" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" tvg-language="eng" tvg-country="RU" group-title="🏳️ Other Countries • Notícias",RT
+#EXTGRP:🏳️ Other Countries • Notícias
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-id="RTIndia.in@HD" tvg-name="RT India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",RT India
+#EXTGRP:🏳️ Other Countries • Notícias
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="24.sk@SD" tvg-name=":24" tvg-logo="https://i.imgur.com/tTCuczU.png" tvg-language="slk" tvg-country="SK" group-title="🏳️ Other Countries • Notícias",:24
 #EXTGRP:🏳️ Other Countries • Notícias
 http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
@@ -8543,6 +8846,57 @@ https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTiVu.it@HD" tvg-name="Radio Capital TiVu" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Notícias",Radio Capital TiVu
 #EXTGRP:🏳️ Other Countries • Notícias
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/n2u57y3.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Notícias",Rai News 24
+#EXTGRP:🏳️ Other Countries • Notícias
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-id="RajNewsKannada.in@SD" tvg-name="Raj News Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LOGO_HD/image.png" tvg-language="kan" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Raj News Kannada
+#EXTGRP:🏳️ Other Countries • Notícias
+https://cdn.pishow.tv/ott/live/1507/master.m3u8
+#EXTINF:-1 tvg-id="RajNewsMalayalam.in@SD" tvg-name="Raj News Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM/images/LOGO_HD/image.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Raj News Malayalam
+#EXTGRP:🏳️ Other Countries • Notícias
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD" tvg-name="Raj News Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU/images/LOGO_HD/image.png" tvg-language="tel" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Raj News Telugu
+#EXTGRP:🏳️ Other Countries • Notícias
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="RealNewsKerala.in@SD" tvg-name="Real News Kerala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Real News Kerala
+#EXTGRP:🏳️ Other Countries • Notícias
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaTV.md@SD" tvg-name="Realitatea TV" tvg-logo="https://i.imgur.com/Ul4IIfX.png" tvg-language="ron" tvg-country="MD" group-title="🏳️ Other Countries • Notícias",Realitatea TV
+#EXTGRP:🏳️ Other Countries • Notícias
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-name="Red TV Lebanon" tvg-logo="https://i.imgur.com/bWwY885.png" tvg-language="ara" tvg-country="LB" group-title="🏳️ Other Countries • Notícias",Red TV Lebanon
+#EXTGRP:🏳️ Other Countries • Notícias
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Reporter.ua@SD" tvg-name="Reporter" tvg-logo="https://i.imgur.com/LyA3kBR.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Notícias",Reporter
+#EXTGRP:🏳️ Other Countries • Notícias
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 tvg-id="ReporterTV.in@SD" tvg-name="Reporter TV" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Reporter TV
+#EXTGRP:🏳️ Other Countries • Notícias
+https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" tvg-name="Republic Bangla" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA/images/LOGO_HD/image.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Republic Bangla
+#EXTGRP:🏳️ Other Countries • Notícias
+https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-name="Republic Bharat" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Republic Bharat
+#EXTGRP:🏳️ Other Countries • Notícias
+https://streams.tangotv.in/REPUBLICBHARAT/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RepublicKannada.in@SD" tvg-name="Republic Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RSYMDOTKANNADA/images/LOGO_HD/image.png" tvg-language="kan" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Republic Kannada
+#EXTGRP:🏳️ Other Countries • Notícias
+https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+#EXTINF:-1 tvg-id="RozanaSpokesman.in@SD" tvg-name="Rozana Spokesman" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" tvg-language="pan" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Rozana Spokesman
+#EXTGRP:🏳️ Other Countries • Notícias
+https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru@SD" tvg-name="RT Arabic" tvg-logo="https://i.imgur.com/G8vGrn1.png" tvg-language="ara" tvg-country="RU" group-title="🏳️ Other Countries • Notícias",RT Arabic
+#EXTGRP:🏳️ Other Countries • Notícias
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBalkan.ru@SD" tvg-name="RT Balkan" tvg-logo="https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Notícias",RT Balkan
+#EXTGRP:🏳️ Other Countries • Notícias
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de@SD" tvg-name="RT DE" tvg-logo="https://i.imgur.com/v1PIbB2.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Notícias",RT DE
+#EXTGRP:🏳️ Other Countries • Notícias
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-name="Rudaw TV" tvg-logo="https://i.imgur.com/Zo3IWOn.png" tvg-language="kur" tvg-country="IQ" group-title="🏳️ Other Countries • Notícias",Rudaw TV
+#EXTGRP:🏳️ Other Countries • Notícias
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-id="BrondbyTV.se@DK" tvg-name="Brondby TV" tvg-logo="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Brondby TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
@@ -8615,6 +8969,9 @@ https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.se@DK" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Esportes",Pluto TV Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-language="eng" tvg-country="AT" group-title="🏳️ Other Countries • Esportes",Red Bull TV
+#EXTGRP:🏳️ Other Countries • Esportes
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Esportes",A Spor
 #EXTGRP:🏳️ Other Countries • Esportes
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -8885,6 +9242,9 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVSerieA.it@SD" tvg-name="Radio TV Serie A" tvg-logo="https://www.legaseriea.it/assets/radiotv-logo.svg" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Radio TV Serie A
 #EXTGRP:🏳️ Other Countries • Esportes
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Realitatea Sportiva
+#EXTGRP:🏳️ Other Countries • Esportes
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-name="Allo Cine" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" tvg-language="fre;eng" tvg-country="CM" group-title="🏳️ Other Countries • Filmes",Allo Cine
 #EXTGRP:🏳️ Other Countries • Filmes
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
@@ -9559,6 +9919,12 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in@SD" tvg-name="Punjabi Shorts" tvg-logo="https://www.thegtcnetwork.com/punjabi-shorts.jpg" tvg-language="pan" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Punjabi Shorts
 #EXTGRP:🏳️ Other Countries • Filmes
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it@HD" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/0FjxXU9.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Filmes",Rai Movie
+#EXTGRP:🏳️ Other Countries • Filmes
+http://team-tv.co:81/raimovie/index.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Rodnoe Kino
+#EXTGRP:🏳️ Other Countries • Filmes
+http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="2900Happiness.se@DK" tvg-name="2900 Happiness" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",2900 Happiness
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
@@ -9661,6 +10027,9 @@ https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@DK" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Pluto TV True Crime
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Rawhide
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-name="4ever Drama" tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",4ever Drama
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/260/index.m3u8
@@ -9806,6 +10175,9 @@ https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVarldskrigen.se@SE" tvg-name="Pluto TV Varldskrigen" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png" tvg-language="eng;swe" tvg-country="SE" group-title="🏳️ Other Countries • Documentários",Pluto TV Varldskrigen
 #EXTGRP:🏳️ Other Countries • Documentários
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-language="eng" tvg-country="RU" group-title="🏳️ Other Countries • Documentários",RT Documentary
+#EXTGRP:🏳️ Other Countries • Documentários
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-name="365 days TV" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Documentários",365 days TV
 #EXTGRP:🏳️ Other Countries • Documentários
 http://stream.mcquack.net/70/index.m3u8
@@ -9943,6 +10315,9 @@ http://92.114.85.87:8015/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl@SD" tvg-name="Polsat Viasat Nature" tvg-logo="https://i.imgur.com/TUcM0oS.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Documentários",Polsat Viasat Nature
 #EXTGRP:🏳️ Other Countries • Documentários
 http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-name="Reino Infantil" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Infantil",Reino Infantil
+#EXTGRP:🏳️ Other Countries • Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-name="1KZN TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" tvg-language="eng" tvg-country="ZA" group-title="🏳️ Other Countries • Infantil",1KZN TV
 #EXTGRP:🏳️ Other Countries • Infantil
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
@@ -10295,6 +10670,16 @@ https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 #EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-name="Pooya TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Infantil",Pooya TV
 #EXTGRP:🏳️ Other Countries • Infantil
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RadostMoya.ru@SD" tvg-name="Radost Moya" tvg-logo="https://i.imgur.com/B5FA62o.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Infantil",Radost Moya
+#EXTGRP:🏳️ Other Countries • Infantil
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="RiC.de@SD" tvg-name="RiC" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Infantil",RiC
+#EXTGRP:🏳️ Other Countries • Infantil
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="RING.bg@SD" tvg-name="RING" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Infantil",RING
+#EXTGRP:🏳️ Other Countries • Infantil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06e
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-name="Animax Asia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-language="jpn;eng" tvg-country="SG" group-title="🏳️ Other Countries • Animação",Animax Asia
 #EXTGRP:🏳️ Other Countries • Animação
 http://125.227.210.55:3056/VideoInput/play.ts
@@ -10530,9 +10915,27 @@ http://103.180.240.141:8080/hls/main1/playlist.m3u8
 #EXTINF:-1 tvg-id="r8DioTV.se@DK" tvg-name="r8Dio TV" tvg-logo="https://images.pluto.tv/channels/698ddf5a8c21a5f2d64c14a8/colorLogoPNG_1774610552478.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",r8Dio TV
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8
+#EXTINF:-1 tvg-id="Reno911.se@DK" tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Reno 911
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
+#EXTINF:-1 tvg-id="RidiculousnessNyaavsnitt.se@SE" tvg-name="Ridiculousness: Nya avsnitt" tvg-logo="https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png" tvg-language="eng;swe" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Ridiculousness: Nya avsnitt
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
+#EXTINF:-1 tvg-id="RidiculousnessNyeafsnit.se@DK" tvg-name="Ridiculousness: Nye afsnit" tvg-logo="https://images.pluto.tv/channels/68dfa160cc3c6cd90404d798/colorLogoPNG_1762543256959.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Ridiculousness: Nye afsnit
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
+#EXTINF:-1 tvg-id="RidiculousnessNyeepisoder.se@NO" tvg-name="Ridiculousness: Nye episoder" tvg-logo="https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/colorLogoPNG_1762510989212.png" tvg-language="eng;nor" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Ridiculousness: Nye episoder
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
+#EXTINF:-1 tvg-id="RobinsonEkspeditionen.se@DK" tvg-name="Robinson Ekspeditionen" tvg-logo="https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Robinson Ekspeditionen
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 #EXTINF:-1 tvg-id="black.ru@SD" tvg-name=".black" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Entretenimento",.black
 #EXTGRP:🏳️ Other Countries • Entretenimento
 http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 tvg-id="red.ru@HD" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Entretenimento",.red
+#EXTGRP:🏳️ Other Countries • Entretenimento
+http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de@IT" tvg-name="16 Anni e Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png" tvg-language="ita" tvg-country="DE" group-title="🏳️ Other Countries • Entretenimento",16 Anni e Incinta
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
@@ -11159,6 +11562,34 @@ https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl@SD" tvg-name="Radiowa Czworka" tvg-logo="https://i.imgur.com/VAtxF7k.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Entretenimento",Radiowa Czworka
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RajTV.in@SD" tvg-name="Raj TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png" tvg-language="tam" tvg-country="IN" group-title="🏳️ Other Countries • Entretenimento",Raj TV
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8
+#EXTINF:-1 tvg-id="RAZ1.ua@SD" tvg-name="RAZ 1" tvg-logo="https://s2.vcdn.biz/static/f/7607683721/image.jpg/pt/c192x192x4" tvg-language="rus" tvg-country="UA" group-title="🏳️ Other Countries • Entretenimento",RAZ 1
+#EXTGRP:🏳️ Other Countries • Entretenimento
+http://stream.mcquack.net/463/index.m3u8
+#EXTINF:-1 tvg-id="RAZ2.ua@SD" tvg-name="RAZ 2" tvg-logo="https://s7.vcdn.biz/static/f/7607698621/image.jpg/pt/c192x192x4" tvg-language="rus" tvg-country="UA" group-title="🏳️ Other Countries • Entretenimento",RAZ 2
+#EXTGRP:🏳️ Other Countries • Entretenimento
+http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1 tvg-id="RealityChannel.il@SD" tvg-name="Reality Channel" tvg-logo="https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png" tvg-language="heb" tvg-country="IL" group-title="🏳️ Other Countries • Entretenimento",Reality Channel
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+#EXTINF:-1 tvg-id="RemontyTV.pl@HD" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Entretenimento",Remonty TV
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 tvg-id="Ridiculousness.de@FR" tvg-name="Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Entretenimento",Ridiculousness
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-name="RMC Life" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Entretenimento",RMC Life
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-id="RTLOtthon.hu@SD" tvg-name="RTL Otthon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Entretenimento",RTL Otthon
+#EXTGRP:🏳️ Other Countries • Entretenimento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-name="Rupasi Bangla" tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Entretenimento",Rupasi Bangla
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="MuzangalaTV.ao@SD" tvg-name="Muzangala TV" tvg-logo="https://i.imgur.com/fBeaJoS.png" tvg-language="por" tvg-country="AO" group-title="🏳️ Other Countries • Música",Muzangala TV
 #EXTGRP:🏳️ Other Countries • Música
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
@@ -11269,6 +11700,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="RadioFxNet.ro@HD" tvg-name="Radio Fx Net" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" tvg-language="ron;eng" tvg-country="RO" group-title="🏳️ Other Countries • Música",Radio Fx Net
 #EXTGRP:🏳️ Other Countries • Música
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RomanticFM.ro@SD" tvg-name="Romantic FM" tvg-logo="https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png" tvg-language="ron;eng;ita" tvg-country="RO" group-title="🏳️ Other Countries • Música",Romantic FM
+#EXTGRP:🏳️ Other Countries • Música
+https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-name="1HD Music Television" tvg-logo="https://i.imgur.com/4Ww7CsR.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Música",1HD Music Television
 #EXTGRP:🏳️ Other Countries • Música
 http://176.118.197.101/1HD/index.m3u8
@@ -11944,12 +12378,57 @@ https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it@SD" tvg-name="Radio Zeta" tvg-logo="https://i.imgur.com/K2xLMin.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",Radio Zeta
 #EXTGRP:🏳️ Other Countries • Música
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RadioZU.ro@720p" tvg-name="Radio ZU" tvg-logo="https://radiozu.ro/img/logo-zu.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Música",Radio ZU
+#EXTGRP:🏳️ Other Countries • Música
+https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it@SD" tvg-name="Radiofreccia" tvg-logo="https://i.imgur.com/RxeRlar.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",Radiofreccia
 #EXTGRP:🏳️ Other Countries • Música
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RadioNLTV.nl@SD" tvg-name="RadioNL TV" tvg-logo="https://i.imgur.com/TVaMJYB.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Música",RadioNL TV
 #EXTGRP:🏳️ Other Countries • Música
 https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+#EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD" tvg-name="Raj Musix Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Música",Raj Musix Malayalam
+#EXTGRP:🏳️ Other Countries • Música
+https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" tvg-name="Raj Musix Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LOGO_HD/image.png" tvg-language="tel" tvg-country="IN" group-title="🏳️ Other Countries • Música",Raj Musix Telugu
+#EXTGRP:🏳️ Other Countries • Música
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD" tvg-name="Retro Music TV" tvg-logo="https://i.imgur.com/pyOjdZs.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Música",Retro Music TV
+#EXTGRP:🏳️ Other Countries • Música
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="RHTGuadeloupe.gp@SD" tvg-name="RHT Guadeloupe" tvg-logo="https://i.imgur.com/hQ0Q6nE.png" tvg-language="fra" tvg-country="GP" group-title="🏳️ Other Countries • Música",RHT Guadeloupe
+#EXTGRP:🏳️ Other Countries • Música
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-id="RockTV.mk@SD" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-language="mkd" tvg-country="MK" group-title="🏳️ Other Countries • Música",Rock TV
+#EXTGRP:🏳️ Other Countries • Música
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-name="Rock TV" tvg-logo="https://i.imgur.com/VB88A5V.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Música",Rock TV
+#EXTGRP:🏳️ Other Countries • Música
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RTL1025Best.it@SD" tvg-name="RTL 102.5 Best" tvg-logo="https://i.imgur.com/9PNlbaq.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",RTL 102.5 Best
+#EXTGRP:🏳️ Other Countries • Música
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025BroSis.it@SD" tvg-name="RTL 102.5 Bro&Sis" tvg-logo="https://i.imgur.com/EWbK4XZ.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",RTL 102.5 Bro&Sis
+#EXTGRP:🏳️ Other Countries • Música
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Caliente.it@SD" tvg-name="RTL 102.5 Caliente" tvg-logo="https://i.imgur.com/P0zsi6I.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",RTL 102.5 Caliente
+#EXTGRP:🏳️ Other Countries • Música
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Disco.it@SD" tvg-name="RTL 102.5 Disco" tvg-logo="https://i.imgur.com/JA1OPrz.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",RTL 102.5 Disco
+#EXTGRP:🏳️ Other Countries • Música
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Napule.it@SD" tvg-name="RTL 102.5 Napule" tvg-logo="https://i.imgur.com/HFPw1YW.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",RTL 102.5 Napule
+#EXTGRP:🏳️ Other Countries • Música
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Traffic.it@SD" tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.imgur.com/EBftMcB.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",RTL 102.5 Traffic
+#EXTGRP:🏳️ Other Countries • Música
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025TV.it@SD" tvg-name="RTL 102.5 TV" tvg-logo="https://i.imgur.com/75qUdR7.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Música",RTL 102.5 TV
+#EXTGRP:🏳️ Other Countries • Música
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu@SD" tvg-name="RTL Gold" tvg-logo="https://i.imgur.com/LzHQoUv.png" tvg-language="ltz" tvg-country="LU" group-title="🏳️ Other Countries • Música",RTL Gold
+#EXTGRP:🏳️ Other Countries • Música
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 tvg-id="KKTV.ao@SD" tvg-name="KK TV" tvg-logo="https://i.imgur.com/jWOB0oU.png" tvg-language="por" tvg-country="AO" group-title="🏳️ Other Countries • Cultura",KK TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
@@ -11969,9 +12448,6 @@ https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
 #EXTGRP:🏳️ Other Countries • Cultura
 #EXTVLCOPT:http-referrer=https://live.approvaltv.com/
 https://live.approvaltv.com/approvaltv/index.m3u8
-#EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-name="BTL TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" tvg-language="eng;urd;pan" tvg-country="NL" group-title="🏳️ Other Countries • Cultura",BTL TV
-#EXTGRP:🏳️ Other Countries • Cultura
-https://livecdn.live247stream.com/btl/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CapuchinTV.ke@SD" tvg-name="Capuchin TV" tvg-logo="https://i.imgur.com/VCDSjX7.png" tvg-language="eng" tvg-country="KE" group-title="🏳️ Other Countries • Cultura",Capuchin TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
@@ -12837,6 +13313,21 @@ https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleFullGospel.ht@SD" tvg-name="Radio Tele Full Gospel" tvg-logo="https://i.imgur.com/WbwIp9y.jpeg" tvg-language="fra;hat" tvg-country="HT" group-title="🏳️ Other Countries • Cultura",Radio Tele Full Gospel
 #EXTGRP:🏳️ Other Countries • Cultura
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+#EXTINF:-1 tvg-id="RasoulallahTv.ir@HD" tvg-name="RasoulallahTv" tvg-logo="https://i.imgur.com/Jh5ADee.png" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Cultura",RasoulallahTv
+#EXTGRP:🏳️ Other Countries • Cultura
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTJVA.tg@SD" tvg-name="RT JVA" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" tvg-language="fra" tvg-country="TG" group-title="🏳️ Other Countries • Cultura",RT JVA
+#EXTGRP:🏳️ Other Countries • Cultura
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 tvg-id="RTB3.bf@SD" tvg-name="RTB 3" tvg-logo="https://i.imgur.com/OFZm8ic.png" tvg-language="mos;dyu;ful;gux;dgi;bib;lob;box;lee;bbo;stj;sym;sbd;rkm" tvg-country="BF" group-title="🏳️ Other Countries • Cultura",RTB 3
+#EXTGRP:🏳️ Other Countries • Cultura
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-id="RTVPendimi.ch@SD" tvg-name="RTV Pendimi" tvg-logo="https://i.ibb.co/tD48GMD/RTV-Pendimi.png" tvg-language="sqi" tvg-country="CH" group-title="🏳️ Other Countries • Cultura",RTV Pendimi
+#EXTGRP:🏳️ Other Countries • Cultura
+https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+#EXTINF:-1 tvg-id="RTVC.ci@SD" tvg-name="RTVC" tvg-logo="https://i.imgur.com/oXuSkHz.png" tvg-language="fra" tvg-country="CI" group-title="🏳️ Other Countries • Cultura",RTVC
+#EXTGRP:🏳️ Other Countries • Cultura
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-name="Discovery Science" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" tvg-language="eng;hin" tvg-country="IN" group-title="🏳️ Other Countries • Educação",Discovery Science
 #EXTGRP:🏳️ Other Countries • Educação
 https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
@@ -12985,6 +13476,12 @@ http://88.212.7.14/live/ozone/index.m3u8
 #EXTINF:-1 tvg-id="PersianaMedical.fr@SD" tvg-name="Persiana Medical" tvg-language="fas" tvg-country="FR" group-title="🏳️ Other Countries • Educação",Persiana Medical
 #EXTGRP:🏳️ Other Countries • Educação
 https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RChannel.th@SD" tvg-name="R Channel" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/R%20Channel.png" tvg-language="tha" tvg-country="TH" group-title="🏳️ Other Countries • Educação",R Channel
+#EXTGRP:🏳️ Other Countries • Educação
+http://180.180.243.239/streams/3/hls
+#EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-name="Rinjani TV" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Educação",Rinjani TV
+#EXTGRP:🏳️ Other Countries • Educação
+https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-name="MNTV" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Variedades",MNTV
 #EXTGRP:🏳️ Other Countries • Variedades
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
@@ -13439,6 +13936,18 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="QVC.jp@SD" tvg-name="QVC" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-language="jpn" tvg-country="JP" group-title="🏳️ Other Countries • Variedades",QVC
 #EXTGRP:🏳️ Other Countries • Variedades
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" tvg-name="RBK-TV" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",RBK-TV
+#EXTGRP:🏳️ Other Countries • Variedades
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Retro
+#EXTGRP:🏳️ Other Countries • Variedades
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru@HD" tvg-name="RTG TV" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",RTG TV
+#EXTGRP:🏳️ Other Countries • Variedades
+http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1 tvg-id="RASDTV.eh@SD" tvg-name="RASD TV" tvg-logo="https://i.imgur.com/9Pb8806.png" tvg-language="ara;spa" tvg-country="EH" group-title="🏳️ Other Countries • Geral",RASD TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
 #EXTINF:-1 tvg-id="111TV.it@SD" tvg-name="111 TV" tvg-logo="https://i.imgur.com/kVREx1Q.png" tvg-language="ita;eng" tvg-country="IT" group-title="🏳️ Other Countries • Geral",111 TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -13645,6 +14154,25 @@ https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua@SD" tvg-name="Rada TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" tvg-language="rus;eng;ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",Rada TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it@Australia" tvg-name="Rai Italia" tvg-logo="https://i.imgur.com/1nN4rEP.png" tvg-language="eng" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai Italia
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+#EXTINF:-1 tvg-id="RapidTV.ng@SD" tvg-name="Rapid TV" tvg-logo="https://i.imgur.com/FkMNcj1.jpeg" tvg-language="eng" tvg-country="NG" group-title="🏳️ Other Countries • Geral",Rapid TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
+#EXTINF:-1 tvg-id="RaveTV.ng@SD" tvg-name="Rave TV" tvg-logo="https://i.imgur.com/pXKQE0G.png" tvg-language="eng" tvg-country="NG" group-title="🏳️ Other Countries • Geral",Rave TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ResurrectionTV.gh@SD" tvg-name="Resurrection TV" tvg-logo="https://i.imgur.com/IncyJW8.png" tvg-language="eng" tvg-country="GH" group-title="🏳️ Other Countries • Geral",Resurrection TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
+#EXTINF:-1 tvg-id="ROVTV.za@SD" tvg-name="ROV TV" tvg-logo="https://i.imgur.com/sbeuEYY.png" tvg-language="eng" tvg-country="ZA" group-title="🏳️ Other Countries • Geral",ROV TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNBTV.bi@SD" tvg-name="RTNB TV" tvg-logo="https://i.imgur.com/xfR5P9F.png" tvg-language="run;fra;swa;eng" tvg-country="BI" group-title="🏳️ Other Countries • Geral",RTNB TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://tv1-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="1Plus1International.ua@HD" tvg-name="1+1 International" tvg-logo="https://i.imgur.com/LOY0rtp.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",1+1 International
 #EXTGRP:🏳️ Other Countries • Geral
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
@@ -13871,9 +14399,9 @@ http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.hu@SD" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Animal_Planet_2018_II.svg/revision/latest?cb=20191206182106" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Geral",Animal Planet
 #EXTGRP:🏳️ Other Countries • Geral
 http://88.212.7.14/live/animal_hun/index.m3u8
-#EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-name="Antena 1" tvg-logo="https://i.imgur.com/EPmwuuv.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Antena 1
+#EXTINF:-1 tvg-id="Antena1.ro@HD" tvg-name="Antena 1" tvg-logo="https://i.imgur.com/EPmwuuv.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Antena 1
 #EXTGRP:🏳️ Other Countries • Geral
-https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 #EXTINF:-1 tvg-id="AntenaInternational.ro@SD" tvg-name="Antena International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Antena International
 #EXTGRP:🏳️ Other Countries • Geral
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
@@ -15531,6 +16059,10 @@ https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index
 #EXTINF:-1 tvg-id="NikaTV.ru@SD" tvg-name="Nika TV" tvg-logo="https://i.imgur.com/dccsFAu.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Nika TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp@JOAXDTV" tvg-name="Nippon TV" tvg-logo="https://i.imgur.com/IxD8V5X.png" tvg-language="jpn" tvg-country="JP" group-title="🏳️ Other Countries • Geral",Nippon TV
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-referrer=https://mov3.co/
+https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru@SD" tvg-name="Nizhniy Novgorod 24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Nizhniy Novgorod 24
 #EXTGRP:🏳️ Other Countries • Geral
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
@@ -16017,6 +16549,12 @@ https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playli
 #EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-name="Qub TV" tvg-logo="https://i.imgur.com/GvyF2Wh.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Qub TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
+#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-name="R Plus" tvg-logo="https://i.imgur.com/XUnWcZF.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Geral",R Plus
+#EXTGRP:🏳️ Other Countries • Geral
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id="RPlusGold.in@SD" tvg-name="R Plus Gold" tvg-logo="https://i.imgur.com/dpI7XPC.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Geral",R Plus Gold
+#EXTGRP:🏳️ Other Countries • Geral
+https://cdn.pishow.tv/ott/live/1231/master.m3u8
 #EXTINF:-1 tvg-id="R9.at@SD" tvg-name="R9" tvg-logo="https://i.imgur.com/SVJiXxh.png" tvg-language="deu" tvg-country="AT" group-title="🏳️ Other Countries • Geral",R9
 #EXTGRP:🏳️ Other Countries • Geral
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
@@ -16101,3 +16639,358 @@ https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo@SD" tvg-name="Radio Yaqeen Jordan City View" tvg-logo="https://i.imgur.com/wHOQU0R.png" tvg-language="ara" tvg-country="JO" group-title="🏳️ Other Countries • Geral",Radio Yaqeen Jordan City View
 #EXTGRP:🏳️ Other Countries • Geral
 http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-name="Raftaar Media" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Geral",Raftaar Media
+#EXTGRP:🏳️ Other Countries • Geral
+https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it@SD" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai 1
+#EXTGRP:🏳️ Other Countries • Geral
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai2.it@SD" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai 2
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@BISFJK" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" tvg-language="slv;ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai 3
+#EXTGRP:🏳️ Other Countries • Geral
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="Rai4.it@HD" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/sEY21rg.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai 4
+#EXTGRP:🏳️ Other Countries • Geral
+http://team-tv.co:81/rai4/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD" tvg-name="Rai 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai 5
+#EXTGRP:🏳️ Other Countries • Geral
+http://team-tv.co:81/rai5/index.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it@SD" tvg-name="Rai Gulp" tvg-logo="https://i.imgur.com/irAhPJM.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai Gulp
+#EXTGRP:🏳️ Other Countries • Geral
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 tvg-id="RaiStoria.it@SD" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai Storia
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-id="RaiSudtirol.it@SD" tvg-name="Rai Sudtirol" tvg-logo="https://i.imgur.com/Z3npd4M.png" tvg-language="deu" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rai Sudtirol
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+#EXTINF:-1 tvg-id="RajdhaniTV.bd@SD" tvg-name="Rajdhani TV" tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" tvg-language="ben" tvg-country="BD" group-title="🏳️ Other Countries • Geral",Rajdhani TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-id="RajeenTV.ps@SD" tvg-name="Rajeen TV" tvg-logo="https://i.imgur.com/6Cx22ya.png" tvg-language="ara" tvg-country="PS" group-title="🏳️ Other Countries • Geral",Rajeen TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RamaChannel.th@SD" tvg-name="Rama Channel" tvg-logo="https://i.imgur.com/pnbzE2V.png" tvg-language="tha" tvg-country="TH" group-title="🏳️ Other Countries • Geral",Rama Channel
+#EXTGRP:🏳️ Other Countries • Geral
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 tvg-id="RAN1.de@SD" tvg-name="RAN1" tvg-logo="https://i.imgur.com/zRg2BEa.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",RAN1
+#EXTGRP:🏳️ Other Countries • Geral
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="Rang.in@SD" tvg-name="Rang" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RANG/images/LOGO_HD/image.png" tvg-language="asm" tvg-country="IN" group-title="🏳️ Other Countries • Geral",Rang
+#EXTGRP:🏳️ Other Countries • Geral
+https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro@SD" tvg-name="Rapsodia TV" tvg-logo="https://i.imgur.com/mwMG7BB.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Rapsodia TV
+#EXTGRP:🏳️ Other Countries • Geral
+http://hls02ns.antenaplay.ro/hls/rapsoida-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="RAZ3.ua@SD" tvg-name="RAZ 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Raz_3_%282026%29.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",RAZ 3
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
+#EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-name="RAZ 3 International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Raz_3_%282026%29.png" tvg-language="rus;ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",RAZ 3 International
+#EXTGRP:🏳️ Other Countries • Geral
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RazaviTV.ir@SD" tvg-name="Razavi TV" tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Geral",Razavi TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Berlin" tvg-name="rbb Fernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",rbb Fernsehen
+#EXTGRP:🏳️ Other Countries • Geral
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de@SD" tvg-name="RBW" tvg-logo="https://i.imgur.com/A0UKdix.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",RBW
+#EXTGRP:🏳️ Other Countries • Geral
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTV.id@SD" tvg-name="RCTV" tvg-logo="https://i.imgur.com/CyIlt0y.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Geral",RCTV
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RDSSocialTV.it@SD" tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/bxGvE8C.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",RDS Social TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="ReTV.lv@SD" tvg-name="Re TV" tvg-logo="https://i.imgur.com/Z3cre5Xm.png" tvg-language="lav" tvg-country="LV" group-title="🏳️ Other Countries • Geral",Re TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RealTime.it@SD" tvg-name="Real Time" tvg-logo="https://i.imgur.com/SPlk2Gx.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Real Time
+#EXTGRP:🏳️ Other Countries • Geral
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="RealitateaPlus.ro@SD" tvg-name="Realitatea Plus" tvg-logo="https://i.imgur.com/kqEPVPk.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Realitatea Plus
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-name="Realitatea Star" tvg-logo="https://i.imgur.com/bNdpyAZ.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Realitatea Star
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="RedCarpetTVInternational.pl@SD" tvg-name="Red Carpet TV International" tvg-logo="https://i.imgur.com/xf7UXCA.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Geral",Red Carpet TV International
+#EXTGRP:🏳️ Other Countries • Geral
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:-1 tvg-id="RedLine.ru@SD" tvg-name="Red Line" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Red Line
+#EXTGRP:🏳️ Other Countries • Geral
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="RefletTV.ci@SD" tvg-name="Reflet TV" tvg-logo="https://i.imgur.com/EauXR22.png" tvg-language="fra" tvg-country="CI" group-title="🏳️ Other Countries • Geral",Reflet TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="ReggioTV.it@SD" tvg-name="ReggioTV" tvg-logo="https://i.imgur.com/cEwJkRV.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",ReggioTV
+#EXTGRP:🏳️ Other Countries • Geral
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-name="Regio TV" tvg-logo="https://i.imgur.com/WlF6tlZ.png" tvg-language="hun" tvg-country="SK" group-title="🏳️ Other Countries • Geral",Regio TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de@SD" tvg-name="Regio TV Bodensee" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",Regio TV Bodensee
+#EXTGRP:🏳️ Other Countries • Geral
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD" tvg-name="Regio TV Stuttgart" tvg-logo="https://i.imgur.com/3koyLef.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",Regio TV Stuttgart
+#EXTGRP:🏳️ Other Countries • Geral
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-name="Regio90 TV" tvg-logo="https://i.imgur.com/UGnm1jd.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",Regio90 TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ReloadPlay.gr@SD" tvg-name="Reload Play" tvg-logo="https://i.imgur.com/TZUsA2W.jpg" tvg-language="ell" tvg-country="GR" group-title="🏳️ Other Countries • Geral",Reload Play
+#EXTGRP:🏳️ Other Countries • Geral
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-name="REN TV" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",REN TV
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-name="REN TV International" tvg-logo="https://i.imgur.com/gBjk9oF.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",REN TV International
+#EXTGRP:🏳️ Other Countries • Geral
+http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1 tvg-id="RenessansTV.uz@SD" tvg-name="Renessans TV" tvg-logo="https://i.imgur.com/cVlcqCX.png" tvg-language="uzb" tvg-country="UZ" group-title="🏳️ Other Countries • Geral",Renessans TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-name="Rengoni" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" tvg-language="asm" tvg-country="IN" group-title="🏳️ Other Countries • Geral",Rengoni
+#EXTGRP:🏳️ Other Countries • Geral
+https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Rete55.it@SD" tvg-name="Rete 55" tvg-logo="https://i.imgur.com/UtS9YLc.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rete 55
+#EXTGRP:🏳️ Other Countries • Geral
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 tvg-id="Rete8.it@SD" tvg-name="Rete 8" tvg-logo="https://i.imgur.com/jojCxg3.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rete 8
+#EXTGRP:🏳️ Other Countries • Geral
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 tvg-id="ReteBiellaTV.it@SD" tvg-name="Rete Biella TV" tvg-logo="https://i.imgur.com/I4OVxIb.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rete Biella TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 tvg-id="ReteOro.it@SD" tvg-name="Rete Oro" tvg-logo="https://i.imgur.com/3oYiBSz.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rete Oro
+#EXTGRP:🏳️ Other Countries • Geral
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 tvg-id="ReteTVItalia.it@SD" tvg-name="Rete TV Italia" tvg-logo="https://i.imgur.com/BR7QfUF.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Rete TV Italia
+#EXTGRP:🏳️ Other Countries • Geral
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de@SD" tvg-name="RFH" tvg-logo="https://i.imgur.com/8DZa7in.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",RFH
+#EXTGRP:🏳️ Other Countries • Geral
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RiauTV.id@SD" tvg-name="Riau TV" tvg-logo="https://i.imgur.com/1g8FtJi.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Geral",Riau TV
+#EXTGRP:🏳️ Other Countries • Geral
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RiCtoday.de@HD" tvg-name="RiC.today" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",RiC.today
+#EXTGRP:🏳️ Other Countries • Geral
+http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Riigikogu.ee@SD" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/dJRGDt2.png" tvg-language="est" tvg-country="EE" group-title="🏳️ Other Countries • Geral",Riigikogu
+#EXTGRP:🏳️ Other Countries • Geral
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
+#EXTINF:-1 tvg-id="RIKSat.cy@SD" tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/BIKwFhD.png" tvg-language="ell" tvg-country="CY" group-title="🏳️ Other Countries • Geral",RIK Sat
+#EXTGRP:🏳️ Other Countries • Geral
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-name="Rika TV" tvg-logo="https://i.imgur.com/KJHWZ3B.png" tvg-language="kaz;rus" tvg-country="KZ" group-title="🏳️ Other Countries • Geral",Rika TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Rivne1.ua@SD" tvg-name="Rivne 1" tvg-logo="https://i.imgur.com/ytz7jYV.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",Rivne 1
+#EXTGRP:🏳️ Other Countries • Geral
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-name="RMC Decouverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Geral",RMC Decouverte
+#EXTGRP:🏳️ Other Countries • Geral
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-name="RMC Story" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Geral",RMC Story
+#EXTGRP:🏳️ Other Countries • Geral
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-name="RMTV" tvg-logo="https://rmtv.bg/img/logo.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Geral",RMTV
+#EXTGRP:🏳️ Other Countries • Geral
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-id="RN7.nl@SD" tvg-name="RN7" tvg-logo="https://i.imgur.com/dYBTrLc.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RN7
+#EXTGRP:🏳️ Other Countries • Geral
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de@SD" tvg-name="Rock Antenne" tvg-logo="https://i.imgur.com/nvFXRjH.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",Rock Antenne
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="RojavaTV.sy@SD" tvg-name="Rojava TV" tvg-logo="https://i.imgur.com/42noysO.png" tvg-language="ara;kur" tvg-country="SY" group-title="🏳️ Other Countries • Geral",Rojava TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-id="RomanceTV.pl@SD" tvg-name="Romance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Geral",Romance TV
+#EXTGRP:🏳️ Other Countries • Geral
+http://92.114.85.87:8009/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro@SD" tvg-name="Romania TV" tvg-logo="https://i.imgur.com/ZIfEp5I.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Romania TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="RomanticaTV.it@SD" tvg-name="Romantica TV" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Romantica%20TV.jpeg" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",Romantica TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="RonahiTV.sy@SD" tvg-name="Ronahi TV" tvg-logo="https://i.imgur.com/JSvJpD8.png" tvg-language="ara;kur" tvg-country="SY" group-title="🏳️ Other Countries • Geral",Ronahi TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-name="Rongeen TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Geral",Rongeen TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-name="Rossiya 1 Vainah" tvg-logo="https://i.imgur.com/GnbNG0r.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Rossiya 1 Vainah
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-referrer=https://gtrkvainah.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
+https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" tvg-name="Rotana Radio Jordan Studio" tvg-logo="https://i.imgur.com/xGDjlp5.png" tvg-language="ara" tvg-country="JO" group-title="🏳️ Other Countries • Geral",Rotana Radio Jordan Studio
+#EXTGRP:🏳️ Other Countries • Geral
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" tvg-name="Rotana Tarab Jordan City View" tvg-logo="https://i.imgur.com/NjgOBts.png" tvg-language="ara" tvg-country="JO" group-title="🏳️ Other Countries • Geral",Rotana Tarab Jordan City View
+#EXTGRP:🏳️ Other Countries • Geral
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.ir@SD" tvg-name="Roya TV" tvg-logo="https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Geral",Roya TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.jo@SD" tvg-name="Roya TV" tvg-logo="https://i.imgur.com/WX80rty.png" tvg-language="ara" tvg-country="JO" group-title="🏳️ Other Countries • Geral",Roya TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Royalworld.pl@FAST" tvg-name="Royalworld" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Geral",Royalworld
+#EXTGRP:🏳️ Other Countries • Geral
+https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+#EXTINF:-1 tvg-id="RPLWoerden.nl@SD" tvg-name="RPL Woerden" tvg-logo="https://i.imgur.com/UdYMXWQ.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RPL Woerden
+#EXTGRP:🏳️ Other Countries • Geral
+https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+#EXTINF:-1 tvg-id="RTA.af@SD" tvg-name="RTA" tvg-logo="https://i.imgur.com/pJU2KPh.png" tvg-language="prd" tvg-country="AF" group-title="🏳️ Other Countries • Geral",RTA
+#EXTGRP:🏳️ Other Countries • Geral
+https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8
+#EXTINF:-1 tvg-id="RTAEducation.af@SD" tvg-name="RTA Education" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png" tvg-language="pus" tvg-country="AF" group-title="🏳️ Other Countries • Geral",RTA Education
+#EXTGRP:🏳️ Other Countries • Geral
+https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8
+#EXTINF:-1 tvg-id="RTB.bf@SD" tvg-name="RTB" tvg-logo="https://i.imgur.com/BFfLV0y.png" tvg-language="fra" tvg-country="BF" group-title="🏳️ Other Countries • Geral",RTB
+#EXTGRP:🏳️ Other Countries • Geral
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-id="RTCTelecalabria.it@SD" tvg-name="RTC Telecalabria" tvg-logo="https://i.imgur.com/NnFopuS.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",RTC Telecalabria
+#EXTGRP:🏳️ Other Countries • Geral
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk@SD" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" tvg-language="sqi" tvg-country="XK" group-title="🏳️ Other Countries • Geral",RTK 3
+#EXTGRP:🏳️ Other Countries • Geral
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTL.de@SD" tvg-name="RTL" tvg-logo="https://i.imgur.com/94K94k2.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",RTL
+#EXTGRP:🏳️ Other Countries • Geral
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.hu@SD" tvg-name="RTL" tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Geral",RTL
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.hu@SD" tvg-name="RTL Gold" tvg-logo="https://i.imgur.com/PwbLDUQ.png" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Geral",RTL Gold
+#EXTGRP:🏳️ Other Countries • Geral
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLHarom.hu@SD" tvg-name="RTL Harom" tvg-logo="https://i.imgur.com/c4Hhhzs.png" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Geral",RTL Harom
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKetto.hu@SD" tvg-name="RTL Ketto" tvg-logo="https://i.imgur.com/IVv0qrI.png" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Geral",RTL Ketto
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" tvg-name="RTL Super" tvg-logo="https://i.imgur.com/KbdK8t9.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",RTL Super
+#EXTGRP:🏳️ Other Countries • Geral
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu@SD" tvg-name="RTL Tele Letzebuerg" tvg-logo="https://i.imgur.com/fkW5Gbl.png" tvg-language="ltz" tvg-country="LU" group-title="🏳️ Other Countries • Geral",RTL Tele Letzebuerg
+#EXTGRP:🏳️ Other Countries • Geral
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD" tvg-name="RTL Web Radio TV" tvg-logo="https://i.imgur.com/qyc8LsE.png" tvg-language="ltz" tvg-country="LU" group-title="🏳️ Other Countries • Geral",RTL Web Radio TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu@SD" tvg-name="RTL Zwee" tvg-logo="https://i.imgur.com/7SmCtyy.png" tvg-language="ltz;fra;deu" tvg-country="LU" group-title="🏳️ Other Countries • Geral",RTL Zwee
+#EXTGRP:🏳️ Other Countries • Geral
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-name="RTL Zwei" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",RTL Zwei
+#EXTGRP:🏳️ Other Countries • Geral
+https://s6.hopslan.com/rtl2q/index.m3u8
+#EXTINF:-1 tvg-id="RTMTV.it@SD" tvg-name="RTM TV" tvg-logo="https://i.imgur.com/w9Twxsi.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",RTM TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP.it@SD" tvg-name="RTP" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",RTP
+#EXTGRP:🏳️ Other Countries • Geral
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" tvg-name="RTR-Planeta" tvg-logo="https://i.imgur.com/0YEahxs.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",RTR-Planeta
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-language="srp" tvg-country="RS" group-title="🏳️ Other Countries • Geral",RTS 2
+#EXTGRP:🏳️ Other Countries • Geral
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTTRTrento.it@SD" tvg-name="RTTR Trento" tvg-logo="https://i.imgur.com/6DyzN8M.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",RTTR Trento
+#EXTGRP:🏳️ Other Countries • Geral
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.at@SD" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/RTV_OOE_Logo.png" tvg-language="deu" tvg-country="AT" group-title="🏳️ Other Countries • Geral",RTV
+#EXTGRP:🏳️ Other Countries • Geral
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="RTV.bd@SD" tvg-name="RTV" tvg-logo="https://i.imgur.com/yu8ugqt.png" tvg-language="ben" tvg-country="BD" group-title="🏳️ Other Countries • Geral",RTV
+#EXTGRP:🏳️ Other Countries • Geral
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1 tvg-id="RTV1.nl@SD" tvg-name="RTV 1" tvg-logo="https://i.imgur.com/lRCsPWT.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV 1
+#EXTGRP:🏳️ Other Countries • Geral
+https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+#EXTINF:-1 tvg-id="RTVDrenthe.nl@SD" tvg-name="RTV Drenthe" tvg-logo="https://i.imgur.com/UBQCjnG.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Drenthe
+#EXTGRP:🏳️ Other Countries • Geral
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-name="RTV HB" tvg-logo="https://i.imgur.com/6FNL8Iv.png" tvg-language="hrv" tvg-country="BA" group-title="🏳️ Other Countries • Geral",RTV HB
+#EXTGRP:🏳️ Other Countries • Geral
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVHorizon.nl@SD" tvg-name="RTV Horizon" tvg-logo="https://i.imgur.com/wnRsI8B.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Horizon
+#EXTGRP:🏳️ Other Countries • Geral
+https://tv.rtvhorizon.nl/hls/horizon/1_2/index.m3u8
+#EXTINF:-1 tvg-id="RTVLOVE.nl@SD" tvg-name="RTV LOVE" tvg-logo="https://i.imgur.com/hucwX6v.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV LOVE
+#EXTGRP:🏳️ Other Countries • Geral
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+#EXTINF:-1 tvg-id="RTVMaastricht.nl@SD" tvg-name="RTV Maastricht" tvg-logo="https://i.imgur.com/nYl8H2e.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Maastricht
+#EXTGRP:🏳️ Other Countries • Geral
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVMeppel.nl@SD" tvg-name="RTV Meppel" tvg-logo="https://i.imgur.com/RosyQkb.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Meppel
+#EXTGRP:🏳️ Other Countries • Geral
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" tvg-name="RTV Novi Pazar" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-language="srp" tvg-country="RS" group-title="🏳️ Other Countries • Geral",RTV Novi Pazar
+#EXTGRP:🏳️ Other Countries • Geral
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 tvg-id="RTVOost.nl@SD" tvg-name="RTV Oost" tvg-logo="https://i.imgur.com/nTR6q9H.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Oost
+#EXTGRP:🏳️ Other Countries • Geral
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVPurmerend.nl@SD" tvg-name="RTV Purmerend" tvg-logo="https://i.imgur.com/dLKSpqz.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Purmerend
+#EXTGRP:🏳️ Other Countries • Geral
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmond.nl@SD" tvg-name="RTV Rijnmond" tvg-logo="https://i.imgur.com/fJTs9xH.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Rijnmond
+#EXTGRP:🏳️ Other Countries • Geral
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVRijnmondExtra.nl@SD" tvg-name="RTV Rijnmond Extra" tvg-logo="https://i.imgur.com/mlrd5ia.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Rijnmond Extra
+#EXTGRP:🏳️ Other Countries • Geral
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+#EXTINF:-1 tvg-id="RTVSLOS.nl@SD" tvg-name="RTV SLOS" tvg-logo="https://i.imgur.com/xdzrT9A.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV SLOS
+#EXTGRP:🏳️ Other Countries • Geral
+https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8
+#EXTINF:-1 tvg-id="RTVUtrecht.nl@SD" tvg-name="RTV Utrecht" tvg-logo="https://i.imgur.com/nrvs30l.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Utrecht
+#EXTGRP:🏳️ Other Countries • Geral
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="RTVVeluwezoomTV.nl@SD" tvg-name="RTV Veluwezoom TV" tvg-logo="https://i.imgur.com/KeHbJTM.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Veluwezoom TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
+#EXTINF:-1 tvg-id="RTVWesterwolde.nl@SD" tvg-name="RTV Westerwolde" tvg-logo="https://i.imgur.com/002YXP6.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Westerwolde
+#EXTGRP:🏳️ Other Countries • Geral
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" tvg-name="RTV Zenica" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-language="bos" tvg-country="BA" group-title="🏳️ Other Countries • Geral",RTV Zenica
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="RTVZulthe.nl@SD" tvg-name="RTV Zulthe" tvg-logo="https://i.imgur.com/Z3zUUsJ.png" tvg-language="nld" tvg-country="NL" group-title="🏳️ Other Countries • Geral",RTV Zulthe
+#EXTGRP:🏳️ Other Countries • Geral
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" tvg-name="RTV21" tvg-logo="https://i.imgur.com/AqQltGh.png" tvg-language="sqi" tvg-country="XK" group-title="🏳️ Other Countries • Geral",RTV21
+#EXTGRP:🏳️ Other Countries • Geral
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTV38.it@SD" tvg-name="RTV38" tvg-logo="https://i.imgur.com/YOlwudm.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Geral",RTV38
+#EXTGRP:🏳️ Other Countries • Geral
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",RTVi
+#EXTGRP:🏳️ Other Countries • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RTVi/index.m3u8
+#EXTINF:-1 tvg-id="Rupavahini.lk@SD" tvg-name="Rupavahini" tvg-logo="https://i.imgur.com/vgHTfR0.png" tvg-language="sin" tvg-country="LK" group-title="🏳️ Other Countries • Geral",Rupavahini
+#EXTGRP:🏳️ Other Countries • Geral
+https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8
+#EXTINF:-1 tvg-id="Rus.ru@SD" tvg-name="Rus" tvg-logo="https://i.imgur.com/KuL21f9.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Rus
+#EXTGRP:🏳️ Other Countries • Geral
+http://31.148.5.241/kanal_21/index.m3u8

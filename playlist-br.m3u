@@ -299,7 +299,7 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Discovery Kids Latin America
 #EXTGRP:🇧🇷 Brasil • Infantil
-http://38.224.231.176:8000/play/a01j/index.m3u8
+http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",DumDum
 #EXTGRP:🇧🇷 Brasil • Infantil
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
@@ -594,9 +594,6 @@ https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-name="Rede Minas" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Educação",Rede Minas
 #EXTGRP:🇧🇷 Brasil • Educação
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",1001 Noites
-#EXTGRP:🇧🇷 Brasil • Variedades
-https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",Canal Rural
 #EXTGRP:🇧🇷 Brasil • Variedades
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8

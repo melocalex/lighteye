@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-04T14:34:38.737Z",
+ "generatedAt": "2026-11-05T14:43:12.361Z",
  "horizonHours": 72,
- "channelsRequested": 5240,
- "channelsWithGuide": 766,
- "coveragePercent": 14.62,
- "programmes": 31308,
+ "channelsRequested": 5531,
+ "channelsWithGuide": 776,
+ "coveragePercent": 14.03,
+ "programmes": 32107,
  "sources": [
   {
    "id": "mi.tv",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 167,
-   "channelsWithProgrammes": 156,
-   "programmes": 8217,
+   "requestedChannels": 169,
+   "channelsWithProgrammes": 158,
+   "programmes": 8296,
    "note": null
   },
   {
@@ -28,9 +28,9 @@
    "id": "meo.pt",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 45,
-   "channelsWithProgrammes": 45,
-   "programmes": 1547,
+   "requestedChannels": 46,
+   "channelsWithProgrammes": 46,
+   "programmes": 1490,
    "note": null
   },
   {
@@ -39,16 +39,16 @@
    "ok": true,
    "requestedChannels": 31,
    "channelsWithProgrammes": 20,
-   "programmes": 451,
+   "programmes": 396,
    "note": null
   },
   {
    "id": "gatotv.com",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 78,
-   "channelsWithProgrammes": 64,
-   "programmes": 1880,
+   "requestedChannels": 81,
+   "channelsWithProgrammes": 78,
+   "programmes": 2741,
    "note": null
   },
   {
@@ -56,8 +56,8 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 400,
-   "channelsWithProgrammes": 388,
-   "programmes": 12381,
+   "channelsWithProgrammes": 387,
+   "programmes": 12172,
    "note": null
   },
   {
@@ -65,8 +65,8 @@
    "kind": "published",
    "ok": true,
    "requestedChannels": -1,
-   "channelsWithProgrammes": 249,
-   "programmes": 6832,
+   "channelsWithProgrammes": 254,
+   "programmes": 7012,
    "note": null
   },
   {
@@ -80,22 +80,16 @@
   }
  ],
  "dropped": {
-  "duplicates": 12614,
-  "outOfHorizon": 8476,
+  "duplicates": 11685,
+  "outOfHorizon": 8763,
   "invalidTimestamp": 0,
-  "unknownChannel": 65544,
+  "unknownChannel": 65549,
   "malformed": 0
  },
  "missingChannels": [
   {
    "tvgId": "PlusMaisUm.br@HD",
    "name": "+MaisUm",
-   "countryGroup": "BR",
-   "guideSites": []
-  },
-  {
-   "tvgId": "1001Noites.br@SD",
-   "name": "1001 Noites",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -1884,6 +1878,80 @@
    "guideSites": []
   },
   {
+   "tvgId": "RakutenTVActionMovies.es@Austria",
+   "name": "Rakuten TV Action Movies",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RakutenTVComedyMovies.es@Austria",
+   "name": "Rakuten TV Comedy Movies",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RakutenTVDramaMovies.es@Austria",
+   "name": "Rakuten TV Drama Movies",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RakutenTVFamilyMovies.es@Austria",
+   "name": "Rakuten TV Family Movies",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RakutenTVTopMovies.es@Finland",
+   "name": "Rakuten TV Top Movies",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RealMadridTVEnglish.es@SD",
+   "name": "Real Madrid TV English",
+   "countryGroup": "ES",
+   "guideSites": [
+    "vidio.com"
+   ]
+  },
+  {
+   "tvgId": "RiberaTV.es@SD",
+   "name": "Ribera TV",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RNEparatodos.es@SD",
+   "name": "RNE para todos",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ROTVValencia.es@SD",
+   "name": "ROTV Valencia",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVManilva.es@SD",
+   "name": "RTV Manilva",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVVida.es@SD",
+   "name": "RTV Vida",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rugrats.de@ES",
+   "name": "Rugrats",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
    "tvgId": "90210.de@DACH",
    "name": "90210",
    "countryGroup": "INT",
@@ -1954,6 +2022,12 @@
   {
    "tvgId": "BIGBROTHERCLASSIC.de@DACH",
    "name": "BIG BROTHER CLASSIC",
+   "countryGroup": "INT",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BTLTV.nl@SD",
+   "name": "BTL TV",
    "countryGroup": "INT",
    "guideSites": []
   },
@@ -2294,6 +2368,24 @@
   {
    "tvgId": "PlutoTVHaialarm.de@DACH",
    "name": "Pluto TV Haialarm",
+   "countryGroup": "INT",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RaiWorldPremium.it@SD",
+   "name": "Rai World Premium",
+   "countryGroup": "INT",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTFrance.fr@SD",
+   "name": "RT France",
+   "countryGroup": "INT",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTGint.ru@SD",
+   "name": "RTG int.",
    "countryGroup": "INT",
    "guideSites": []
   },
@@ -6274,6 +6366,18 @@
    "guideSites": []
   },
   {
+   "tvgId": "RTelevision.do@HD",
+   "name": "R Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RETV.do@SD",
+   "name": "R&E TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "RadioAmericaTV.cl@SD",
    "name": "Radio America TV",
    "countryGroup": "LATAM",
@@ -6562,6 +6666,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "RadioZona903.cl@SD",
+   "name": "Radio Zona 90.3",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "Radiocanal.ar@SD",
    "name": "Radiocanal",
    "countryGroup": "LATAM",
@@ -6582,6 +6692,305 @@
   {
    "tvgId": "RadioTVOriente.pe@SD",
    "name": "RadioTV Oriente",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RanchenatoTV.co@SD",
+   "name": "Ranchenato TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCCTV.py@SD",
+   "name": "RCC TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCGTV.mx@SD",
+   "name": "RCG TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCNHD2.co@SD",
+   "name": "RCN HD2",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCNMas.co@SD",
+   "name": "RCN Mas",
+   "countryGroup": "LATAM",
+   "guideSites": [
+    "i.mjh.nz",
+    "plex.tv"
+   ]
+  },
+  {
+   "tvgId": "RCVTV.hn@SD",
+   "name": "RCV TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RDN.do@SD",
+   "name": "RDN",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReadyTVCanal6.do@SD",
+   "name": "Ready TV Canal 6",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RealTelevision.pe@SD",
+   "name": "Real Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedAmericaTV.bo@SD",
+   "name": "Red America TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedInteriorTV.py@SD",
+   "name": "Red Interior TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedRubi.bo@SD",
+   "name": "Red Rubi",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedTVShop.bo@SD",
+   "name": "Red TV Shop",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedTVEVentanas.ec@SD",
+   "name": "Red TVE Ventanas",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedUno.bo@LaPaz",
+   "name": "Red Uno",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedPlus.co@SD",
+   "name": "Red+",
+   "countryGroup": "LATAM",
+   "guideSites": [
+    "siba.com.co"
+   ]
+  },
+  {
+   "tvgId": "RedADvenirTV.bo@KSCE",
+   "name": "RedADvenir TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReformaTV.ve@SD",
+   "name": "Reforma TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RegionTVCallao.pe@SD",
+   "name": "Region TV Callao",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RegionalTVYaguaron.py@SD",
+   "name": "Regional TV Yaguaron",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReporteroTV.do@HD",
+   "name": "Reportero TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RepublicaTV.py@SD",
+   "name": "Republica TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RetromusicaTelevision.cl@SD",
+   "name": "Retromusica Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RewindTV.cl@SD",
+   "name": "Rewind TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Reyali.co@SD",
+   "name": "Reyali",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RhemaTV.gt@SD",
+   "name": "Rhema TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RialTV.cl@SD",
+   "name": "Rial TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RitoqueTV.cl@SD",
+   "name": "Ritoque TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RNTelevision.pe@SD",
+   "name": "RN Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RNN.do@DOS",
+   "name": "RNN",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RoccoTV.cl@SD",
+   "name": "Rocco TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RockPop.ar@SD",
+   "name": "Rock & Pop",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RomanaTVCanal42.do@SD",
+   "name": "Romana TV Canal 42",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RPPTV.pe@SD",
+   "name": "RPP TV",
+   "countryGroup": "LATAM",
+   "guideSites": [
+    "tv.movistar.com.pe"
+   ]
+  },
+  {
+   "tvgId": "RSelvaTV.pe@SD",
+   "name": "RSelvaTV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RSVHonduras.hn@SD",
+   "name": "RSV Honduras",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTCTelevision.cl@SD",
+   "name": "RTC Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTN.ar@SD",
+   "name": "RTN",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTP.bo@SD",
+   "name": "RTP",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTP.pe@SD",
+   "name": "RTP",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTQQueretaro.mx@SD",
+   "name": "RTQ Queretaro",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTRTV.ec@SD",
+   "name": "RTRTV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTS.ec@SD",
+   "name": "RTS",
+   "countryGroup": "LATAM",
+   "guideSites": [
+    "chaines-tv.orange.fr",
+    "gatotv.com",
+    "tv.sfr.fr"
+   ]
+  },
+  {
+   "tvgId": "RTU.ec@SD",
+   "name": "RTU",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTV.ec@SD",
+   "name": "RTV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVCanal57.sv@SD",
+   "name": "RTV Canal 57",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVNuble.cl@SD",
+   "name": "RTV Nuble",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RumboMineroTV.pe@SD",
+   "name": "Rumbo Minero TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -6607,6 +7016,14 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "red.ru@HD",
+   "name": ".red",
+   "countryGroup": "OTHER",
+   "guideSites": [
     "tv.mail.ru"
    ]
   },
@@ -8662,12 +9079,10 @@
    "guideSites": []
   },
   {
-   "tvgId": "Antena1.ro@SD",
+   "tvgId": "Antena1.ro@HD",
    "name": "Antena 1",
    "countryGroup": "OTHER",
-   "guideSites": [
-    "programetv.ro"
-   ]
+   "guideSites": []
   },
   {
    "tvgId": "Antena3CNN.ro@SD",
@@ -10624,12 +11039,6 @@
   {
    "tvgId": "BTBInfo.pl@SD",
    "name": "BTB Info",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "BTLTV.nl@SD",
-   "name": "BTL TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -23229,6 +23638,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "NipponTV.jp@JOAXDTV",
+   "name": "Nippon TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "NireekshanaTV.in@SD",
    "name": "Nireekshana TV",
    "countryGroup": "OTHER",
@@ -26092,6 +26507,24 @@
    ]
   },
   {
+   "tvgId": "RChannel.th@SD",
+   "name": "R Channel",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RPlus.in@SD",
+   "name": "R Plus",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RPlusGold.in@SD",
+   "name": "R Plus Gold",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "r8DioTV.se@DK",
    "name": "r8Dio TV",
    "countryGroup": "OTHER",
@@ -26454,6 +26887,12 @@
    ]
   },
   {
+   "tvgId": "RadioZU.ro@720p",
+   "name": "Radio ZU",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "Radiofreccia.it@SD",
    "name": "Radiofreccia",
    "countryGroup": "OTHER",
@@ -26476,6 +26915,1419 @@
   {
    "tvgId": "RadiowaCzworka.pl@SD",
    "name": "Radiowa Czworka",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RadostMoya.ru@SD",
+   "name": "Radost Moya",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RaftaarMedia.in@SD",
+   "name": "Raftaar Media",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in"
+   ]
+  },
+  {
+   "tvgId": "Rai3.it@BISFJK",
+   "name": "Rai 3",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "neo.io"
+   ]
+  },
+  {
+   "tvgId": "Rai4.it@HD",
+   "name": "Rai 4",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rai5.it@SD",
+   "name": "Rai 5",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "guida.tv",
+    "guidatv.sky.it",
+    "m.tv.sms.cz",
+    "raiplay.it",
+    "sky.com",
+    "superguidatv.it",
+    "teleboy.ch",
+    "tv.blue.ch"
+   ]
+  },
+  {
+   "tvgId": "RaiGulp.it@SD",
+   "name": "Rai Gulp",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "guida.tv",
+    "guidatv.sky.it",
+    "m.tv.sms.cz",
+    "raiplay.it",
+    "superguidatv.it",
+    "teleboy.ch",
+    "tv.blue.ch",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "RaiItalia.it@Australia",
+   "name": "Rai Italia",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "foxtel.com.au"
+   ]
+  },
+  {
+   "tvgId": "RaiMovie.it@HD",
+   "name": "Rai Movie",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RaiNews24.it@HD",
+   "name": "Rai News 24",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "RaiSudtirol.it@SD",
+   "name": "Rai Sudtirol",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RajMusixMalayalam.in@SD",
+   "name": "Raj Musix Malayalam",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RajMusixTelugu.in@SD",
+   "name": "Raj Musix Telugu",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RajNewsKannada.in@SD",
+   "name": "Raj News Kannada",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RajNewsMalayalam.in@SD",
+   "name": "Raj News Malayalam",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RajNewsTelugu.in@SD",
+   "name": "Raj News Telugu",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RajTV.in@SD",
+   "name": "Raj TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RajdhaniTV.bd@SD",
+   "name": "Rajdhani TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RajeenTV.ps@SD",
+   "name": "Rajeen TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RamaChannel.th@SD",
+   "name": "Rama Channel",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RAN1.de@SD",
+   "name": "RAN1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rang.in@SD",
+   "name": "Rang",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RapidTV.ng@SD",
+   "name": "Rapid TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RapsodiaTV.ro@SD",
+   "name": "Rapsodia TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RASDTV.eh@SD",
+   "name": "RASD TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RasoulallahTv.ir@HD",
+   "name": "RasoulallahTv",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RaveTV.ng@SD",
+   "name": "Rave TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rawhide.se@DK",
+   "name": "Rawhide",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RAZ1.ua@SD",
+   "name": "RAZ 1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RAZ2.ua@SD",
+   "name": "RAZ 2",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RAZ3.ua@SD",
+   "name": "RAZ 3",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RAZ3International.ua@SD",
+   "name": "RAZ 3 International",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RazaviTV.ir@SD",
+   "name": "Razavi TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "rbbFernsehen.de@Berlin",
+   "name": "rbb Fernsehen",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "RBKTV.ru@SD",
+   "name": "RBK-TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "magticom.ge",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RBW.de@SD",
+   "name": "RBW",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCTV.id@SD",
+   "name": "RCTV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RDSSocialTV.it@SD",
+   "name": "RDS Social TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "ReTV.lv@SD",
+   "name": "Re TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.lv"
+   ]
+  },
+  {
+   "tvgId": "RealNewsKerala.in@SD",
+   "name": "Real News Kerala",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RealTime.it@SD",
+   "name": "Real Time",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "guida.tv",
+    "superguidatv.it",
+    "teleboy.ch",
+    "tv.blue.ch",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "RealitateaPlus.ro@SD",
+   "name": "Realitatea Plus",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "programetv.ro"
+   ]
+  },
+  {
+   "tvgId": "RealitateaSportiva.ro@SD",
+   "name": "Realitatea Sportiva",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RealitateaStar.ro@SD",
+   "name": "Realitatea Star",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RealitateaTV.md@SD",
+   "name": "Realitatea TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RealityChannel.il@SD",
+   "name": "Reality Channel",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedBullTV.at@AU",
+   "name": "Red Bull TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "watch.whaletvplus.com"
+   ]
+  },
+  {
+   "tvgId": "RedCarpetTVInternational.pl@SD",
+   "name": "Red Carpet TV International",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedLine.ru@SD",
+   "name": "Red Line",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RedTVLebanon.lb@HD",
+   "name": "Red TV Lebanon",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RefletTV.ci@SD",
+   "name": "Reflet TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReggioTV.it@SD",
+   "name": "ReggioTV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RegioTV.sk@SD",
+   "name": "Regio TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RegioTVBodensee.de@SD",
+   "name": "Regio TV Bodensee",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RegioTVStuttgart.de@SD",
+   "name": "Regio TV Stuttgart",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Regio90TV.nl@SD",
+   "name": "Regio90 TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "webtv.delta.nl"
+   ]
+  },
+  {
+   "tvgId": "ReinoInfantil.mz@SD",
+   "name": "Reino Infantil",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReloadPlay.gr@SD",
+   "name": "Reload Play",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RemontyTV.pl@HD",
+   "name": "Remonty TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RENTV.ru@SD",
+   "name": "REN TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RENTVInternational.ru@SD",
+   "name": "REN TV International",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RenessansTV.uz@SD",
+   "name": "Renessans TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rengoni.in@SD",
+   "name": "Rengoni",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "Reno911.se@DK",
+   "name": "Reno 911",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Reporter.ua@SD",
+   "name": "Reporter",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReporterTV.in@SD",
+   "name": "Reporter TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RepublicBangla.in@SD",
+   "name": "Republic Bangla",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RepublicBharat.in@SD",
+   "name": "Republic Bharat",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RepublicKannada.in@SD",
+   "name": "Republic Kannada",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RepublicTV.in@SD",
+   "name": "Republic TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "ResurrectionTV.gh@SD",
+   "name": "Resurrection TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rete55.it@SD",
+   "name": "Rete 55",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.blue.ch"
+   ]
+  },
+  {
+   "tvgId": "Rete8.it@SD",
+   "name": "Rete 8",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReteBiellaTV.it@SD",
+   "name": "Rete Biella TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReteOro.it@SD",
+   "name": "Rete Oro",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReteTVItalia.it@SD",
+   "name": "Rete TV Italia",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Retro.ru@SD",
+   "name": "Retro",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RetroMusicTV.cz@SD",
+   "name": "Retro Music TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "horizon.tv",
+    "m.tv.sms.cz",
+    "mujtvprogram.cz"
+   ]
+  },
+  {
+   "tvgId": "RFH.de@SD",
+   "name": "RFH",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "web.magentatv.de"
+   ]
+  },
+  {
+   "tvgId": "RHTGuadeloupe.gp@SD",
+   "name": "RHT Guadeloupe",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RiauTV.id@SD",
+   "name": "Riau TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RiC.de@SD",
+   "name": "RiC",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com",
+    "teleboy.ch",
+    "tv.blue.ch",
+    "tv.magenta.at"
+   ]
+  },
+  {
+   "tvgId": "RiCtoday.de@HD",
+   "name": "RiC.today",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Ridiculousness.de@FR",
+   "name": "Ridiculousness",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RidiculousnessNyaavsnitt.se@SE",
+   "name": "Ridiculousness: Nya avsnitt",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RidiculousnessNyeafsnit.se@DK",
+   "name": "Ridiculousness: Nye afsnit",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RidiculousnessNyeepisoder.se@NO",
+   "name": "Ridiculousness: Nye episoder",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Riigikogu.ee@SD",
+   "name": "Riigikogu",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RIKSat.cy@SD",
+   "name": "RIK Sat",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.blue.ch"
+   ]
+  },
+  {
+   "tvgId": "RikaTV.kz@SD",
+   "name": "Rika TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RING.bg@SD",
+   "name": "RING",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.dir.bg"
+   ]
+  },
+  {
+   "tvgId": "RinjaniTV.id@SD",
+   "name": "Rinjani TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rivne1.ua@SD",
+   "name": "Rivne 1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one"
+   ]
+  },
+  {
+   "tvgId": "RMCDecouverte.fr@SD",
+   "name": "RMC Decouverte",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "programme-tv.net",
+    "teleboy.ch",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
+   "tvgId": "RMCLife.fr@SD",
+   "name": "RMC Life",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "teleboy.ch",
+    "tv.blue.ch"
+   ]
+  },
+  {
+   "tvgId": "RMCStory.fr@SD",
+   "name": "RMC Story",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "programme-tv.net",
+    "teleboy.ch",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
+   "tvgId": "RMTV.bg@SD",
+   "name": "RMTV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RN7.nl@SD",
+   "name": "RN7",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "webtv.delta.nl"
+   ]
+  },
+  {
+   "tvgId": "RobinsonEkspeditionen.se@DK",
+   "name": "Robinson Ekspeditionen",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RockAntenne.de@SD",
+   "name": "Rock Antenne",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "RockTV.mk@SD",
+   "name": "Rock TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RockTV.ro@SD",
+   "name": "Rock TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "programetv.ro"
+   ]
+  },
+  {
+   "tvgId": "RodnoeKino.ru@SD",
+   "name": "Rodnoe Kino",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RojavaTV.sy@SD",
+   "name": "Rojava TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RomanceTV.pl@SD",
+   "name": "Romance TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "programtv.onet.pl"
+   ]
+  },
+  {
+   "tvgId": "RomaniaTV.ro@SD",
+   "name": "Romania TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "programetv.ro"
+   ]
+  },
+  {
+   "tvgId": "RomanticFM.ro@SD",
+   "name": "Romantic FM",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RomanticaTV.it@SD",
+   "name": "Romantica TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RonahiTV.sy@SD",
+   "name": "Ronahi TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RongeenTV.in@SD",
+   "name": "Rongeen TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "Rossiya1Vainah.ru@SD",
+   "name": "Rossiya 1 Vainah",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RotanaRadioJordanStudio.jo@SD",
+   "name": "Rotana Radio Jordan Studio",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RotanaTarabJordanCityView.jo@SD",
+   "name": "Rotana Tarab Jordan City View",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ROVTV.za@SD",
+   "name": "ROV TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RoyaTV.ir@SD",
+   "name": "Roya TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RoyaTV.jo@SD",
+   "name": "Roya TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "elcinema.com",
+    "osn.com",
+    "roya-tv.com",
+    "sat.tv"
+   ]
+  },
+  {
+   "tvgId": "Royalworld.pl@FAST",
+   "name": "Royalworld",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RozanaSpokesman.in@SD",
+   "name": "Rozana Spokesman",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RPLWoerden.nl@SD",
+   "name": "RPL Woerden",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RT.ru@HD",
+   "name": "RT",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RTArabic.ru@SD",
+   "name": "RT Arabic",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "osn.com"
+   ]
+  },
+  {
+   "tvgId": "RTBalkan.ru@SD",
+   "name": "RT Balkan",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTDE.de@SD",
+   "name": "RT DE",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTDocumentary.ru@English",
+   "name": "RT Documentary",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTIndia.in@HD",
+   "name": "RT India",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "RTJVA.tg@SD",
+   "name": "RT JVA",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTA.af@SD",
+   "name": "RTA",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTAEducation.af@SD",
+   "name": "RTA Education",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTB.bf@SD",
+   "name": "RTB",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTB3.bf@SD",
+   "name": "RTB 3",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTCTelecalabria.it@SD",
+   "name": "RTC Telecalabria",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTGTV.ru@HD",
+   "name": "RTG TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RTK3.xk@SD",
+   "name": "RTK 3",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "ipko.tv"
+   ]
+  },
+  {
+   "tvgId": "RTL.de@SD",
+   "name": "RTL",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "horizon.tv",
+    "m.tv.sms.cz",
+    "melita.com",
+    "mujtvprogram.cz",
+    "neo.io",
+    "pickx.be",
+    "programetv.ro",
+    "programme-tv.net",
+    "programtv.onet.pl",
+    "sky.com",
+    "teleboy.ch",
+    "teliatv.ee",
+    "tv.blue.ch",
+    "tv.dir.bg",
+    "tv.magenta.at",
+    "tv.nu",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tv24.se",
+    "tv2go.t-2.net"
+   ]
+  },
+  {
+   "tvgId": "RTL.hu@SD",
+   "name": "RTL",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "horizon.tv",
+    "m.tv.sms.cz",
+    "mujtvprogram.cz",
+    "musor.tv",
+    "programetv.ro",
+    "tvmusor.hu",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "RTL1025Best.it@SD",
+   "name": "RTL 102.5 Best",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTL1025BroSis.it@SD",
+   "name": "RTL 102.5 Bro&Sis",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTL1025Caliente.it@SD",
+   "name": "RTL 102.5 Caliente",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "RTL1025Disco.it@SD",
+   "name": "RTL 102.5 Disco",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTL1025Napule.it@SD",
+   "name": "RTL 102.5 Napule",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTL1025Traffic.it@SD",
+   "name": "RTL 102.5 Traffic",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTL1025TV.it@SD",
+   "name": "RTL 102.5 TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "guida.tv",
+    "melita.com",
+    "programtv.onet.pl",
+    "superguidatv.it",
+    "teleboy.ch",
+    "tivu.tv",
+    "tv.blue.ch"
+   ]
+  },
+  {
+   "tvgId": "RTLGold.hu@SD",
+   "name": "RTL Gold",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "horizon.tv",
+    "m.tv.sms.cz",
+    "musor.tv",
+    "programetv.ro",
+    "tvmusor.hu",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "RTLGold.lu@SD",
+   "name": "RTL Gold",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTLHarom.hu@SD",
+   "name": "RTL Harom",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "horizon.tv",
+    "m.tv.sms.cz",
+    "programetv.ro",
+    "tvmusor.hu"
+   ]
+  },
+  {
+   "tvgId": "RTLKetto.hu@SD",
+   "name": "RTL Ketto",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "horizon.tv",
+    "m.tv.sms.cz",
+    "musor.tv",
+    "programetv.ro",
+    "tv2go.t-2.net",
+    "tvmusor.hu",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "RTLOtthon.hu@SD",
+   "name": "RTL Otthon",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTLSuper.de@HD",
+   "name": "RTL Super",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "RTLTeleLetzebuerg.lu@SD",
+   "name": "RTL Tele Letzebuerg",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTLWebRadioTV.lu@SD",
+   "name": "RTL Web Radio TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTLZwee.lu@SD",
+   "name": "RTL Zwee",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.post.lu"
+   ]
+  },
+  {
+   "tvgId": "RTLZwei.de@HD",
+   "name": "RTL Zwei",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com",
+    "tv.magenta.at"
+   ]
+  },
+  {
+   "tvgId": "RTMTV.it@SD",
+   "name": "RTM TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTNBTV.bi@SD",
+   "name": "RTNB TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTP.it@SD",
+   "name": "RTP",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTRPlaneta.ru@Asia",
+   "name": "RTR-Planeta",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTS2.rs@SD",
+   "name": "RTS 2",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "neo.io",
+    "tv2go.t-2.net",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "RTTRTrento.it@SD",
+   "name": "RTTR Trento",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTV.at@SD",
+   "name": "RTV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTV.bd@SD",
+   "name": "RTV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTV1.nl@SD",
+   "name": "RTV 1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "webtv.delta.nl"
+   ]
+  },
+  {
+   "tvgId": "RTVDrenthe.nl@SD",
+   "name": "RTV Drenthe",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tvgids.nl",
+    "webtv.delta.nl",
+    "ziggogo.tv"
+   ]
+  },
+  {
+   "tvgId": "RTVHB.ba@SD",
+   "name": "RTV HB",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVHorizon.nl@SD",
+   "name": "RTV Horizon",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "webtv.delta.nl"
+   ]
+  },
+  {
+   "tvgId": "RTVLOVE.nl@SD",
+   "name": "RTV LOVE",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVMaastricht.nl@SD",
+   "name": "RTV Maastricht",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVMeppel.nl@SD",
+   "name": "RTV Meppel",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVNoviPazar.rs@SD",
+   "name": "RTV Novi Pazar",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVOost.nl@SD",
+   "name": "RTV Oost",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tvgids.nl",
+    "webtv.delta.nl",
+    "ziggogo.tv"
+   ]
+  },
+  {
+   "tvgId": "RTVPendimi.ch@SD",
+   "name": "RTV Pendimi",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVPurmerend.nl@SD",
+   "name": "RTV Purmerend",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "webtv.delta.nl"
+   ]
+  },
+  {
+   "tvgId": "RTVRijnmond.nl@SD",
+   "name": "RTV Rijnmond",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tvgids.nl",
+    "ziggogo.tv"
+   ]
+  },
+  {
+   "tvgId": "RTVRijnmondExtra.nl@SD",
+   "name": "RTV Rijnmond Extra",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVSLOS.nl@SD",
+   "name": "RTV SLOS",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "webtv.delta.nl"
+   ]
+  },
+  {
+   "tvgId": "RTVUtrecht.nl@SD",
+   "name": "RTV Utrecht",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tvgids.nl",
+    "webtv.delta.nl",
+    "ziggogo.tv"
+   ]
+  },
+  {
+   "tvgId": "RTVVeluwezoomTV.nl@SD",
+   "name": "RTV Veluwezoom TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "webtv.delta.nl"
+   ]
+  },
+  {
+   "tvgId": "RTVWesterwolde.nl@SD",
+   "name": "RTV Westerwolde",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVZenica.ba@SD",
+   "name": "RTV Zenica",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVZulthe.nl@SD",
+   "name": "RTV Zulthe",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTV21.xk@SD",
+   "name": "RTV21",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "ipko.tv",
+    "tv.blue.ch",
+    "tvim.tv",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "RTV38.it@SD",
+   "name": "RTV38",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVC.ci@SD",
+   "name": "RTVC",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTVi.ru@SD",
+   "name": "RTVi",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "m.tv.sms.cz",
+    "magticom.ge",
+    "tv.blue.ch"
+   ]
+  },
+  {
+   "tvgId": "RudawTV.iq@SD",
+   "name": "Rudaw TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.blue.ch"
+   ]
+  },
+  {
+   "tvgId": "RupasiBangla.in@SD",
+   "name": "Rupasi Bangla",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "Rupavahini.lk@SD",
+   "name": "Rupavahini",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rus.ru@SD",
+   "name": "Rus",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -28029,6 +29881,18 @@
    "name": "Beach TV Panama City",
    "countryGroup": "US",
    "guideSites": []
+  },
+  {
+   "tvgId": "beINSportsUSA.us@SD",
+   "name": "beIN Sports USA",
+   "countryGroup": "US",
+   "guideSites": [
+    "beinsports.com",
+    "epg.iptvx.one",
+    "ontvtonight.com",
+    "tvpassport.com",
+    "tvtv.us"
+   ]
   },
   {
    "tvgId": "BEKNews.us@SD",
@@ -31099,6 +32963,151 @@
    "name": "Radio y Television Marti",
    "countryGroup": "US",
    "guideSites": []
+  },
+  {
+   "tvgId": "RakutenViki.us@Poland",
+   "name": "Rakuten Viki",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RallyTV.us@SD",
+   "name": "Rally TV",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rawhide.us@CA",
+   "name": "Rawhide",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCTV.us@SD",
+   "name": "RCTV",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCTV3.us@SD",
+   "name": "RCTV3",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RealAmericasVoice.us@KPVMLD",
+   "name": "Real America's Voice",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RecipeTV.us@SD",
+   "name": "Recipe.TV",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RedApple21.us@SD",
+   "name": "Red Apple 21",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RetroTV.us@East",
+   "name": "Retro TV",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ReutersTV.us@SD",
+   "name": "Reuters TV",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "REVNAction.us@SD",
+   "name": "REV'N Action",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Revolt.us@SD",
+   "name": "Revolt",
+   "countryGroup": "US",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tvpassport.com",
+    "tvtv.us"
+   ]
+  },
+  {
+   "tvgId": "Revry.us@Poland",
+   "name": "Revry",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RevryQueer.us@SD",
+   "name": "Revry Queer",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Ridiculousness.us@SD",
+   "name": "Ridiculousness",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RightNowTV.us@SD",
+   "name": "Right Now TV",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RJTV.us@SD",
+   "name": "RJTV",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Roar.us@KCWX",
+   "name": "Roar",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTN.us@SD",
+   "name": "RTN",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTNChicago.us@SD",
+   "name": "RTN Chicago",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RTViUS.us@SD",
+   "name": "RTVi US",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rugrats.us@LatAm",
+   "name": "Rugrats",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Runtime.us@SD",
+   "name": "Runtime",
+   "countryGroup": "US",
+   "guideSites": [
+    "i.mjh.nz",
+    "plex.tv"
+   ]
   }
  ]
 }

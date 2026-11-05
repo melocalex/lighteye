@@ -135,6 +135,9 @@ https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-name="3Cat Plats bruts" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-language="cat" tvg-country="ES" group-title="🇪🇸 España • Séries",3Cat Plats bruts
 #EXTGRP:🇪🇸 España • Séries
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",REV'N Action
+#EXTGRP:🇺🇸 United States • Esportes
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-id="50CentAction.us@SD" tvg-name="50 Cent Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",50 Cent Action
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
@@ -171,6 +174,9 @@ https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us@CA" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Sci-Fi
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Rawhide
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us@LatAm" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",Acapulco Shore
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
@@ -435,6 +441,9 @@ https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWipeout.us@SD" tvg-name="Pluto TV Wipeout" tvg-logo="https://i.imgur.com/KVTNBFr.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Pluto TV Wipeout
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-name="Rakuten Viki" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Rakuten Viki
+#EXTGRP:🇺🇸 United States • Séries
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Séries",Alerte a Malibu
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
@@ -727,6 +736,9 @@ https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@DK" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Pluto TV True Crime
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+#EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Rawhide
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-name="4ever Drama" tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",4ever Drama
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/260/index.m3u8

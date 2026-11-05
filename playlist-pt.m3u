@@ -299,7 +299,7 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Discovery Kids Latin America
 #EXTGRP:🇧🇷 Brasil • Infantil
-http://38.224.231.176:8000/play/a01j/index.m3u8
+http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",DumDum
 #EXTGRP:🇧🇷 Brasil • Infantil
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
@@ -591,9 +591,6 @@ https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-name="Rede Minas" tvg-logo="https://i.imgur.com/MtQWAHv.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Educação",Rede Minas
 #EXTGRP:🇧🇷 Brasil • Educação
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",1001 Noites
-#EXTGRP:🇧🇷 Brasil • Variedades
-https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",Canal Rural
 #EXTGRP:🇧🇷 Brasil • Variedades
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
@@ -911,12 +908,6 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 3
 #EXTGRP:🇵🇹 Portugal • Esportes
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/m7ga8bU.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 4
-#EXTGRP:🇵🇹 Portugal • Esportes
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 5
-#EXTGRP:🇵🇹 Portugal • Esportes
-http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-language="eng" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",FUEL TV
 #EXTGRP:🇵🇹 Portugal • Esportes
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
@@ -1038,6 +1029,9 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-name="JimJam Europe" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-language="eng;por;ces;slk;heb" tvg-country="UK" group-title="🇬🇧 United Kingdom • Infantil",JimJam Europe
 #EXTGRP:🇬🇧 United Kingdom • Infantil
 http://212.5.144.156:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-name="Reino Infantil" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Infantil",Reino Infantil
+#EXTGRP:🏳️ Other Countries • Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-id="MuzangalaTV.ao@SD" tvg-name="Muzangala TV" tvg-logo="https://i.imgur.com/fBeaJoS.png" tvg-language="por" tvg-country="AO" group-title="🏳️ Other Countries • Música",Muzangala TV
 #EXTGRP:🏳️ Other Countries • Música
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8

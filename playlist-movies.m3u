@@ -189,10 +189,25 @@ https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Pluto TV Zombies
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Finland" tvg-name="Rakuten TV Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="fin;eng" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Top Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-name="AXN CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="bul" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN CEE
 #EXTGRP:🇪🇸 España • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-name="Rakuten TV Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Action Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Comedy Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Drama Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-name="Rakuten TV Family Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Family Movies
+#EXTGRP:🇪🇸 España • Filmes
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-id="AneflixLive.us@HD" tvg-name="Aneflix Live" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Aneflix Live
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-referrer=https://vaughn.live/
@@ -278,6 +293,9 @@ https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNuestroCine.us@LatAm" tvg-name="Pluto TV Nuestro Cine" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Nuestro Cine
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-name="Runtime Espanol" tvg-logo="https://i.imgur.com/OMQq19N.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Runtime Espanol
+#EXTGRP:🇺🇸 United States • Filmes
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",00s Replay
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
@@ -480,6 +498,12 @@ https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Westerns
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
+#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Rawhide
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
+#EXTINF:-1 tvg-id="Runtime.us@SD" tvg-name="Runtime" tvg-logo="https://i.imgur.com/2USCMvP.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Runtime
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Bulgary" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-language="bul" tvg-country="US" group-title="🇺🇸 United States • Filmes",AXN Black
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -1220,3 +1244,9 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in@SD" tvg-name="Punjabi Shorts" tvg-logo="https://www.thegtcnetwork.com/punjabi-shorts.jpg" tvg-language="pan" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Punjabi Shorts
 #EXTGRP:🏳️ Other Countries • Filmes
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it@HD" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/0FjxXU9.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Filmes",Rai Movie
+#EXTGRP:🏳️ Other Countries • Filmes
+http://team-tv.co:81/raimovie/index.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Rodnoe Kino
+#EXTGRP:🏳️ Other Countries • Filmes
+http://stream.mcquack.net/242/index.m3u8
