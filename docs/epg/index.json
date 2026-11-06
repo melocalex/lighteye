@@ -1,544 +1,544 @@
 {
- "generatedAt": "2026-11-05T14:44:25.481Z",
+ "generatedAt": "2026-11-06T14:54:55.753Z",
  "horizonHours": 24,
  "timeFormat": "epoch-seconds-utc",
- "channels": 776,
- "programmes": 25111,
+ "channels": 777,
+ "programmes": 24981,
  "items": [
   {
    "id": "13C.cl@SD",
    "name": "13C",
    "file": "13C.cl_at_SD.json",
-   "count": 30,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 33,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "247CanaldeNoticias.ar@SD",
    "name": "24/7 Canal de Noticias",
    "file": "247CanaldeNoticias.ar_at_SD.json",
-   "count": 11,
-   "from": 1793883600,
-   "to": 1793980800
+   "count": 6,
+   "from": 1793970000,
+   "to": 1794009600
   },
   {
    "id": "24Horas.es@SD",
    "name": "24 Horas",
    "file": "24Horas.es_at_SD.json",
-   "count": 55,
-   "from": 1793880000,
-   "to": 1793977200
+   "count": 67,
+   "from": 1793966400,
+   "to": 1794064740
   },
   {
    "id": "24HourFreeMovies.us@SD",
    "name": "24 Hour Free Movies",
    "file": "24HourFreeMovies.us_at_SD.json",
-   "count": 9,
-   "from": 1793887979,
-   "to": 1794009613
+   "count": 12,
+   "from": 1793973318,
+   "to": 1794097362
   },
   {
    "id": "3ABNLatino.us@SD",
    "name": "3ABN Latino",
    "file": "3ABNLatino.us_at_SD.json",
-   "count": 38,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 40,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "3sat.de@SD",
    "name": "3sat",
    "file": "3sat.de_at_SD.json",
    "count": 7,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "50CentAction.us@SD",
    "name": "50 Cent Action",
    "file": "50CentAction.us_at_SD.json",
    "count": 13,
-   "from": 1793883537,
-   "to": 1793979931
+   "from": 1793972503,
+   "to": 1794071837
   },
   {
    "id": "5Cops.us@UK",
    "name": "5 Cops",
    "file": "5Cops.us_at_UK.json",
    "count": 30,
-   "from": 1793888422,
-   "to": 1794180600
+   "from": 1793974712,
+   "to": 1794267000
   },
   {
    "id": "70sCinema.us@SD",
    "name": "70s Cinema",
    "file": "70sCinema.us_at_SD.json",
    "count": 13,
-   "from": 1793887200,
-   "to": 1793979900
+   "from": 1793973600,
+   "to": 1794066300
   },
   {
    "id": "80sRewind.us@SD",
    "name": "80s Rewind",
    "file": "80sRewind.us_at_SD.json",
-   "count": 14,
-   "from": 1793889000,
-   "to": 1793980800
+   "count": 13,
+   "from": 1793973600,
+   "to": 1794067200
   },
   {
    "id": "90sThrowback.us@SD",
    "name": "90s Throwback",
    "file": "90sThrowback.us_at_SD.json",
    "count": 14,
-   "from": 1793880000,
-   "to": 1793977200
+   "from": 1793970000,
+   "to": 1794065400
   },
   {
    "id": "A24.ar@SD",
    "name": "A24",
    "file": "A24.ar_at_SD.json",
-   "count": 17,
-   "from": 1793883600,
-   "to": 1793980800
+   "count": 16,
+   "from": 1793970000,
+   "to": 1794070800
   },
   {
    "id": "ABCNewsLive.us@SD",
    "name": "ABC News Live",
    "file": "ABCNewsLive.us_at_SD.json",
-   "count": 41,
-   "from": 1793889000,
-   "to": 1794094200
+   "count": 37,
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "AcapulcoShore.us@LatAm",
    "name": "Acapulco Shore",
    "file": "AcapulcoShore.us_at_LatAm.json",
-   "count": 25,
-   "from": 1793889360,
+   "count": 26,
+   "from": 1793975700,
    "to": 1794180600
   },
   {
    "id": "ACCDigitalNetwork.us@SD",
    "name": "ACC Digital Network",
    "file": "ACCDigitalNetwork.us_at_SD.json",
-   "count": 18,
-   "from": 1793889000,
-   "to": 1793986200
+   "count": 17,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "ACCNetwork.us@SD",
    "name": "ACC Network",
    "file": "ACCNetwork.us_at_SD.json",
-   "count": 21,
-   "from": 1793880000,
-   "to": 1793977200
+   "count": 22,
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "AccuWeatherNOW.us@SD",
    "name": "AccuWeather NOW",
    "file": "AccuWeatherNOW.us_at_SD.json",
    "count": 7,
-   "from": 1793876400,
-   "to": 1793984400
+   "from": 1793962800,
+   "to": 1794081600
   },
   {
    "id": "AdrenalinaPuraTV.us@Brazil",
    "name": "Adrenalina Pura TV",
    "file": "AdrenalinaPuraTV.us_at_Brazil.json",
-   "count": 15,
-   "from": 1793883729,
-   "to": 1794094200
+   "count": 14,
+   "from": 1793976302,
+   "to": 1794180600
   },
   {
    "id": "AdventureEarth.de@SD",
    "name": "Adventure Earth",
    "file": "AdventureEarth.de_at_SD.json",
-   "count": 26,
-   "from": 1793887965,
-   "to": 1793976540
+   "count": 25,
+   "from": 1793976540,
+   "to": 1794063853
   },
   {
    "id": "AE.us@East",
    "name": "A&E",
    "file": "AE.us_at_East.json",
    "count": 36,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "AELatinAmerica.us@Brazil",
    "name": "A&E Latin America",
    "file": "AELatinAmerica.us_at_Brazil.json",
-   "count": 39,
-   "from": 1793887980,
-   "to": 1793977800
+   "count": 41,
+   "from": 1793974800,
+   "to": 1794063600
   },
   {
    "id": "AgroMais.br@SD",
    "name": "AgroMais",
    "file": "AgroMais.br_at_SD.json",
-   "count": 31,
-   "from": 1793885400,
-   "to": 1793977200
+   "count": 29,
+   "from": 1793971800,
+   "to": 1794063600
   },
   {
    "id": "AgrotendenciaTV.cr@SD",
    "name": "Agrotendencia TV",
    "file": "AgrotendenciaTV.cr_at_SD.json",
-   "count": 49,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 47,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "AlientoVision.us@SD",
    "name": "Aliento Vision",
    "file": "AlientoVision.us_at_SD.json",
    "count": 48,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "AlJazeera.qa@Arabic",
    "name": "Al Jazeera",
    "file": "AlJazeera.qa_at_Arabic.json",
    "count": 36,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "ALLBLKGems.us@SD",
    "name": "ALLBLK Gems",
    "file": "ALLBLKGems.us_at_SD.json",
-   "count": 67,
-   "from": 1793887967,
-   "to": 1793978959
+   "count": 68,
+   "from": 1793975528,
+   "to": 1794267000
   },
   {
    "id": "AllRealitybyWEtv.us@SD",
    "name": "All Reality by WE tv",
    "file": "AllRealitybyWEtv.us_at_SD.json",
-   "count": 60,
-   "from": 1793886840,
-   "to": 1793979360
+   "count": 57,
+   "from": 1793976120,
+   "to": 1794267000
   },
   {
    "id": "AllWeddingsWEtv.us@SD",
    "name": "All Weddings WE tv",
    "file": "AllWeddingsWEtv.us_at_SD.json",
-   "count": 28,
-   "from": 1793887980,
-   "to": 1793977080
+   "count": 29,
+   "from": 1793973900,
+   "to": 1794066180
   },
   {
    "id": "AmazonSat.br@SD",
    "name": "Amazon Sat",
    "file": "AmazonSat.br_at_SD.json",
-   "count": 48,
-   "from": 1793884800,
-   "to": 1793976600
+   "count": 19,
+   "from": 1794031200,
+   "to": 1794064800
   },
   {
    "id": "AMCenEspanol.us@SD",
    "name": "AMC en Espanol",
    "file": "AMCenEspanol.us_at_SD.json",
-   "count": 28,
-   "from": 1793889120,
-   "to": 1793978460
+   "count": 27,
+   "from": 1793975160,
+   "to": 1794063660
   },
   {
    "id": "AMCLatinAmerica.us@Brazil",
    "name": "AMC Latin America",
    "file": "AMCLatinAmerica.us_at_Brazil.json",
-   "count": 22,
-   "from": 1793883000,
-   "to": 1793979600
+   "count": 8,
+   "from": 1793973600,
+   "to": 1794032400
   },
   {
    "id": "AmericanHeroesChannel.us@SD",
    "name": "American Heroes Channel",
    "file": "AmericanHeroesChannel.us_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "AmericasTestKitchen.us@SD",
    "name": "America's Test Kitchen",
    "file": "AmericasTestKitchen.us_at_SD.json",
-   "count": 53,
-   "from": 1793888500,
+   "count": 52,
+   "from": 1793976886,
    "to": 1794180600
   },
   {
    "id": "AmericasVoiceNews.us@SD",
    "name": "America's Voice News",
    "file": "AmericasVoiceNews.us_at_SD.json",
-   "count": 21,
-   "from": 1793883600,
-   "to": 1793977200
+   "count": 22,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "AmericaTelevision.pe@SD",
    "name": "America Television",
    "file": "AmericaTelevision.pe_at_SD.json",
-   "count": 31,
-   "from": 1793885400,
-   "to": 1793977200
+   "count": 29,
+   "from": 1793971800,
+   "to": 1794063600
   },
   {
    "id": "AmericaTeVe.pr@SD",
    "name": "America TeVe",
    "file": "AmericaTeVe.pr_at_SD.json",
    "count": 45,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "AmericaTV.ar@SD",
    "name": "America TV",
    "file": "AmericaTV.ar_at_SD.json",
-   "count": 34,
-   "from": 1793883600,
-   "to": 1793977200
+   "count": 31,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "AngerManagementChannel.us@SD",
    "name": "Anger Management Channel",
    "file": "AngerManagementChannel.us_at_SD.json",
-   "count": 58,
-   "from": 1793888763,
-   "to": 1793977481
+   "count": 57,
+   "from": 1793975968,
+   "to": 1794063463
   },
   {
    "id": "AnimalPlanet.us@East",
    "name": "Animal Planet",
    "file": "AnimalPlanet.us_at_East.json",
-   "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 26,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "AnimexHIDIVE.us@SD",
    "name": "Anime x HIDIVE",
    "file": "AnimexHIDIVE.us_at_SD.json",
    "count": 100,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794064740
   },
   {
    "id": "AntiquesRoadshowUK.us@SD",
    "name": "Antiques Roadshow UK",
    "file": "AntiquesRoadshowUK.us_at_SD.json",
-   "count": 48,
-   "from": 1793887440,
-   "to": 1793977020
+   "count": 52,
+   "from": 1793973420,
+   "to": 1794267000
   },
   {
    "id": "AntiquesRoadTrip.us@SD",
    "name": "Antiques Road Trip",
    "file": "AntiquesRoadTrip.us_at_SD.json",
-   "count": 82,
-   "from": 1793887200,
-   "to": 1794180600
+   "count": 79,
+   "from": 1793973600,
+   "to": 1794267000
   },
   {
    "id": "AreWeThereYet.us@SD",
    "name": "Are We There Yet?",
    "file": "AreWeThereYet.us_at_SD.json",
-   "count": 60,
-   "from": 1793889330,
-   "to": 1793977059
+   "count": 61,
+   "from": 1793975670,
+   "to": 1794064668
   },
   {
    "id": "ArgentinisimaSatelital.ar@SD",
    "name": "Argentinisima Satelital",
    "file": "ArgentinisimaSatelital.ar_at_SD.json",
    "count": 9,
-   "from": 1793880000,
-   "to": 1793977200
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "arte.fr@SD",
    "name": "arte",
    "file": "arte.fr_at_SD.json",
-   "count": 43,
-   "from": 1793887500,
-   "to": 1793977500
+   "count": 31,
+   "from": 1793968500,
+   "to": 1794066300
   },
   {
    "id": "Arte1.br@SD",
    "name": "Arte 1",
    "file": "Arte1.br_at_SD.json",
    "count": 31,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794068100
   },
   {
    "id": "ARTV.pt@SD",
    "name": "ARTV",
    "file": "ARTV.pt_at_SD.json",
-   "count": 10,
-   "from": 1793880000,
-   "to": 1793980800
+   "count": 13,
+   "from": 1793955600,
+   "to": 1794067200
   },
   {
    "id": "AsianCrush.us@SD",
    "name": "AsianCrush",
    "file": "AsianCrush.us_at_SD.json",
    "count": 19,
-   "from": 1793888700,
-   "to": 1793980200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "AsianDrama.hk@SD",
    "name": "Asian Drama",
    "file": "AsianDrama.hk_at_SD.json",
-   "count": 31,
-   "from": 1793889693,
-   "to": 1793976830
+   "count": 30,
+   "from": 1793976830,
+   "to": 1794066000
   },
   {
    "id": "AtHomewithFamilyHandyman.us@SD",
    "name": "At Home with Family Handyman",
    "file": "AtHomewithFamilyHandyman.us_at_SD.json",
-   "count": 30,
-   "from": 1793888053,
-   "to": 1793977483
+   "count": 38,
+   "from": 1793973913,
+   "to": 1794064798
   },
   {
    "id": "ATVPlus.pe@SD",
    "name": "ATV+",
    "file": "ATVPlus.pe_at_SD.json",
-   "count": 26,
-   "from": 1793874600,
-   "to": 1793979000
+   "count": 27,
+   "from": 1793961000,
+   "to": 1794063600
   },
   {
    "id": "ATVSur.pe@SD",
    "name": "ATV Sur",
    "file": "ATVSur.pe_at_SD.json",
-   "count": 24,
-   "from": 1793887200,
-   "to": 1793988000
+   "count": 13,
+   "from": 1793973600,
+   "to": 1794033000
   },
   {
    "id": "AXN.br@SD",
    "name": "AXN",
    "file": "AXN.br_at_SD.json",
    "count": 30,
-   "from": 1793887200,
-   "to": 1793976900
+   "from": 1793973600,
+   "to": 1794063300
   },
   {
    "id": "AXNLatinAmerica.us@Andes",
    "name": "AXN Latin America",
    "file": "AXNLatinAmerica.us_at_Andes.json",
-   "count": 51,
-   "from": 1793887200,
-   "to": 1793976600
+   "count": 49,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "AXNMovies.pt@SD",
    "name": "AXN Movies",
    "file": "AXNMovies.pt_at_SD.json",
-   "count": 23,
-   "from": 1793884980,
-   "to": 1793978760
+   "count": 17,
+   "from": 1793971500,
+   "to": 1794065100
   },
   {
    "id": "AyMSports.mx@SD",
    "name": "AyM Sports",
    "file": "AyMSports.mx_at_SD.json",
-   "count": 16,
-   "from": 1793880000,
-   "to": 1793977200
+   "count": 15,
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "AzCinema.mx@SD",
    "name": "Az Cinema",
    "file": "AzCinema.mx_at_SD.json",
    "count": 16,
-   "from": 1793886300,
-   "to": 1793979000
+   "from": 1793972700,
+   "to": 1794065400
   },
   {
    "id": "AzCorazon.mx@SD",
    "name": "Az Corazon",
    "file": "AzCorazon.mx_at_SD.json",
-   "count": 26,
-   "from": 1793869200,
-   "to": 1793980800
+   "count": 25,
+   "from": 1793955600,
+   "to": 1794074400
   },
   {
    "id": "Azteca7.mx@SD",
    "name": "Azteca 7",
    "file": "Azteca7.mx_at_SD.json",
-   "count": 42,
-   "from": 1793889000,
-   "to": 1793976300
+   "count": 44,
+   "from": 1793972700,
+   "to": 1794066300
   },
   {
    "id": "Backstage.us@SD",
    "name": "Backstage",
    "file": "Backstage.us_at_SD.json",
-   "count": 20,
-   "from": 1793889266,
-   "to": 1793983325
+   "count": 18,
+   "from": 1793976014,
+   "to": 1794067654
   },
   {
    "id": "Bandamax.mx@SD",
    "name": "Bandamax",
    "file": "Bandamax.mx_at_SD.json",
-   "count": 30,
-   "from": 1793885100,
-   "to": 1793980200
+   "count": 34,
+   "from": 1793973600,
+   "to": 1794064200
   },
   {
    "id": "BandNews.br@SD",
    "name": "BandNews",
    "file": "BandNews.br_at_SD.json",
-   "count": 22,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 26,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "BandSports.br@SD",
    "name": "Band Sports",
    "file": "BandSports.br_at_SD.json",
    "count": 27,
-   "from": 1793886300,
-   "to": 1793976300
+   "from": 1793976300,
+   "to": 1794063600
   },
   {
    "id": "Baywatch.us@US",
    "name": "Baywatch",
    "file": "Baywatch.us_at_US.json",
-   "count": 30,
-   "from": 1793889168,
-   "to": 1793979062
+   "count": 27,
+   "from": 1793976083,
+   "to": 1794064436
   },
   {
    "id": "BBCAmerica.us@East",
    "name": "BBC America",
    "file": "BBCAmerica.us_at_East.json",
-   "count": 14,
-   "from": 1793883600,
-   "to": 1793976300
+   "count": 21,
+   "from": 1793976300,
+   "to": 1794064800
   },
   {
    "id": "BBCHomeGarden.us@SD",
    "name": "BBC Home & Garden",
    "file": "BBCHomeGarden.us_at_SD.json",
-   "count": 27,
-   "from": 1793888596,
-   "to": 1793976370
+   "count": 26,
+   "from": 1793976370,
+   "to": 1794063900
   },
   {
    "id": "BBCNews.uk@Africa",
    "name": "BBC News",
    "file": "BBCNews.uk_at_Africa.json",
-   "count": 65,
-   "from": 1793889000,
+   "count": 55,
+   "from": 1793976300,
    "to": 1794180600
   },
   {
@@ -546,1375 +546,1375 @@
    "name": "BBC Travel",
    "file": "BBCTravel.us_at_Germany.json",
    "count": 77,
-   "from": 1793886038,
-   "to": 1793978879
+   "from": 1793976031,
+   "to": 1794267000
   },
   {
    "id": "beINSPORTSXTRA.us@SD",
    "name": "beIN SPORTS XTRA",
    "file": "beINSPORTSXTRA.us_at_SD.json",
-   "count": 24,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 27,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "beINSPORTSXTRAenEspanol.us@SD",
    "name": "beIN SPORTS XTRA en Espanol",
    "file": "beINSPORTSXTRAenEspanol.us_at_SD.json",
    "count": 24,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794067200
   },
   {
    "id": "BellatorMMA.us@SD",
    "name": "Bellator MMA",
    "file": "BellatorMMA.us_at_SD.json",
    "count": 18,
-   "from": 1793889000,
-   "to": 1793978100
+   "from": 1793973600,
+   "to": 1794064500
   },
   {
    "id": "BestofDrPhil.us@SD",
    "name": "Best of Dr Phil",
    "file": "BestofDrPhil.us_at_SD.json",
    "count": 32,
-   "from": 1793889360,
-   "to": 1793976420
+   "from": 1793976420,
+   "to": 1794064020
   },
   {
    "id": "BethelTV.pe@SD",
    "name": "Bethel TV",
    "file": "BethelTV.pe_at_SD.json",
-   "count": 30,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 31,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "BETPlutoTV.us@BR",
    "name": "BET Pluto TV",
    "file": "BETPlutoTV.us_at_BR.json",
    "count": 38,
-   "from": 1793887620,
-   "to": 1794094200
+   "from": 1793974200,
+   "to": 1794267000
   },
   {
    "id": "BeverlyHillbillies.us@US",
    "name": "Beverly Hillbillies",
    "file": "BeverlyHillbillies.us_at_US.json",
    "count": 52,
-   "from": 1793889000,
-   "to": 1794094200
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "BeyondBeliefFactorFiction.us@UK",
    "name": "Beyond Belief: Fact or Fiction",
    "file": "BeyondBeliefFactorFiction.us_at_UK.json",
    "count": 56,
-   "from": 1793887365,
-   "to": 1793977941
+   "from": 1793974305,
+   "to": 1794064803
   },
   {
    "id": "BFMBusiness.fr@SD",
    "name": "BFM Business",
    "file": "BFMBusiness.fr_at_SD.json",
    "count": 6,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "BFMTV.fr@SD",
    "name": "BFM TV",
    "file": "BFMTV.fr_at_SD.json",
    "count": 6,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "BigTenNetwork.us@SD",
    "name": "Big Ten Network",
    "file": "BigTenNetwork.us_at_SD.json",
-   "count": 30,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 28,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "BilliardTV.us@SD",
    "name": "Billiard TV",
    "file": "BilliardTV.us_at_SD.json",
-   "count": 16,
-   "from": 1793889000,
-   "to": 1793982600
+   "count": 14,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "BlackInkCrew.us@SD",
    "name": "Black Ink Crew",
    "file": "BlackInkCrew.us_at_SD.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "BlazeLive.us@SD",
    "name": "Blaze Live",
    "file": "BlazeLive.us_at_SD.json",
    "count": 18,
-   "from": 1793887200,
-   "to": 1793984400
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "BlueBloods.us@SD",
    "name": "Blue Bloods",
    "file": "BlueBloods.us_at_SD.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "BMCNews.br@SD",
    "name": "BM&C News",
    "file": "BMCNews.br_at_SD.json",
-   "count": 23,
-   "from": 1793881800,
-   "to": 1793977200
+   "count": 27,
+   "from": 1793968200,
+   "to": 1794180600
   },
   {
    "id": "BNT4.bg@SD",
    "name": "BNT 4",
    "file": "BNT4.bg_at_SD.json",
    "count": 7,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "Boomerang.us@SD",
    "name": "Boomerang",
    "file": "Boomerang.us_at_SD.json",
    "count": 93,
-   "from": 1793889600,
-   "to": 1793976600
+   "from": 1793976600,
+   "to": 1794063600
   },
   {
    "id": "BounceXL.us@SD",
    "name": "Bounce XL",
    "file": "BounceXL.us_at_SD.json",
-   "count": 33,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 36,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Bravo.us@East",
    "name": "Bravo",
    "file": "Bravo.us_at_East.json",
-   "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 23,
+   "from": 1793973600,
+   "to": 1794064500
   },
   {
    "id": "BritBoxMysteries.us@SD",
    "name": "BritBox Mysteries",
    "file": "BritBoxMysteries.us_at_SD.json",
-   "count": 30,
-   "from": 1793888132,
-   "to": 1793978499
+   "count": 26,
+   "from": 1793975288,
+   "to": 1794066660
   },
   {
    "id": "BritishComedy.us@CA",
    "name": "British Comedy",
    "file": "BritishComedy.us_at_CA.json",
-   "count": 35,
-   "from": 1793889840,
-   "to": 1793976540
+   "count": 38,
+   "from": 1793976540,
+   "to": 1794180600
   },
   {
    "id": "Buzzr.us@SD",
    "name": "Buzzr",
    "file": "Buzzr.us_at_SD.json",
    "count": 44,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "BVN.nl@SD",
    "name": "BVN",
    "file": "BVN.nl_at_SD.json",
-   "count": 62,
-   "from": 1793888700,
-   "to": 1793977500
+   "count": 59,
+   "from": 1793975700,
+   "to": 1794064200
   },
   {
    "id": "BYUTV.us@SD",
    "name": "BYU TV",
    "file": "BYUTV.us_at_SD.json",
    "count": 47,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Cablenoticias.co@SD",
    "name": "Cablenoticias",
    "file": "Cablenoticias.co_at_SD.json",
-   "count": 52,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 50,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Canal1.co@SD",
    "name": "Canal 1",
    "file": "Canal1.co_at_SD.json",
-   "count": 58,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 63,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Canal11.cr@SD",
    "name": "Canal 11",
    "file": "Canal11.cr_at_SD.json",
-   "count": 24,
-   "from": 1793887200,
-   "to": 1793980800
+   "count": 32,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Canal11.hn@SD",
    "name": "Canal 11",
    "file": "Canal11.hn_at_SD.json",
    "count": 19,
-   "from": 1793883600,
-   "to": 1793977200
+   "from": 1793970000,
+   "to": 1794069000
   },
   {
    "id": "Canal13.cl@SD",
    "name": "Canal 13",
    "file": "Canal13.cl_at_SD.json",
-   "count": 30,
-   "from": 1793872200,
-   "to": 1793977200
+   "count": 23,
+   "from": 1793962200,
+   "to": 1794069900
   },
   {
    "id": "Canal26.ar@SD",
    "name": "Canal 26",
    "file": "Canal26.ar_at_SD.json",
    "count": 16,
-   "from": 1793883600,
-   "to": 1793977200
+   "from": 1793970000,
+   "to": 1794067200
   },
   {
    "id": "Canal3.gt@SD",
    "name": "Canal 3",
    "file": "Canal3.gt_at_SD.json",
    "count": 19,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794095100
   },
   {
    "id": "Canal4.cr@SD",
    "name": "Canal 4",
    "file": "Canal4.cr_at_SD.json",
    "count": 15,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Canal5.mx@SD",
    "name": "Canal 5",
    "file": "Canal5.mx_at_SD.json",
-   "count": 26,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 8,
+   "from": 1793975400,
+   "to": 1794015000
   },
   {
    "id": "Canal7Jujuy.ar@SD",
    "name": "Canal 7 Jujuy",
    "file": "Canal7Jujuy.ar_at_SD.json",
    "count": 18,
-   "from": 1793883600,
-   "to": 1793977200
+   "from": 1793970000,
+   "to": 1794070800
   },
   {
    "id": "Canal8.cr@SD",
    "name": "Canal 8",
    "file": "Canal8.cr_at_SD.json",
-   "count": 22,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 27,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Canal9BioBioTelevision.cl@SD",
    "name": "Canal 9 Bio-Bio Television",
    "file": "Canal9BioBioTelevision.cl_at_SD.json",
-   "count": 30,
-   "from": 1793877300,
-   "to": 1793979000
+   "count": 31,
+   "from": 1793963700,
+   "to": 1794063600
   },
   {
    "id": "CanalCapital.co@SD",
    "name": "Canal Capital",
    "file": "CanalCapital.co_at_SD.json",
-   "count": 33,
-   "from": 1793889000,
-   "to": 1793979000
+   "count": 30,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CanalClaro.cl@SD",
    "name": "Canal Claro",
    "file": "CanalClaro.cl_at_SD.json",
-   "count": 25,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 24,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CanalCongreso.co@SD",
    "name": "Canal Congreso",
    "file": "CanalCongreso.co_at_SD.json",
-   "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 30,
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "CanaldoBoi.br@SD",
    "name": "Canal do Boi",
    "file": "CanaldoBoi.br_at_SD.json",
-   "count": 39,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 32,
+   "from": 1793975400,
+   "to": 1794070800
   },
   {
    "id": "CanalFutura.br@SD",
    "name": "Canal Futura",
    "file": "CanalFutura.br_at_SD.json",
-   "count": 72,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 70,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CanalInstitucional.co@SD",
    "name": "Canal Institucional",
    "file": "CanalInstitucional.co_at_SD.json",
    "count": 43,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CanalISB.cl@SD",
    "name": "Canal ISB",
    "file": "CanalISB.cl_at_SD.json",
    "count": 32,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CanalOrbe21.ar@SD",
    "name": "Canal Orbe 21",
    "file": "CanalOrbe21.ar_at_SD.json",
-   "count": 25,
-   "from": 1793885400,
-   "to": 1793980800
+   "count": 27,
+   "from": 1793971800,
+   "to": 1794063600
   },
   {
    "id": "CanalRCN.co@SD",
    "name": "Canal RCN",
    "file": "CanalRCN.co_at_SD.json",
-   "count": 20,
-   "from": 1793889000,
-   "to": 1793982000
+   "count": 22,
+   "from": 1793975400,
+   "to": 1794065400
   },
   {
    "id": "CanalRural.br@SD",
    "name": "Canal Rural",
    "file": "CanalRural.br_at_SD.json",
-   "count": 21,
-   "from": 1793889000,
-   "to": 1793979000
+   "count": 24,
+   "from": 1793962800,
+   "to": 1794063600
   },
   {
    "id": "CanalSurAndalucia.es@SD",
    "name": "Canal Sur Andalucia",
    "file": "CanalSurAndalucia.es_at_SD.json",
-   "count": 6,
-   "from": 1793885400,
-   "to": 1793944800
+   "count": 13,
+   "from": 1794003000,
+   "to": 1794069600
   },
   {
    "id": "CanalTRO.co@SD",
    "name": "Canal TRO",
    "file": "CanalTRO.co_at_SD.json",
-   "count": 67,
-   "from": 1793880000,
-   "to": 1793980800
+   "count": 71,
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "CaracolInternacional.co@SD",
    "name": "Caracol Internacional",
    "file": "CaracolInternacional.co_at_SD.json",
-   "count": 47,
-   "from": 1793883600,
-   "to": 1793982600
+   "count": 48,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "CaracolTV.co@SD",
    "name": "Caracol TV",
    "file": "CaracolTV.co_at_SD.json",
-   "count": 47,
-   "from": 1793883600,
-   "to": 1793981700
+   "count": 43,
+   "from": 1793970000,
+   "to": 1794069000
   },
   {
    "id": "CartoonitoLatinAmerica.us@SD",
    "name": "Cartoonito Latin America",
    "file": "CartoonitoLatinAmerica.us_at_SD.json",
-   "count": 175,
-   "from": 1793889360,
-   "to": 1793976540
+   "count": 177,
+   "from": 1793976540,
+   "to": 1794063720
   },
   {
    "id": "CartoonNetwork.us@East",
    "name": "Cartoon Network",
    "file": "CartoonNetwork.us_at_East.json",
-   "count": 75,
-   "from": 1793889840,
-   "to": 1793976480
+   "count": 70,
+   "from": 1793976480,
+   "to": 1794063600
   },
   {
    "id": "CartoonNetworkLatinAmerica.us@Brazil",
    "name": "Cartoon Network Latin America",
    "file": "CartoonNetworkLatinAmerica.us_at_Brazil.json",
-   "count": 129,
-   "from": 1793889660,
-   "to": 1793976780
+   "count": 113,
+   "from": 1793976720,
+   "to": 1794066120
   },
   {
    "id": "CBCNewsNetwork.ca@SD",
    "name": "CBC News Network",
    "file": "CBCNewsNetwork.ca_at_SD.json",
-   "count": 24,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 26,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNews247.us@SD",
    "name": "CBS News 24/7",
    "file": "CBSNews247.us_at_SD.json",
-   "count": 29,
-   "from": 1793887200,
-   "to": 1793980800
+   "count": 30,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsBaltimore.us@SD",
    "name": "CBS News Baltimore",
    "file": "CBSNewsBaltimore.us_at_SD.json",
-   "count": 36,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 37,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsBayArea.us@SD",
    "name": "CBS News Bay Area",
    "file": "CBSNewsBayArea.us_at_SD.json",
-   "count": 34,
-   "from": 1793887200,
-   "to": 1793980800
+   "count": 35,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsBoston.us@SD",
    "name": "CBS News Boston",
    "file": "CBSNewsBoston.us_at_SD.json",
    "count": 33,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsChicago.us@SD",
    "name": "CBS News Chicago",
    "file": "CBSNewsChicago.us_at_SD.json",
    "count": 31,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsColorado.us@SD",
    "name": "CBS News Colorado",
    "file": "CBSNewsColorado.us_at_SD.json",
-   "count": 30,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 33,
+   "from": 1793973600,
+   "to": 1794067200
   },
   {
    "id": "CBSNewsDetroit.us@SD",
    "name": "CBS News Detroit",
    "file": "CBSNewsDetroit.us_at_SD.json",
-   "count": 35,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 36,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsLosAngeles.us@SD",
    "name": "CBS News Los Angeles",
    "file": "CBSNewsLosAngeles.us_at_SD.json",
-   "count": 33,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 34,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsMiami.us@SD",
    "name": "CBS News Miami",
    "file": "CBSNewsMiami.us_at_SD.json",
    "count": 36,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsMinnesota.us@SD",
    "name": "CBS News Minnesota",
    "file": "CBSNewsMinnesota.us_at_SD.json",
    "count": 32,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsNewYork.us@SD",
    "name": "CBS News New York",
    "file": "CBSNewsNewYork.us_at_SD.json",
-   "count": 29,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 30,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsPittsburgh.us@SD",
    "name": "CBS News Pittsburgh",
    "file": "CBSNewsPittsburgh.us_at_SD.json",
    "count": 37,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSNewsSacramento.us@SD",
    "name": "CBS News Sacramento",
    "file": "CBSNewsSacramento.us_at_SD.json",
    "count": 30,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CBSSportsGolazoNetwork.us@SD",
    "name": "CBS Sports Golazo Network",
    "file": "CBSSportsGolazoNetwork.us_at_SD.json",
-   "count": 18,
-   "from": 1793883600,
-   "to": 1793977200
+   "count": 23,
+   "from": 1793970000,
+   "to": 1794267000
   },
   {
    "id": "CBSSportsHQ.us@SD",
    "name": "CBS Sports HQ",
    "file": "CBSSportsHQ.us_at_SD.json",
    "count": 13,
-   "from": 1793836800,
-   "to": 1793980800
+   "from": 1793923200,
+   "to": 1794063600
   },
   {
    "id": "CCIChannel.hn@SD",
    "name": "CCI Channel",
    "file": "CCIChannel.hn_at_SD.json",
-   "count": 42,
-   "from": 1793889000,
-   "to": 1793976300
+   "count": 37,
+   "from": 1793976300,
+   "to": 1794063600
   },
   {
    "id": "CCPlutoTV.de@DACH",
    "name": "CC Pluto TV",
    "file": "CCPlutoTV.de_at_DACH.json",
    "count": 49,
-   "from": 1793889504,
-   "to": 1794094200
+   "from": 1793975904,
+   "to": 1794267000
   },
   {
    "id": "CCTV4America.cn@SD",
    "name": "CCTV-4 America",
    "file": "CCTV4America.cn_at_SD.json",
    "count": 42,
-   "from": 1793887200,
-   "to": 1793976300
+   "from": 1793976300,
+   "to": 1794065400
   },
   {
    "id": "CCTV4Europe.cn@SD",
    "name": "CCTV-4 Europe",
    "file": "CCTV4Europe.cn_at_SD.json",
    "count": 44,
-   "from": 1793887200,
-   "to": 1793979000
+   "from": 1793973600,
+   "to": 1794065400
   },
   {
    "id": "CDMInternacional.pr@SD",
    "name": "CDM Internacional",
    "file": "CDMInternacional.pr_at_SD.json",
-   "count": 40,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 39,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CDN.do@SD",
    "name": "CDN",
    "file": "CDN.do_at_SD.json",
-   "count": 29,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 30,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CelebrityNameGame.us@SD",
    "name": "Celebrity Name Game",
    "file": "CelebrityNameGame.us_at_SD.json",
    "count": 61,
-   "from": 1793888517,
-   "to": 1793976903
+   "from": 1793975453,
+   "to": 1794063836
   },
   {
    "id": "CGTN.cn@SD",
    "name": "CGTN",
    "file": "CGTN.cn_at_SD.json",
-   "count": 47,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 49,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CGTNDocumentary.cn@SD",
    "name": "CGTN Documentary",
    "file": "CGTNDocumentary.cn_at_SD.json",
    "count": 37,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "ChaosCity.us@Germany",
    "name": "Chaos City",
    "file": "ChaosCity.us_at_Germany.json",
-   "count": 57,
-   "from": 1793888830,
-   "to": 1794094200
+   "count": 58,
+   "from": 1793975770,
+   "to": 1794267000
   },
   {
    "id": "CheddarNews.us@SD",
    "name": "Cheddar News",
    "file": "CheddarNews.us_at_SD.json",
-   "count": 41,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 42,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Cine666byPlutoTV.de@FR",
    "name": "Cine 666 by Pluto TV",
    "file": "Cine666byPlutoTV.de_at_FR.json",
-   "count": 44,
-   "from": 1793889442,
-   "to": 1794180600
+   "count": 43,
+   "from": 1793975900,
+   "to": 1794267000
   },
   {
    "id": "CineActionbyPlutoTV.de@FR",
    "name": "Cine Action by Pluto TV",
    "file": "CineActionbyPlutoTV.de_at_FR.json",
-   "count": 15,
-   "from": 1793889508,
-   "to": 1794180600
+   "count": 14,
+   "from": 1793975062,
+   "to": 1794064180
   },
   {
    "id": "CineAdrenalina.us@SD",
    "name": "Cine Adrenalina",
    "file": "CineAdrenalina.us_at_SD.json",
    "count": 9,
-   "from": 1793888100,
-   "to": 1794267000
+   "from": 1793968200,
+   "to": 1794353400
   },
   {
    "id": "CinebyPlutoTV.de@FR",
    "name": "Cine by Pluto TV",
    "file": "CinebyPlutoTV.de_at_FR.json",
-   "count": 13,
-   "from": 1793886322,
-   "to": 1793976856
+   "count": 15,
+   "from": 1793976856,
+   "to": 1794267000
   },
   {
    "id": "Cinecanal.us@Pacific",
    "name": "Cinecanal",
    "file": "Cinecanal.us_at_Pacific.json",
-   "count": 23,
-   "from": 1793880000,
-   "to": 1793978100
+   "count": 26,
+   "from": 1793972880,
+   "to": 1794067620
   },
   {
    "id": "CineCatastrophebyPlutoTV.de@FR",
    "name": "Cine Catastrophe by Pluto TV",
    "file": "CineCatastrophebyPlutoTV.de_at_FR.json",
    "count": 16,
-   "from": 1793886345,
-   "to": 1793978692
+   "from": 1793972692,
+   "to": 1794267000
   },
   {
    "id": "CinedAsiebyPlutoTV.de@FR",
    "name": "Cine d'Asie by Pluto TV",
    "file": "CinedAsiebyPlutoTV.de_at_FR.json",
    "count": 15,
-   "from": 1793885529,
+   "from": 1793976123,
    "to": 1794180600
   },
   {
    "id": "CineHorreurbyPlutoTV.de@FR",
    "name": "Cine Horreur by Pluto TV",
    "file": "CineHorreurbyPlutoTV.de_at_FR.json",
-   "count": 43,
-   "from": 1793888527,
-   "to": 1794180600
+   "count": 40,
+   "from": 1793976864,
+   "to": 1794267000
   },
   {
    "id": "CineLatino.mx@SD",
    "name": "CineLatino",
    "file": "CineLatino.mx_at_SD.json",
-   "count": 31,
-   "from": 1793886300,
-   "to": 1793982300
+   "count": 33,
+   "from": 1793972700,
+   "to": 1794067500
   },
   {
    "id": "CinePremiere.us@SD",
    "name": "Cine Premiere",
    "file": "CinePremiere.us_at_SD.json",
    "count": 9,
-   "from": 1793886300,
-   "to": 1794267000
+   "from": 1793975400,
+   "to": 1794353400
   },
   {
    "id": "CinePride.us@SD",
    "name": "CinePride",
    "file": "CinePride.us_at_SD.json",
    "count": 2,
-   "from": 1793836800,
-   "to": 1794009600
+   "from": 1793923200,
+   "to": 1794096000
   },
   {
    "id": "CineRetrobyPlutoTV.de@FR",
    "name": "Cine Retro by Pluto TV",
    "file": "CineRetrobyPlutoTV.de_at_FR.json",
    "count": 13,
-   "from": 1793889062,
-   "to": 1794180600
+   "from": 1793974648,
+   "to": 1794067622
   },
   {
    "id": "CineRomancebyPlutoTV.de@FR",
    "name": "Cine Romance by Pluto TV",
    "file": "CineRomancebyPlutoTV.de_at_FR.json",
-   "count": 15,
-   "from": 1793889521,
-   "to": 1794180600
+   "count": 16,
+   "from": 1793974210,
+   "to": 1794267000
   },
   {
    "id": "CineSciFibyPlutoTV.de@FR",
    "name": "Cine Sci-Fi by Pluto TV",
    "file": "CineSciFibyPlutoTV.de_at_FR.json",
-   "count": 14,
-   "from": 1793885897,
-   "to": 1793979572
+   "count": 15,
+   "from": 1793973032,
+   "to": 1794267000
   },
   {
    "id": "CineSony.us@SD",
    "name": "Cine Sony",
    "file": "CineSony.us_at_SD.json",
-   "count": 17,
-   "from": 1793889660,
-   "to": 1793982480
+   "count": 14,
+   "from": 1793975940,
+   "to": 1794066540
   },
   {
    "id": "CineTerror.us@BR",
    "name": "Cine Terror",
    "file": "CineTerror.us_at_BR.json",
    "count": 15,
-   "from": 1793886420,
-   "to": 1794180600
+   "from": 1793975460,
+   "to": 1794267000
   },
   {
    "id": "CineThrillersbyPlutoTV.de@FR",
    "name": "Cine Thrillers by Pluto TV",
    "file": "CineThrillersbyPlutoTV.de_at_FR.json",
-   "count": 16,
-   "from": 1793887012,
-   "to": 1794180600
+   "count": 15,
+   "from": 1793974623,
+   "to": 1794267000
   },
   {
    "id": "CinevaultWesterns.us@SD",
    "name": "Cinevault Westerns",
    "file": "CinevaultWesterns.us_at_SD.json",
    "count": 16,
-   "from": 1793889000,
-   "to": 1793982300
+   "from": 1793974800,
+   "to": 1794066600
   },
   {
    "id": "CineWesternbyPlutoTV.de@FR",
    "name": "Cine Western by Pluto TV",
    "file": "CineWesternbyPlutoTV.de_at_FR.json",
    "count": 16,
-   "from": 1793884908,
-   "to": 1794180600
+   "from": 1793974162,
+   "to": 1794267000
   },
   {
    "id": "CitytvBogota.co@SD",
    "name": "Citytv Bogota",
    "file": "CitytvBogota.co_at_SD.json",
-   "count": 21,
-   "from": 1793889000,
-   "to": 1793979000
+   "count": 20,
+   "from": 1793975400,
+   "to": 1794070800
   },
   {
    "id": "Clan.es@SD",
    "name": "Clan",
    "file": "Clan.es_at_SD.json",
-   "count": 87,
-   "from": 1793889840,
-   "to": 1793977680
+   "count": 74,
+   "from": 1793976240,
+   "to": 1794063540
   },
   {
    "id": "Classica.us@SD",
    "name": "Classica",
    "file": "Classica.us_at_SD.json",
-   "count": 20,
-   "from": 1793887260,
-   "to": 1793977740
+   "count": 21,
+   "from": 1793971500,
+   "to": 1794064560
   },
   {
    "id": "ClassicMoviesChannel.us@SD",
    "name": "Classic Movies Channel",
    "file": "ClassicMoviesChannel.us_at_SD.json",
    "count": 13,
-   "from": 1793880900,
-   "to": 1793980800
+   "from": 1793968200,
+   "to": 1794068100
   },
   {
    "id": "ClassicTVComedy.us@SD",
    "name": "Classic TV Comedy",
    "file": "ClassicTVComedy.us_at_SD.json",
    "count": 51,
-   "from": 1793889048,
-   "to": 1794180600
+   "from": 1793975448,
+   "to": 1794267000
   },
   {
    "id": "ClassicTVDrama.us@SD",
    "name": "Classic TV Drama",
    "file": "ClassicTVDrama.us_at_SD.json",
-   "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 26,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "ClassicTVFamilies.us@CA",
    "name": "Classic TV: Families",
    "file": "ClassicTVFamilies.us_at_CA.json",
-   "count": 50,
-   "from": 1793888640,
-   "to": 1794094200
+   "count": 52,
+   "from": 1793975340,
+   "to": 1794267000
   },
   {
    "id": "CMT.us@East",
    "name": "CMT",
    "file": "CMT.us_at_East.json",
-   "count": 42,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 37,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CMTEqualPlay.us@SD",
    "name": "CMT Equal Play",
    "file": "CMTEqualPlay.us_at_SD.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CNNBrasil.br@SD",
    "name": "CNN Brasil",
    "file": "CNNBrasil.br_at_SD.json",
-   "count": 21,
-   "from": 1793880000,
-   "to": 1793976900
+   "count": 20,
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "CNNenEspanol.us@SD",
    "name": "CNN en Espanol",
    "file": "CNNenEspanol.us_at_SD.json",
-   "count": 32,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 30,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "CNNPortugal.pt@SD",
    "name": "CNN Portugal",
    "file": "CNNPortugal.pt_at_SD.json",
-   "count": 20,
-   "from": 1793889000,
-   "to": 1793979000
+   "count": 27,
+   "from": 1793975400,
+   "to": 1794063360
   },
   {
    "id": "ColorVision.do@SD",
    "name": "Color Vision",
    "file": "ColorVision.do_at_SD.json",
-   "count": 21,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 22,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "ComediaalobestiadePlutoTV.de@ES",
    "name": "Comedia a lo bestia de Pluto TV",
    "file": "ComediaalobestiadePlutoTV.de_at_ES.json",
    "count": 58,
-   "from": 1793888999,
-   "to": 1794094200
+   "from": 1793976081,
+   "to": 1794267000
   },
   {
    "id": "ComedyCentralenEspanol.us@SD",
    "name": "Comedy Central en Espanol",
    "file": "ComedyCentralenEspanol.us_at_SD.json",
    "count": 26,
-   "from": 1793889000,
-   "to": 1794267000
+   "from": 1793975400,
+   "to": 1794353400
   },
   {
    "id": "ComedyCentralLatinAmerica.us@Panregional",
    "name": "Comedy Central Latin America",
    "file": "ComedyCentralLatinAmerica.us_at_Panregional.json",
-   "count": 125,
-   "from": 1793888400,
-   "to": 1793977500
+   "count": 63,
+   "from": 1793976000,
+   "to": 1794064200
   },
   {
    "id": "ComedyCentralPlutoTV.us@BR",
    "name": "Comedy Central Pluto TV",
    "file": "ComedyCentralPlutoTV.us_at_BR.json",
    "count": 49,
-   "from": 1793889120,
-   "to": 1794180600
+   "from": 1793975520,
+   "to": 1794267000
   },
   {
    "id": "ComedyDynamics.us@SD",
    "name": "Comedy Dynamics",
    "file": "ComedyDynamics.us_at_SD.json",
-   "count": 23,
-   "from": 1793889540,
-   "to": 1793976420
+   "count": 20,
+   "from": 1793976420,
+   "to": 1794063900
   },
   {
    "id": "ConcertChannel.us@SD",
    "name": "Concert Channel",
    "file": "ConcertChannel.us_at_SD.json",
-   "count": 49,
-   "from": 1793885400,
-   "to": 1793979000
+   "count": 38,
+   "from": 1793975400,
+   "to": 1794067200
   },
   {
    "id": "CookingChannel.us@SD",
    "name": "Cooking Channel",
    "file": "CookingChannel.us_at_SD.json",
-   "count": 43,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 37,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "CookingPanda.us@SD",
    "name": "Cooking Panda",
    "file": "CookingPanda.us_at_SD.json",
-   "count": 108,
-   "from": 1793889489,
-   "to": 1793977200
+   "count": 110,
+   "from": 1793975764,
+   "to": 1794063600
   },
   {
    "id": "Cosmovision.co@SD",
    "name": "Cosmovision",
    "file": "Cosmovision.co_at_SD.json",
-   "count": 27,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 30,
+   "from": 1793975400,
+   "to": 1794065400
   },
   {
    "id": "CourtTV.us@SD",
    "name": "Court TV",
    "file": "CourtTV.us_at_SD.json",
-   "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 30,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Crime360.us@SD",
    "name": "Crime 360",
    "file": "Crime360.us_at_SD.json",
-   "count": 54,
-   "from": 1793889767,
-   "to": 1793976619
+   "count": 45,
+   "from": 1793976619,
+   "to": 1794064579
   },
   {
    "id": "CrimenesImperfectos.us@SD",
    "name": "Crimenes Imperfectos",
    "file": "CrimenesImperfectos.us_at_SD.json",
-   "count": 34,
-   "from": 1793889000,
-   "to": 1794267000
+   "count": 33,
+   "from": 1793975400,
+   "to": 1794353400
   },
   {
    "id": "CrimePlusInvestigation.us@SD",
    "name": "Crime + Investigation",
    "file": "CrimePlusInvestigation.us_at_SD.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Cristovision.co@SD",
    "name": "Cristovision",
    "file": "Cristovision.co_at_SD.json",
-   "count": 36,
-   "from": 1793889600,
-   "to": 1793983800
+   "count": 23,
+   "from": 1793976000,
+   "to": 1794031200
   },
   {
    "id": "CSI.us@SD",
    "name": "CSI",
    "file": "CSI.us_at_SD.json",
-   "count": 27,
-   "from": 1793888100,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "CSIenespanol.us@SD",
    "name": "CSI en espanol",
    "file": "CSIenespanol.us_at_SD.json",
    "count": 19,
-   "from": 1793887200,
-   "to": 1794267000
+   "from": 1793973600,
+   "to": 1794353400
   },
   {
    "id": "CuriosityChannel.de@SD",
    "name": "Curiosity Channel",
    "file": "CuriosityChannel.de_at_SD.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "CuriosityNOW.de@EN",
    "name": "Curiosity NOW",
    "file": "CuriosityNOW.de_at_EN.json",
-   "count": 27,
-   "from": 1793886840,
-   "to": 1793978940
+   "count": 32,
+   "from": 1793976060,
+   "to": 1794064440
   },
   {
    "id": "DarkMatterTV.us@SD",
    "name": "Dark Matter TV",
    "file": "DarkMatterTV.us_at_SD.json",
-   "count": 14,
-   "from": 1793884405,
-   "to": 1793981074
+   "count": 13,
+   "from": 1793975321,
+   "to": 1794066224
   },
   {
    "id": "Dateline247.us@SD",
    "name": "Dateline 24/7",
    "file": "Dateline247.us_at_SD.json",
    "count": 22,
-   "from": 1793887800,
-   "to": 1793976840
+   "from": 1793976840,
+   "to": 1794065880
   },
   {
    "id": "DaystarTV.us@SD",
    "name": "Daystar TV",
    "file": "DaystarTV.us_at_SD.json",
-   "count": 58,
-   "from": 1793889000,
-   "to": 1793979000
+   "count": 55,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "DaystarTVEspanol.us@SD",
    "name": "Daystar TV Espanol",
    "file": "DaystarTVEspanol.us_at_SD.json",
-   "count": 64,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 61,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "DAZN3.uk@Portugal",
    "name": "DAZN 3",
    "file": "DAZN3.uk_at_Portugal.json",
-   "count": 11,
-   "from": 1793887200,
-   "to": 1793979000
+   "count": 16,
+   "from": 1793971800,
+   "to": 1794063900
   },
   {
    "id": "DeadlyWomen.us@UK",
    "name": "Deadly Women",
    "file": "DeadlyWomen.us_at_UK.json",
    "count": 29,
-   "from": 1793887260,
-   "to": 1794180600
+   "from": 1793974080,
+   "to": 1794267000
   },
   {
    "id": "DealorNoDeal.us@SD",
    "name": "Deal or No Deal",
    "file": "DealorNoDeal.us_at_SD.json",
-   "count": 60,
-   "from": 1793887200,
-   "to": 1793977220
+   "count": 64,
+   "from": 1793973600,
+   "to": 1794063580
   },
   {
    "id": "Degrassi.us@US",
    "name": "Degrassi",
    "file": "Degrassi.us_at_US.json",
    "count": 107,
-   "from": 1793888476,
-   "to": 1793977005
+   "from": 1793975400,
+   "to": 1794064013
   },
   {
    "id": "DePeliculaLatinAmerica.mx@SD",
    "name": "De Pelicula Latin America",
    "file": "DePeliculaLatinAmerica.mx_at_SD.json",
-   "count": 48,
-   "from": 1793885760,
-   "to": 1793982120
+   "count": 39,
+   "from": 1793972220,
+   "to": 1794065820
   },
   {
    "id": "DeporTV.ar@SD",
    "name": "DeporTV",
    "file": "DeporTV.ar_at_SD.json",
-   "count": 22,
-   "from": 1793869200,
-   "to": 1793980800
+   "count": 25,
+   "from": 1793967300,
+   "to": 1794068100
   },
   {
    "id": "DesignatedSurvivor.us@SD",
    "name": "Designated Survivor",
    "file": "DesignatedSurvivor.us_at_SD.json",
-   "count": 31,
-   "from": 1793886636,
-   "to": 1793979028
+   "count": 29,
+   "from": 1793976108,
+   "to": 1794066204
   },
   {
    "id": "DestinationAmerica.us@SD",
    "name": "Destination America",
    "file": "DestinationAmerica.us_at_SD.json",
-   "count": 48,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 39,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "DHE.us@SD",
    "name": "DHE",
    "file": "DHE.us_at_SD.json",
-   "count": 30,
-   "from": 1793883300,
-   "to": 1793981700
+   "count": 29,
+   "from": 1793971500,
+   "to": 1794066900
   },
   {
    "id": "Digital15.do@SD",
    "name": "Digital 15",
    "file": "Digital15.do_at_SD.json",
-   "count": 17,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 16,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "DiscoveryChannelLatinAmerica.us@Brazil",
    "name": "Discovery Channel Latin America",
    "file": "DiscoveryChannelLatinAmerica.us_at_Brazil.json",
-   "count": 35,
-   "from": 1793888460,
-   "to": 1793977980
+   "count": 30,
+   "from": 1793976840,
+   "to": 1794064260
   },
   {
    "id": "DiscoveryKidsLatinAmerica.us@Brazil",
    "name": "Discovery Kids Latin America",
    "file": "DiscoveryKidsLatinAmerica.us_at_Brazil.json",
-   "count": 125,
-   "from": 1793889720,
-   "to": 1793976840
+   "count": 120,
+   "from": 1793976840,
+   "to": 1794064800
   },
   {
    "id": "DiscoveryTheaterLatinAmerica.us@SD",
    "name": "Discovery Theater Latin America",
    "file": "DiscoveryTheaterLatinAmerica.us_at_SD.json",
-   "count": 63,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 65,
+   "from": 1793975760,
+   "to": 1794068640
   },
   {
    "id": "DiscoveryTurboLatinAmerica.us@Panregional",
    "name": "Discovery Turbo Latin America",
    "file": "DiscoveryTurboLatinAmerica.us_at_Panregional.json",
    "count": 34,
-   "from": 1793888640,
-   "to": 1793976600
+   "from": 1793976600,
+   "to": 1794065760
   },
   {
    "id": "DiscoveryWorld.us@Brazil",
    "name": "Discovery World",
    "file": "DiscoveryWorld.us_at_Brazil.json",
    "count": 53,
-   "from": 1793889360,
-   "to": 1793978640
+   "from": 1793975760,
+   "to": 1794065040
   },
   {
    "id": "DisneyChannel.us@East",
    "name": "Disney Channel",
    "file": "DisneyChannel.us_at_East.json",
-   "count": 49,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 46,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "DisneyChannelLatinAmerica.ar@Center",
    "name": "Disney Channel Latin America",
    "file": "DisneyChannelLatinAmerica.ar_at_Center.json",
-   "count": 109,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 100,
+   "from": 1793975400,
+   "to": 1794064500
   },
   {
    "id": "DisneyJrLatinAmerica.ar@North",
    "name": "Disney Jr. Latin America",
    "file": "DisneyJrLatinAmerica.ar_at_North.json",
-   "count": 49,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 47,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "DisneyJunior.us@East",
    "name": "Disney Junior",
    "file": "DisneyJunior.us_at_East.json",
-   "count": 57,
-   "from": 1793888700,
-   "to": 1793976600
+   "count": 55,
+   "from": 1793976600,
+   "to": 1794063600
   },
   {
    "id": "DisneyXD.us@East",
    "name": "Disney XD",
    "file": "DisneyXD.us_at_East.json",
    "count": 49,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "DistritoComedia.mx@SD",
    "name": "Distrito Comedia",
    "file": "DistritoComedia.mx_at_SD.json",
    "count": 25,
-   "from": 1793882400,
-   "to": 1793986200
+   "from": 1793964000,
+   "to": 1794072600
   },
   {
    "id": "DoctorWhoClassic.us@US",
    "name": "Doctor Who Classic",
    "file": "DoctorWhoClassic.us_at_US.json",
-   "count": 53,
-   "from": 1793889660,
-   "to": 1794094200
+   "count": 54,
+   "from": 1793975880,
+   "to": 1794267000
   },
   {
    "id": "DocumentaryPlus.us@International",
    "name": "Documentary+",
    "file": "DocumentaryPlus.us_at_International.json",
-   "count": 26,
-   "from": 1793888477,
-   "to": 1793977117
+   "count": 14,
+   "from": 1793971633,
+   "to": 1794064174
   },
   {
    "id": "DogtheBountyHunter.us@UK",
    "name": "Dog the Bounty Hunter",
    "file": "DogtheBountyHunter.us_at_UK.json",
    "count": 40,
-   "from": 1793889195,
-   "to": 1793976585
+   "from": 1793976585,
+   "to": 1794180600
   },
   {
    "id": "DogWhisperer.us@UK",
    "name": "Dog Whisperer",
    "file": "DogWhisperer.us_at_UK.json",
-   "count": 34,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 29,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "DontTellTheBride.uk@SD",
    "name": "Don't Tell The Bride",
    "file": "DontTellTheBride.uk_at_SD.json",
-   "count": 23,
-   "from": 1793889842,
-   "to": 1793976271
+   "count": 24,
+   "from": 1793976271,
+   "to": 1794064933
   },
   {
    "id": "DuckDynasty.us@UK",
    "name": "Duck Dynasty",
    "file": "DuckDynasty.us_at_UK.json",
-   "count": 54,
-   "from": 1793889360,
-   "to": 1794180600
+   "count": 56,
+   "from": 1793976600,
+   "to": 1794267000
   },
   {
    "id": "E.us@East",
    "name": "E!",
    "file": "E.us_at_East.json",
-   "count": 20,
-   "from": 1793878200,
-   "to": 1793979000
+   "count": 27,
+   "from": 1793975400,
+   "to": 1794067200
   },
   {
    "id": "EbonyTVbyLionsgate.us@SD",
    "name": "Ebony TV by Lionsgate",
    "file": "EbonyTVbyLionsgate.us_at_SD.json",
-   "count": 38,
-   "from": 1793888815,
-   "to": 1793977523
+   "count": 33,
+   "from": 1793976015,
+   "to": 1794063750
   },
   {
    "id": "EcuadorTV.ec@SD",
    "name": "Ecuador TV",
    "file": "EcuadorTV.ec_at_SD.json",
-   "count": 24,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 25,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "ElectricNow.us@SD",
    "name": "Electric Now",
    "file": "ElectricNow.us_at_SD.json",
-   "count": 24,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 22,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "ElNueve.ar@SD",
    "name": "El Nueve",
    "file": "ElNueve.ar_at_SD.json",
-   "count": 21,
-   "from": 1793885400,
-   "to": 1793979000
+   "count": 23,
+   "from": 1793971800,
+   "to": 1794063600
   },
   {
    "id": "ElTrece.ar@SD",
    "name": "El Trece",
    "file": "ElTrece.ar_at_SD.json",
    "count": 32,
-   "from": 1793885400,
-   "to": 1793977200
+   "from": 1793971800,
+   "to": 1794085200
   },
   {
    "id": "Encuentro.ar@SD",
    "name": "Encuentro",
    "file": "Encuentro.ar_at_SD.json",
-   "count": 41,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 46,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Enlace.cr@SD",
    "name": "Enlace",
    "file": "Enlace.cr_at_SD.json",
-   "count": 44,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 41,
+   "from": 1793975400,
+   "to": 1794070800
   },
   {
    "id": "EntertainmentTonight.us@SD",
    "name": "Entertainment Tonight",
    "file": "EntertainmentTonight.us_at_SD.json",
    "count": 50,
-   "from": 1793889000,
+   "from": 1793975400,
    "to": 1794180600
   },
   {
@@ -1922,407 +1922,407 @@
    "name": "ESNE TV",
    "file": "ESNETV.us_at_SD.json",
    "count": 30,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "ESPN.br@SD",
    "name": "ESPN",
    "file": "ESPN.br_at_SD.json",
-   "count": 17,
-   "from": 1793887200,
-   "to": 1793980800
+   "count": 19,
+   "from": 1793973600,
+   "to": 1794070800
   },
   {
    "id": "ESPN4LatinAmerica.us@South",
    "name": "ESPN 4 Latin America",
    "file": "ESPN4LatinAmerica.us_at_South.json",
-   "count": 15,
-   "from": 1793887200,
-   "to": 1793984400
+   "count": 21,
+   "from": 1793970000,
+   "to": 1794065700
   },
   {
    "id": "EstrellaGames.us@SD",
    "name": "Estrella Games",
    "file": "EstrellaGames.us_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977201
+   "from": 1793973601,
+   "to": 1794063600
   },
   {
    "id": "EstrellaNews.us@SD",
    "name": "Estrella News",
    "file": "EstrellaNews.us_at_SD.json",
-   "count": 36,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 38,
+   "from": 1793975400,
+   "to": 1794074400
   },
   {
    "id": "EstrellaTV.us@SD",
    "name": "Estrella TV",
    "file": "EstrellaTV.us_at_SD.json",
-   "count": 43,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 45,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "EuronewsGerman.fr@SD",
    "name": "Euronews German",
    "file": "EuronewsGerman.fr_at_SD.json",
-   "count": 129,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 146,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "EuronewsPortuguese.fr@SD",
    "name": "Euronews Portuguese",
    "file": "EuronewsPortuguese.fr_at_SD.json",
-   "count": 116,
-   "from": 1793880000,
-   "to": 1793977200
+   "count": 161,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "EuronewsSpanish.fr@SD",
    "name": "Euronews Spanish",
    "file": "EuronewsSpanish.fr_at_SD.json",
-   "count": 78,
-   "from": 1793888100,
-   "to": 1793977200
+   "count": 97,
+   "from": 1793976240,
+   "to": 1794063600
   },
   {
    "id": "EuropaEuropa.ar@SD",
    "name": "Europa Europa",
    "file": "EuropaEuropa.ar_at_SD.json",
-   "count": 33,
-   "from": 1793883900,
-   "to": 1793980500
+   "count": 31,
+   "from": 1793970300,
+   "to": 1794070500
   },
   {
    "id": "F1Channel.ie@US",
    "name": "F1 Channel",
    "file": "F1Channel.ie_at_US.json",
    "count": 15,
-   "from": 1793887366,
-   "to": 1793980506
+   "from": 1793972714,
+   "to": 1794064546
   },
   {
    "id": "FailArmy.us@Brazil",
    "name": "FailArmy",
    "file": "FailArmy.us_at_Brazil.json",
    "count": 47,
-   "from": 1793889840,
-   "to": 1794180600
+   "from": 1793976360,
+   "to": 1794267000
   },
   {
    "id": "FamilyTies.us@SD",
    "name": "Family Ties",
    "file": "FamilyTies.us_at_SD.json",
-   "count": 51,
-   "from": 1793888100,
-   "to": 1794180600
+   "count": 52,
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "Farscape.us@SD",
    "name": "Farscape",
    "file": "Farscape.us_at_SD.json",
    "count": 54,
-   "from": 1793888040,
-   "to": 1793977260
+   "from": 1793974080,
+   "to": 1794063360
   },
   {
    "id": "FastTV.us@SD",
    "name": "Fast TV",
    "file": "FastTV.us_at_SD.json",
-   "count": 32,
-   "from": 1793888430,
-   "to": 1794180600
+   "count": 53,
+   "from": 1793974339,
+   "to": 1794267000
   },
   {
    "id": "FBIFiles.us@UK",
    "name": "FBI Files",
    "file": "FBIFiles.us_at_UK.json",
    "count": 49,
-   "from": 1793887730,
-   "to": 1793979333
+   "from": 1793974485,
+   "to": 1794065122
   },
   {
    "id": "FearFactor.us@US",
    "name": "Fear Factor",
    "file": "FearFactor.us_at_US.json",
-   "count": 29,
-   "from": 1793887746,
-   "to": 1793979475
+   "count": 26,
+   "from": 1793976182,
+   "to": 1794064530
   },
   {
    "id": "FIFAPlus.uk@English",
    "name": "FIFA+",
    "file": "FIFAPlus.uk_at_English.json",
-   "count": 15,
-   "from": 1793886360,
-   "to": 1793977140
+   "count": 17,
+   "from": 1793970960,
+   "to": 1794063600
   },
   {
    "id": "FightNetwork.ca@SD",
    "name": "Fight Network",
    "file": "FightNetwork.ca_at_SD.json",
-   "count": 26,
-   "from": 1793887200,
-   "to": 1793979000
+   "count": 22,
+   "from": 1793975400,
+   "to": 1794067200
   },
   {
    "id": "FilmArts.ar@Panregional",
    "name": "Film & Arts",
    "file": "FilmArts.ar_at_Panregional.json",
-   "count": 28,
-   "from": 1793887200,
-   "to": 1793976900
+   "count": 29,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Filmex.mx@SD",
    "name": "Filmex",
    "file": "Filmex.mx_at_SD.json",
    "count": 13,
-   "from": 1793886240,
-   "to": 1793980020
+   "from": 1793973600,
+   "to": 1794065640
   },
   {
    "id": "FilmexClasico.mx@SD",
    "name": "Filmex Clasico",
    "file": "FilmexClasico.mx_at_SD.json",
    "count": 14,
-   "from": 1793886660,
-   "to": 1793979240
+   "from": 1793973900,
+   "to": 1794065760
   },
   {
    "id": "FishTV.br@SD",
    "name": "Fish TV",
    "file": "FishTV.br_at_SD.json",
-   "count": 39,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 38,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "FlicksofFury.us@SD",
    "name": "Flicks of Fury",
    "file": "FlicksofFury.us_at_SD.json",
    "count": 13,
-   "from": 1793886300,
-   "to": 1793976300
+   "from": 1793976300,
+   "to": 1794063600
   },
   {
    "id": "FoodNetwork.us@East",
    "name": "Food Network",
    "file": "FoodNetwork.us_at_East.json",
-   "count": 26,
-   "from": 1793887200,
-   "to": 1793980800
+   "count": 44,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "FoodNetworkLatinAmerica.us@Panregional",
    "name": "Food Network Latin America",
    "file": "FoodNetworkLatinAmerica.us_at_Panregional.json",
    "count": 42,
-   "from": 1793888760,
-   "to": 1793976720
+   "from": 1793975760,
+   "to": 1794065820
   },
   {
    "id": "ForensicFiles.us@SD",
    "name": "Forensic Files",
    "file": "ForensicFiles.us_at_SD.json",
-   "count": 101,
-   "from": 1793889000,
-   "to": 1793977258
+   "count": 103,
+   "from": 1793975400,
+   "to": 1794064813
   },
   {
    "id": "ForeverKids.us@SD",
    "name": "Forever Kids",
    "file": "ForeverKids.us_at_SD.json",
-   "count": 57,
-   "from": 1793888580,
-   "to": 1794180600
+   "count": 56,
+   "from": 1793976300,
+   "to": 1794267000
   },
   {
    "id": "FoxBusinessNetwork.us@SD",
    "name": "Fox Business Network",
    "file": "FoxBusinessNetwork.us_at_SD.json",
-   "count": 30,
-   "from": 1793887200,
-   "to": 1793984400
+   "count": 32,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "FoxDeportes.us@SD",
    "name": "Fox Deportes",
    "file": "FoxDeportes.us_at_SD.json",
-   "count": 25,
-   "from": 1793887200,
-   "to": 1793980800
+   "count": 26,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "FoxNewsChannel.us@SD",
    "name": "Fox News Channel",
    "file": "FoxNewsChannel.us_at_SD.json",
-   "count": 27,
-   "from": 1793883600,
-   "to": 1793980800
+   "count": 28,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "FoxSports1.us@HD",
    "name": "Fox Sports 1",
    "file": "FoxSports1.us_at_HD.json",
-   "count": 22,
-   "from": 1793883600,
-   "to": 1793977200
+   "count": 21,
+   "from": 1793970000,
+   "to": 1794067200
   },
   {
    "id": "FoxWeather.us@SD",
    "name": "Fox Weather",
    "file": "FoxWeather.us_at_SD.json",
-   "count": 7,
-   "from": 1793883600,
-   "to": 1793984400
+   "count": 12,
+   "from": 1793970000,
+   "to": 1794070800
   },
   {
    "id": "France2.fr@SD",
    "name": "France 2",
    "file": "France2.fr_at_SD.json",
-   "count": 33,
-   "from": 1793887500,
-   "to": 1793978100
+   "count": 37,
+   "from": 1793973900,
+   "to": 1794063600
   },
   {
    "id": "France4.fr@SD",
    "name": "France 4",
    "file": "France4.fr_at_SD.json",
-   "count": 32,
-   "from": 1793888700,
-   "to": 1793977800
+   "count": 30,
+   "from": 1793975100,
+   "to": 1794067200
   },
   {
    "id": "France5.fr@SD",
    "name": "France 5",
    "file": "France5.fr_at_SD.json",
-   "count": 36,
-   "from": 1793885700,
-   "to": 1793978400
+   "count": 34,
+   "from": 1793972100,
+   "to": 1794065100
   },
   {
    "id": "Franceinfo.fr@SD",
    "name": "Franceinfo",
    "file": "Franceinfo.fr_at_SD.json",
    "count": 5,
-   "from": 1793880000,
-   "to": 1793988000
+   "from": 1793966400,
+   "to": 1794074400
   },
   {
    "id": "FREEDOM.ua@SD",
    "name": "FREEDOM",
    "file": "FREEDOM.ua_at_SD.json",
    "count": 6,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "FuboSportsNetwork.us@SD",
    "name": "Fubo Sports Network",
    "file": "FuboSportsNetwork.us_at_SD.json",
    "count": 19,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "FunBox.cl@SD",
    "name": "FunBox",
    "file": "FunBox.cl_at_SD.json",
    "count": 69,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "FunnyAF.us@SD",
    "name": "Funny AF",
    "file": "FunnyAF.us_at_SD.json",
-   "count": 82,
-   "from": 1793889010,
-   "to": 1794180600
+   "count": 87,
+   "from": 1793975410,
+   "to": 1794267000
   },
   {
    "id": "Fuse.us@East",
    "name": "Fuse",
    "file": "Fuse.us_at_East.json",
-   "count": 38,
-   "from": 1793887200,
-   "to": 1793979000
+   "count": 30,
+   "from": 1793973600,
+   "to": 1794065400
   },
   {
    "id": "FUTV.cr@SD",
    "name": "FUTV",
    "file": "FUTV.cr_at_SD.json",
-   "count": 22,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 24,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "FXLatinAmerica.us@Panregional",
    "name": "FX Latin America",
    "file": "FXLatinAmerica.us_at_Panregional.json",
-   "count": 14,
-   "from": 1793886360,
-   "to": 1793980020
+   "count": 15,
+   "from": 1793972520,
+   "to": 1794067260
   },
   {
    "id": "GaliciaTVEuropa.es@SD",
    "name": "Galicia TV Europa",
    "file": "GaliciaTVEuropa.es_at_SD.json",
-   "count": 21,
-   "from": 1793888820,
-   "to": 1793984400
+   "count": 22,
+   "from": 1793975220,
+   "to": 1794063600
   },
   {
    "id": "GalxyTV.us@SD",
    "name": "Galxy TV",
    "file": "GalxyTV.us_at_SD.json",
    "count": 2,
-   "from": 1793836800,
-   "to": 1794009600
+   "from": 1793923200,
+   "to": 1794096000
   },
   {
    "id": "GameShowCentral.us@SD",
    "name": "Game Show Central",
    "file": "GameShowCentral.us_at_SD.json",
-   "count": 107,
-   "from": 1793888640,
-   "to": 1793976566
+   "count": 106,
+   "from": 1793976540,
+   "to": 1794064687
   },
   {
    "id": "GameShowNetwork.us@East",
    "name": "Game Show Network",
    "file": "GameShowNetwork.us_at_East.json",
    "count": 43,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Gametoon.nl@SD",
    "name": "Gametoon",
    "file": "Gametoon.nl_at_SD.json",
    "count": 6,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "GarageTVLatinAmerica.ar@SD",
    "name": "Garage TV Latin America",
    "file": "GarageTVLatinAmerica.ar_at_SD.json",
-   "count": 46,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 45,
+   "from": 1793975400,
+   "to": 1794066300
   },
   {
    "id": "GarfieldandFriends.us@US",
    "name": "Garfield and Friends",
    "file": "GarfieldandFriends.us_at_US.json",
-   "count": 54,
-   "from": 1793888760,
+   "count": 52,
+   "from": 1793976780,
    "to": 1794180600
   },
   {
@@ -2330,1231 +2330,1231 @@
    "name": "Get.factual",
    "file": "Getfactual.us_at_UK.json",
    "count": 25,
-   "from": 1793886947,
-   "to": 1793977225
+   "from": 1793973615,
+   "to": 1794063556
   },
   {
    "id": "GhostHunters.us@UK",
    "name": "Ghost Hunters",
    "file": "GhostHunters.us_at_UK.json",
    "count": 83,
-   "from": 1793887500,
-   "to": 1793978524
+   "from": 1793974500,
+   "to": 1794064473
   },
   {
    "id": "GirlfriendsFilms.us@SD",
    "name": "Girlfriends Films",
    "file": "GirlfriendsFilms.us_at_SD.json",
    "count": 59,
-   "from": 1793888580,
-   "to": 1794180600
+   "from": 1793975640,
+   "to": 1794267000
   },
   {
    "id": "GlobalTV.pe@SD",
    "name": "Global TV",
    "file": "GlobalTV.pe_at_SD.json",
-   "count": 13,
-   "from": 1793880000,
-   "to": 1793984400
+   "count": 14,
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "GloboNews.br@SD",
    "name": "GloboNews",
    "file": "GloboNews.br_at_SD.json",
-   "count": 14,
-   "from": 1793887200,
-   "to": 1793980800
+   "count": 7,
+   "from": 1794031200,
+   "to": 1794063600
   },
   {
    "id": "Golden.mx@Panregional",
    "name": "Golden",
    "file": "Golden.mx_at_Panregional.json",
-   "count": 25,
-   "from": 1793883120,
-   "to": 1793981040
+   "count": 28,
+   "from": 1793970180,
+   "to": 1794066000
   },
   {
    "id": "GoldenEdge.mx@Panregional",
    "name": "Golden Edge",
    "file": "GoldenEdge.mx_at_Panregional.json",
    "count": 15,
-   "from": 1793884320,
-   "to": 1793978160
+   "from": 1793971860,
+   "to": 1794066360
   },
   {
    "id": "GoldenPremier.mx@SD",
    "name": "Golden Premier",
    "file": "GoldenPremier.mx_at_SD.json",
-   "count": 31,
-   "from": 1793884860,
-   "to": 1793980920
+   "count": 32,
+   "from": 1793970900,
+   "to": 1794067980
   },
   {
    "id": "GoldenPremier2.mx@SD",
    "name": "Golden Premier 2",
    "file": "GoldenPremier2.mx_at_SD.json",
    "count": 15,
-   "from": 1793888460,
-   "to": 1793982420
+   "from": 1793974500,
+   "to": 1794065400
   },
   {
    "id": "GolfChannelLatinAmerica.us@SD",
    "name": "Golf Channel Latin America",
    "file": "GolfChannelLatinAmerica.us_at_SD.json",
-   "count": 27,
-   "from": 1793881800,
-   "to": 1793993400
+   "count": 21,
+   "from": 1793968200,
+   "to": 1794079800
   },
   {
    "id": "GordonRamsaysHellsKitchen.us@SD",
    "name": "Gordon Ramsay's Hell's Kitchen",
    "file": "GordonRamsaysHellsKitchen.us_at_SD.json",
    "count": 28,
-   "from": 1793889000,
+   "from": 1793975400,
    "to": 1794180600
   },
   {
    "id": "GravitasMovies.us@SD",
    "name": "Gravitas Movies",
    "file": "GravitasMovies.us_at_SD.json",
-   "count": 14,
-   "from": 1793879520,
-   "to": 1793978437
+   "count": 15,
+   "from": 1793971376,
+   "to": 1794068725
   },
   {
    "id": "GritXtra.us@SD",
    "name": "Grit Xtra",
    "file": "GritXtra.us_at_SD.json",
-   "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 26,
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "GrjngoWesternMovies.de@SD",
    "name": "Grjngo Western Movies",
    "file": "GrjngoWesternMovies.de_at_SD.json",
    "count": 15,
-   "from": 1793888027,
-   "to": 1793980281
+   "from": 1793974250,
+   "to": 1794066569
   },
   {
    "id": "Guatevision.gt@SD",
    "name": "Guatevision",
    "file": "Guatevision.gt_at_SD.json",
-   "count": 44,
-   "from": 1793881800,
-   "to": 1793980800
+   "count": 49,
+   "from": 1793968200,
+   "to": 1794063600
   },
   {
    "id": "Gunsmoke.us@SD",
    "name": "Gunsmoke",
    "file": "Gunsmoke.us_at_SD.json",
-   "count": 36,
-   "from": 1793889000,
-   "to": 1794180600
+   "count": 32,
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "HallmarkMoviesMore.us@SD",
    "name": "Hallmark Movies & More",
    "file": "HallmarkMoviesMore.us_at_SD.json",
-   "count": 24,
-   "from": 1793888597,
-   "to": 1793980955
+   "count": 33,
+   "from": 1793975014,
+   "to": 1794180600
   },
   {
    "id": "HBCUGOSports.us@SD",
    "name": "HBCU-GO Sports",
    "file": "HBCUGOSports.us_at_SD.json",
-   "count": 17,
-   "from": 1793883600,
-   "to": 1793984400
+   "count": 18,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "HBOFamilyLatinAmerica.us@SD",
    "name": "HBO Family Latin America",
    "file": "HBOFamilyLatinAmerica.us_at_SD.json",
    "count": 30,
-   "from": 1793886120,
-   "to": 1793981220
+   "from": 1793972340,
+   "to": 1794067020
   },
   {
    "id": "HBOLatinAmerica.us@SD",
    "name": "HBO Latin America",
    "file": "HBOLatinAmerica.us_at_SD.json",
-   "count": 42,
-   "from": 1793886660,
-   "to": 1793985180
+   "count": 28,
+   "from": 1793974440,
+   "to": 1794067380
   },
   {
    "id": "HBOPlusLatinAmerica.us@SD",
    "name": "HBO+ Latin America",
    "file": "HBOPlusLatinAmerica.us_at_SD.json",
-   "count": 28,
-   "from": 1793882760,
-   "to": 1793979000
+   "count": 26,
+   "from": 1793972700,
+   "to": 1794069600
   },
   {
    "id": "HCH.hn@SD",
    "name": "HCH",
    "file": "HCH.hn_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Heartland.us@Eastern",
    "name": "Heartland",
    "file": "Heartland.us_at_Eastern.json",
-   "count": 29,
-   "from": 1793888760,
-   "to": 1793976660
+   "count": 30,
+   "from": 1793976660,
+   "to": 1794063360
   },
   {
    "id": "HellsKitchen.us@UK",
    "name": "Hell's Kitchen",
    "file": "HellsKitchen.us_at_UK.json",
    "count": 30,
-   "from": 1793889600,
-   "to": 1794180600
+   "from": 1793976240,
+   "to": 1794267000
   },
   {
    "id": "HGTVLatinAmerica.us@Panregional",
    "name": "HGTV Latin America",
    "file": "HGTVLatinAmerica.us_at_Panregional.json",
    "count": 45,
-   "from": 1793888820,
-   "to": 1793978100
+   "from": 1793975400,
+   "to": 1794064500
   },
   {
    "id": "HighwaytoHeaven.us@UK",
    "name": "Highway to Heaven",
    "file": "HighwaytoHeaven.us_at_UK.json",
-   "count": 52,
-   "from": 1793887349,
-   "to": 1794180600
+   "count": 53,
+   "from": 1793973622,
+   "to": 1794067016
   },
   {
    "id": "History.br@SD",
    "name": "History",
    "file": "History.br_at_SD.json",
-   "count": 34,
-   "from": 1793889300,
-   "to": 1793978700
+   "count": 37,
+   "from": 1793975220,
+   "to": 1794064260
   },
   {
    "id": "History2LatinAmerica.us@Brazil",
    "name": "History 2 Latin America",
    "file": "History2LatinAmerica.us_at_Brazil.json",
-   "count": 37,
-   "from": 1793888520,
-   "to": 1793978880
+   "count": 38,
+   "from": 1793975880,
+   "to": 1794063660
   },
   {
    "id": "HistoryHit.uk@SD",
    "name": "History Hit",
    "file": "HistoryHit.uk_at_SD.json",
-   "count": 34,
-   "from": 1793887521,
-   "to": 1793980792
+   "count": 26,
+   "from": 1793976247,
+   "to": 1794063569
   },
   {
    "id": "HistoryLatinAmerica.us@Panregional",
    "name": "History Latin America",
    "file": "HistoryLatinAmerica.us_at_Panregional.json",
-   "count": 30,
-   "from": 1793887200,
-   "to": 1793979000
+   "count": 29,
+   "from": 1793973600,
+   "to": 1794064500
   },
   {
    "id": "HiYAH.us@SD",
    "name": "Hi-YAH!",
    "file": "HiYAH.us_at_SD.json",
    "count": 12,
-   "from": 1793889794,
-   "to": 1793976290
+   "from": 1793976290,
+   "to": 1794069343
   },
   {
    "id": "HLN.us@SD",
    "name": "HLN",
    "file": "HLN.us_at_SD.json",
-   "count": 50,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 51,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "HolaTVLatinAmerica.us@SD",
    "name": "Hola! TV Latin America",
    "file": "HolaTVLatinAmerica.us_at_SD.json",
-   "count": 38,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 37,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Homeful.ca@US",
    "name": "Homeful",
    "file": "Homeful.ca_at_US.json",
-   "count": 28,
-   "from": 1793886960,
-   "to": 1793976900
+   "count": 30,
+   "from": 1793973420,
+   "to": 1794066120
   },
   {
    "id": "HomeMadeNation.us@SD",
    "name": "Home.Made.Nation",
    "file": "HomeMadeNation.us_at_SD.json",
    "count": 29,
-   "from": 1793888460,
-   "to": 1793978160
+   "from": 1793974980,
+   "to": 1794064620
   },
   {
    "id": "HomesUnderHammer.us@UK",
    "name": "Homes Under Hammer",
    "file": "HomesUnderHammer.us_at_UK.json",
    "count": 23,
-   "from": 1793886969,
-   "to": 1794180600
+   "from": 1793974590,
+   "to": 1794267000
   },
   {
    "id": "HSN.us@East",
    "name": "HSN",
    "file": "HSN.us_at_East.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "i24NEWSEnglishWorld.il@SD",
    "name": "i24NEWS English World",
    "file": "i24NEWSEnglishWorld.il_at_SD.json",
    "count": 6,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "i24NEWSFrench.il@SD",
    "name": "i24NEWS French",
    "file": "i24NEWSFrench.il_at_SD.json",
    "count": 6,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "IcePilots.us@Germany",
    "name": "Ice Pilots",
    "file": "IcePilots.us_at_Germany.json",
-   "count": 28,
-   "from": 1793889300,
-   "to": 1793976360
+   "count": 29,
+   "from": 1793976360,
+   "to": 1794267000
   },
   {
    "id": "IFC.us@East",
    "name": "IFC",
    "file": "IFC.us_at_East.json",
-   "count": 23,
-   "from": 1793884500,
-   "to": 1793978100
+   "count": 20,
+   "from": 1793968200,
+   "to": 1794067200
   },
   {
    "id": "ImpossibleQuizShow.us@SD",
    "name": "Impossible Quiz Show",
    "file": "ImpossibleQuizShow.us_at_SD.json",
-   "count": 29,
-   "from": 1793889687,
-   "to": 1793977952
+   "count": 30,
+   "from": 1793974844,
+   "to": 1794066230
   },
   {
    "id": "InsideCrime.us@UK",
    "name": "Inside Crime",
    "file": "InsideCrime.us_at_UK.json",
    "count": 30,
-   "from": 1793888451,
-   "to": 1794180600
+   "from": 1793974751,
+   "to": 1794267000
   },
   {
    "id": "Investiga.us@LatAm",
    "name": "Investiga",
    "file": "Investiga.us_at_LatAm.json",
-   "count": 28,
-   "from": 1793888400,
-   "to": 1794180600
+   "count": 36,
+   "from": 1793973720,
+   "to": 1794267000
   },
   {
    "id": "InvestigationbyPlutoTV.de@FR",
    "name": "Investigation by Pluto TV",
    "file": "InvestigationbyPlutoTV.de_at_FR.json",
-   "count": 28,
-   "from": 1793886739,
-   "to": 1794180600
+   "count": 26,
+   "from": 1793974354,
+   "to": 1794267000
   },
   {
    "id": "InvestigationDiscovery.us@East",
    "name": "Investigation Discovery",
    "file": "InvestigationDiscovery.us_at_East.json",
-   "count": 23,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 25,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "InWonder.nl@SD",
    "name": "InWonder",
    "file": "InWonder.nl_at_SD.json",
-   "count": 46,
-   "from": 1793888359,
-   "to": 1793976916
+   "count": 40,
+   "from": 1793973107,
+   "to": 1794064344
   },
   {
    "id": "IONTV.us@East",
    "name": "ION TV",
    "file": "IONTV.us_at_East.json",
    "count": 28,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "IronChef.us@US",
    "name": "Iron Chef",
    "file": "IronChef.us_at_US.json",
    "count": 29,
-   "from": 1793888677,
-   "to": 1793977926
+   "from": 1793974783,
+   "to": 1794064372
   },
   {
    "id": "JerseyShore.us@SD",
    "name": "Jersey Shore",
    "file": "JerseyShore.us_at_SD.json",
    "count": 28,
-   "from": 1793888100,
-   "to": 1794180600
+   "from": 1793974500,
+   "to": 1794267000
   },
   {
    "id": "JohnnyCarsonTV.us@SD",
    "name": "Johnny Carson TV",
    "file": "JohnnyCarsonTV.us_at_SD.json",
-   "count": 27,
-   "from": 1793887692,
-   "to": 1793977844
+   "count": 25,
+   "from": 1793973489,
+   "to": 1794063757
   },
   {
    "id": "Journy.us@SD",
    "name": "Journy",
    "file": "Journy.us_at_SD.json",
-   "count": 34,
-   "from": 1793889073,
-   "to": 1793978529
+   "count": 49,
+   "from": 1793974147,
+   "to": 1794064015
   },
   {
    "id": "JovemPanNews.br@SD",
    "name": "Jovem Pan News",
    "file": "JovemPanNews.br_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "JudgeNosey.us@US",
    "name": "Judge Nosey",
    "file": "JudgeNosey.us_at_US.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "JustforLaughsGags.us@SD",
    "name": "Just for Laughs Gags",
    "file": "JustforLaughsGags.us_at_SD.json",
-   "count": 50,
-   "from": 1793888118,
-   "to": 1793977972
+   "count": 49,
+   "from": 1793976063,
+   "to": 1794064566
   },
   {
    "id": "KartoonChannel.us@SD",
    "name": "Kartoon Channel!",
    "file": "KartoonChannel.us_at_SD.json",
    "count": 53,
-   "from": 1793888940,
-   "to": 1794180600
+   "from": 1793975340,
+   "to": 1794267000
   },
   {
    "id": "KBSWorld.kr@SD",
    "name": "KBS World",
    "file": "KBSWorld.kr_at_SD.json",
-   "count": 41,
-   "from": 1793880000,
-   "to": 1793979300
+   "count": 35,
+   "from": 1793966400,
+   "to": 1794066300
   },
   {
    "id": "KidsFlix.us@SD",
    "name": "KidsFlix",
    "file": "KidsFlix.us_at_SD.json",
    "count": 21,
-   "from": 1793886187,
-   "to": 1793979227
+   "from": 1793972587,
+   "to": 1794065627
   },
   {
    "id": "KNXVTV611.us@HD",
    "name": "KNXV-TV 61.1",
    "file": "KNXVTV611.us_at_HD.json",
    "count": 2,
-   "from": 1793836800,
-   "to": 1794009600
+   "from": 1793923200,
+   "to": 1794096000
   },
   {
    "id": "KuriakosTV.pt@SD",
    "name": "Kuriakos TV",
    "file": "KuriakosTV.pt_at_SD.json",
-   "count": 34,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 35,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "La2.es@SD",
    "name": "La 2",
    "file": "La2.es_at_SD.json",
-   "count": 33,
-   "from": 1793888700,
-   "to": 1793978400
+   "count": 30,
+   "from": 1793975100,
+   "to": 1794064500
   },
   {
    "id": "LasEstrellas.mx@SD",
    "name": "Las Estrellas",
    "file": "LasEstrellas.mx_at_SD.json",
-   "count": 41,
-   "from": 1793887200,
-   "to": 1793984400
+   "count": 40,
+   "from": 1793973600,
+   "to": 1794067200
   },
   {
    "id": "LasEstrellasLatinAmerica.mx@SD",
    "name": "Las Estrellas Latin America",
    "file": "LasEstrellasLatinAmerica.mx_at_SD.json",
-   "count": 48,
-   "from": 1793883600,
-   "to": 1793980800
+   "count": 44,
+   "from": 1793970000,
+   "to": 1794069000
   },
   {
    "id": "LaTele.pe@SD",
    "name": "La Tele",
    "file": "LaTele.pe_at_SD.json",
    "count": 31,
-   "from": 1793888400,
-   "to": 1793977200
+   "from": 1793974800,
+   "to": 1794067200
   },
   {
    "id": "Latele.py@SD",
    "name": "Latele",
    "file": "Latele.py_at_SD.json",
-   "count": 25,
-   "from": 1793888100,
-   "to": 1793979000
+   "count": 10,
+   "from": 1793974500,
+   "to": 1794038400
   },
   {
    "id": "Latina.pe@SD",
    "name": "Latina",
    "file": "Latina.pe_at_SD.json",
-   "count": 37,
-   "from": 1793883600,
-   "to": 1793984400
+   "count": 31,
+   "from": 1793970000,
+   "to": 1794067200
   },
   {
    "id": "LawCrime.us@SD",
    "name": "Law & Crime",
    "file": "LawCrime.us_at_SD.json",
-   "count": 38,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 30,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "LEGOKidsTV.us@SD",
    "name": "LEGO Kids TV",
    "file": "LEGOKidsTV.us_at_SD.json",
    "count": 57,
-   "from": 1793889180,
-   "to": 1794094200
+   "from": 1793975640,
+   "to": 1794267000
   },
   {
    "id": "LifetimeLatinAmerica.us@Brazil",
    "name": "Lifetime Latin America",
    "file": "LifetimeLatinAmerica.us_at_Brazil.json",
-   "count": 17,
-   "from": 1793887260,
-   "to": 1793978100
+   "count": 18,
+   "from": 1793972400,
+   "to": 1794063600
   },
   {
    "id": "LittleStarsUniverse.us@SD",
    "name": "Little Stars Universe",
    "file": "LittleStarsUniverse.us_at_SD.json",
    "count": 53,
-   "from": 1793889840,
-   "to": 1794180600
+   "from": 1793975280,
+   "to": 1794267000
   },
   {
    "id": "LiveNOWfromFOX.us@SD",
    "name": "LiveNOW from FOX",
    "file": "LiveNOWfromFOX.us_at_SD.json",
    "count": 7,
-   "from": 1793876400,
-   "to": 1793977200
+   "from": 1793962800,
+   "to": 1794063600
   },
   {
    "id": "LogoPlutoTV.us@SD",
    "name": "Logo Pluto TV",
    "file": "LogoPlutoTV.us_at_SD.json",
-   "count": 31,
-   "from": 1793889000,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793974500,
+   "to": 1794267000
   },
   {
    "id": "LosAsesinatosdeMidsomer.us@Spain",
    "name": "Los Asesinatos de Midsomer",
    "file": "LosAsesinatosdeMidsomer.us_at_Spain.json",
-   "count": 15,
-   "from": 1793885819,
-   "to": 1793981566
+   "count": 14,
+   "from": 1793974926,
+   "to": 1794064530
   },
   {
    "id": "LoveHipHop.us@SD",
    "name": "Love & Hip Hop",
    "file": "LoveHipHop.us_at_SD.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "LovePets.ca@US",
    "name": "Love Pets",
    "file": "LovePets.ca_at_US.json",
-   "count": 40,
-   "from": 1793889090,
-   "to": 1793976480
+   "count": 41,
+   "from": 1793976480,
+   "to": 1794066178
   },
   {
    "id": "M6.fr@HD",
    "name": "M6",
    "file": "M6.fr_at_HD.json",
-   "count": 21,
-   "from": 1793886600,
-   "to": 1793976600
+   "count": 25,
+   "from": 1793976600,
+   "to": 1794064200
   },
   {
    "id": "MariaVision.mx@SD",
    "name": "Maria Vision",
    "file": "MariaVision.mx_at_SD.json",
-   "count": 38,
-   "from": 1793887200,
-   "to": 1793984400
+   "count": 34,
+   "from": 1793968200,
+   "to": 1794063600
   },
   {
    "id": "MasterChef.us@Brazil",
    "name": "MasterChef",
    "file": "MasterChef.us_at_Brazil.json",
-   "count": 12,
-   "from": 1793886240,
-   "to": 1793976720
+   "count": 14,
+   "from": 1793976720,
+   "to": 1794267000
   },
   {
    "id": "MaverickBlackCinema.us@SD",
    "name": "Maverick Black Cinema",
    "file": "MaverickBlackCinema.us_at_SD.json",
-   "count": 14,
-   "from": 1793884692,
-   "to": 1793977223
+   "count": 16,
+   "from": 1793970298,
+   "to": 1794063975
   },
   {
    "id": "MC.mx@SD",
    "name": "MC",
    "file": "MC.mx_at_SD.json",
    "count": 15,
-   "from": 1793883900,
-   "to": 1793979900
+   "from": 1793974800,
+   "to": 1794069300
   },
   {
    "id": "MCMTop.fr@SD",
    "name": "MCM Top",
    "file": "MCMTop.fr_at_SD.json",
    "count": 11,
-   "from": 1793876400,
-   "to": 1793980800
+   "from": 1793962800,
+   "to": 1794067200
   },
   {
    "id": "Mega.cl@SD",
    "name": "Mega",
    "file": "Mega.cl_at_SD.json",
-   "count": 35,
-   "from": 1793872800,
-   "to": 1793980800
+   "count": 30,
+   "from": 1793959200,
+   "to": 1794067200
   },
   {
    "id": "MegavisionCanal19.sv@SD",
    "name": "Megavision Canal 19",
    "file": "MegavisionCanal19.sv_at_SD.json",
-   "count": 14,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 16,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "MegavisionCanal21.sv@SD",
    "name": "Megavision Canal 21",
    "file": "MegavisionCanal21.sv_at_SD.json",
-   "count": 55,
-   "from": 1793887500,
-   "to": 1793980800
+   "count": 46,
+   "from": 1793973900,
+   "to": 1794067200
   },
   {
    "id": "MexiquenseTV.mx@SD",
    "name": "Mexiquense TV",
    "file": "MexiquenseTV.mx_at_SD.json",
-   "count": 25,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 28,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "MezzoLive.fr@SD",
    "name": "Mezzo Live",
    "file": "MezzoLive.fr_at_SD.json",
-   "count": 17,
-   "from": 1793880000,
-   "to": 1793977920
+   "count": 25,
+   "from": 1793973000,
+   "to": 1794067200
   },
   {
    "id": "MidnightPulp.us@SD",
    "name": "Midnight Pulp",
    "file": "MidnightPulp.us_at_SD.json",
    "count": 13,
-   "from": 1793887800,
-   "to": 1793978700
+   "from": 1793970540,
+   "to": 1794063900
   },
   {
    "id": "MidsomerMurders.us@SD",
    "name": "Midsomer Murders",
    "file": "MidsomerMurders.us_at_SD.json",
-   "count": 30,
-   "from": 1793885400,
-   "to": 1793982160
+   "count": 27,
+   "from": 1793975400,
+   "to": 1794067159
   },
   {
    "id": "MilenioTelevision.mx@SD",
    "name": "Milenio Television",
    "file": "MilenioTelevision.mx_at_SD.json",
-   "count": 53,
-   "from": 1793883600,
-   "to": 1793977200
+   "count": 57,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "Misteriossinresolver.us@SD",
    "name": "Misterios sin resolver",
    "file": "Misteriossinresolver.us_at_SD.json",
    "count": 18,
-   "from": 1793888100,
-   "to": 1794267000
+   "from": 1793974500,
+   "to": 1794353400
   },
   {
    "id": "MLB.us@SD",
    "name": "MLB",
    "file": "MLB.us_at_SD.json",
-   "count": 21,
-   "from": 1793887254,
-   "to": 1793976354
+   "count": 23,
+   "from": 1793976354,
+   "to": 1794267000
   },
   {
    "id": "MonsterJam.us@SD",
    "name": "Monster Jam",
    "file": "MonsterJam.us_at_SD.json",
-   "count": 26,
-   "from": 1793889780,
-   "to": 1794094200
+   "count": 28,
+   "from": 1793974620,
+   "to": 1794063780
   },
   {
    "id": "MoreTVDrama.us@SD",
    "name": "More TV Drama",
    "file": "MoreTVDrama.us_at_SD.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "MoreTVSitcoms.us@SD",
    "name": "More TV Sitcoms",
    "file": "MoreTVSitcoms.us_at_SD.json",
    "count": 52,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "MostHaunted.uk@UK",
    "name": "Most Haunted",
    "file": "MostHaunted.uk_at_UK.json",
-   "count": 28,
-   "from": 1793887034,
-   "to": 1794180600
+   "count": 22,
+   "from": 1793976081,
+   "to": 1794267000
   },
   {
    "id": "Motorvision.de@SD",
    "name": "Motorvision",
    "file": "Motorvision.de_at_SD.json",
-   "count": 78,
-   "from": 1793888400,
-   "to": 1793977198
+   "count": 85,
+   "from": 1793948400,
+   "to": 1794064200
   },
   {
    "id": "Moviedome.us@Germany",
    "name": "Moviedome",
    "file": "Moviedome.us_at_Germany.json",
-   "count": 15,
-   "from": 1793887200,
-   "to": 1793979480
+   "count": 14,
+   "from": 1793972820,
+   "to": 1794066060
   },
   {
    "id": "MrBeanAnimated.uk@English",
    "name": "Mr Bean Animated",
    "file": "MrBeanAnimated.uk_at_English.json",
-   "count": 8,
-   "from": 1793826392,
-   "to": 1794013889
+   "count": 2,
+   "from": 1793923505,
+   "to": 1794069399
   },
   {
    "id": "MST3K.us@US",
    "name": "MST3K",
    "file": "MST3K.us_at_US.json",
-   "count": 31,
-   "from": 1793882700,
-   "to": 1794180600
+   "count": 29,
+   "from": 1793974569,
+   "to": 1794069300
   },
   {
    "id": "MTV.us@East",
    "name": "MTV",
    "file": "MTV.us_at_East.json",
    "count": 34,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "MTV2.us@East",
    "name": "MTV2",
    "file": "MTV2.us_at_East.json",
-   "count": 34,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 42,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "MTVenEspanol.us@SD",
    "name": "MTV en Espanol",
    "file": "MTVenEspanol.us_at_SD.json",
    "count": 18,
-   "from": 1793889000,
-   "to": 1794267000
+   "from": 1793975400,
+   "to": 1794353400
   },
   {
    "id": "MTVLatinAmerica.us@Panregional",
    "name": "MTV Latin America",
    "file": "MTVLatinAmerica.us_at_Panregional.json",
-   "count": 87,
-   "from": 1793889300,
-   "to": 1793978400
+   "count": 89,
+   "from": 1793975700,
+   "to": 1794063900
   },
   {
    "id": "MTVPlutoTV.us@BR",
    "name": "MTV Pluto TV",
    "file": "MTVPlutoTV.us_at_BR.json",
-   "count": 31,
-   "from": 1793888280,
-   "to": 1794094200
+   "count": 32,
+   "from": 1793973960,
+   "to": 1794180600
   },
   {
    "id": "MultiPremier.mx@SD",
    "name": "MultiPremier",
    "file": "MultiPremier.mx_at_SD.json",
-   "count": 15,
-   "from": 1793886600,
-   "to": 1793978100
+   "count": 18,
+   "from": 1793973000,
+   "to": 1794066900
   },
   {
    "id": "MusicBoxBrazil.br@SD",
    "name": "Music Box Brazil",
    "file": "MusicBoxBrazil.br_at_SD.json",
-   "count": 133,
-   "from": 1793883600,
-   "to": 1793977200
+   "count": 135,
+   "from": 1793972400,
+   "to": 1794063600
   },
   {
    "id": "MusicTop.ar@SD",
    "name": "MusicTop",
    "file": "MusicTop.ar_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Mythbusters.us@UK",
    "name": "Mythbusters",
    "file": "Mythbusters.us_at_UK.json",
-   "count": 67,
-   "from": 1793887463,
-   "to": 1793977080
+   "count": 72,
+   "from": 1793973540,
+   "to": 1794066097
   },
   {
    "id": "MyTimeMovieNetworkEast.us@SD",
    "name": "MyTime Movie Network East",
    "file": "MyTimeMovieNetworkEast.us_at_SD.json",
-   "count": 15,
-   "from": 1793885150,
-   "to": 1793977520
+   "count": 18,
+   "from": 1793970901,
+   "to": 1794064857
   },
   {
    "id": "N24Doku.de@SD",
    "name": "N24 Doku",
    "file": "N24Doku.de_at_SD.json",
-   "count": 24,
-   "from": 1793888614,
-   "to": 1793976394
+   "count": 25,
+   "from": 1793976394,
+   "to": 1794267000
   },
   {
    "id": "Naruto.us@Brazil",
    "name": "Naruto",
    "file": "Naruto.us_at_Brazil.json",
-   "count": 55,
-   "from": 1793888700,
-   "to": 1794094200
+   "count": 54,
+   "from": 1793976180,
+   "to": 1794180600
   },
   {
    "id": "NashBridges.us@SD",
    "name": "Nash Bridges",
    "file": "NashBridges.us_at_SD.json",
    "count": 28,
-   "from": 1793887871,
-   "to": 1793977074
+   "from": 1793973895,
+   "to": 1794063336
   },
   {
    "id": "NationalGeographic.mx@SD",
    "name": "National Geographic",
    "file": "NationalGeographic.mx_at_SD.json",
-   "count": 26,
-   "from": 1793886960,
-   "to": 1793976900
+   "count": 27,
+   "from": 1793973300,
+   "to": 1794066060
   },
   {
    "id": "NationalGeographic.us@East",
    "name": "National Geographic",
    "file": "NationalGeographic.us_at_East.json",
-   "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 28,
+   "from": 1793976540,
+   "to": 1794063600
   },
   {
    "id": "NationalGeographicLatinAmerica.us@Panregional",
    "name": "National Geographic Latin America",
    "file": "NationalGeographicLatinAmerica.us_at_Panregional.json",
    "count": 27,
-   "from": 1793886420,
-   "to": 1793976420
+   "from": 1793976420,
+   "to": 1794065700
   },
   {
    "id": "NauticalChannel.it@SD",
    "name": "Nautical Channel",
    "file": "NauticalChannel.it_at_SD.json",
-   "count": 44,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 43,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "NBATV.us@SD",
    "name": "NBA TV",
    "file": "NBATV.us_at_SD.json",
-   "count": 35,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 29,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "NBC.us@East",
    "name": "NBC",
    "file": "NBC.us_at_East.json",
    "count": 23,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "NBCComedyVault.us@SD",
    "name": "NBC Comedy Vault",
    "file": "NBCComedyVault.us_at_SD.json",
-   "count": 62,
-   "from": 1793889780,
-   "to": 1793977020
+   "count": 63,
+   "from": 1793975640,
+   "to": 1794064500
   },
   {
    "id": "NBCNewsNOW.us@SD",
    "name": "NBC News NOW",
    "file": "NBCNewsNOW.us_at_SD.json",
-   "count": 28,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 23,
+   "from": 1793973600,
+   "to": 1794067200
   },
   {
    "id": "NBCSportsNOW.us@SD",
    "name": "NBC Sports NOW",
    "file": "NBCSportsNOW.us_at_SD.json",
-   "count": 21,
-   "from": 1793887200,
-   "to": 1793984400
+   "count": 24,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "NETTV.ar@SD",
    "name": "NET TV",
    "file": "NETTV.ar_at_SD.json",
-   "count": 16,
-   "from": 1793880000,
-   "to": 1793980800
+   "count": 20,
+   "from": 1793966400,
+   "to": 1794063600
   },
   {
    "id": "NEWKMOVIES.us@SD",
    "name": "NEW K.MOVIES",
    "file": "NEWKMOVIES.us_at_SD.json",
-   "count": 11,
-   "from": 1793887122,
-   "to": 1793977675
+   "count": 12,
+   "from": 1793968972,
+   "to": 1794064879
   },
   {
    "id": "NEWKPOP.us@SD",
    "name": "NEW K-POP",
    "file": "NEWKPOP.us_at_SD.json",
-   "count": 18,
-   "from": 1793886947,
-   "to": 1793977663
+   "count": 19,
+   "from": 1793973979,
+   "to": 1794065390
   },
   {
    "id": "News12NewYork.us@SD",
    "name": "News12 New York",
    "file": "News12NewYork.us_at_SD.json",
    "count": 52,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "NewsmaxTV.us@SD",
    "name": "Newsmax TV",
    "file": "NewsmaxTV.us_at_SD.json",
-   "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 27,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Newsy.us@SD",
    "name": "Newsy",
    "file": "Newsy.us_at_SD.json",
-   "count": 26,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 31,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "NFLChannel.us@SD",
    "name": "NFL Channel",
    "file": "NFLChannel.us_at_SD.json",
-   "count": 33,
-   "from": 1793885460,
-   "to": 1793977740
+   "count": 44,
+   "from": 1793975940,
+   "to": 1794180600
   },
   {
    "id": "NFLNetwork.us@SD",
    "name": "NFL Network",
    "file": "NFLNetwork.us_at_SD.json",
-   "count": 29,
-   "from": 1793883600,
-   "to": 1793980800
+   "count": 26,
+   "from": 1793970000,
+   "to": 1794067200
   },
   {
    "id": "NHKWorldPremium.jp@SD",
    "name": "NHK World Premium",
    "file": "NHKWorldPremium.jp_at_SD.json",
-   "count": 67,
-   "from": 1793889600,
-   "to": 1793976300
+   "count": 70,
+   "from": 1793976300,
+   "to": 1794064800
   },
   {
    "id": "NHLNetwork.us@SD",
    "name": "NHL Network",
    "file": "NHLNetwork.us_at_SD.json",
-   "count": 24,
-   "from": 1793889000,
-   "to": 1793982600
+   "count": 28,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Nickelodeon.us@East",
    "name": "Nickelodeon",
    "file": "Nickelodeon.us_at_East.json",
-   "count": 36,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 38,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "NickelodeonLatinAmerica.us@Panregional",
    "name": "Nickelodeon Latin America",
    "file": "NickelodeonLatinAmerica.us_at_Panregional.json",
-   "count": 70,
-   "from": 1793889000,
-   "to": 1793976600
+   "count": 69,
+   "from": 1793976600,
+   "to": 1794063900
   },
   {
    "id": "NickelodeonPlutoTV.us@SD",
    "name": "Nickelodeon Pluto TV",
    "file": "NickelodeonPlutoTV.us_at_SD.json",
-   "count": 62,
-   "from": 1793888400,
-   "to": 1794180600
+   "count": 61,
+   "from": 1793976300,
+   "to": 1794267000
   },
   {
    "id": "NickJr.us@East",
    "name": "Nick Jr.",
    "file": "NickJr.us_at_East.json",
-   "count": 51,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 52,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "NickJrPlutoTV.us@CA",
    "name": "Nick Jr. Pluto TV",
    "file": "NickJrPlutoTV.us_at_CA.json",
-   "count": 51,
-   "from": 1793889720,
-   "to": 1794180600
+   "count": 52,
+   "from": 1793976720,
+   "to": 1794267000
   },
   {
    "id": "NinjaKidzTV.us@SD",
    "name": "Ninja Kidz TV",
    "file": "NinjaKidzTV.us_at_SD.json",
    "count": 2,
-   "from": 1793835236,
-   "to": 1794011636
+   "from": 1793921636,
+   "to": 1794098036
   },
   {
    "id": "NoticiasRCN.co@SD",
    "name": "Noticias RCN",
    "file": "NoticiasRCN.co_at_SD.json",
-   "count": 24,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 23,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "Now90s00s.uk@Poland",
    "name": "Now 90s00s",
    "file": "Now90s00s.uk_at_Poland.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "NPY.py@SD",
    "name": "NPY",
    "file": "NPY.py_at_SD.json",
-   "count": 16,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 10,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "NTN24.co@SD",
    "name": "NTN24",
    "file": "NTN24.co_at_SD.json",
    "count": 28,
-   "from": 1793889000,
-   "to": 1793979000
+   "from": 1793975400,
+   "to": 1794065400
   },
   {
    "id": "OEncantadordeCaes.us@Brazil",
    "name": "O Encantador de Caes",
    "file": "OEncantadordeCaes.us_at_Brazil.json",
-   "count": 38,
-   "from": 1793889120,
-   "to": 1794180600
+   "count": 31,
+   "from": 1793976240,
+   "to": 1794267000
   },
   {
    "id": "OnTheCase.us@UK",
    "name": "On The Case",
    "file": "OnTheCase.us_at_UK.json",
-   "count": 29,
-   "from": 1793889360,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793976780,
+   "to": 1794267000
   },
   {
    "id": "OReinoInfantil.us@Brazil",
    "name": "O Reino Infantil",
    "file": "OReinoInfantil.us_at_Brazil.json",
    "count": 49,
-   "from": 1793888940,
-   "to": 1794180600
+   "from": 1793976810,
+   "to": 1794267000
   },
   {
    "id": "OuterSphere.us@SD",
    "name": "OuterSphere",
    "file": "OuterSphere.us_at_SD.json",
-   "count": 13,
-   "from": 1793882876,
-   "to": 1793976335
+   "count": 14,
+   "from": 1793976335,
+   "to": 1794066865
   },
   {
    "id": "OutsideTV.us@SD",
    "name": "Outside TV",
    "file": "OutsideTV.us_at_SD.json",
-   "count": 33,
-   "from": 1793889000,
-   "to": 1793980800
+   "count": 34,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Overtime.us@SD",
    "name": "Overtime",
    "file": "Overtime.us_at_SD.json",
-   "count": 9,
-   "from": 1793887980,
-   "to": 1793984700
+   "count": 12,
+   "from": 1793975040,
+   "to": 1794066780
   },
   {
    "id": "OWN.us@East",
    "name": "OWN",
    "file": "OWN.us_at_East.json",
-   "count": 28,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 29,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "PanamericanaTV.pe@SD",
    "name": "Panamericana TV",
    "file": "PanamericanaTV.pe_at_SD.json",
-   "count": 40,
-   "from": 1793888100,
-   "to": 1793977200
+   "count": 32,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Panico.mx@SD",
    "name": "Panico",
    "file": "Panico.mx_at_SD.json",
-   "count": 16,
-   "from": 1793887980,
-   "to": 1793981040
+   "count": 15,
+   "from": 1793973840,
+   "to": 1794063300
   },
   {
    "id": "ParaguayTV.py@SD",
    "name": "Paraguay TV",
    "file": "ParaguayTV.py_at_SD.json",
-   "count": 20,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 23,
+   "from": 1793973600,
+   "to": 1794067200
   },
   {
    "id": "ParamountMovieChannel.us@SD",
    "name": "Paramount Movie Channel",
    "file": "ParamountMovieChannel.us_at_SD.json",
-   "count": 15,
-   "from": 1793884500,
-   "to": 1793979900
+   "count": 14,
+   "from": 1793971800,
+   "to": 1794267000
   },
   {
    "id": "ParamountNetwork.us@East",
    "name": "Paramount Network",
    "file": "ParamountNetwork.us_at_East.json",
-   "count": 23,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 21,
+   "from": 1793973600,
+   "to": 1794075900
   },
   {
    "id": "ParamountPlusPicks.us@SD",
    "name": "Paramount+ Picks",
    "file": "ParamountPlusPicks.us_at_SD.json",
-   "count": 41,
-   "from": 1793886840,
+   "count": 36,
+   "from": 1793975940,
    "to": 1794180600
   },
   {
@@ -3562,567 +3562,567 @@
    "name": "Paranormal State",
    "file": "ParanormalState.us_at_UK.json",
    "count": 54,
-   "from": 1793889660,
-   "to": 1794094200
+   "from": 1793975940,
+   "to": 1794267000
   },
   {
    "id": "Paravision.py@SD",
    "name": "Paravision",
    "file": "Paravision.py_at_SD.json",
-   "count": 21,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 24,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PasionesLatinAmerica.us@SD",
    "name": "Pasiones Latin America",
    "file": "PasionesLatinAmerica.us_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PBRRidePass.us@SD",
    "name": "PBR RidePass",
    "file": "PBRRidePass.us_at_SD.json",
-   "count": 20,
-   "from": 1793889435,
-   "to": 1793979347
+   "count": 15,
+   "from": 1793971170,
+   "to": 1794067385
   },
   {
    "id": "PBS.us@East",
    "name": "PBS",
    "file": "PBS.us_at_East.json",
-   "count": 35,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 36,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "PBSAntiquesRoadshow.us@SD",
    "name": "PBS Antiques Roadshow",
    "file": "PBSAntiquesRoadshow.us_at_SD.json",
-   "count": 49,
-   "from": 1793889480,
-   "to": 1793978004
+   "count": 51,
+   "from": 1793974260,
+   "to": 1794066502
   },
   {
    "id": "PBSNature.us@SD",
    "name": "PBS Nature",
    "file": "PBSNature.us_at_SD.json",
-   "count": 42,
-   "from": 1793887440,
-   "to": 1793976600
+   "count": 47,
+   "from": 1793976632,
+   "to": 1794064523
   },
   {
    "id": "PBSTravel.us@SD",
    "name": "PBS Travel",
    "file": "PBSTravel.us_at_SD.json",
-   "count": 26,
-   "from": 1793888231,
-   "to": 1793976374
+   "count": 42,
+   "from": 1793976374,
+   "to": 1794064574
   },
   {
    "id": "PFLMMA.us@SD",
    "name": "PFL MMA",
    "file": "PFLMMA.us_at_SD.json",
-   "count": 24,
-   "from": 1793886660,
-   "to": 1793978580
+   "count": 31,
+   "from": 1793970840,
+   "to": 1794267000
   },
   {
    "id": "PGATour.us@SD",
    "name": "PGA Tour",
    "file": "PGATour.us_at_SD.json",
-   "count": 23,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 24,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PlutoTV90sClassics.de@FR",
    "name": "Pluto TV 90's Classics",
    "file": "PlutoTV90sClassics.de_at_FR.json",
-   "count": 56,
-   "from": 1793889849,
-   "to": 1794094200
+   "count": 57,
+   "from": 1793976206,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVAction.se@DK",
    "name": "Pluto TV Action",
    "file": "PlutoTVAction.se_at_DK.json",
    "count": 23,
-   "from": 1793888121,
-   "to": 1794094200
+   "from": 1793974410,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAction.us@US",
    "name": "Pluto TV Action",
    "file": "PlutoTVAction.us_at_US.json",
-   "count": 11,
-   "from": 1793880900,
-   "to": 1793979000
+   "count": 13,
+   "from": 1793972700,
+   "to": 1794065400
   },
   {
    "id": "PlutoTVActionMovies.us@CA",
    "name": "Pluto TV Action Movies",
    "file": "PlutoTVActionMovies.us_at_CA.json",
-   "count": 14,
-   "from": 1793888880,
-   "to": 1794180600
+   "count": 13,
+   "from": 1793976120,
+   "to": 1794063720
   },
   {
    "id": "PlutoTVAdultAnimation.de@DACH",
    "name": "Pluto TV Adult Animation",
    "file": "PlutoTVAdultAnimation.de_at_DACH.json",
    "count": 57,
-   "from": 1793889152,
-   "to": 1794180600
+   "from": 1793975497,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAdventure.us@CA",
    "name": "Pluto TV Adventure",
    "file": "PlutoTVAdventure.us_at_CA.json",
-   "count": 56,
-   "from": 1793889480,
-   "to": 1794094200
+   "count": 48,
+   "from": 1793973780,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVALaMexicana.us@LatAm",
    "name": "Pluto TV A La Mexicana",
    "file": "PlutoTVALaMexicana.us_at_LatAm.json",
-   "count": 15,
-   "from": 1793885040,
-   "to": 1793977920
+   "count": 16,
+   "from": 1793972700,
+   "to": 1794065640
   },
   {
    "id": "PlutoTVAlbertoSordi.de@IT",
    "name": "Pluto TV Alberto Sordi",
    "file": "PlutoTVAlbertoSordi.de_at_IT.json",
-   "count": 16,
-   "from": 1793884000,
-   "to": 1794180600
+   "count": 15,
+   "from": 1793975537,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAlienInvasion.se@DK",
    "name": "Pluto TV Alien Invasion",
    "file": "PlutoTVAlienInvasion.se_at_DK.json",
-   "count": 25,
-   "from": 1793889364,
-   "to": 1794180600
+   "count": 27,
+   "from": 1793974347,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAliens.us@BR",
    "name": "Pluto TV Aliens",
    "file": "PlutoTVAliens.us_at_BR.json",
    "count": 30,
-   "from": 1793889000,
+   "from": 1793976000,
    "to": 1794180600
   },
   {
    "id": "PlutoTVAmoryMentiras.us@LatAm",
    "name": "Pluto TV Amor y Mentiras",
    "file": "PlutoTVAmoryMentiras.us_at_LatAm.json",
-   "count": 29,
-   "from": 1793887531,
-   "to": 1793976271
+   "count": 30,
+   "from": 1793976271,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAnimais.us@BR",
    "name": "Pluto TV Animais",
    "file": "PlutoTVAnimais.us_at_BR.json",
-   "count": 26,
-   "from": 1793887680,
+   "count": 25,
+   "from": 1793974680,
    "to": 1794180600
   },
   {
    "id": "PlutoTVAnimales.de@ES",
    "name": "Pluto TV Animales",
    "file": "PlutoTVAnimales.de_at_ES.json",
-   "count": 25,
-   "from": 1793889111,
-   "to": 1793976903
+   "count": 27,
+   "from": 1793973423,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAnimals.de@DACH",
    "name": "Pluto TV Animals",
    "file": "PlutoTVAnimals.de_at_DACH.json",
    "count": 28,
-   "from": 1793888547,
+   "from": 1793975354,
    "to": 1794180600
   },
   {
    "id": "PlutoTVAnimaux.de@FR",
    "name": "Pluto TV Animaux",
    "file": "PlutoTVAnimaux.de_at_FR.json",
-   "count": 35,
-   "from": 1793886335,
-   "to": 1794094200
+   "count": 30,
+   "from": 1793976035,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAnime.us@BR",
    "name": "Pluto TV Anime",
    "file": "PlutoTVAnime.us_at_BR.json",
-   "count": 54,
-   "from": 1793889180,
-   "to": 1794094200
+   "count": 53,
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAnimeAcao.us@BR",
    "name": "Pluto TV Anime Acao",
    "file": "PlutoTVAnimeAcao.us_at_BR.json",
    "count": 51,
-   "from": 1793889540,
+   "from": 1793976000,
    "to": 1794180600
   },
   {
    "id": "PlutoTVANIMEGO.de@FR",
    "name": "Pluto TV ANIME GO!",
    "file": "PlutoTVANIMEGO.de_at_FR.json",
-   "count": 57,
-   "from": 1793889391,
-   "to": 1794180600
+   "count": 56,
+   "from": 1793975451,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAnimeMovies.us@SD",
    "name": "Pluto TV Anime Movies",
    "file": "PlutoTVAnimeMovies.us_at_SD.json",
-   "count": 14,
-   "from": 1793885400,
-   "to": 1793978100
+   "count": 11,
+   "from": 1793972700,
+   "to": 1794070800
   },
   {
    "id": "PlutoTVAventura.us@LatAm",
    "name": "Pluto TV Aventura",
    "file": "PlutoTVAventura.us_at_LatAm.json",
-   "count": 42,
-   "from": 1793888640,
-   "to": 1794180600
+   "count": 57,
+   "from": 1793976120,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVAventure.de@FR",
    "name": "Pluto TV Aventure",
    "file": "PlutoTVAventure.de_at_FR.json",
-   "count": 35,
-   "from": 1793886515,
-   "to": 1794180600
+   "count": 29,
+   "from": 1793973954,
+   "to": 1794063524
   },
   {
    "id": "PlutoTVBangBang.us@BR",
    "name": "Pluto TV Bang Bang",
    "file": "PlutoTVBangBang.us_at_BR.json",
    "count": 15,
-   "from": 1793886600,
+   "from": 1793976060,
    "to": 1794180600
   },
   {
    "id": "PlutoTVBrigadeCriminelle.de@FR",
    "name": "Pluto TV Brigade Criminelle",
    "file": "PlutoTVBrigadeCriminelle.de_at_FR.json",
-   "count": 17,
-   "from": 1793887241,
-   "to": 1793979761
+   "count": 18,
+   "from": 1793973581,
+   "to": 1794065692
   },
   {
    "id": "PlutoTVBritischeSerien.de@DACH",
    "name": "Pluto TV Britische Serien",
    "file": "PlutoTVBritischeSerien.de_at_DACH.json",
-   "count": 40,
-   "from": 1793889362,
-   "to": 1794180600
+   "count": 43,
+   "from": 1793976881,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVBudTerence.se@DK",
    "name": "Pluto TV Bud & Terence",
    "file": "PlutoTVBudTerence.se_at_DK.json",
    "count": 13,
-   "from": 1793887322,
-   "to": 1793979125
+   "from": 1793972645,
+   "to": 1794065013
   },
   {
    "id": "PlutoTVBuskis.se@SE",
    "name": "Pluto TV Buskis",
    "file": "PlutoTVBuskis.se_at_SE.json",
-   "count": 10,
-   "from": 1793886198,
-   "to": 1793979160
+   "count": 13,
+   "from": 1793971548,
+   "to": 1794075179
   },
   {
    "id": "PlutoTVCanalUOL.us@BR",
    "name": "Pluto TV Canal UOL",
    "file": "PlutoTVCanalUOL.us_at_BR.json",
    "count": 22,
-   "from": 1793883600,
-   "to": 1793980800
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "PlutoTVCars.us@CA",
    "name": "Pluto TV Cars",
    "file": "PlutoTVCars.us_at_CA.json",
-   "count": 48,
-   "from": 1793889840,
-   "to": 1794094200
+   "count": 49,
+   "from": 1793975580,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVCatastrofes.de@ES",
    "name": "Pluto TV Catastrofes",
    "file": "PlutoTVCatastrofes.de_at_ES.json",
-   "count": 15,
-   "from": 1793884333,
-   "to": 1793977275
+   "count": 17,
+   "from": 1793970975,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVChristmastuttolanno.de@IT",
    "name": "Pluto TV Christmas tutto l'anno",
    "file": "PlutoTVChristmastuttolanno.de_at_IT.json",
-   "count": 16,
-   "from": 1793889564,
-   "to": 1793978115
+   "count": 18,
+   "from": 1793972500,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineAccion.us@LatAm",
    "name": "Pluto TV Cine Accion",
    "file": "PlutoTVCineAccion.us_at_LatAm.json",
-   "count": 27,
-   "from": 1793885760,
-   "to": 1794180600
+   "count": 25,
+   "from": 1793972880,
+   "to": 1794067380
   },
   {
    "id": "PlutoTVCineClasico.us@LatAm",
    "name": "Pluto TV Cine Clasico",
    "file": "PlutoTVCineClasico.us_at_LatAm.json",
-   "count": 16,
-   "from": 1793882940,
-   "to": 1794180600
+   "count": 14,
+   "from": 1793975220,
+   "to": 1794065340
   },
   {
    "id": "PlutoTVCineClassicos.us@BR",
    "name": "Pluto TV Cine Classicos",
    "file": "PlutoTVCineClassicos.us_at_BR.json",
    "count": 13,
-   "from": 1793885220,
-   "to": 1793978640
+   "from": 1793970600,
+   "to": 1794066540
   },
   {
    "id": "PlutoTVCineComedia.de@ES",
    "name": "Pluto TV Cine Comedia",
    "file": "PlutoTVCineComedia.de_at_ES.json",
-   "count": 17,
-   "from": 1793883533,
-   "to": 1794180600
+   "count": 16,
+   "from": 1793975346,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineComedia.us@BR",
    "name": "Pluto TV Cine Comedia",
    "file": "PlutoTVCineComedia.us_at_BR.json",
-   "count": 14,
-   "from": 1793883780,
-   "to": 1793977920
+   "count": 16,
+   "from": 1793971380,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineComediaRomantica.us@BR",
    "name": "Pluto TV Cine Comedia Romantica",
    "file": "PlutoTVCineComediaRomantica.us_at_BR.json",
-   "count": 14,
-   "from": 1793883960,
-   "to": 1793979960
+   "count": 15,
+   "from": 1793973420,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVCineCrime.us@BR",
    "name": "Pluto TV Cine Crime",
    "file": "PlutoTVCineCrime.us_at_BR.json",
    "count": 13,
-   "from": 1793881560,
-   "to": 1793978520
+   "from": 1793970540,
+   "to": 1794068100
   },
   {
    "id": "PlutoTVCineCrimen.us@LatAm",
    "name": "Pluto TV Cine Crimen",
    "file": "PlutoTVCineCrimen.us_at_LatAm.json",
    "count": 14,
-   "from": 1793883960,
-   "to": 1793979720
+   "from": 1793972820,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCinedeautor.de@ES",
    "name": "Pluto TV Cine de autor",
    "file": "PlutoTVCinedeautor.de_at_ES.json",
-   "count": 15,
-   "from": 1793886219,
-   "to": 1794180600
+   "count": 12,
+   "from": 1793974321,
+   "to": 1794069098
   },
   {
    "id": "PlutoTVCineDrama.us@BR",
    "name": "Pluto TV Cine Drama",
    "file": "PlutoTVCineDrama.us_at_BR.json",
-   "count": 15,
-   "from": 1793885700,
+   "count": 12,
+   "from": 1793975640,
    "to": 1794180600
   },
   {
    "id": "PlutoTVCineEstelar.us@LatAm",
    "name": "Pluto TV Cine Estelar",
    "file": "PlutoTVCineEstelar.us_at_LatAm.json",
-   "count": 27,
-   "from": 1793883840,
-   "to": 1794180600
+   "count": 26,
+   "from": 1793971200,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineFamilia.us@BR",
    "name": "Pluto TV Cine Familia",
    "file": "PlutoTVCineFamilia.us_at_BR.json",
-   "count": 14,
-   "from": 1793889660,
-   "to": 1793979240
+   "count": 16,
+   "from": 1793973060,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineInspiracao.us@BR",
    "name": "Pluto TV Cine Inspiracao",
    "file": "PlutoTVCineInspiracao.us_at_BR.json",
    "count": 15,
-   "from": 1793885280,
-   "to": 1794094200
+   "from": 1793974680,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineInspirador.us@LatAm",
    "name": "Pluto TV Cine Inspirador",
    "file": "PlutoTVCineInspirador.us_at_LatAm.json",
    "count": 13,
-   "from": 1793889540,
-   "to": 1793979600
+   "from": 1793972400,
+   "to": 1794066780
   },
   {
    "id": "PlutoTVCinemaItaliano.de@IT",
    "name": "Pluto TV Cinema Italiano",
    "file": "PlutoTVCinemaItaliano.de_at_IT.json",
-   "count": 15,
-   "from": 1793886195,
-   "to": 1793979195
+   "count": 16,
+   "from": 1793972775,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCinemaOrientale.de@IT",
    "name": "Pluto TV Cinema Orientale",
    "file": "PlutoTVCinemaOrientale.de_at_IT.json",
    "count": 17,
-   "from": 1793887244,
-   "to": 1794180600
+   "from": 1793973655,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineRomance.us@BR",
    "name": "Pluto TV Cine Romance",
    "file": "PlutoTVCineRomance.us_at_BR.json",
-   "count": 15,
-   "from": 1793883660,
-   "to": 1794094200
+   "count": 14,
+   "from": 1793973780,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCineRomantico.de@ES",
    "name": "Pluto TV Cine Romantico",
    "file": "PlutoTVCineRomantico.de_at_ES.json",
    "count": 15,
-   "from": 1793887169,
-   "to": 1794094200
+   "from": 1793975600,
+   "to": 1794064473
   },
   {
    "id": "PlutoTVCineSucessos.us@BR",
    "name": "Pluto TV Cine Sucessos",
    "file": "PlutoTVCineSucessos.us_at_BR.json",
    "count": 12,
-   "from": 1793885415,
-   "to": 1793977455
+   "from": 1793968935,
+   "to": 1794064740
   },
   {
    "id": "PlutoTVCineSuspenso.us@LatAm",
    "name": "Pluto TV Cine Suspenso",
    "file": "PlutoTVCineSuspenso.us_at_LatAm.json",
    "count": 13,
-   "from": 1793886360,
-   "to": 1793979660
+   "from": 1793973000,
+   "to": 1794064800
   },
   {
    "id": "PlutoTVClassicTVVariety.us@CA",
    "name": "Pluto TV Classic TV Variety",
    "file": "PlutoTVClassicTVVariety.us_at_CA.json",
    "count": 34,
-   "from": 1793889720,
-   "to": 1794180600
+   "from": 1793976240,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCocina.de@ES",
    "name": "Pluto TV Cocina",
    "file": "PlutoTVCocina.de_at_ES.json",
-   "count": 48,
-   "from": 1793889257,
-   "to": 1794180600
+   "count": 44,
+   "from": 1793975353,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVComediamadeinSpain.de@ES",
    "name": "Pluto TV Comedia made in Spain",
    "file": "PlutoTVComediamadeinSpain.de_at_ES.json",
-   "count": 31,
-   "from": 1793888320,
-   "to": 1794180600
+   "count": 30,
+   "from": 1793975860,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVComediasRomanticas.de@ES",
    "name": "Pluto TV Comedias Romanticas",
    "file": "PlutoTVComediasRomanticas.de_at_ES.json",
    "count": 16,
-   "from": 1793888527,
-   "to": 1794180600
+   "from": 1793974748,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVComedie.de@FR",
    "name": "Pluto TV Comedie",
    "file": "PlutoTVComedie.de_at_FR.json",
    "count": 49,
-   "from": 1793889060,
-   "to": 1794180600
+   "from": 1793975460,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVComediesCultes.de@FR",
    "name": "Pluto TV Comedies Cultes",
    "file": "PlutoTVComediesCultes.de_at_FR.json",
-   "count": 15,
-   "from": 1793886490,
-   "to": 1794180600
+   "count": 16,
+   "from": 1793973983,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVComedy.us@CA",
    "name": "Pluto TV Comedy",
    "file": "PlutoTVComedy.us_at_CA.json",
-   "count": 57,
-   "from": 1793888580,
-   "to": 1794094200
+   "count": 56,
+   "from": 1793975820,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVComedyMovies.us@CA",
    "name": "Pluto TV Comedy Movies",
    "file": "PlutoTVComedyMovies.us_at_CA.json",
-   "count": 14,
-   "from": 1793886630,
-   "to": 1794094200
+   "count": 15,
+   "from": 1793974110,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCompetencias.us@LatAm",
    "name": "Pluto TV Competencias",
    "file": "PlutoTVCompetencias.us_at_LatAm.json",
-   "count": 59,
-   "from": 1793888640,
-   "to": 1794180600
+   "count": 58,
+   "from": 1793975880,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCompetition.us@SD",
    "name": "Pluto TV Competition",
    "file": "PlutoTVCompetition.us_at_SD.json",
    "count": 33,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PlutoTVCozinha.us@BR",
    "name": "Pluto TV Cozinha",
    "file": "PlutoTVCozinha.us_at_BR.json",
    "count": 36,
-   "from": 1793888580,
+   "from": 1793974740,
    "to": 1794180600
   },
   {
@@ -4130,87 +4130,87 @@
    "name": "Pluto TV Crime",
    "file": "PlutoTVCrime.de_at_DACH.json",
    "count": 26,
-   "from": 1793886607,
-   "to": 1793976695
+   "from": 1793976695,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCrimeDrama.us@CA",
    "name": "Pluto TV Crime Drama",
    "file": "PlutoTVCrimeDrama.us_at_CA.json",
-   "count": 30,
-   "from": 1793889180,
-   "to": 1794094200
+   "count": 31,
+   "from": 1793974500,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCrimeMovies.us@SD",
    "name": "Pluto TV Crime Movies",
    "file": "PlutoTVCrimeMovies.us_at_SD.json",
-   "count": 12,
-   "from": 1793884500,
-   "to": 1793977200
+   "count": 13,
+   "from": 1793970900,
+   "to": 1794065400
   },
   {
    "id": "PlutoTVCucina.de@IT",
    "name": "Pluto TV Cucina",
    "file": "PlutoTVCucina.de_at_IT.json",
-   "count": 34,
-   "from": 1793888613,
-   "to": 1794094200
+   "count": 24,
+   "from": 1793974334,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVCuisine.de@FR",
    "name": "Pluto TV Cuisine",
    "file": "PlutoTVCuisine.de_at_FR.json",
    "count": 42,
-   "from": 1793889836,
-   "to": 1794180600
+   "from": 1793975795,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVCultFilms.us@US",
    "name": "Pluto TV Cult Films",
    "file": "PlutoTVCultFilms.us_at_US.json",
    "count": 14,
-   "from": 1793889001,
-   "to": 1793979001
+   "from": 1793970901,
+   "to": 1794066301
   },
   {
    "id": "PlutoTVDanskeklassikere.se@DK",
    "name": "Pluto TV Danske klassikere",
    "file": "PlutoTVDanskeklassikere.se_at_DK.json",
-   "count": 14,
-   "from": 1793888495,
-   "to": 1793977065
+   "count": 16,
+   "from": 1793971872,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVDating.de@FR",
    "name": "Pluto TV Dating",
    "file": "PlutoTVDating.de_at_FR.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVDeportes.us@LatAm",
    "name": "Pluto TV Deportes",
    "file": "PlutoTVDeportes.us_at_LatAm.json",
-   "count": 27,
-   "from": 1793889780,
-   "to": 1793976720
+   "count": 28,
+   "from": 1793976720,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVDesenhosClassicos.us@BR",
    "name": "Pluto TV Desenhos Classicos",
    "file": "PlutoTVDesenhosClassicos.us_at_BR.json",
    "count": 54,
-   "from": 1793889420,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVDeutscheComedy.de@DACH",
    "name": "Pluto TV Deutsche Comedy",
    "file": "PlutoTVDeutscheComedy.de_at_DACH.json",
    "count": 44,
-   "from": 1793889058,
+   "from": 1793975290,
    "to": 1794180600
   },
   {
@@ -4218,31 +4218,31 @@
    "name": "Pluto TV Diseno",
    "file": "PlutoTVDiseno.de_at_ES.json",
    "count": 32,
-   "from": 1793887300,
-   "to": 1793977077
+   "from": 1793973476,
+   "to": 1794063315
   },
   {
    "id": "PlutoTVDocumentales.us@LatAm",
    "name": "Pluto TV Documentales",
    "file": "PlutoTVDocumentales.us_at_LatAm.json",
-   "count": 31,
-   "from": 1793888040,
-   "to": 1794180600
+   "count": 29,
+   "from": 1793975400,
+   "to": 1794063720
   },
   {
    "id": "PlutoTVDocumentari.de@IT",
    "name": "Pluto TV Documentari",
    "file": "PlutoTVDocumentari.de_at_IT.json",
-   "count": 25,
-   "from": 1793886280,
-   "to": 1794180600
+   "count": 29,
+   "from": 1793974881,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVDokumentar.se@DK",
    "name": "Pluto TV Dokumentar",
    "file": "PlutoTVDokumentar.se_at_DK.json",
-   "count": 23,
-   "from": 1793889314,
+   "count": 18,
+   "from": 1793974422,
    "to": 1794180600
   },
   {
@@ -4250,455 +4250,455 @@
    "name": "Pluto TV Drama",
    "file": "PlutoTVDrama.us_at_US.json",
    "count": 11,
-   "from": 1793880900,
-   "to": 1793979000
+   "from": 1793970900,
+   "to": 1794066300
   },
   {
    "id": "PlutoTVDramaMovies.us@CA",
    "name": "Pluto TV Drama Movies",
    "file": "PlutoTVDramaMovies.us_at_CA.json",
-   "count": 10,
-   "from": 1793886180,
-   "to": 1793981400
+   "count": 14,
+   "from": 1793970600,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVDramasCoreanos.us@LatAm",
    "name": "Pluto TV Dramas Coreanos",
    "file": "PlutoTVDramasCoreanos.us_at_LatAm.json",
-   "count": 22,
-   "from": 1793885640,
-   "to": 1794180600
+   "count": 21,
+   "from": 1793974920,
+   "to": 1794064440
   },
   {
    "id": "PlutoTVDramasCoreanosTeen.us@LatAm",
    "name": "Pluto TV Dramas Coreanos Teen",
    "file": "PlutoTVDramasCoreanosTeen.us_at_LatAm.json",
-   "count": 26,
-   "from": 1793887440,
-   "to": 1794180600
+   "count": 29,
+   "from": 1793976600,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVElReinoInfantil.us@SD",
    "name": "Pluto TV El Reino Infantil",
    "file": "PlutoTVElReinoInfantil.us_at_SD.json",
-   "count": 35,
-   "from": 1793889000,
-   "to": 1794267000
+   "count": 33,
+   "from": 1793975280,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVEsportes.us@BR",
    "name": "Pluto TV Esportes",
    "file": "PlutoTVEsportes.us_at_BR.json",
-   "count": 27,
-   "from": 1793888640,
-   "to": 1793976720
+   "count": 26,
+   "from": 1793976720,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVESports.us@LatAm",
    "name": "Pluto TV E-Sports",
    "file": "PlutoTVESports.us_at_LatAm.json",
-   "count": 64,
-   "from": 1793886300,
-   "to": 1793976840
+   "count": 65,
+   "from": 1793976840,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVEstilodeVida.us@LatAm",
    "name": "Pluto TV Estilo de Vida",
    "file": "PlutoTVEstilodeVida.us_at_LatAm.json",
-   "count": 45,
-   "from": 1793889000,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793974920,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVExplore.de@DACH",
    "name": "Pluto TV Explore",
    "file": "PlutoTVExplore.de_at_DACH.json",
-   "count": 28,
-   "from": 1793889281,
-   "to": 1794180600
+   "count": 29,
+   "from": 1793974801,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFantastic.us@SD",
    "name": "Pluto TV Fantastic",
    "file": "PlutoTVFantastic.us_at_SD.json",
-   "count": 13,
-   "from": 1793882700,
-   "to": 1793979900
+   "count": 12,
+   "from": 1793970000,
+   "to": 1794063600
   },
   {
    "id": "PlutoTVFBI.us@CA",
    "name": "Pluto TV FBI",
    "file": "PlutoTVFBI.us_at_CA.json",
    "count": 31,
-   "from": 1793889840,
-   "to": 1794180600
+   "from": 1793974980,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFiccaoCientifica.us@BR",
    "name": "Pluto TV Ficcao Cientifica",
    "file": "PlutoTVFiccaoCientifica.us_at_BR.json",
    "count": 14,
-   "from": 1793887200,
-   "to": 1793980860
+   "from": 1793972220,
+   "to": 1794065460
   },
   {
    "id": "PlutoTVFilm.de@IT",
    "name": "Pluto TV Film",
    "file": "PlutoTVFilm.de_at_IT.json",
    "count": 15,
-   "from": 1793888011,
+   "from": 1793974578,
    "to": 1794180600
   },
   {
    "id": "PlutoTVFilm.se@DK",
    "name": "Pluto TV Film",
    "file": "PlutoTVFilm.se_at_DK.json",
-   "count": 14,
-   "from": 1793888467,
-   "to": 1794094200
+   "count": 13,
+   "from": 1793976231,
+   "to": 1794064965
   },
   {
    "id": "PlutoTVFilmAzione.de@IT",
    "name": "Pluto TV Film Azione",
    "file": "PlutoTVFilmAzione.de_at_IT.json",
-   "count": 15,
-   "from": 1793886051,
-   "to": 1793978982
+   "count": 16,
+   "from": 1793972502,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFilmCommedia.de@IT",
    "name": "Pluto TV Film Commedia",
    "file": "PlutoTVFilmCommedia.de_at_IT.json",
-   "count": 16,
-   "from": 1793887783,
-   "to": 1794094200
+   "count": 14,
+   "from": 1793975821,
+   "to": 1794064496
   },
   {
    "id": "PlutoTVFilmesAcao.us@BR",
    "name": "Pluto TV Filmes Acao",
    "file": "PlutoTVFilmesAcao.us_at_BR.json",
-   "count": 15,
-   "from": 1793883915,
-   "to": 1794180600
+   "count": 12,
+   "from": 1793974335,
+   "to": 1794065535
   },
   {
    "id": "PlutoTVFilmesAventura.us@BR",
    "name": "Pluto TV Filmes Aventura",
    "file": "PlutoTVFilmesAventura.us_at_BR.json",
-   "count": 16,
-   "from": 1793885805,
-   "to": 1794180600
+   "count": 14,
+   "from": 1793976225,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFilmesdeLuta.us@BR",
    "name": "Pluto TV Filmes de Luta",
    "file": "PlutoTVFilmesdeLuta.us_at_BR.json",
    "count": 13,
-   "from": 1793888280,
-   "to": 1793980260
+   "from": 1793971560,
+   "to": 1794064080
   },
   {
    "id": "PlutoTVFilmesNacionais.us@BR",
    "name": "Pluto TV Filmes Nacionais",
    "file": "PlutoTVFilmesNacionais.us_at_BR.json",
-   "count": 15,
-   "from": 1793883180,
-   "to": 1793981940
+   "count": 13,
+   "from": 1793972820,
+   "to": 1794063540
   },
   {
    "id": "PlutoTVFilmRomantici.de@IT",
    "name": "Pluto TV Film Romantici",
    "file": "PlutoTVFilmRomantici.de_at_IT.json",
-   "count": 15,
-   "from": 1793887021,
-   "to": 1793977693
+   "count": 17,
+   "from": 1793972160,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFilmStorici.de@IT",
    "name": "Pluto TV Film Storici",
    "file": "PlutoTVFilmStorici.de_at_IT.json",
-   "count": 12,
-   "from": 1793889259,
-   "to": 1793980585
+   "count": 13,
+   "from": 1793973265,
+   "to": 1794067744
   },
   {
    "id": "PlutoTVFilmThriller.de@IT",
    "name": "Pluto TV Film Thriller",
    "file": "PlutoTVFilmThriller.de_at_IT.json",
    "count": 16,
-   "from": 1793887178,
-   "to": 1794094200
+   "from": 1793974183,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFishing.se@DK",
    "name": "Pluto TV Fishing",
    "file": "PlutoTVFishing.se_at_DK.json",
-   "count": 54,
-   "from": 1793888802,
-   "to": 1794180600
+   "count": 51,
+   "from": 1793976520,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFood.de@DACH",
    "name": "Pluto TV Food",
    "file": "PlutoTVFood.de_at_DACH.json",
-   "count": 32,
-   "from": 1793887619,
-   "to": 1794180600
+   "count": 37,
+   "from": 1793976779,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVFrenchCollection.de@FR",
    "name": "Pluto TV French Collection",
    "file": "PlutoTVFrenchCollection.de_at_FR.json",
-   "count": 20,
-   "from": 1793886709,
-   "to": 1794180600
+   "count": 25,
+   "from": 1793974773,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVGameShows.us@SD",
    "name": "Pluto TV Game Shows",
    "file": "PlutoTVGameShows.us_at_SD.json",
    "count": 48,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVGasolina.de@ES",
    "name": "Pluto TV Gasolina",
    "file": "PlutoTVGasolina.de_at_ES.json",
-   "count": 49,
-   "from": 1793889151,
-   "to": 1794094200
+   "count": 52,
+   "from": 1793975642,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVGoreSlasher.de@ES",
    "name": "Pluto TV Gore & Slasher",
    "file": "PlutoTVGoreSlasher.de_at_ES.json",
-   "count": 42,
-   "from": 1793889032,
-   "to": 1794180600
+   "count": 48,
+   "from": 1793975432,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHandboldHighlights.se@DK",
    "name": "Pluto TV Handbold Highlights",
    "file": "PlutoTVHandboldHighlights.se_at_DK.json",
-   "count": 15,
-   "from": 1793883319,
-   "to": 1794180600
+   "count": 14,
+   "from": 1793975704,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHandboldLive.se@DK",
    "name": "Pluto TV Handbold Live",
    "file": "PlutoTVHandboldLive.se_at_DK.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHandbollHighlights.se@SE",
    "name": "Pluto TV Handboll Highlights",
    "file": "PlutoTVHandbollHighlights.se_at_SE.json",
-   "count": 16,
-   "from": 1793886859,
-   "to": 1794180600
+   "count": 14,
+   "from": 1793975574,
+   "to": 1794064946
   },
   {
    "id": "PlutoTVHandbollLive.se@SE",
    "name": "Pluto TV Handboll Live",
    "file": "PlutoTVHandbollLive.se_at_SE.json",
-   "count": 50,
-   "from": 1793888100,
-   "to": 1794180600
+   "count": 49,
+   "from": 1793976300,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHarlequin.se@DK",
    "name": "Pluto TV Harlequin",
    "file": "PlutoTVHarlequin.se_at_DK.json",
-   "count": 16,
-   "from": 1793884949,
-   "to": 1794180600
+   "count": 14,
+   "from": 1793975069,
+   "to": 1794064787
   },
   {
    "id": "PlutoTVHistoire.de@FR",
    "name": "Pluto TV Histoire",
    "file": "PlutoTVHistoire.de_at_FR.json",
-   "count": 27,
-   "from": 1793887787,
-   "to": 1793976925
+   "count": 31,
+   "from": 1793972965,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHistoria.de@ES",
    "name": "Pluto TV Historia",
    "file": "PlutoTVHistoria.de_at_ES.json",
    "count": 34,
-   "from": 1793888414,
-   "to": 1794180600
+   "from": 1793975497,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHistoria.us@BR",
    "name": "Pluto TV Historia",
    "file": "PlutoTVHistoria.us_at_BR.json",
-   "count": 25,
-   "from": 1793885040,
-   "to": 1793977980
+   "count": 23,
+   "from": 1793971320,
+   "to": 1794064500
   },
   {
    "id": "PlutoTVHistory.us@US",
    "name": "Pluto TV History",
    "file": "PlutoTVHistory.us_at_US.json",
-   "count": 32,
-   "from": 1793887200,
-   "to": 1794180600
+   "count": 31,
+   "from": 1793974500,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHometownDrama.us@SD",
    "name": "Pluto TV Hometown Drama",
    "file": "PlutoTVHometownDrama.us_at_SD.json",
    "count": 27,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PlutoTVHorror.se@DK",
    "name": "Pluto TV Horror",
    "file": "PlutoTVHorror.se_at_DK.json",
    "count": 40,
-   "from": 1793889623,
+   "from": 1793975140,
    "to": 1794180600
   },
   {
    "id": "PlutoTVHorror.us@CA",
    "name": "Pluto TV Horror",
    "file": "PlutoTVHorror.us_at_CA.json",
-   "count": 17,
-   "from": 1793889120,
-   "to": 1793976600
+   "count": 12,
+   "from": 1793976600,
+   "to": 1794063780
   },
   {
    "id": "PlutoTVHorrorSerien.de@DACH",
    "name": "Pluto TV Horror-Serien",
    "file": "PlutoTVHorrorSerien.de_at_DACH.json",
-   "count": 43,
-   "from": 1793888659,
+   "count": 48,
+   "from": 1793974363,
    "to": 1794180600
   },
   {
    "id": "PlutoTVHumor.se@DK",
    "name": "Pluto TV Humor",
    "file": "PlutoTVHumor.se_at_DK.json",
-   "count": 16,
-   "from": 1793885430,
-   "to": 1794180600
+   "count": 15,
+   "from": 1793975678,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVHumor.us@LatAm",
    "name": "Pluto TV Humor",
    "file": "PlutoTVHumor.us_at_LatAm.json",
    "count": 51,
-   "from": 1793888820,
-   "to": 1794180600
+   "from": 1793975460,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVIcons.us@SD",
    "name": "Pluto TV Icons",
    "file": "PlutoTVIcons.us_at_SD.json",
    "count": 13,
-   "from": 1793885400,
-   "to": 1793977200
+   "from": 1793968200,
+   "to": 1794069000
   },
   {
    "id": "PlutoTVImpacto.de@ES",
    "name": "Pluto TV Impacto",
    "file": "PlutoTVImpacto.de_at_ES.json",
-   "count": 55,
-   "from": 1793888516,
-   "to": 1794094200
+   "count": 53,
+   "from": 1793975874,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVInside.de@FR",
    "name": "Pluto TV Inside",
    "file": "PlutoTVInside.de_at_FR.json",
-   "count": 35,
-   "from": 1793889134,
-   "to": 1794094200
+   "count": 28,
+   "from": 1793976328,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVInvasionAlien.de@ES",
    "name": "Pluto TV Invasion Alien",
    "file": "PlutoTVInvasionAlien.de_at_ES.json",
-   "count": 21,
-   "from": 1793887625,
-   "to": 1794180600
+   "count": 18,
+   "from": 1793976219,
+   "to": 1794063371
   },
   {
    "id": "PlutoTVInvestigacao.us@BR",
    "name": "Pluto TV Investigacao",
    "file": "PlutoTVInvestigacao.us_at_BR.json",
-   "count": 37,
-   "from": 1793888400,
-   "to": 1794180600
+   "count": 39,
+   "from": 1793974680,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVJohnWayne.se@DK",
    "name": "Pluto TV John Wayne",
    "file": "PlutoTVJohnWayne.se_at_DK.json",
    "count": 14,
-   "from": 1793885939,
-   "to": 1794180600
+   "from": 1793974055,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVJunior.us@BR",
    "name": "Pluto TV Junior",
    "file": "PlutoTVJunior.us_at_BR.json",
    "count": 56,
-   "from": 1793888543,
-   "to": 1794094200
+   "from": 1793975723,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVJuniorklubben.se@DK",
    "name": "Pluto TV Juniorklubben",
    "file": "PlutoTVJuniorklubben.se_at_DK.json",
    "count": 65,
-   "from": 1793888666,
-   "to": 1794180600
+   "from": 1793976363,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVKDrama.de@ES",
    "name": "Pluto TV K-Drama",
    "file": "PlutoTVKDrama.de_at_ES.json",
-   "count": 21,
-   "from": 1793885996,
-   "to": 1793976469
+   "count": 20,
+   "from": 1793976469,
+   "to": 1794064276
   },
   {
    "id": "PlutoTVKFOOD.us@BR",
    "name": "Pluto TV KFOOD",
    "file": "PlutoTVKFOOD.us_at_BR.json",
-   "count": 30,
-   "from": 1793886420,
-   "to": 1794094200
+   "count": 29,
+   "from": 1793976060,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVKids.us@BR",
    "name": "Pluto TV Kids",
    "file": "PlutoTVKids.us_at_BR.json",
-   "count": 61,
-   "from": 1793889300,
-   "to": 1794094200
+   "count": 59,
+   "from": 1793976420,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVKidsClassics.de@ES",
    "name": "Pluto TV Kids Classics",
    "file": "PlutoTVKidsClassics.de_at_ES.json",
-   "count": 50,
-   "from": 1793888400,
-   "to": 1794180600
+   "count": 49,
+   "from": 1793976600,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVKidsClub.us@BR",
    "name": "Pluto TV Kids Club",
    "file": "PlutoTVKidsClub.us_at_BR.json",
    "count": 51,
-   "from": 1793889780,
+   "from": 1793976180,
    "to": 1794180600
   },
   {
@@ -4706,159 +4706,159 @@
    "name": "Pluto TV Klassiske tegnefilm",
    "file": "PlutoTVKlassisketegnefilm.se_at_DK.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVKlassisketegnefilmer.se@NO",
    "name": "Pluto TV Klassiske tegnefilmer",
    "file": "PlutoTVKlassisketegnefilmer.se_at_NO.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVKomedi.se@SE",
    "name": "Pluto TV Komedi",
    "file": "PlutoTVKomedi.se_at_SE.json",
-   "count": 14,
-   "from": 1793889140,
-   "to": 1793979357
+   "count": 16,
+   "from": 1793971377,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVKultComedies.de@DACH",
    "name": "Pluto TV Kult Comedies",
    "file": "PlutoTVKultComedies.de_at_DACH.json",
-   "count": 14,
-   "from": 1793886592,
-   "to": 1793977827
+   "count": 15,
+   "from": 1793969967,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVKultfilm.se@DK",
    "name": "Pluto TV Kultfilm",
    "file": "PlutoTVKultfilm.se_at_DK.json",
-   "count": 13,
-   "from": 1793886724,
-   "to": 1793979491
+   "count": 15,
+   "from": 1793972043,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVKultfilme.de@DACH",
    "name": "Pluto TV Kultfilme",
    "file": "PlutoTVKultfilme.de_at_DACH.json",
-   "count": 12,
-   "from": 1793886871,
-   "to": 1793978859
+   "count": 13,
+   "from": 1793968984,
+   "to": 1794064443
   },
   {
    "id": "PlutoTVKultfilmer.se@NO",
    "name": "Pluto TV Kultfilmer",
    "file": "PlutoTVKultfilmer.se_at_NO.json",
-   "count": 15,
-   "from": 1793886812,
-   "to": 1794180600
+   "count": 14,
+   "from": 1793975654,
+   "to": 1794065773
   },
   {
    "id": "PlutoTVLegamiLetali.de@IT",
    "name": "Pluto TV Legami Letali",
    "file": "PlutoTVLegamiLetali.de_at_IT.json",
-   "count": 16,
-   "from": 1793885374,
-   "to": 1793976466
+   "count": 17,
+   "from": 1793976466,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVLives.us@US",
    "name": "Pluto TV Lives",
    "file": "PlutoTVLives.us_at_US.json",
-   "count": 28,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 29,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PlutoTVMilitary.us@SD",
    "name": "Pluto TV Military",
    "file": "PlutoTVMilitary.us_at_SD.json",
-   "count": 27,
-   "from": 1793887202,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793973602,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVMisterios.us@BR",
    "name": "Pluto TV Misterios",
    "file": "PlutoTVMisterios.us_at_BR.json",
-   "count": 36,
-   "from": 1793888700,
-   "to": 1794094200
+   "count": 37,
+   "from": 1793975040,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVMotor.de@ES",
    "name": "Pluto TV Motor",
    "file": "PlutoTVMotor.de_at_ES.json",
-   "count": 31,
-   "from": 1793889180,
-   "to": 1794180600
+   "count": 32,
+   "from": 1793974380,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVMotor.se@DK",
    "name": "Pluto TV Motor",
    "file": "PlutoTVMotor.se_at_DK.json",
-   "count": 35,
-   "from": 1793887796,
-   "to": 1793976268
+   "count": 31,
+   "from": 1793976268,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVMovies.de@DACH",
    "name": "Pluto TV Movies",
    "file": "PlutoTVMovies.de_at_DACH.json",
-   "count": 13,
-   "from": 1793885295,
-   "to": 1793977675
+   "count": 14,
+   "from": 1793970295,
+   "to": 1794065674
   },
   {
    "id": "PlutoTVMystery.de@DACH",
    "name": "Pluto TV Mystery",
    "file": "PlutoTVMystery.de_at_DACH.json",
-   "count": 26,
-   "from": 1793888067,
-   "to": 1793976379
+   "count": 27,
+   "from": 1793976379,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVNatura.de@IT",
    "name": "Pluto TV Natura",
    "file": "PlutoTVNatura.de_at_IT.json",
-   "count": 47,
-   "from": 1793889689,
-   "to": 1794180600
+   "count": 42,
+   "from": 1793975658,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNaturaleza.us@LatAm",
    "name": "Pluto TV Naturaleza",
    "file": "PlutoTVNaturaleza.us_at_LatAm.json",
-   "count": 26,
-   "from": 1793889420,
-   "to": 1794180600
+   "count": 30,
+   "from": 1793974380,
+   "to": 1794063660
   },
   {
    "id": "PlutoTVNature.de@DACH",
    "name": "Pluto TV Nature",
    "file": "PlutoTVNature.de_at_DACH.json",
-   "count": 27,
-   "from": 1793889702,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793975752,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNatureza.us@BR",
    "name": "Pluto TV Natureza",
    "file": "PlutoTVNatureza.us_at_BR.json",
    "count": 25,
-   "from": 1793887320,
-   "to": 1793976600
+   "from": 1793976600,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVNegocioFechado.us@BR",
    "name": "Pluto TV Negocio Fechado",
    "file": "PlutoTVNegocioFechado.us_at_BR.json",
-   "count": 59,
-   "from": 1793888580,
+   "count": 57,
+   "from": 1793976420,
    "to": 1794180600
   },
   {
@@ -4866,319 +4866,319 @@
    "name": "Pluto TV Netmovies",
    "file": "PlutoTVNetmovies.us_at_BR.json",
    "count": 15,
-   "from": 1793884320,
-   "to": 1794180600
+   "from": 1793974560,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNottidiPassione.de@IT",
    "name": "Pluto TV Notti di Passione",
    "file": "PlutoTVNottidiPassione.de_at_IT.json",
    "count": 24,
-   "from": 1793887248,
-   "to": 1794094200
+   "from": 1793973675,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNovelas.us@BR",
    "name": "Pluto TV Novelas",
    "file": "PlutoTVNovelas.us_at_BR.json",
    "count": 28,
-   "from": 1793887380,
-   "to": 1794180600
+   "from": 1793974680,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNovelasdeMexico.us@LatAm",
    "name": "Pluto TV Novelas de Mexico",
    "file": "PlutoTVNovelasdeMexico.us_at_LatAm.json",
-   "count": 33,
-   "from": 1793887680,
-   "to": 1794180600
+   "count": 34,
+   "from": 1793975880,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNovelasdeOtrosContinentes.us@LatAm",
    "name": "Pluto TV Novelas de Otros Continentes",
    "file": "PlutoTVNovelasdeOtrosContinentes.us_at_LatAm.json",
-   "count": 27,
-   "from": 1793888760,
-   "to": 1793976660
+   "count": 28,
+   "from": 1793976660,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNovelasdeVenezuela.us@LatAm",
    "name": "Pluto TV Novelas de Venezuela",
    "file": "PlutoTVNovelasdeVenezuela.us_at_LatAm.json",
    "count": 29,
-   "from": 1793889240,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVNuestroCine.us@LatAm",
    "name": "Pluto TV Nuestro Cine",
    "file": "PlutoTVNuestroCine.us_at_LatAm.json",
-   "count": 13,
-   "from": 1793887140,
-   "to": 1793979600
+   "count": 14,
+   "from": 1793972400,
+   "to": 1794067380
   },
   {
    "id": "PlutoTVOvernaturlig.se@NO",
    "name": "Pluto TV Overnaturlig",
    "file": "PlutoTVOvernaturlig.se_at_NO.json",
-   "count": 33,
-   "from": 1793888220,
-   "to": 1794180600
+   "count": 36,
+   "from": 1793976261,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVPaisagensporStingray.us@BR",
    "name": "Pluto TV Paisagens por Stingray",
    "file": "PlutoTVPaisagensporStingray.us_at_BR.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PlutoTVParanormal.se@DK",
    "name": "Pluto TV Paranormal",
    "file": "PlutoTVParanormal.se_at_DK.json",
-   "count": 36,
-   "from": 1793889831,
-   "to": 1794094200
+   "count": 34,
+   "from": 1793974606,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVParanormal.us@CA",
    "name": "Pluto TV Paranormal",
    "file": "PlutoTVParanormal.us_at_CA.json",
-   "count": 32,
-   "from": 1793888580,
-   "to": 1793976300
+   "count": 27,
+   "from": 1793976300,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVPeleas.us@LatAm",
    "name": "Pluto TV Peleas",
    "file": "PlutoTVPeleas.us_at_LatAm.json",
-   "count": 21,
-   "from": 1793887320,
-   "to": 1794180600
+   "count": 24,
+   "from": 1793974020,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVPolar.de@FR",
    "name": "Pluto TV Polar",
    "file": "PlutoTVPolar.de_at_FR.json",
-   "count": 28,
-   "from": 1793888099,
+   "count": 22,
+   "from": 1793976150,
    "to": 1794180600
   },
   {
    "id": "PlutoTVPolicial.us@BR",
    "name": "Pluto TV Policial",
    "file": "PlutoTVPolicial.us_at_BR.json",
-   "count": 40,
-   "from": 1793887260,
-   "to": 1793977080
+   "count": 39,
+   "from": 1793973600,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVPolizeiserien.de@DACH",
    "name": "Pluto TV Polizeiserien",
    "file": "PlutoTVPolizeiserien.de_at_DACH.json",
-   "count": 22,
-   "from": 1793886885,
-   "to": 1793978145
+   "count": 19,
+   "from": 1793973405,
+   "to": 1794065187
   },
   {
    "id": "PlutoTVPsycho.de@ES",
    "name": "Pluto TV Psycho",
    "file": "PlutoTVPsycho.de_at_ES.json",
-   "count": 19,
-   "from": 1793887268,
-   "to": 1794094200
+   "count": 17,
+   "from": 1793975497,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVReaction.us@SD",
    "name": "Pluto TV Reaction",
    "file": "PlutoTVReaction.us_at_SD.json",
-   "count": 12,
-   "from": 1793888100,
-   "to": 1793982600
+   "count": 13,
+   "from": 1793972700,
+   "to": 1794068100
   },
   {
    "id": "PlutoTVReality.us@CA",
    "name": "Pluto TV Reality",
    "file": "PlutoTVReality.us_at_CA.json",
-   "count": 31,
-   "from": 1793887260,
+   "count": 30,
+   "from": 1793975640,
    "to": 1794180600
   },
   {
    "id": "PlutoTVRealLife.de@IT",
    "name": "Pluto TV Real Life",
    "file": "PlutoTVRealLife.de_at_IT.json",
-   "count": 47,
-   "from": 1793888612,
-   "to": 1794180600
+   "count": 55,
+   "from": 1793976082,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVRecordNews.us@BR",
    "name": "Pluto TV Record News",
    "file": "PlutoTVRecordNews.us_at_BR.json",
-   "count": 33,
-   "from": 1793889000,
-   "to": 1794180600
+   "count": 30,
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVRetro.us@BR",
    "name": "Pluto TV Retro",
    "file": "PlutoTVRetro.us_at_BR.json",
    "count": 39,
-   "from": 1793888640,
-   "to": 1794180600
+   "from": 1793976540,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVRetroActionMovies.us@CA",
    "name": "Pluto TV Retro Action Movies",
    "file": "PlutoTVRetroActionMovies.us_at_CA.json",
    "count": 13,
-   "from": 1793889300,
-   "to": 1793979060
+   "from": 1793972460,
+   "to": 1794064500
   },
   {
    "id": "PlutoTVRetroCrimeAction.us@CA",
    "name": "Pluto TV Retro Crime Action",
    "file": "PlutoTVRetroCrimeAction.us_at_CA.json",
-   "count": 27,
-   "from": 1793886690,
-   "to": 1794180600
+   "count": 26,
+   "from": 1793975970,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVRetroCrimeDrama.us@CA",
    "name": "Pluto TV Retro Crime Drama",
    "file": "PlutoTVRetroCrimeDrama.us_at_CA.json",
-   "count": 26,
-   "from": 1793886720,
-   "to": 1793976300
+   "count": 27,
+   "from": 1793976300,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVRetroKid.us@CA",
    "name": "Pluto TV Retro Kid",
    "file": "PlutoTVRetroKid.us_at_CA.json",
-   "count": 48,
-   "from": 1793889180,
-   "to": 1794180600
+   "count": 47,
+   "from": 1793976420,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVRetroToons.de@FR",
    "name": "Pluto TV Retro Toons",
    "file": "PlutoTVRetroToons.de_at_FR.json",
-   "count": 58,
-   "from": 1793889795,
-   "to": 1794094200
+   "count": 56,
+   "from": 1793976219,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVRomance.us@US",
    "name": "Pluto TV Romance",
    "file": "PlutoTVRomance.us_at_US.json",
    "count": 10,
-   "from": 1793888100,
-   "to": 1794267000
+   "from": 1793969100,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVRomantik.se@DK",
    "name": "Pluto TV Romantik",
    "file": "PlutoTVRomantik.se_at_DK.json",
    "count": 14,
-   "from": 1793889100,
-   "to": 1794094200
+   "from": 1793975709,
+   "to": 1794063688
   },
   {
    "id": "PlutoTVRomantikk.se@NO",
    "name": "Pluto TV Romantikk",
    "file": "PlutoTVRomantikk.se_at_NO.json",
-   "count": 14,
-   "from": 1793885898,
-   "to": 1793978862
+   "count": 15,
+   "from": 1793972022,
+   "to": 1794066532
   },
   {
    "id": "PlutoTVScherzierisate.de@IT",
    "name": "Pluto TV Scherzi e risate",
    "file": "PlutoTVScherzierisate.de_at_IT.json",
-   "count": 49,
-   "from": 1793888072,
-   "to": 1794094200
+   "count": 46,
+   "from": 1793976144,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVScience.us@US",
    "name": "Pluto TV Science",
    "file": "PlutoTVScience.us_at_US.json",
    "count": 21,
-   "from": 1793889000,
-   "to": 1794267000
+   "from": 1793975400,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVSciFi.se@DK",
    "name": "Pluto TV Sci-Fi",
    "file": "PlutoTVSciFi.se_at_DK.json",
-   "count": 28,
-   "from": 1793887503,
-   "to": 1793976483
+   "count": 30,
+   "from": 1793976483,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSciFi.us@CA",
    "name": "Pluto TV Sci-Fi",
    "file": "PlutoTVSciFi.us_at_CA.json",
-   "count": 29,
-   "from": 1793887772,
-   "to": 1793976512
+   "count": 30,
+   "from": 1793976512,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSerie.de@DACH",
    "name": "Pluto TV Serie",
    "file": "PlutoTVSerie.de_at_DACH.json",
-   "count": 29,
-   "from": 1793888253,
-   "to": 1794180600
+   "count": 30,
+   "from": 1793974352,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSerieCrime.de@IT",
    "name": "Pluto TV Serie Crime",
    "file": "PlutoTVSerieCrime.de_at_IT.json",
-   "count": 25,
-   "from": 1793889186,
-   "to": 1794180600
+   "count": 24,
+   "from": 1793976140,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeries.us@LatAm",
    "name": "Pluto TV Series",
    "file": "PlutoTVSeries.us_at_LatAm.json",
-   "count": 28,
-   "from": 1793889420,
-   "to": 1793976660
+   "count": 29,
+   "from": 1793976660,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesAcao.us@BR",
    "name": "Pluto TV Series Acao",
    "file": "PlutoTVSeriesAcao.us_at_BR.json",
    "count": 29,
-   "from": 1793889180,
-   "to": 1794094200
+   "from": 1793975460,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSerieSciFi.de@IT",
    "name": "Pluto TV Serie Sci-Fi",
    "file": "PlutoTVSerieSciFi.de_at_IT.json",
    "count": 42,
-   "from": 1793889598,
-   "to": 1794180600
+   "from": 1793975593,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesComedia.us@BR",
    "name": "Pluto TV Series Comedia",
    "file": "PlutoTVSeriesComedia.us_at_BR.json",
-   "count": 56,
-   "from": 1793888820,
-   "to": 1794094200
+   "count": 57,
+   "from": 1793975520,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesCriminais.us@BR",
    "name": "Pluto TV Series Criminais",
    "file": "PlutoTVSeriesCriminais.us_at_BR.json",
-   "count": 30,
-   "from": 1793888565,
+   "count": 31,
+   "from": 1793974305,
    "to": 1794180600
   },
   {
@@ -5186,351 +5186,351 @@
    "name": "Pluto TV Series criminales",
    "file": "PlutoTVSeriescriminales.de_at_ES.json",
    "count": 27,
-   "from": 1793888115,
-   "to": 1794180600
+   "from": 1793974674,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesdeAccion.us@LatAm",
    "name": "Pluto TV Series de Accion",
    "file": "PlutoTVSeriesdeAccion.us_at_LatAm.json",
-   "count": 28,
-   "from": 1793888820,
-   "to": 1794180600
+   "count": 26,
+   "from": 1793975520,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesdeComedia.us@LatAm",
    "name": "Pluto TV Series de Comedia",
    "file": "PlutoTVSeriesdeComedia.us_at_LatAm.json",
    "count": 44,
-   "from": 1793888700,
-   "to": 1794180600
+   "from": 1793975580,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesdeCrimen.us@LatAm",
    "name": "Pluto TV Series de Crimen",
    "file": "PlutoTVSeriesdeCrimen.us_at_LatAm.json",
    "count": 14,
-   "from": 1793884860,
-   "to": 1793978460
+   "from": 1793971800,
+   "to": 1794065040
   },
   {
    "id": "PlutoTVSeriesdeDrama.us@LatAm",
    "name": "Pluto TV Series de Drama",
    "file": "PlutoTVSeriesdeDrama.us_at_LatAm.json",
-   "count": 31,
-   "from": 1793887800,
+   "count": 29,
+   "from": 1793975820,
    "to": 1794180600
   },
   {
    "id": "PlutoTVSeriesdeOtrosContinentes.us@LatAm",
    "name": "Pluto TV Series de Otros Continentes",
    "file": "PlutoTVSeriesdeOtrosContinentes.us_at_LatAm.json",
-   "count": 20,
-   "from": 1793888160,
-   "to": 1794180600
+   "count": 22,
+   "from": 1793974800,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesdeSciFi.us@LatAm",
    "name": "Pluto TV Series de Sci-Fi",
    "file": "PlutoTVSeriesdeSciFi.us_at_LatAm.json",
-   "count": 26,
-   "from": 1793888940,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793974500,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesDrama.us@BR",
    "name": "Pluto TV Series Drama",
    "file": "PlutoTVSeriesDrama.us_at_BR.json",
-   "count": 38,
-   "from": 1793888880,
-   "to": 1794094200
+   "count": 35,
+   "from": 1793976240,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVSeriesFantastiques.de@FR",
    "name": "Pluto TV Series Fantastiques",
    "file": "PlutoTVSeriesFantastiques.de_at_FR.json",
-   "count": 30,
-   "from": 1793888371,
-   "to": 1794180600
+   "count": 31,
+   "from": 1793974235,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesLatinas.us@LatAm",
    "name": "Pluto TV Series Latinas",
    "file": "PlutoTVSeriesLatinas.us_at_LatAm.json",
-   "count": 29,
-   "from": 1793888040,
+   "count": 30,
+   "from": 1793974020,
    "to": 1794180600
   },
   {
    "id": "PlutoTVSeriesNovelescas.us@BR",
    "name": "Pluto TV Series Novelescas",
    "file": "PlutoTVSeriesNovelescas.us_at_BR.json",
-   "count": 27,
-   "from": 1793887462,
-   "to": 1793976322
+   "count": 26,
+   "from": 1793976322,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVSeriesRetro.us@LatAm",
    "name": "Pluto TV Series Retro",
    "file": "PlutoTVSeriesRetro.us_at_LatAm.json",
    "count": 53,
-   "from": 1793888640,
-   "to": 1794180600
+   "from": 1793975760,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSeriesSciFi.us@BR",
    "name": "Pluto TV Series Sci-Fi",
    "file": "PlutoTVSeriesSciFi.us_at_BR.json",
-   "count": 31,
-   "from": 1793887800,
-   "to": 1794180600
+   "count": 30,
+   "from": 1793975940,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVShore.de@IT",
    "name": "Pluto TV Shore",
    "file": "PlutoTVShore.de_at_IT.json",
-   "count": 41,
-   "from": 1793888520,
-   "to": 1794094200
+   "count": 49,
+   "from": 1793974560,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVShowsporStingray.us@BR",
    "name": "Pluto TV Shows por Stingray",
    "file": "PlutoTVShowsporStingray.us_at_BR.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "PlutoTVSitcoms.de@DACH",
    "name": "Pluto TV Sitcoms",
    "file": "PlutoTVSitcoms.de_at_DACH.json",
-   "count": 61,
-   "from": 1793888910,
-   "to": 1794180600
+   "count": 44,
+   "from": 1793976095,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSnooker900.se@DK",
    "name": "Pluto TV Snooker 900",
    "file": "PlutoTVSnooker900.se_at_DK.json",
    "count": 10,
-   "from": 1793881800,
-   "to": 1793983500
+   "from": 1793968200,
+   "to": 1794069900
   },
   {
    "id": "PlutoTVSnooker900.us@CA",
    "name": "Pluto TV Snooker 900",
    "file": "PlutoTVSnooker900.us_at_CA.json",
    "count": 10,
-   "from": 1793881800,
-   "to": 1793983500
+   "from": 1793968200,
+   "to": 1794069900
   },
   {
    "id": "PlutoTVSpace.de@DACH",
    "name": "Pluto TV Space",
    "file": "PlutoTVSpace.de_at_DACH.json",
-   "count": 25,
-   "from": 1793886659,
-   "to": 1793976716
+   "count": 38,
+   "from": 1793976716,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSpace.se@DK",
    "name": "Pluto TV Space",
    "file": "PlutoTVSpace.se_at_DK.json",
-   "count": 44,
-   "from": 1793889240,
+   "count": 48,
+   "from": 1793975640,
    "to": 1794180600
   },
   {
    "id": "PlutoTVSport.de@IT",
    "name": "Pluto TV Sport",
    "file": "PlutoTVSport.de_at_IT.json",
-   "count": 18,
-   "from": 1793887558,
-   "to": 1793977454
+   "count": 26,
+   "from": 1793972176,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSport.se@DK",
    "name": "Pluto TV Sport",
    "file": "PlutoTVSport.se_at_DK.json",
    "count": 28,
-   "from": 1793889570,
-   "to": 1794180600
+   "from": 1793976076,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSpotlight.us@SD",
    "name": "Pluto TV Spotlight",
    "file": "PlutoTVSpotlight.us_at_SD.json",
-   "count": 8,
-   "from": 1793883600,
-   "to": 1794267000
+   "count": 9,
+   "from": 1793970000,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVStaffPicks.us@SD",
    "name": "Pluto TV Staff Picks",
    "file": "PlutoTVStaffPicks.us_at_SD.json",
-   "count": 10,
-   "from": 1793882700,
-   "to": 1794267000
+   "count": 9,
+   "from": 1793971800,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVStarTrek.de@DACH",
    "name": "Pluto TV Star Trek",
    "file": "PlutoTVStarTrek.de_at_DACH.json",
    "count": 28,
-   "from": 1793888099,
-   "to": 1794180600
+   "from": 1793974600,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVStarTrek.se@DK",
    "name": "Pluto TV Star Trek",
    "file": "PlutoTVStarTrek.se_at_DK.json",
-   "count": 37,
-   "from": 1793888641,
-   "to": 1794180600
+   "count": 32,
+   "from": 1793975382,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVStarTrekAnimation.de@DACH",
    "name": "Pluto TV Star Trek: Animation",
    "file": "PlutoTVStarTrekAnimation.de_at_DACH.json",
-   "count": 54,
-   "from": 1793888452,
-   "to": 1794180600
+   "count": 52,
+   "from": 1793976301,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVStoria.de@IT",
    "name": "Pluto TV Storia",
    "file": "PlutoTVStoria.de_at_IT.json",
-   "count": 25,
-   "from": 1793889484,
-   "to": 1794094200
+   "count": 27,
+   "from": 1793974391,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVSuperKids.de@FR",
    "name": "Pluto TV Super Kids",
    "file": "PlutoTVSuperKids.de_at_FR.json",
-   "count": 72,
-   "from": 1793889005,
-   "to": 1794180600
+   "count": 73,
+   "from": 1793975647,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVTecknadeklassiker.se@SE",
    "name": "Pluto TV Tecknade klassiker",
    "file": "PlutoTVTecknadeklassiker.se_at_SE.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVTecknat.se@SE",
    "name": "Pluto TV Tecknat",
    "file": "PlutoTVTecknat.se_at_SE.json",
    "count": 49,
-   "from": 1793889300,
-   "to": 1794180600
+   "from": 1793975700,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVTeen.de@ES",
    "name": "Pluto TV Teen",
    "file": "PlutoTVTeen.de_at_ES.json",
    "count": 50,
-   "from": 1793888718,
-   "to": 1794094200
+   "from": 1793975118,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVTegnefilm.se@DK",
    "name": "Pluto TV Tegnefilm",
    "file": "PlutoTVTegnefilm.se_at_DK.json",
    "count": 50,
-   "from": 1793888730,
-   "to": 1794180600
+   "from": 1793975130,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVTelenovelasClasicas.de@ES",
    "name": "Pluto TV Telenovelas Clasicas",
    "file": "PlutoTVTelenovelasClasicas.de_at_ES.json",
    "count": 31,
-   "from": 1793887120,
+   "from": 1793973881,
    "to": 1794180600
   },
   {
    "id": "PlutoTVTerror.us@SD",
    "name": "Pluto TV Terror",
    "file": "PlutoTVTerror.us_at_SD.json",
-   "count": 11,
-   "from": 1793884500,
-   "to": 1794267000
+   "count": 10,
+   "from": 1793971800,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVTerrorTrash.us@BR",
    "name": "Pluto TV Terror Trash",
    "file": "PlutoTVTerrorTrash.us_at_BR.json",
    "count": 15,
-   "from": 1793886360,
-   "to": 1793980140
+   "from": 1793973420,
+   "to": 1794065580
   },
   {
    "id": "PlutoTVTheTwilightZone.us@SD",
    "name": "Pluto TV The Twilight Zone",
    "file": "PlutoTVTheTwilightZone.us_at_SD.json",
-   "count": 28,
-   "from": 1793889000,
-   "to": 1794267000
+   "count": 32,
+   "from": 1793976300,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVThrillers.us@US",
    "name": "Pluto TV Thrillers",
    "file": "PlutoTVThrillers.us_at_US.json",
-   "count": 8,
-   "from": 1793886306,
-   "to": 1794267000
+   "count": 10,
+   "from": 1793970906,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVToons.de@FR",
    "name": "Pluto TV Toons",
    "file": "PlutoTVToons.de_at_FR.json",
    "count": 49,
-   "from": 1793889439,
-   "to": 1794180600
+   "from": 1793975839,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVToto.de@IT",
    "name": "Pluto TV Toto",
    "file": "PlutoTVToto.de_at_IT.json",
    "count": 14,
-   "from": 1793889405,
-   "to": 1793976864
+   "from": 1793976864,
+   "to": 1794064650
   },
   {
    "id": "PlutoTVTrendingNow.us@SD",
    "name": "Pluto TV Trending Now",
    "file": "PlutoTVTrendingNow.us_at_SD.json",
-   "count": 9,
-   "from": 1793883600,
-   "to": 1794267000
+   "count": 7,
+   "from": 1793972700,
+   "to": 1794353400
   },
   {
    "id": "PlutoTVTrueCrime.se@DK",
    "name": "Pluto TV True Crime",
    "file": "PlutoTVTrueCrime.se_at_DK.json",
-   "count": 28,
-   "from": 1793886872,
-   "to": 1794180600
+   "count": 29,
+   "from": 1793974849,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVTrueCrime.us@CA",
    "name": "Pluto TV True Crime",
    "file": "PlutoTVTrueCrime.us_at_CA.json",
-   "count": 36,
-   "from": 1793888640,
-   "to": 1794094200
+   "count": 35,
+   "from": 1793975280,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVTurbo.us@BR",
    "name": "Pluto TV Turbo",
    "file": "PlutoTVTurbo.us_at_BR.json",
-   "count": 55,
-   "from": 1793888460,
+   "count": 45,
+   "from": 1793976420,
    "to": 1794180600
   },
   {
@@ -5538,680 +5538,688 @@
    "name": "Pluto TV Ungdomsserier",
    "file": "PlutoTVUngdomsserier.se_at_DK.json",
    "count": 50,
-   "from": 1793889000,
-   "to": 1794094200
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVVarldskrigen.se@SE",
    "name": "Pluto TV Varldskrigen",
    "file": "PlutoTVVarldskrigen.se_at_SE.json",
    "count": 26,
-   "from": 1793887582,
-   "to": 1794180600
+   "from": 1793975844,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVVelocidad.us@LatAm",
    "name": "Pluto TV Velocidad",
    "file": "PlutoTVVelocidad.us_at_LatAm.json",
-   "count": 47,
-   "from": 1793888700,
-   "to": 1794180600
+   "count": 58,
+   "from": 1793976840,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVVerdenskrigene.se@DK",
    "name": "Pluto TV Verdenskrigene",
    "file": "PlutoTVVerdenskrigene.se_at_DK.json",
-   "count": 25,
-   "from": 1793886928,
-   "to": 1794180600
+   "count": 26,
+   "from": 1793975199,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVViagens.us@BR",
    "name": "Pluto TV Viagens",
    "file": "PlutoTVViagens.us_at_BR.json",
-   "count": 40,
-   "from": 1793889120,
-   "to": 1794094200
+   "count": 42,
+   "from": 1793976180,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVViaggi.de@IT",
    "name": "Pluto TV Viaggi",
    "file": "PlutoTVViaggi.de_at_IT.json",
-   "count": 30,
-   "from": 1793887712,
-   "to": 1793977172
+   "count": 41,
+   "from": 1793973512,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVVidaReal.us@BR",
    "name": "Pluto TV Vida Real",
    "file": "PlutoTVVidaReal.us_at_BR.json",
-   "count": 50,
-   "from": 1793889480,
-   "to": 1794180600
+   "count": 49,
+   "from": 1793976240,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVWestern.de@DACH",
    "name": "Pluto TV Western",
    "file": "PlutoTVWestern.de_at_DACH.json",
    "count": 15,
-   "from": 1793887572,
-   "to": 1794180600
+   "from": 1793973827,
+   "to": 1794065421
   },
   {
    "id": "PlutoTVWesterns.us@CA",
    "name": "Pluto TV Westerns",
    "file": "PlutoTVWesterns.us_at_CA.json",
-   "count": 49,
-   "from": 1793888940,
-   "to": 1794094200
+   "count": 48,
+   "from": 1793975640,
+   "to": 1794180600
   },
   {
    "id": "PlutoTVWesternSerien.de@DACH",
    "name": "Pluto TV Western Serien",
    "file": "PlutoTVWesternSerien.de_at_DACH.json",
    "count": 35,
-   "from": 1793889036,
-   "to": 1794180600
+   "from": 1793975423,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVWildWest.se@DK",
    "name": "Pluto TV Wild West",
    "file": "PlutoTVWildWest.se_at_DK.json",
    "count": 25,
-   "from": 1793886553,
-   "to": 1794094200
+   "from": 1793973740,
+   "to": 1794267000
   },
   {
    "id": "PlutoTVZombies.de@ES",
    "name": "Pluto TV Zombies",
    "file": "PlutoTVZombies.de_at_ES.json",
-   "count": 45,
-   "from": 1793889005,
-   "to": 1794180600
+   "count": 44,
+   "from": 1793975390,
+   "to": 1794267000
   },
   {
    "id": "PodRadiopaPlutoTV.se@DK",
    "name": "PodRadio pa Pluto TV",
    "file": "PodRadiopaPlutoTV.se_at_DK.json",
-   "count": 26,
-   "from": 1793886521,
-   "to": 1794180600
+   "count": 24,
+   "from": 1793976164,
+   "to": 1794267000
   },
   {
    "id": "PokerGo.us@US",
    "name": "PokerGo",
    "file": "PokerGo.us_at_US.json",
-   "count": 17,
-   "from": 1793887200,
-   "to": 1794267000
+   "count": 16,
+   "from": 1793973600,
+   "to": 1794353400
   },
   {
    "id": "Portlandia.us@SD",
    "name": "Portlandia",
    "file": "Portlandia.us_at_SD.json",
    "count": 56,
-   "from": 1793888285,
-   "to": 1793976592
+   "from": 1793976592,
+   "to": 1794064452
   },
   {
    "id": "PortoCanal.pt@SD",
    "name": "Porto Canal",
    "file": "PortoCanal.pt_at_SD.json",
-   "count": 18,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 21,
+   "from": 1793973600,
+   "to": 1794063300
   },
   {
    "id": "PowerNationTV.us@SD",
    "name": "PowerNation TV",
    "file": "PowerNationTV.us_at_SD.json",
-   "count": 38,
-   "from": 1793889180,
-   "to": 1794267000
+   "count": 39,
+   "from": 1793975700,
+   "to": 1794353400
   },
   {
    "id": "PROTVInternational.ro@SD",
    "name": "PRO TV International",
    "file": "PROTVInternational.ro_at_SD.json",
-   "count": 22,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 23,
+   "from": 1793973600,
+   "to": 1794064500
   },
   {
    "id": "PursuitUP.us@SD",
    "name": "PursuitUP",
    "file": "PursuitUP.us_at_SD.json",
    "count": 47,
-   "from": 1793889000,
-   "to": 1793977200
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "QuieroMusicaenmiIdioma.ar@SD",
    "name": "Quiero Musica en mi Idioma",
    "file": "QuieroMusicaenmiIdioma.ar_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793980800
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "QVC.us@SD",
    "name": "QVC",
    "file": "QVC.us_at_SD.json",
-   "count": 15,
-   "from": 1793887200,
-   "to": 1793984400
+   "count": 14,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "QVC2.us@SD",
    "name": "QVC2",
    "file": "QVC2.us_at_SD.json",
-   "count": 14,
-   "from": 1793883600,
-   "to": 1793980800
+   "count": 15,
+   "from": 1793973600,
+   "to": 1794067200
   },
   {
    "id": "RacerSelect.us@SD",
    "name": "Racer Select",
    "file": "RacerSelect.us_at_SD.json",
-   "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 49,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "Rai1.it@SD",
    "name": "Rai 1",
    "file": "Rai1.it_at_SD.json",
    "count": 7,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "Rai2.it@SD",
    "name": "Rai 2",
    "file": "Rai2.it_at_SD.json",
    "count": 7,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "RaiStoria.it@SD",
    "name": "Rai Storia",
    "file": "RaiStoria.it_at_SD.json",
    "count": 7,
-   "from": 1793880000,
-   "to": 1793980800
+   "from": 1793966400,
+   "to": 1794067200
   },
   {
    "id": "RBATV.br@SD",
    "name": "RBATV",
    "file": "RBATV.br_at_SD.json",
-   "count": 27,
-   "from": 1793887200,
-   "to": 1793976600
+   "count": 22,
+   "from": 1793976600,
+   "to": 1794063600
   },
   {
    "id": "RCNNovelas.co@SD",
    "name": "RCN Novelas",
    "file": "RCNNovelas.co_at_SD.json",
-   "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 20,
+   "from": 1793973600,
+   "to": 1794070800
   },
   {
    "id": "RealMadridTV.es@SD",
    "name": "Real Madrid TV",
    "file": "RealMadridTV.es_at_SD.json",
-   "count": 11,
-   "from": 1793885700,
-   "to": 1793979000
+   "count": 6,
+   "from": 1793972100,
+   "to": 1794031200
   },
   {
    "id": "RealWild.uk@SD",
    "name": "Real Wild",
    "file": "RealWild.uk_at_SD.json",
-   "count": 27,
-   "from": 1793887127,
-   "to": 1793977393
+   "count": 26,
+   "from": 1793973256,
+   "to": 1794066442
   },
   {
    "id": "Record.br@SD",
    "name": "Record",
    "file": "Record.br_at_SD.json",
-   "count": 25,
-   "from": 1793889000,
-   "to": 1793989800
+   "count": 23,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "RecordNews.br@SD",
    "name": "Record News",
    "file": "RecordNews.br_at_SD.json",
-   "count": 25,
-   "from": 1793888100,
-   "to": 1793979000
+   "count": 26,
+   "from": 1793974500,
+   "to": 1794063600
   },
   {
    "id": "RedeBrasil.br@SD",
    "name": "Rede Brasil",
    "file": "RedeBrasil.br_at_SD.json",
-   "count": 51,
-   "from": 1793887200,
-   "to": 1793977740
+   "count": 48,
+   "from": 1793973600,
+   "to": 1794064500
   },
   {
    "id": "RedeFamilia.br@SD",
    "name": "Rede Familia",
    "file": "RedeFamilia.br_at_SD.json",
-   "count": 8,
-   "from": 1793883600,
-   "to": 1793984400
+   "count": 7,
+   "from": 1793970000,
+   "to": 1794070800
   },
   {
    "id": "RedeGospel.br@SD",
    "name": "Rede Gospel",
    "file": "RedeGospel.br_at_SD.json",
-   "count": 26,
-   "from": 1793889000,
-   "to": 1793982600
+   "count": 27,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "RedeMeioNorte.br@SD",
    "name": "Rede Meio Norte",
    "file": "RedeMeioNorte.br_at_SD.json",
-   "count": 21,
-   "from": 1793884200,
-   "to": 1793980800
+   "count": 13,
+   "from": 1793970600,
+   "to": 1794023400
   },
   {
    "id": "RedeMinas.br@SD",
    "name": "Rede Minas",
    "file": "RedeMinas.br_at_SD.json",
-   "count": 33,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 32,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "RedeTV.br@SD",
    "name": "Rede TV!",
    "file": "RedeTV.br_at_SD.json",
-   "count": 20,
-   "from": 1793885400,
-   "to": 1793977200
+   "count": 25,
+   "from": 1793971800,
+   "to": 1794063600
   },
   {
    "id": "RedeVida.br@SD",
    "name": "Rede Vida",
    "file": "RedeVida.br_at_SD.json",
-   "count": 46,
-   "from": 1793887200,
-   "to": 1793977200
+   "count": 38,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "RetroCrush.us@SD",
    "name": "RetroCrush",
    "file": "RetroCrush.us_at_SD.json",
-   "count": 48,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 42,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "RevryLatinX.us@SD",
    "name": "Revry LatinX",
    "file": "RevryLatinX.us_at_SD.json",
-   "count": 27,
-   "from": 1793888400,
-   "to": 1793978820
+   "count": 32,
+   "from": 1793974920,
+   "to": 1794064080
   },
   {
    "id": "RiffTrax.us@US",
    "name": "RiffTrax",
    "file": "RiffTrax.us_at_US.json",
-   "count": 13,
-   "from": 1793887236,
-   "to": 1794267000
+   "count": 14,
+   "from": 1793970036,
+   "to": 1794353400
   },
   {
    "id": "RTenEspanol.ru@SD",
    "name": "RT en Espanol",
    "file": "RTenEspanol.ru_at_SD.json",
-   "count": 59,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 49,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "RTP1.pt@HD",
    "name": "RTP 1",
    "file": "RTP1.pt_at_HD.json",
-   "count": 22,
-   "from": 1793889360,
-   "to": 1793979000
+   "count": 29,
+   "from": 1793975760,
+   "to": 1794078000
   },
   {
    "id": "RTP2.pt@HD",
    "name": "RTP 2",
    "file": "RTP2.pt_at_HD.json",
-   "count": 76,
-   "from": 1793887200,
-   "to": 1793977560
+   "count": 39,
+   "from": 1793973720,
+   "to": 1794065340
   },
   {
    "id": "RTPAcores.pt@HD",
    "name": "RTP Acores",
    "file": "RTPAcores.pt_at_HD.json",
-   "count": 36,
-   "from": 1793888400,
-   "to": 1793976420
+   "count": 33,
+   "from": 1793976420,
+   "to": 1794070800
   },
   {
    "id": "RTPAfrica.pt@SD",
    "name": "RTP Africa",
    "file": "RTPAfrica.pt_at_SD.json",
-   "count": 33,
-   "from": 1793888460,
-   "to": 1793976780
+   "count": 35,
+   "from": 1793976780,
+   "to": 1794072600
   },
   {
    "id": "RTPNoticias.pt@HD",
    "name": "RTP Noticias",
    "file": "RTPNoticias.pt_at_HD.json",
-   "count": 42,
-   "from": 1793889300,
-   "to": 1793977200
+   "count": 34,
+   "from": 1793975700,
+   "to": 1794063600
   },
   {
    "id": "RumbaTV.co@SD",
    "name": "Rumba TV",
    "file": "RumbaTV.co_at_SD.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "RuntimeEspanol.us@SD",
    "name": "Runtime Espanol",
    "file": "RuntimeEspanol.us_at_SD.json",
-   "count": 20,
-   "from": 1793889572,
-   "to": 1793982340
+   "count": 19,
+   "from": 1793976164,
+   "to": 1794068302
+  },
+  {
+   "id": "RyanandFriends.us@SD",
+   "name": "Ryan and Friends",
+   "file": "RyanandFriends.us_at_SD.json",
+   "count": 29,
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "SBTNacional.br@SD",
    "name": "SBT Nacional",
    "file": "SBTNacional.br_at_SD.json",
-   "count": 17,
-   "from": 1793878200,
-   "to": 1793979600
+   "count": 13,
+   "from": 1793964600,
+   "to": 1794070800
   },
   {
    "id": "SESCTV.br@SD",
    "name": "SESC TV",
    "file": "SESCTV.br_at_SD.json",
-   "count": 45,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 43,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "SICTV.br@SD",
    "name": "SIC TV",
    "file": "SICTV.br_at_SD.json",
-   "count": 25,
-   "from": 1793889000,
-   "to": 1793981700
+   "count": 23,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "SmithsonianChannelPlutoTV.us@BR",
    "name": "Smithsonian Channel Pluto TV",
    "file": "SmithsonianChannelPlutoTV.us_at_BR.json",
-   "count": 26,
-   "from": 1793888280,
-   "to": 1794180600
+   "count": 27,
+   "from": 1793975280,
+   "to": 1794267000
   },
   {
    "id": "SonyChannel.br@SD",
    "name": "Sony Channel",
    "file": "SonyChannel.br_at_SD.json",
-   "count": 31,
-   "from": 1793888100,
-   "to": 1793976900
+   "count": 12,
+   "from": 1794030300,
+   "to": 1794066300
   },
   {
    "id": "StarTrek.us@BR",
    "name": "Star Trek",
    "file": "StarTrek.us_at_BR.json",
-   "count": 29,
-   "from": 1793887560,
-   "to": 1794180600
+   "count": 28,
+   "from": 1793975760,
+   "to": 1794267000
   },
   {
    "id": "StudioUniversalLatinAmerica.us@Brazil",
    "name": "Studio Universal Latin America",
    "file": "StudioUniversalLatinAmerica.us_at_Brazil.json",
-   "count": 17,
-   "from": 1793885100,
-   "to": 1793979300
+   "count": 19,
+   "from": 1793973600,
+   "to": 1794067500
   },
   {
    "id": "TastemadeBrasil.us@Brazil",
    "name": "Tastemade Brasil",
    "file": "TastemadeBrasil.us_at_Brazil.json",
    "count": 25,
-   "from": 1793887200,
-   "to": 1793977200
+   "from": 1793973600,
+   "to": 1794063600
   },
   {
    "id": "TelecineAction.br@SD",
    "name": "Telecine Action",
    "file": "TelecineAction.br_at_SD.json",
    "count": 14,
-   "from": 1793889000,
-   "to": 1793980200
+   "from": 1793970900,
+   "to": 1794065100
   },
   {
    "id": "TerraViva.br@SD",
    "name": "Terra Viva",
    "file": "TerraViva.br_at_SD.json",
    "count": 31,
-   "from": 1793883600,
-   "to": 1793977200
+   "from": 1793970000,
+   "to": 1794070800
   },
   {
    "id": "TLCLatinAmerica.us@Brazil",
    "name": "TLC Latin America",
    "file": "TLCLatinAmerica.us_at_Brazil.json",
-   "count": 38,
-   "from": 1793889720,
-   "to": 1793976900
+   "count": 41,
+   "from": 1793976600,
+   "to": 1794065880
   },
   {
    "id": "Tokusato.us@Brazil",
    "name": "Tokusato",
    "file": "Tokusato.us_at_Brazil.json",
    "count": 51,
-   "from": 1793888400,
-   "to": 1794180600
+   "from": 1793975400,
+   "to": 1794267000
   },
   {
    "id": "TravelBoxBrazil.br@SD",
    "name": "Travel Box Brazil",
    "file": "TravelBoxBrazil.br_at_SD.json",
-   "count": 67,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 71,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "TurmadaMonica.us@Brazil",
    "name": "Turma da Monica",
    "file": "TurmadaMonica.us_at_Brazil.json",
-   "count": 32,
-   "from": 1793888984,
-   "to": 1794094200
+   "count": 30,
+   "from": 1793976154,
+   "to": 1794063944
   },
   {
    "id": "TVACritica.br@SD",
    "name": "TV A Critica",
    "file": "TVACritica.br_at_SD.json",
-   "count": 17,
-   "from": 1793887200,
-   "to": 1793976300
+   "count": 18,
+   "from": 1793976300,
+   "to": 1794070800
   },
   {
    "id": "TVAparecida.br@SD",
    "name": "TV Aparecida",
    "file": "TVAparecida.br_at_SD.json",
-   "count": 33,
-   "from": 1793889300,
-   "to": 1793976900
+   "count": 28,
+   "from": 1793975700,
+   "to": 1794063600
   },
   {
    "id": "TVBahia.br@HD",
    "name": "TV Bahia",
    "file": "TVBahia.br_at_HD.json",
-   "count": 26,
-   "from": 1793885700,
-   "to": 1793976300
+   "count": 29,
+   "from": 1793976300,
+   "to": 1794063600
   },
   {
    "id": "TVBrasil.br@SD",
    "name": "TV Brasil",
    "file": "TVBrasil.br_at_SD.json",
    "count": 56,
-   "from": 1793889120,
-   "to": 1793976300
+   "from": 1793976300,
+   "to": 1794063420
   },
   {
    "id": "TVCamara.br@SD",
    "name": "TV Camara",
    "file": "TVCamara.br_at_SD.json",
-   "count": 23,
-   "from": 1793880000,
-   "to": 1793977200
+   "count": 25,
+   "from": 1793970000,
+   "to": 1794067200
   },
   {
    "id": "TVCancaoNova.br@SD",
    "name": "TV Cancao Nova",
    "file": "TVCancaoNova.br_at_SD.json",
-   "count": 38,
-   "from": 1793881800,
-   "to": 1793976480
+   "count": 41,
+   "from": 1793976480,
+   "to": 1794065400
   },
   {
    "id": "TVCidadeVerdeCuiaba.br@SD",
    "name": "TV Cidade Verde Cuiaba",
    "file": "TVCidadeVerdeCuiaba.br_at_SD.json",
-   "count": 19,
-   "from": 1793887200,
-   "to": 1793978100
+   "count": 14,
+   "from": 1793973600,
+   "to": 1794070800
   },
   {
    "id": "TVClube.br@SD",
    "name": "TV Clube",
    "file": "TVClube.br_at_SD.json",
-   "count": 19,
-   "from": 1793889000,
-   "to": 1793986800
+   "count": 18,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "TVEBahia.br@SD",
    "name": "TVE Bahia",
    "file": "TVEBahia.br_at_SD.json",
    "count": 25,
-   "from": 1793872800,
-   "to": 1793977200
+   "from": 1793959200,
+   "to": 1794063600
   },
   {
    "id": "TVERS.br@SD",
    "name": "TVE RS",
    "file": "TVERS.br_at_SD.json",
-   "count": 53,
-   "from": 1793889120,
-   "to": 1793976300
+   "count": 55,
+   "from": 1793976300,
+   "to": 1794063600
   },
   {
    "id": "TVGazeta.br@SD",
    "name": "TV Gazeta",
    "file": "TVGazeta.br_at_SD.json",
-   "count": 12,
-   "from": 1793869200,
-   "to": 1793980800
+   "count": 15,
+   "from": 1793955600,
+   "to": 1794063600
   },
   {
    "id": "TVGloboBrasilia.br@SD",
    "name": "TV Globo Brasilia",
    "file": "TVGloboBrasilia.br_at_SD.json",
-   "count": 27,
-   "from": 1793885700,
-   "to": 1793976300
+   "count": 28,
+   "from": 1793976300,
+   "to": 1794067200
   },
   {
    "id": "TVGuara.br@SD",
    "name": "TV Guara",
    "file": "TVGuara.br_at_SD.json",
-   "count": 21,
-   "from": 1793889000,
-   "to": 1793983500
+   "count": 18,
+   "from": 1793975400,
+   "to": 1794063600
   },
   {
    "id": "TVI.pt@SD",
    "name": "TVI",
    "file": "TVI.pt_at_SD.json",
-   "count": 24,
-   "from": 1793888100,
-   "to": 1793977200
+   "count": 28,
+   "from": 1793974500,
+   "to": 1794081300
   },
   {
    "id": "TVIReality.pt@SD",
    "name": "TVI Reality",
    "file": "TVIReality.pt_at_SD.json",
-   "count": 13,
-   "from": 1793872800,
-   "to": 1793988000
+   "count": 14,
+   "from": 1793959200,
+   "to": 1794067200
   },
   {
    "id": "TVJustica.br@SD",
    "name": "TV Justica",
    "file": "TVJustica.br_at_SD.json",
-   "count": 22,
-   "from": 1793883600,
-   "to": 1793991600
+   "count": 26,
+   "from": 1793962800,
+   "to": 1794063600
   },
   {
    "id": "TVParanaTurismo.br@SD",
    "name": "TV Parana Turismo",
    "file": "TVParanaTurismo.br_at_SD.json",
-   "count": 48,
-   "from": 1793889000,
-   "to": 1793976300
+   "count": 38,
+   "from": 1793976300,
+   "to": 1794063600
   },
   {
    "id": "TVRaTimBum.br@SD",
    "name": "TV Ra Tim Bum",
    "file": "TVRaTimBum.br_at_SD.json",
-   "count": 99,
-   "from": 1793889600,
-   "to": 1793976300
+   "count": 103,
+   "from": 1793976600,
+   "to": 1794063600
   },
   {
    "id": "TVSenado.br@SD",
    "name": "TV Senado",
    "file": "TVSenado.br_at_SD.json",
-   "count": 22,
-   "from": 1793883600,
-   "to": 1793982600
+   "count": 26,
+   "from": 1793968200,
+   "to": 1794063600
   },
   {
    "id": "VPlusTVI.pt@SD",
    "name": "V+ TVI",
    "file": "VPlusTVI.pt_at_SD.json",
-   "count": 23,
-   "from": 1793886960,
-   "to": 1793983560
+   "count": 16,
+   "from": 1793973180,
+   "to": 1794064500
   },
   {
    "id": "WooHoo.br@SD",
    "name": "WooHoo",
    "file": "WooHoo.br_at_SD.json",
-   "count": 75,
-   "from": 1793889000,
-   "to": 1793977200
+   "count": 79,
+   "from": 1793975400,
+   "to": 1794063600
   }
  ]
 }

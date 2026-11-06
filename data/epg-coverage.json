@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-05T14:43:12.361Z",
+ "generatedAt": "2026-11-06T14:53:49.793Z",
  "horizonHours": 72,
- "channelsRequested": 5531,
- "channelsWithGuide": 776,
- "coveragePercent": 14.03,
- "programmes": 32107,
+ "channelsRequested": 5635,
+ "channelsWithGuide": 777,
+ "coveragePercent": 13.79,
+ "programmes": 31452,
  "sources": [
   {
    "id": "mi.tv",
@@ -12,7 +12,7 @@
    "ok": true,
    "requestedChannels": 169,
    "channelsWithProgrammes": 158,
-   "programmes": 8296,
+   "programmes": 7765,
    "note": null
   },
   {
@@ -30,7 +30,7 @@
    "ok": true,
    "requestedChannels": 46,
    "channelsWithProgrammes": 46,
-   "programmes": 1490,
+   "programmes": 1483,
    "note": null
   },
   {
@@ -38,8 +38,8 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 31,
-   "channelsWithProgrammes": 20,
-   "programmes": 396,
+   "channelsWithProgrammes": 23,
+   "programmes": 440,
    "note": null
   },
   {
@@ -48,7 +48,7 @@
    "ok": true,
    "requestedChannels": 81,
    "channelsWithProgrammes": 78,
-   "programmes": 2741,
+   "programmes": 2614,
    "note": null
   },
   {
@@ -57,7 +57,7 @@
    "ok": true,
    "requestedChannels": 400,
    "channelsWithProgrammes": 387,
-   "programmes": 12172,
+   "programmes": 12123,
    "note": null
   },
   {
@@ -65,8 +65,8 @@
    "kind": "published",
    "ok": true,
    "requestedChannels": -1,
-   "channelsWithProgrammes": 254,
-   "programmes": 7012,
+   "channelsWithProgrammes": 255,
+   "programmes": 7027,
    "note": null
   },
   {
@@ -80,10 +80,10 @@
   }
  ],
  "dropped": {
-  "duplicates": 11685,
-  "outOfHorizon": 8763,
+  "duplicates": 11808,
+  "outOfHorizon": 8782,
   "invalidTimestamp": 0,
-  "unknownChannel": 65549,
+  "unknownChannel": 61940,
   "malformed": 0
  },
  "missingChannels": [
@@ -859,6 +859,12 @@
   {
    "tvgId": "TVAlternativa.br@SD",
    "name": "TV Alternativa",
+   "countryGroup": "BR",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVArapuan.br@SD",
+   "name": "TV Arapuan",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -2386,6 +2392,12 @@
   {
    "tvgId": "RTGint.ru@SD",
    "name": "RTG int.",
+   "countryGroup": "INT",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SabrinaTotalverhext.de@DACH",
+   "name": "Sabrina: Total verhext!",
    "countryGroup": "INT",
    "guideSites": []
   },
@@ -6991,6 +7003,72 @@
   {
    "tvgId": "RumboMineroTV.pe@SD",
    "name": "Rumbo Minero TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaborTV.cl@SD",
+   "name": "Sabor TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SalsaGordaTelevision.co@SD",
+   "name": "Salsa Gorda Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SalvacionTV.pr@SD",
+   "name": "Salvacion TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SanIsidroTV.do@SD",
+   "name": "San Isidro TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SanJoseTV.cr@SD",
+   "name": "San Jose TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SanNicolasTV.cl@SD",
+   "name": "San Nicolas TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SanPedroTV.ar@SD",
+   "name": "San Pedro TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SantaCruzTV.do@HD",
+   "name": "Santa Cruz TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SantaFeCanal.ar@SD",
+   "name": "Santa Fe Canal",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SantaMariaTelevision.cl@SD",
+   "name": "Santa Maria Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SantelTV.co@SD",
+   "name": "Santel TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -13144,6 +13222,12 @@
    "guideSites": [
     "tv.mail.ru"
    ]
+  },
+  {
+   "tvgId": "DaVinciAsia.de@Vietnam",
+   "name": "Da Vinci Asia",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "DAAITV.id@SD",
@@ -23889,6 +23973,14 @@
    ]
   },
   {
+   "tvgId": "Novoetelevidenie.kz@SD",
+   "name": "Novoe televidenie",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "galamtv.kz"
+   ]
+  },
+  {
    "tvgId": "NovorossiyaTV.ru@SD",
    "name": "Novorossiya TV",
    "countryGroup": "OTHER",
@@ -24595,6 +24687,12 @@
   {
    "tvgId": "ONO2TV.vn@SD",
    "name": "ON O2TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ONPhimViet.vn@SD",
+   "name": "ON Phim Viet",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -26867,12 +26965,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "RadioTVSerieA.it@SD",
-   "name": "Radio TV Serie A",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "RadioYaqeenJordanCityView.jo@SD",
    "name": "Radio Yaqeen Jordan City View",
    "countryGroup": "OTHER",
@@ -28302,6 +28394,15 @@
    ]
   },
   {
+   "tvgId": "RUTV.ru@SD",
+   "name": "RU.TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
    "tvgId": "RudawTV.iq@SD",
    "name": "Rudaw TV",
    "countryGroup": "OTHER",
@@ -28328,6 +28429,558 @@
   {
    "tvgId": "Rus.ru@SD",
    "name": "Rus",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Russia1.ru@HD",
+   "name": "Russia-1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "Russia24.ru@HD",
+   "name": "Russia-24",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RussiaK.ru@HD",
+   "name": "Russia-K",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RussianExtremeUltra.ru@SD",
+   "name": "Russian Extreme Ultra",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one"
+   ]
+  },
+  {
+   "tvgId": "RussianMusicBox.ru@SD",
+   "name": "Russian MusicBox",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RusskiyBestseller.ru@SD",
+   "name": "Russkiy Bestseller",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RusskiyDetektiv.ru@SD",
+   "name": "Russkiy Detektiv",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "Russkiyroman.ru@SD",
+   "name": "Russkiy roman",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "Rustavi2.ge@SD",
+   "name": "Rustavi 2",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "magticom.ge"
+   ]
+  },
+  {
+   "tvgId": "RUTCTV.kr@SD",
+   "name": "RUTC TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RUV.is@SD",
+   "name": "RUV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "ruv.is",
+    "sjonvarp.is"
+   ]
+  },
+  {
+   "tvgId": "RUV2.is@SD",
+   "name": "RUV 2",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "ruv.is",
+    "sjonvarp.is"
+   ]
+  },
+  {
+   "tvgId": "RwandaTV.rw@SD",
+   "name": "Rwanda TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rybalka.ua@SD",
+   "name": "Rybalka",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Rybolov.ru@SD",
+   "name": "Rybolov",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "RyongnamsanTelevision.kp@HD",
+   "name": "Ryongnamsan Television",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Ryzhiy.ru@SD",
+   "name": "Ryzhiy",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
+  },
+  {
+   "tvgId": "S1.ru@SD",
+   "name": "S1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaabTV.so@SD",
+   "name": "Saab TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaamTV.in@SD",
+   "name": "Saam TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "Saang.in@SD",
+   "name": "Saang",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaarlandFernsehen1.de@SD",
+   "name": "Saarland Fernsehen 1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaarlandFernsehen2.de@SD",
+   "name": "Saarland Fernsehen 2",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SabalanTV.ir@SD",
+   "name": "Sabalan TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SABCLehae.za@SD",
+   "name": "SABC Lehae",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SABCNews.za@SD",
+   "name": "SABC News",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SabrinatheTeenageWitch.se@DK",
+   "name": "Sabrina the Teenage Witch",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SabzTV.ir@SD",
+   "name": "Sabz TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SachBedhadak.in@SD",
+   "name": "Sach Bedhadak",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SachsenEins.de@SD",
+   "name": "Sachsen Eins",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "SachsenFernsehenChemnitz.de@SD",
+   "name": "Sachsen Fernsehen Chemnitz",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "web.magentatv.de"
+   ]
+  },
+  {
+   "tvgId": "SachsenFernsehenDresden.de@SD",
+   "name": "Sachsen Fernsehen Dresden",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "web.magentatv.de"
+   ]
+  },
+  {
+   "tvgId": "SachsenFernsehenLeipzig.de@SD",
+   "name": "Sachsen Fernsehen Leipzig",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "web.magentatv.de"
+   ]
+  },
+  {
+   "tvgId": "SADATV.in@SD",
+   "name": "SADA TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Sadhna.in@SD",
+   "name": "Sadhna",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in"
+   ]
+  },
+  {
+   "tvgId": "SadhnaNewsMadhyaPradeshChhattisgarh.in@SD",
+   "name": "Sadhna News Madhya Pradesh/Chhattisgarh",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SadhnaPlusNews.in@SD",
+   "name": "Sadhna Plus News",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SadhnaTV.in@SD",
+   "name": "Sadhna TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SafariTV.in@SD",
+   "name": "Safari TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SahandTV.ir@SD",
+   "name": "Sahand TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Sahara24.mr@HD",
+   "name": "Sahara 24",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaiTV.in@SD",
+   "name": "Sai TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in"
+   ]
+  },
+  {
+   "tvgId": "SairamTV.in@SD",
+   "name": "Sairam TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SakshiTV.in@SD",
+   "name": "Sakshi TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SalaamTV.in@SD",
+   "name": "Salaam TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com",
+    "zee5.com"
+   ]
+  },
+  {
+   "tvgId": "SalamTV.id@SD",
+   "name": "Salam TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "playtv.unifi.com.my"
+   ]
+  },
+  {
+   "tvgId": "SalamatTV.ir@SD",
+   "name": "Salamat TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaliraTV.id@SD",
+   "name": "Salira TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SaltTV.ua@SD",
+   "name": "Salt TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one"
+   ]
+  },
+  {
+   "tvgId": "Salto1.nl@SD",
+   "name": "Salto 1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Salto2.nl@SD",
+   "name": "Salto 2",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SalvationTV.in@SD",
+   "name": "Salvation TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SalvationTV.ng@SD",
+   "name": "Salvation TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Salyam.ru@SD",
+   "name": "Salyam",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one"
+   ]
+  },
+  {
+   "tvgId": "SamaaTV.pk@SD",
+   "name": "Samaa TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SamacharPlus24x7.in@SD",
+   "name": "Samachar Plus 24x7",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SamaraGIS.ru@SD",
+   "name": "Samara-GIS",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SamayKolkata.in@SD",
+   "name": "Samay Kolkata",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SamiakiTV.gr@SD",
+   "name": "Samiaki TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SanaPlus.in@SD",
+   "name": "Sana Plus",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SanaTV.in@SD",
+   "name": "Sana TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SandzakTV.rs@SD",
+   "name": "Sandzak TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SangajiTV.id@SD",
+   "name": "Sangaji TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SangeetBangla.in@SD",
+   "name": "Sangeet Bangla",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SangeetBhojpuri.in@SD",
+   "name": "Sangeet Bhojpuri",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "dishtv.in"
+   ]
+  },
+  {
+   "tvgId": "SangeetMarathi.in@SD",
+   "name": "Sangeet Marathi",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SangeorzTV.ro@SD",
+   "name": "Sangeorz TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SangkemTV.kh@SD",
+   "name": "Sangkem TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SankaraTV.in@SD",
+   "name": "Sankara TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SankhyaTV.tt@SD",
+   "name": "Sankhya TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SanktPeterburg.ru@HD",
+   "name": "Sankt-Peterburg",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SansadTV1.in@HD",
+   "name": "Sansad TV 1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SansadTV2.in@HD",
+   "name": "Sansad TV 2",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SanskarTV.in@SD",
+   "name": "Sanskar TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "sky.com",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SanskarWebTV.in@SD",
+   "name": "Sanskar Web TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -29179,6 +29832,35 @@
     "mytelly.co.uk",
     "tvprofil.com",
     "virgintvgo.virginmedia.com"
+   ]
+  },
+  {
+   "tvgId": "SabrinaTheTeenageWitch.de@GB",
+   "name": "Sabrina The Teenage Witch",
+   "countryGroup": "UK",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SafeerTV.uk@SD",
+   "name": "Safeer TV",
+   "countryGroup": "UK",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SangatTV.uk@SD",
+   "name": "Sangat TV",
+   "countryGroup": "UK",
+   "guideSites": [
+    "sky.com"
+   ]
+  },
+  {
+   "tvgId": "SanskarUK.in@SD",
+   "name": "Sanskar UK",
+   "countryGroup": "UK",
+   "guideSites": [
+    "mytelly.co.uk",
+    "tvireland.ie"
    ]
   },
   {
@@ -33108,6 +33790,58 @@
     "i.mjh.nz",
     "plex.tv"
    ]
+  },
+  {
+   "tvgId": "RVTV.us@HD",
+   "name": "RVTV",
+   "countryGroup": "US",
+   "guideSites": [
+    "distro.tv"
+   ]
+  },
+  {
+   "tvgId": "RVTVCivic.us@SD",
+   "name": "RVTV Civic",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RVTVGrantsPass.us@SD",
+   "name": "RVTV Grants Pass",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RVTVPrime.us@SD",
+   "name": "RVTV Prime",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RVTVVoices.us@SD",
+   "name": "RVTV Voices",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SalemNewsChannel.us@SD",
+   "name": "Salem News Channel",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SamsungWildlife.us@SD",
+   "name": "Samsung Wildlife",
+   "countryGroup": "US",
+   "guideSites": [
+    "i.mjh.nz"
+   ]
+  },
+  {
+   "tvgId": "SanskarUSA.in@SD",
+   "name": "Sanskar USA",
+   "countryGroup": "US",
+   "guideSites": []
   }
  ]
 }

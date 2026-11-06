@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-name="Europa Europa" tvg-logo="https://i.imgur.com/w5SOfyJ.png" tvg-language="spa;eng" tvg-country="AR" group-title="🌎 América Latina • Séries",Europa Europa
 #EXTGRP:🌎 América Latina • Séries
-https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+http://45.228.234.9:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-name="Latina Clasicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Séries",Latina Clasicos
 #EXTGRP:🌎 América Latina • Séries
 http://45.171.108.253:8888/LATINA/index.m3u8
@@ -803,6 +803,9 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-name="ON Cine" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Séries",ON Cine
 #EXTGRP:🏳️ Other Countries • Séries
 https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-name="ON Phim Viet" tvg-logo="https://i.ibb.co/Swvp1vwM/IMG-2525.jpg" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Séries",ON Phim Viet
+#EXTGRP:🏳️ Other Countries • Séries
+https://vmttv.dpdns.org/tv360?id=175
 #EXTINF:-1 tvg-id="PersianaSeries.fr@HD" tvg-name="Persiana Series" tvg-language="fas" tvg-country="FR" group-title="🏳️ Other Countries • Séries",Persiana Series
 #EXTGRP:🏳️ Other Countries • Séries
 https://onehls.persiana.live/hls/stream.m3u8
