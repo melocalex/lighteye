@@ -78,6 +78,12 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-name="TVI Ficcao" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Séries",TVI Ficcao
 #EXTGRP:🇵🇹 Portugal • Séries
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Filmes",Star Channel
+#EXTGRP:🌎 América Latina • Filmes
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Filmes",Star Channel
+#EXTGRP:🌎 América Latina • Filmes
+http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="13T" tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Séries",13T
 #EXTGRP:🌎 América Latina • Séries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -96,6 +102,9 @@ https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Pluto TV Zombies
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-id="StarTrekVoyager.de@ES" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Star Trek: Voyager
+#EXTGRP:🇪🇸 España • Filmes
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-name="Ana y los 7" tvg-logo="https://i.imgur.com/X5g6gXS.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Ana y los 7
 #EXTGRP:🇪🇸 España • Séries
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
@@ -132,12 +141,18 @@ https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTelenovelasClasicas.de@ES" tvg-name="Pluto TV Telenovelas Clasicas" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Pluto TV Telenovelas Clasicas
 #EXTGRP:🇪🇸 España • Séries
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+#EXTINF:-1 tvg-id="Sintetasnohayparaiso.us@Spain" tvg-name="Sin tetas no hay paraiso" tvg-logo="https://i.imgur.com/fpwU2IQ.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Sin tetas no hay paraiso
+#EXTGRP:🇪🇸 España • Séries
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-name="3Cat Plats bruts" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-language="cat" tvg-country="ES" group-title="🇪🇸 España • Séries",3Cat Plats bruts
 #EXTGRP:🇪🇸 España • Séries
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",REV'N Action
 #EXTGRP:🇺🇸 United States • Esportes
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" tvg-name="HBO Xtreme Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",HBO Xtreme Latin America
+#EXTGRP:🇺🇸 United States • Filmes
+http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 #EXTINF:-1 tvg-id="50CentAction.us@SD" tvg-name="50 Cent Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",50 Cent Action
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
@@ -177,6 +192,18 @@ https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Rawhide
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
+#EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us@SD" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Star Trek: Deep Space Nine
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Star Trek: The Next Generation
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
+#EXTINF:-1 tvg-id="StarTrekVoyager.us@SD" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Star Trek: Voyager
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",SYFY
+#EXTGRP:🇺🇸 United States • Filmes
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us@LatAm" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",Acapulco Shore
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
@@ -444,6 +471,12 @@ https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-name="Rakuten Viki" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Rakuten Viki
 #EXTGRP:🇺🇸 United States • Séries
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SupernaturalDrama.us@SD" tvg-name="Supernatural Drama" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Supernatural Drama
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
+#EXTINF:-1 tvg-id="Survivor.us@SD" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Survivor
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-6874ac742704ca31d815b8ed.m3u8
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Séries",Alerte a Malibu
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
@@ -555,12 +588,21 @@ https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToughJobs.de@GB" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Pluto TV Tough Jobs
 #EXTGRP:🇬🇧 United Kingdom • Séries
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="spa" group-title="🌐 International • Filmes",Star Channel Latin America
+#EXTGRP:🌐 International • Filmes
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHaialarm.de@DACH" tvg-name="Pluto TV Haialarm" tvg-logo="https://images.pluto.tv/channels/69b015c5d29cc97de7da4af8/colorLogoPNG_1779802132594.png" tvg-language="deu" group-title="🌐 International • Filmes",Pluto TV Haialarm
 #EXTGRP:🌐 International • Filmes
 https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.de@DACH" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" tvg-language="deu" group-title="🌐 International • Filmes",Pluto TV Star Trek
 #EXTGRP:🌐 International • Filmes
 https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de@DACH" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" tvg-language="deu" group-title="🌐 International • Filmes",Star Trek: The Next Generation
+#EXTGRP:🌐 International • Filmes
+https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
+#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de@DACH" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" tvg-language="deu" group-title="🌐 International • Filmes",Star Trek: The Original Series
+#EXTGRP:🌐 International • Filmes
+https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional" tvg-name="AMC Series Latin America" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-language="spa" group-title="🌐 International • Séries",AMC Series Latin America
 #EXTGRP:🌐 International • Séries
 https://streaming.onnethn.com/AMC/playlist.m3u8
@@ -606,6 +648,9 @@ https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWildWest.se@DK" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Wild West
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se@DK" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Star Trek: The Original Series
+#EXTGRP:🏳️ Other Countries • Filmes
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-name="Amedia Hit" tvg-logo="https://i.imgur.com/a8ZBGBw.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Amedia Hit
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/162/index.m3u8
@@ -739,6 +784,12 @@ https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Rawhide
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
+#EXTINF:-1 tvg-id="Scorpion.se@DK" tvg-name="Scorpion" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Scorpion
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
+#EXTINF:-1 tvg-id="SkjonnhetsfellenDanmark.se@NO" tvg-name="Skjonnhetsfellen Danmark" tvg-logo="https://images.pluto.tv/channels/643810f2e8a4aa0008ccf575/colorLogoPNG.png" tvg-language="eng;nor" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Skjonnhetsfellen Danmark
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-name="4ever Drama" tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",4ever Drama
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/260/index.m3u8
@@ -836,3 +887,41 @@ https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@HD" tvg-name="Polsat Seriale" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Séries",Polsat Seriale
 #EXTGRP:🏳️ Other Countries • Séries
 http://92.114.85.87:8014/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-name="Saphire" tvg-logo="https://i.imgur.com/NMOBvle.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Saphire
+#EXTGRP:🏳️ Other Countries • Séries
+http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-name="Serie Max" tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-language="fra" tvg-country="CI" group-title="🏳️ Other Countries • Séries",Serie Max
+#EXTGRP:🏳️ Other Countries • Séries
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#EXTINF:-1 tvg-id="SeriesbyPlutoTV.de@FR" tvg-name="Series by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Séries",Series by Pluto TV
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-name="Shef" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Shef
+#EXTGRP:🏳️ Other Countries • Séries
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-name="Skoraya pomoshch" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Skoraya pomoshch
+#EXTGRP:🏳️ Other Countries • Séries
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" tvg-name="Smotrim 100% Lyubov" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Smotrim 100% Lyubov
+#EXTGRP:🏳️ Other Countries • Séries
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" tvg-name="Smotrim 100% Muzhskoe" tvg-logo="https://i.imgur.com/UY3fjYU.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Smotrim 100% Muzhskoe
+#EXTGRP:🏳️ Other Countries • Séries
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-name="Smotrim Chestnyy Detektiv" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",Smotrim Chestnyy Detektiv
+#EXTGRP:🏳️ Other Countries • Séries
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-name="Sony One Blacklist" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Séries",Sony One Blacklist
+#EXTGRP:🏳️ Other Countries • Séries
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-name="Star Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Séries",Star Crime
+#EXTGRP:🏳️ Other Countries • Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cs
+#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-name="Star Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Séries",Star Life
+#EXTGRP:🏳️ Other Countries • Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 tvg-id="SuperTV.it@SD" tvg-name="Super TV" tvg-logo="https://i.imgur.com/hxF3yhw.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Séries",Super TV
+#EXTGRP:🏳️ Other Countries • Séries
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
