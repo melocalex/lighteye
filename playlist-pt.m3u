@@ -65,9 +65,6 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-name="TV Sim Cachoeiro" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Sim Cachoeiro
 #EXTGRP:🇧🇷 Brasil • Notícias
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-name="TV Sim Sao Mateus" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Sim Sao Mateus
-#EXTGRP:🇧🇷 Brasil • Notícias
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-name="TV Zoom" tvg-logo="https://i.imgur.com/jCGrjf5.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Zoom
 #EXTGRP:🇧🇷 Brasil • Notícias
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -299,7 +296,7 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Discovery Kids Latin America
 #EXTGRP:🇧🇷 Brasil • Infantil
-http://181.224.200.5:2277/play/a00o/index.m3u8
+http://38.134.250.110:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",DumDum
 #EXTGRP:🇧🇷 Brasil • Infantil
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
@@ -524,7 +521,7 @@ http://46.151.196.223:14244
 http://170.83.49.66:8083/RITHD/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Aparecida
 #EXTGRP:🇧🇷 Brasil • Cultura
-http://170.83.16.50/TV_APARECIDA/index.m3u8
+http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Evangelizar
 #EXTGRP:🇧🇷 Brasil • Cultura
 http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
@@ -639,6 +636,9 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ArarunaTV.br@SD" tvg-name="Araruna TV" tvg-logo="https://i.imgur.com/jl39ula.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Araruna TV
 #EXTGRP:🇧🇷 Brasil • Geral
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-name="Boas Novas" tvg-logo="https://i.imgur.com/ZqhizdP.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Boas Novas
+#EXTGRP:🇧🇷 Brasil • Geral
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-name="Canal 25 Jundiai" tvg-logo="https://i.imgur.com/7igGMwH.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Canal 25 Jundiai
 #EXTGRP:🇧🇷 Brasil • Geral
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
@@ -840,7 +840,7 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica" tvg-logo="https://i.imgur.com/rOQKiMO.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Justica
 #EXTGRP:🇧🇷 Brasil • Geral
-http://170.83.16.50/TV_JUSTICA/index.m3u8
+http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVLitoralRN.br@SD" tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Litoral RN
 #EXTGRP:🇧🇷 Brasil • Geral
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
@@ -870,10 +870,7 @@ http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/duy6waL.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Senado
 #EXTGRP:🇧🇷 Brasil • Geral
-http://170.83.16.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia" tvg-logo="https://i.imgur.com/qM6nMWm.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Sul Bahia
-#EXTGRP:🇧🇷 Brasil • Geral
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-name="TV Vila Real" tvg-logo="https://i.imgur.com/Z1uWe7g.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Vila Real
 #EXTGRP:🇧🇷 Brasil • Geral
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
@@ -1035,6 +1032,10 @@ https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-name="JimJam Europe" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-language="eng;por;ces;slk;heb" tvg-country="UK" group-title="🇬🇧 United Kingdom • Infantil",JimJam Europe
 #EXTGRP:🇬🇧 United Kingdom • Infantil
 http://212.5.144.156:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-id="Eurochannel.uk@SD" tvg-name="Eurochannel" tvg-logo="https://i.imgur.com/yXAtmI6.png" tvg-language="eng;por;spa" tvg-country="UK" group-title="🇬🇧 United Kingdom • Geral",Eurochannel
+#EXTGRP:🇬🇧 United Kingdom • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
 #EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-name="Reino Infantil" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Infantil",Reino Infantil
 #EXTGRP:🏳️ Other Countries • Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
