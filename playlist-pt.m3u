@@ -296,7 +296,7 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Discovery Kids Latin America
 #EXTGRP:🇧🇷 Brasil • Infantil
-http://38.134.250.110:8000/play/a003/index.m3u8
+http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",DumDum
 #EXTGRP:🇧🇷 Brasil • Infantil
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
@@ -1042,6 +1042,12 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-id="MuzangalaTV.ao@SD" tvg-name="Muzangala TV" tvg-logo="https://i.imgur.com/fBeaJoS.png" tvg-language="por" tvg-country="AO" group-title="🏳️ Other Countries • Música",Muzangala TV
 #EXTGRP:🏳️ Other Countries • Música
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-name="Trace Brazuca" tvg-logo="https://i.imgur.com/DFBocPu.png" tvg-language="por" tvg-country="FR" group-title="🏳️ Other Countries • Música",Trace Brazuca
+#EXTGRP:🏳️ Other Countries • Música
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceToca.fr@SD" tvg-name="Trace Toca" tvg-logo="https://i.imgur.com/6SpWnBR.png" tvg-language="por" tvg-country="FR" group-title="🏳️ Other Countries • Música",Trace Toca
+#EXTGRP:🏳️ Other Countries • Música
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 #EXTINF:-1 tvg-id="KKTV.ao@SD" tvg-name="KK TV" tvg-logo="https://i.imgur.com/jWOB0oU.png" tvg-language="por" tvg-country="AO" group-title="🏳️ Other Countries • Cultura",KK TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8

@@ -96,6 +96,12 @@ http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="MegaFiccion.cl@SD" tvg-name="Mega Ficcion" tvg-logo="https://i.imgur.com/aQdhJie.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Séries",Mega Ficcion
 #EXTGRP:🌎 América Latina • Séries
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD" tvg-name="Tlnovelas Latin America" tvg-logo="https://i.imgur.com/Rvm38Mu.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Séries",Tlnovelas Latin America
+#EXTGRP:🌎 América Latina • Séries
+http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-name="Tlnovelas Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Séries",Tlnovelas Mexico
+#EXTGRP:🌎 América Latina • Séries
+http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="Medium.de@ES" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Medium
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
@@ -144,6 +150,9 @@ https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 #EXTINF:-1 tvg-id="Sintetasnohayparaiso.us@Spain" tvg-name="Sin tetas no hay paraiso" tvg-logo="https://i.imgur.com/fpwU2IQ.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Sin tetas no hay paraiso
 #EXTGRP:🇪🇸 España • Séries
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-name="Todo Novelas" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Todo Novelas
+#EXTGRP:🇪🇸 España • Séries
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-name="3Cat Plats bruts" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-language="cat" tvg-country="ES" group-title="🇪🇸 España • Séries",3Cat Plats bruts
 #EXTGRP:🇪🇸 España • Séries
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
@@ -204,6 +213,9 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="SYFY.us@East" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",SYFY
 #EXTGRP:🇺🇸 United States • Filmes
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TheWildWildWest.us@SD" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",The Wild Wild West
+#EXTGRP:🇺🇸 United States • Filmes
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us@LatAm" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",Acapulco Shore
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
@@ -504,6 +516,30 @@ https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 #EXTINF:-1 tvg-id="TheDoctors.us@HD" tvg-name="The Doctors" tvg-logo="https://i.imgur.com/2sAz8dZ.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",The Doctors
 #EXTGRP:🇺🇸 United States • Séries
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+#EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@CA" tvg-name="The Judge Judy Channel" tvg-logo="https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",The Judge Judy Channel
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.us@CA" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",The New Detectives
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
+#EXTINF:-1 tvg-id="TheRifleman.us@SD" tvg-name="The Rifleman" tvg-logo="https://i.imgur.com/60YejJs.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",The Rifleman
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us@SD" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",The Walking Dead Universe
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us@SD" tvg-name="This Old House" tvg-logo="https://i.imgur.com/nrVLyE6.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",This Old House
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
+#EXTINF:-1 tvg-id="ThreesCompany.us@CA" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Three's Company
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-name="Tiny House Nation" tvg-logo="https://i.imgur.com/ai1P06C.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Tiny House Nation
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
+#EXTINF:-1 tvg-id="Tosh0.us@SD" tvg-name="Tosh.0" tvg-logo="https://i.imgur.com/sXkluxg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Tosh.0
+#EXTGRP:🇺🇸 United States • Séries
+https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Séries",Alerte a Malibu
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
@@ -615,6 +651,9 @@ https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToughJobs.de@GB" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Pluto TV Tough Jobs
 #EXTGRP:🇬🇧 United Kingdom • Séries
 https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.de@GB" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",The New Detectives
+#EXTGRP:🇬🇧 United Kingdom • Séries
+https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="spa" group-title="🌐 International • Filmes",Star Channel Latin America
 #EXTGRP:🌐 International • Filmes
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
@@ -666,6 +705,9 @@ https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesternSerien.de@DACH" tvg-name="Pluto TV Western Serien" tvg-logo="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" tvg-language="deu" group-title="🌐 International • Séries",Pluto TV Western Serien
 #EXTGRP:🌐 International • Séries
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
+#EXTINF:-1 tvg-id="TheLWordWennFrauenlieben.de@DACH" tvg-name="The L Word – Wenn Frauen lieben" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" tvg-language="deu" group-title="🌐 International • Séries",The L Word – Wenn Frauen lieben
+#EXTGRP:🌐 International • Séries
+https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.se@DK" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Action
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
@@ -681,6 +723,9 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se@DK" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Star Trek: The Original Series
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
+#EXTINF:-1 tvg-id="TheTwilightZone.se@DK" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",The Twilight Zone
+#EXTGRP:🏳️ Other Countries • Filmes
+https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-name="Amedia Hit" tvg-logo="https://i.imgur.com/a8ZBGBw.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Amedia Hit
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/162/index.m3u8
@@ -820,6 +865,15 @@ https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
 #EXTINF:-1 tvg-id="SkjonnhetsfellenDanmark.se@NO" tvg-name="Skjonnhetsfellen Danmark" tvg-logo="https://images.pluto.tv/channels/643810f2e8a4aa0008ccf575/colorLogoPNG.png" tvg-language="eng;nor" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Skjonnhetsfellen Danmark
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
+#EXTINF:-1 tvg-id="TheLWord.se@DK" tvg-name="The L Word" tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",The L Word
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.se@DK" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",The New Detectives
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
+#EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",The Wild Wild West
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-name="4ever Drama" tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",4ever Drama
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/260/index.m3u8
@@ -962,3 +1016,6 @@ http://213.91.179.28:8000/play/a0cr
 #EXTINF:-1 tvg-id="SuperTV.it@SD" tvg-name="Super TV" tvg-logo="https://i.imgur.com/hxF3yhw.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Séries",Super TV
 #EXTGRP:🏳️ Other Countries • Séries
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="ToutlemondedetesteChris.de@FR" tvg-name="Tout le monde deteste Chris" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Séries",Tout le monde deteste Chris
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8

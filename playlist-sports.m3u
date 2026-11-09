@@ -98,6 +98,23 @@ http://181.79.86.130:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="SqalaTV.pe@SD" tvg-name="Sqala TV" tvg-logo="https://i.imgur.com/DJ05m8s.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Esportes",Sqala TV
 #EXTGRP:🌎 América Latina • Esportes
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.gt@SD" tvg-name="Tigo Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Esportes",Tigo Sports
+#EXTGRP:🌎 América Latina • Esportes
+http://168.196.127.137:6001/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="TigoSportsPlus.py@SD" tvg-name="Tigo Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Esportes",Tigo Sports+
+#EXTGRP:🌎 América Latina • Esportes
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports.cl@SD" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Esportes",TNT Sports
+#EXTGRP:🌎 América Latina • Esportes
+http://209.45.101.130:8040/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl@ArgentinaHD" tvg-name="TNT Sports Premium" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Esportes",TNT Sports Premium
+#EXTGRP:🌎 América Latina • Esportes
+http://181.78.79.131:8000/play/a0q9
+#EXTINF:-1 tvg-id="TourSpotTV.do@HD" tvg-name="Tour Spot TV" tvg-logo="https://imgur.com/khj869k.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Esportes",Tour Spot TV
+#EXTGRP:🌎 América Latina • Esportes
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Esportes",Real Madrid TV
 #EXTGRP:🇪🇸 España • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -336,6 +353,9 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 #EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-name="ESPN 7 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",ESPN 7 Latin America
 #EXTGRP:🌐 International • Esportes
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar@HD" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",TNT Sports
+#EXTGRP:🌐 International • Esportes
+http://181.78.79.131:8000/play/a0mo
 #EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-name="Racer Select" tvg-logo="https://i.imgur.com/CurtYvn.png" tvg-language="eng" group-title="🌐 International • Esportes",Racer Select
 #EXTGRP:🌐 International • Esportes
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
@@ -455,6 +475,9 @@ http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-name="Talent TV" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-language="eng" tvg-country="LK" group-title="🏳️ Other Countries • Esportes",Talent TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-name="Trace Sport Stars" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-language="eng;fra" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Trace Sport Stars
+#EXTGRP:🏳️ Other Countries • Esportes
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr@SD" tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Esportes",A Spor
 #EXTGRP:🏳️ Other Countries • Esportes
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -546,12 +569,28 @@ http://stream.mcquack.net/33/index.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-name="Boks TV" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Boks TV
 #EXTGRP:🏳️ Other Countries • Esportes
 http://stream.mcquack.net/154/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.pl@SD" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/E0WTMa2.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Canal+ Sport
+#EXTGRP:🏳️ Other Countries • Esportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/92/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl@SD" tvg-name="Canal+ Sport 2" tvg-logo="https://i.imgur.com/Aq2hnUj.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Canal+ Sport 2
+#EXTGRP:🏳️ Other Countries • Esportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/94/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-name="Canal+ Sport 2 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739" tvg-language="slk" tvg-country="SK" group-title="🏳️ Other Countries • Esportes",Canal+ Sport 2 SK
 #EXTGRP:🏳️ Other Countries • Esportes
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl@SD" tvg-name="Canal+ Sport 3" tvg-logo="https://i.imgur.com/QZwPFa8.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Canal+ Sport 3
+#EXTGRP:🏳️ Other Countries • Esportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport3SK.sk@SD" tvg-name="Canal+ Sport 3 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810" tvg-language="slk" tvg-country="SK" group-title="🏳️ Other Countries • Esportes",Canal+ Sport 3 SK
 #EXTGRP:🏳️ Other Countries • Esportes
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl@SD" tvg-name="Canal+ Sport 4" tvg-logo="https://i.imgur.com/BNAPYAx.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Canal+ Sport 4
+#EXTGRP:🏳️ Other Countries • Esportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport4SK.sk@SD" tvg-name="Canal+ Sport 4 SK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/CANAL%2B_SPORT_4.svg/revision/latest?cb=20241028202820" tvg-language="slk" tvg-country="SK" group-title="🏳️ Other Countries • Esportes",Canal+ Sport 4 SK
 #EXTGRP:🏳️ Other Countries • Esportes
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
@@ -832,3 +871,9 @@ https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 tvg-id="TJKTV.tr@SD" tvg-name="TJK TV" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Esportes",TJK TV
+#EXTGRP:🏳️ Other Countries • Esportes
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="TRSport.it@SD" tvg-name="TR Sport" tvg-logo="https://i.imgur.com/ELXmaqg.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",TR Sport
+#EXTGRP:🏳️ Other Countries • Esportes
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
