@@ -1026,6 +1026,9 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1 tvg-id="VPlusTVI.pt@SD" tvg-name="V+ TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Geral",V+ TVI
 #EXTGRP:🇵🇹 Portugal • Geral
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
+#EXTINF:-1 tvg-id="TVShowFortaleza.br@SD" tvg-name="TV Show Fortaleza" tvg-logo="https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png" tvg-language="por" tvg-country="CL" group-title="🌎 América Latina • Geral",TV Show Fortaleza
+#EXTGRP:🌎 América Latina • Geral
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="SBNTVGlobal.us@SD" tvg-name="SBN TV Global" tvg-logo="https://i.imgur.com/NJu6oYB.png" tvg-language="eng;por;spa" tvg-country="US" group-title="🇺🇸 United States • Cultura",SBN TV Global
 #EXTGRP:🇺🇸 United States • Cultura
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
@@ -1048,9 +1051,18 @@ https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="TraceToca.fr@SD" tvg-name="Trace Toca" tvg-logo="https://i.imgur.com/6SpWnBR.png" tvg-language="por" tvg-country="FR" group-title="🏳️ Other Countries • Música",Trace Toca
 #EXTGRP:🏳️ Other Countries • Música
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TVCidade.cv@SD" tvg-name="TV Cidade" tvg-logo="https://i.imgur.com/gmSu21X.jpg" tvg-language="por" tvg-country="CV" group-title="🏳️ Other Countries • Música",TV Cidade
+#EXTGRP:🏳️ Other Countries • Música
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="KKTV.ao@SD" tvg-name="KK TV" tvg-logo="https://i.imgur.com/jWOB0oU.png" tvg-language="por" tvg-country="AO" group-title="🏳️ Other Countries • Cultura",KK TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaMocambique.mz@SD" tvg-name="TV Mana Mocambique" tvg-logo="https://i.imgur.com/R5YrV5s.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Cultura",TV Mana Mocambique
+#EXTGRP:🏳️ Other Countries • Cultura
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-name="MNTV" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Variedades",MNTV
 #EXTGRP:🏳️ Other Countries • Variedades
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-id="TVM.mz@SD" tvg-name="TVM" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Geral",TVM
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8

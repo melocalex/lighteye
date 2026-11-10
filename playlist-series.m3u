@@ -153,6 +153,9 @@ https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-name="Todo Novelas" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",Todo Novelas
 #EXTGRP:🇪🇸 España • Séries
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-name="TVE Star" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Séries",TVE Star
+#EXTGRP:🇪🇸 España • Séries
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-name="3Cat Plats bruts" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-language="cat" tvg-country="ES" group-title="🇪🇸 España • Séries",3Cat Plats bruts
 #EXTGRP:🇪🇸 España • Séries
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
@@ -285,6 +288,9 @@ https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesLatinas.us@LatAm" tvg-name="Pluto TV Series Latinas" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",Pluto TV Series Latinas
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD" tvg-name="Univision Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Séries",Univision Tlnovelas
+#EXTGRP:🇺🇸 United States • Séries
+http://200.115.120.1:8000/play/ca110/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@CA" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",48 Hours
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
@@ -540,6 +546,12 @@ https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
 #EXTINF:-1 tvg-id="Tosh0.us@SD" tvg-name="Tosh.0" tvg-logo="https://i.imgur.com/sXkluxg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Tosh.0
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us@SD" tvg-name="True Crime Network" tvg-logo="https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",True Crime Network
+#EXTGRP:🇺🇸 United States • Séries
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.us@East" tvg-name="Universal Crime" tvg-logo="https://i.imgur.com/OwSlGMu.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Universal Crime
+#EXTGRP:🇺🇸 United States • Séries
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="AlerteaMalibu.us@France" tvg-name="Alerte a Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" tvg-language="fra" tvg-country="US" group-title="🇺🇸 United States • Séries",Alerte a Malibu
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
@@ -654,6 +666,16 @@ https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.de@GB" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",The New Detectives
 #EXTGRP:🇬🇧 United Kingdom • Séries
 https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
+#EXTINF:-1 tvg-id="TrueCrime.uk@SD" tvg-name="True Crime" tvg-logo="https://i.imgur.com/LK2NFst.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",True Crime
+#EXTGRP:🇬🇧 United Kingdom • Séries
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@UK" tvg-name="Unsolved Mysteries" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Unsolved Mysteries
+#EXTGRP:🇬🇧 United Kingdom • Séries
+https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia" tvg-name="Viasat Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-language="cze" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Viasat Epic Drama
+#EXTGRP:🇬🇧 United Kingdom • Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="spa" group-title="🌐 International • Filmes",Star Channel Latin America
 #EXTGRP:🌐 International • Filmes
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
@@ -754,6 +776,11 @@ https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.se@DK" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" tvg-language="dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Star Trek
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:-1 tvg-id="ViasatSerial.ua@HD" tvg-name="Viasat Serial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" tvg-language="rus" tvg-country="UA" group-title="🏳️ Other Countries • Filmes",Viasat Serial
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
 #EXTINF:-1 tvg-id="2900Happiness.se@DK" tvg-name="2900 Happiness" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",2900 Happiness
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
@@ -874,6 +901,12 @@ https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.se@DK" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",The Wild Wild West
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+#EXTINF:-1 tvg-id="TruecrimefranViaplay.se@SE" tvg-name="True crime fran Viaplay" tvg-logo="https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png" tvg-language="eng;swe" tvg-country="SE" group-title="🏳️ Other Countries • Séries",True crime fran Viaplay
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
+#EXTINF:-1 tvg-id="UngaMammor.se@NO" tvg-name="Unga Mammor" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" tvg-language="eng;nor" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Unga Mammor
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-name="4ever Drama" tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",4ever Drama
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/260/index.m3u8
@@ -1019,3 +1052,16 @@ http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="ToutlemondedetesteChris.de@FR" tvg-name="Tout le monde deteste Chris" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Séries",Tout le monde deteste Chris
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de@FR" tvg-name="True Crime by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Séries",True Crime by Pluto TV
+#EXTGRP:🏳️ Other Countries • Séries
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-id="Tviyserial.ua@SD" tvg-name="Tviy serial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tviy_Serial.svg/250px-Tviy_Serial.svg.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Séries",Tviy serial
+#EXTGRP:🏳️ Other Countries • Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/466/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000romantica.ru@HD" tvg-name="viju TV1000 romantica" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",viju TV1000 romantica
+#EXTGRP:🏳️ Other Countries • Séries
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-name="viju+ Serial" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",viju+ Serial
+#EXTGRP:🏳️ Other Countries • Séries
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
