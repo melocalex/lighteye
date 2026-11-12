@@ -7,7 +7,7 @@ http://45.177.114.115/agromais/index.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",BandNews
 #EXTGRP:🇧🇷 Brasil • Notícias
-http://45.162.64.114/BAND_NEWS/index.m3u8
+http://170.83.16.50/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BMCNews.br@SD" tvg-name="BM&C News" tvg-logo="https://i.imgur.com/pOUY2Uz.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",BM&C News
 #EXTGRP:🇧🇷 Brasil • Notícias
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
@@ -65,6 +65,9 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-name="TV Sim Cachoeiro" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Sim Cachoeiro
 #EXTGRP:🇧🇷 Brasil • Notícias
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-name="TV Sim Sao Mateus" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Sim Sao Mateus
+#EXTGRP:🇧🇷 Brasil • Notícias
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-name="TV Zoom" tvg-logo="https://i.imgur.com/jCGrjf5.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Zoom
 #EXTGRP:🇧🇷 Brasil • Notícias
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
@@ -76,7 +79,7 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="Band Sports" tvg-logo="https://i.imgur.com/EuPvzJe.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Esportes",Band Sports
 #EXTGRP:🇧🇷 Brasil • Esportes
-http://45.162.64.114/BAND_SPORTS/index.m3u8
+http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Esportes",CazeTV
 #EXTGRP:🇧🇷 Brasil • Esportes
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
@@ -172,7 +175,7 @@ https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Filmes",Sony Movies
 #EXTGRP:🇧🇷 Brasil • Filmes
-http://45.162.64.114/SONY_MOVIES/index.m3u8
+http://170.83.16.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-name="Telecine Action" tvg-logo="https://i.imgur.com/BHYWG0h.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Filmes",Telecine Action
 #EXTGRP:🇧🇷 Brasil • Filmes
 http://46.151.196.223:14326
@@ -246,9 +249,6 @@ https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us@BR" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Séries",Star Trek
 #EXTGRP:🇧🇷 Brasil • Séries
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Séries",TNT Novelas
-#EXTGRP:🇧🇷 Brasil • Séries
-http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-name="TV Series" tvg-logo="https://i.imgur.com/Ff5mj0o.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Séries",TV Series
 #EXTGRP:🇧🇷 Brasil • Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -293,13 +293,13 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-name="Cartoon Network Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Cartoon Network Latin America
 #EXTGRP:🇧🇷 Brasil • Infantil
-http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Discovery Kids Latin America
 #EXTGRP:🇧🇷 Brasil • Infantil
 http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",DumDum
 #EXTGRP:🇧🇷 Brasil • Infantil
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+http://186.219.52.187/zoomoo/index.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Infantil",Nick Jr. Club
 #EXTGRP:🇧🇷 Brasil • Infantil
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
@@ -363,9 +363,6 @@ https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Entretenimento",A&E Latin America
 #EXTGRP:🇧🇷 Brasil • Entretenimento
 http://79.127.238.228:14551
-#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" tvg-name="Adult Swim Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Entretenimento",Adult Swim Latin America
-#EXTGRP:🇧🇷 Brasil • Entretenimento
-http://45.162.64.114/ADULT_SWIM/index.m3u8
 #EXTINF:-1 tvg-id="BETPlutoTV.us@BR" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Entretenimento",BET Pluto TV
 #EXTGRP:🇧🇷 Brasil • Entretenimento
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
@@ -384,9 +381,6 @@ https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="ConectaMaisTV.br@SD" tvg-name="Conecta Mais TV" tvg-logo="https://i.imgur.com/qHwTWlz.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Entretenimento",Conecta Mais TV
 #EXTGRP:🇧🇷 Brasil • Entretenimento
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Brazil" tvg-name="Discovery Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Entretenimento",Discovery Channel Latin America
-#EXTGRP:🇧🇷 Brasil • Entretenimento
-http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us@Brazil" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Entretenimento",Discovery World
 #EXTGRP:🇧🇷 Brasil • Entretenimento
 http://168.196.127.137:6001/play/a097/index.m3u8
@@ -480,7 +474,7 @@ https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1" tvg-logo="https://i.imgur.com/Ivnk7A6.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",Arte 1
 #EXTGRP:🇧🇷 Brasil • Cultura
-http://45.162.64.114/ARTE1/index.m3u8
+http://170.83.16.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br@HD" tvg-name="Bem Mais TV" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",Bem Mais TV
 #EXTGRP:🇧🇷 Brasil • Cultura
 #EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
@@ -503,7 +497,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",Novo Tempo
 #EXTGRP:🇧🇷 Brasil • Cultura
-http://45.162.64.114/NOVO_TEMPO/index.m3u8
+http://186.219.52.187/novo_tempo/index.m3u8
 #EXTINF:-1 tvg-id="PlenitudeTV.br@SD" tvg-name="Plenitude TV" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",Plenitude TV
 #EXTGRP:🇧🇷 Brasil • Cultura
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
@@ -512,7 +506,7 @@ https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",Rede Seculo 21
 #EXTGRP:🇧🇷 Brasil • Cultura
-http://45.162.64.114/REDE_SECULO_21/index.m3u8
+http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",Rede Vida
 #EXTGRP:🇧🇷 Brasil • Cultura
 http://46.151.196.223:14244
@@ -521,7 +515,7 @@ http://46.151.196.223:14244
 http://170.83.49.66:8083/RITHD/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Aparecida
 #EXTGRP:🇧🇷 Brasil • Cultura
-http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
+http://170.83.16.50/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Evangelizar
 #EXTGRP:🇧🇷 Brasil • Cultura
 http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
@@ -554,13 +548,13 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educacao" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Educação",Canal Educacao
 #EXTGRP:🇧🇷 Brasil • Educação
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalFDR.br@SD" tvg-name="Canal FDR" tvg-logo="https://i.imgur.com/7SE4CkE.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Educação",Canal FDR
 #EXTGRP:🇧🇷 Brasil • Educação
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Educação",Canal Futura
 #EXTGRP:🇧🇷 Brasil • Educação
-http://45.162.64.114/FUTURA/index.m3u8
+http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br@SD" tvg-name="Futura" tvg-logo="https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Educação",Futura
 #EXTGRP:🇧🇷 Brasil • Educação
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
@@ -593,7 +587,7 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",Fish TV
 #EXTGRP:🇧🇷 Brasil • Variedades
-http://45.162.64.114/FISH_TV/index.m3u8
+http://170.83.16.50/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="MacGyver.us@BR" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",MacGyver
 #EXTGRP:🇧🇷 Brasil • Variedades
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
@@ -617,7 +611,7 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",Terra Viva
 #EXTGRP:🇧🇷 Brasil • Variedades
-http://45.162.64.114/TERRAVIVA/index.m3u8
+http://170.83.16.50/TERRA_VIVA/index.m3u8
 #EXTINF:-1 tvg-id="TLCLatinAmerica.us@Brazil" tvg-name="TLC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Variedades",TLC Latin America
 #EXTGRP:🇧🇷 Brasil • Variedades
 http://38.134.250.110:8000/play/a00n/index.m3u8
@@ -644,7 +638,7 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi" tvg-logo="https://i.imgur.com/pVM5MhS.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Canal do Boi
 #EXTGRP:🇧🇷 Brasil • Geral
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Canal Gov
 #EXTGRP:🇧🇷 Brasil • Geral
 http://45.177.114.115/TV_BRASIL_2/index.m3u8
@@ -701,7 +695,7 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-name="Play TV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Play TV
 #EXTGRP:🇧🇷 Brasil • Geral
-http://45.162.64.114/PLAY_TV/index.m3u8
+https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoria.us@BR" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Pluto TV Historia
 #EXTGRP:🇧🇷 Brasil • Geral
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
@@ -722,7 +716,7 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro" tvg-logo="https://i.imgur.com/jcasAmw.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Rede CNT Rio de Janeiro
 #EXTGRP:🇧🇷 Brasil • Geral
-http://45.162.64.114/CNT/index.m3u8
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br@SD" tvg-name="Rede Familia" tvg-logo="https://i.imgur.com/7KVFCrQ.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Rede Familia
 #EXTGRP:🇧🇷 Brasil • Geral
 http://186.219.52.187/rede_familia/index.m3u8
@@ -758,7 +752,7 @@ https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Mu8O6CV.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",SESC TV
 #EXTGRP:🇧🇷 Brasil • Geral
-http://45.162.64.114/SESC_TV/index.m3u8
+http://170.83.49.66:8083/SESCTVHD/index.m3u8
 #EXTINF:-1 tvg-id="SICTV.br@SD" tvg-name="SIC TV" tvg-logo="https://i.imgur.com/mHxQyB2.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",SIC TV
 #EXTGRP:🇧🇷 Brasil • Geral
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
@@ -792,7 +786,7 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Brasil
 #EXTGRP:🇧🇷 Brasil • Geral
-http://45.162.64.114/TV_BRASIL/index.m3u8
+http://45.177.114.115/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" tvg-name="TV Brasil Oeste" tvg-logo="https://i.imgur.com/noqGfuy.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Brasil Oeste
 #EXTGRP:🇧🇷 Brasil • Geral
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
@@ -804,7 +798,7 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova" tvg-logo="https://i.imgur.com/OaM9hkH.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Cancao Nova
 #EXTGRP:🇧🇷 Brasil • Geral
-http://45.162.64.114/CANCAO_NOVA/index.m3u8
+http://170.83.16.50/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br@SD" tvg-name="TV Cidade Verde Cuiaba" tvg-logo="https://i.imgur.com/e67h04h.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Cidade Verde Cuiaba
 #EXTGRP:🇧🇷 Brasil • Geral
 #EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
@@ -840,7 +834,7 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica" tvg-logo="https://i.imgur.com/rOQKiMO.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Justica
 #EXTGRP:🇧🇷 Brasil • Geral
-http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
+http://170.83.16.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVLitoralRN.br@SD" tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Litoral RN
 #EXTGRP:🇧🇷 Brasil • Geral
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
@@ -870,7 +864,10 @@ http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/duy6waL.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Senado
 #EXTGRP:🇧🇷 Brasil • Geral
-http://170.83.49.66:8083/TVSENADOHD/index.m3u8
+http://170.83.16.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia" tvg-logo="https://i.imgur.com/qM6nMWm.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Sul Bahia
+#EXTGRP:🇧🇷 Brasil • Geral
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-name="TV Vila Real" tvg-logo="https://i.imgur.com/Z1uWe7g.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Vila Real
 #EXTGRP:🇧🇷 Brasil • Geral
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
@@ -894,7 +891,7 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo" tvg-logo="https://i.imgur.com/me622pa.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",WooHoo
 #EXTGRP:🇧🇷 Brasil • Geral
-http://45.162.64.114/WOOHOO/index.m3u8
+http://186.219.52.187/woohoo/index.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt@SD" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/bc6tYVZ.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Notícias",CNN Portugal
 #EXTGRP:🇵🇹 Portugal • Notícias
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
@@ -1010,6 +1007,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTGRP:🇵🇹 Portugal • Geral
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt@SD" tvg-name="RTP Memoria" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Geral",RTP Memoria
+#EXTGRP:🇵🇹 Portugal • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt@SD" tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Geral",RTP Mundo
 #EXTGRP:🇵🇹 Portugal • Geral
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
@@ -1029,6 +1030,12 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3
 #EXTINF:-1 tvg-id="TVShowFortaleza.br@SD" tvg-name="TV Show Fortaleza" tvg-logo="https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png" tvg-language="por" tvg-country="CL" group-title="🌎 América Latina • Geral",TV Show Fortaleza
 #EXTGRP:🌎 América Latina • Geral
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
+#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD" tvg-name="XITE Nuevo Latino" tvg-logo="https://i.imgur.com/2qyl2y3.png" tvg-language="spa;por" tvg-country="US" group-title="🇺🇸 United States • Música",XITE Nuevo Latino
+#EXTGRP:🇺🇸 United States • Música
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD" tvg-name="XITE Siempre Latino" tvg-logo="https://i.imgur.com/bwmIEgG.png" tvg-language="spa;por" tvg-country="US" group-title="🇺🇸 United States • Música",XITE Siempre Latino
+#EXTGRP:🇺🇸 United States • Música
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-id="SBNTVGlobal.us@SD" tvg-name="SBN TV Global" tvg-logo="https://i.imgur.com/NJu6oYB.png" tvg-language="eng;por;spa" tvg-country="US" group-title="🇺🇸 United States • Cultura",SBN TV Global
 #EXTGRP:🇺🇸 United States • Cultura
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
