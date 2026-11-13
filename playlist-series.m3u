@@ -296,7 +296,7 @@ https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
 http://200.115.120.1:8000/play/ca110/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@CA" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",48 Hours
 #EXTGRP:🇺🇸 United States • Séries
-https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
+https://jmp2.uk/plu-634690323ce5fa0007c621f2.m3u8
 #EXTINF:-1 tvg-id="AllRealitybyWEtv.us@SD" tvg-name="All Reality by WE tv" tvg-logo="https://i.imgur.com/HZTz5HJ.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",All Reality by WE tv
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
@@ -718,6 +718,9 @@ https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-name="The Chat Show Channel" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-language="eng" group-title="🌐 International • Séries",The Chat Show Channel
 #EXTGRP:🌐 International • Séries
 https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZNation.us@SD" tvg-name="Z Nation" tvg-language="eng" group-title="🌐 International • Séries",Z Nation
+#EXTGRP:🌐 International • Séries
+https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 #EXTINF:-1 tvg-id="90210.de@DACH" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" tvg-language="deu" group-title="🌐 International • Séries",90210
 #EXTGRP:🌐 International • Séries
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8

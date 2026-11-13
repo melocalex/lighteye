@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:17:34.004Z",
+ "generatedAt": "2026-11-13T14:43:26.839Z",
  "repo": {
   "owner": "melocalex",
   "name": "lighteye",
@@ -19,15 +19,15 @@
   "metadata": "https://raw.githubusercontent.com/melocalex/lighteye/main/data/channels.json"
  },
  "discovery": {
-  "channelsDiscovered": 12484,
-  "streamsDiscovered": 18605,
-  "duplicateStreamUrlsCollapsed": 11461,
+  "channelsDiscovered": 12488,
+  "streamsDiscovered": 18622,
+  "duplicateStreamUrlsCollapsed": 11464,
   "unclassifiedChannels": 2092,
   "sourcesFetched": [
    {
     "id": "iptv-org-index",
     "url": "https://iptv-org.github.io/iptv/index.m3u",
-    "entries": 11461
+    "entries": 11464
    }
   ],
   "sourcesSkippedRedundant": [
@@ -100,95 +100,95 @@
  "validation": {
   "lastRunByVantage": {},
   "channelsByStatus": {
-   "UNKNOWN": 3851,
-   "WORKING": 8275,
-   "UNSTABLE": 80,
-   "TIMEOUT": 204
+   "UNKNOWN": 3741,
+   "WORKING": 8374,
+   "UNSTABLE": 96,
+   "TIMEOUT": 203
   },
   "streamsByStatus": {
-   "WORKING": 11852,
-   "UNSTABLE": 130,
+   "WORKING": 11995,
+   "UNSTABLE": 152,
    "OFFLINE": 0,
-   "TIMEOUT": 379,
+   "TIMEOUT": 382,
    "GEO_BLOCKED": 0,
    "AUTH_REQUIRED": 0,
    "UNSUPPORTED": 0,
-   "UNKNOWN": 6148
+   "UNKNOWN": 5997
   },
   "streamsByVantageAndStatus": {
    "local-br": {
-    "OFFLINE": 1177,
+    "OFFLINE": 1174,
     "UNSUPPORTED": 143,
-    "WORKING": 2329,
+    "WORKING": 2325,
     "UNSTABLE": 86,
     "TIMEOUT": 202,
     "AUTH_REQUIRED": 21
    },
    "github-us": {
-    "WORKING": 10912,
-    "OFFLINE": 4171,
-    "UNSUPPORTED": 595,
-    "TIMEOUT": 330,
-    "UNSTABLE": 162,
+    "WORKING": 11033,
+    "OFFLINE": 4227,
+    "UNSUPPORTED": 608,
+    "TIMEOUT": 333,
+    "UNSTABLE": 184,
     "AUTH_REQUIRED": 30,
     "GEO_BLOCKED": 19
    }
   },
-  "channelsNeverChecked": 3851
+  "channelsNeverChecked": 3741
  },
  "catalog": {
-  "publishableChannels": 7500,
+  "publishableChannels": 7615,
   "eligibleButUnclassified": 855,
-  "validatedWorkingChannels": 7443,
-  "brazilianChannels": 296,
-  "internationalChannels": 7204,
+  "validatedWorkingChannels": 7542,
+  "brazilianChannels": 297,
+  "internationalChannels": 7318,
   "byCountryGroup": {
-   "US": 1238,
-   "OTHER": 4186,
-   "ES": 201,
-   "INT": 129,
+   "US": 1245,
+   "OTHER": 4271,
+   "ES": 200,
+   "INT": 131,
+   "LATAM": 1274,
    "UK": 155,
-   "LATAM": 1253,
-   "PT": 42,
-   "BR": 296
+   "BR": 297,
+   "PT": 42
   },
   "byCategory": {
-   "Filmes": 489,
-   "Geral": 2682,
-   "Música": 595,
-   "Infantil": 302,
-   "Entretenimento": 673,
-   "Cultura": 685,
-   "Notícias": 756,
-   "Séries": 315,
-   "Variedades": 373,
-   "Esportes": 296,
+   "Filmes": 492,
+   "Geral": 2726,
+   "Música": 602,
+   "Infantil": 308,
+   "Entretenimento": 688,
+   "Cultura": 689,
+   "Notícias": 775,
+   "Séries": 316,
+   "Variedades": 380,
+   "Esportes": 303,
    "Documentários": 155,
-   "Animação": 64,
-   "Educação": 115
+   "Animação": 65,
+   "Educação": 116
   },
-  "withEpgCoverage": 932,
-  "withVerifiedPortugueseAudio": 52,
-  "withVerifiedSubtitles": 1255,
-  "withSubtitleDetectionUnreliable": 7364,
+  "withEpgCoverage": 939,
+  "withVerifiedPortugueseAudio": 54,
+  "withVerifiedSubtitles": 1260,
+  "withSubtitleDetectionUnreliable": 7475,
   "offlineChannels": 0,
-  "unstableChannels": 57,
-  "channelsWithAlternativeStreams": 2312
+  "unstableChannels": 73,
+  "channelsWithAlternativeStreams": 2347
  },
  "epg": {
-  "channelsRequested": 7500,
-  "channelsWithGuide": 932,
-  "coveragePercent": 12.43,
-  "programmes": 38131,
+  "channelsRequested": 7615,
+  "channelsWithGuide": 939,
+  "coveragePercent": 12.33,
+  "programmes": 38832,
   "horizonHours": 72,
   "sources": [
    {
     "id": "mi.tv",
     "kind": "grabber",
     "ok": true,
-    "requestedChannels": 207,
-    "channelsWithProgrammes": 194,
-    "programmes": 9314,
+    "requestedChannels": 211,
+    "channelsWithProgrammes": 197,
+    "programmes": 9733,
     "note": null
    },
    {
@@ -197,34 +197,34 @@
     "ok": true,
     "requestedChannels": 33,
     "channelsWithProgrammes": 18,
-    "programmes": 178,
+    "programmes": 224,
     "note": null
    },
    {
     "id": "meo.pt",
     "kind": "grabber",
     "ok": true,
-    "requestedChannels": 51,
-    "channelsWithProgrammes": 51,
-    "programmes": 1713,
+    "requestedChannels": 53,
+    "channelsWithProgrammes": 53,
+    "programmes": 1802,
     "note": null
    },
    {
     "id": "nostv.pt",
     "kind": "grabber",
     "ok": true,
-    "requestedChannels": 35,
-    "channelsWithProgrammes": 24,
-    "programmes": 464,
+    "requestedChannels": 36,
+    "channelsWithProgrammes": 29,
+    "programmes": 516,
     "note": null
    },
    {
     "id": "gatotv.com",
     "kind": "grabber",
     "ok": true,
-    "requestedChannels": 125,
-    "channelsWithProgrammes": 120,
-    "programmes": 4611,
+    "requestedChannels": 128,
+    "channelsWithProgrammes": 123,
+    "programmes": 4660,
     "note": null
    },
    {
@@ -233,7 +233,7 @@
     "ok": true,
     "requestedChannels": 400,
     "channelsWithProgrammes": 387,
-    "programmes": 12497,
+    "programmes": 12274,
     "note": null
    },
    {
@@ -241,8 +241,8 @@
     "kind": "published",
     "ok": true,
     "requestedChannels": -1,
-    "channelsWithProgrammes": 336,
-    "programmes": 9354,
+    "channelsWithProgrammes": 337,
+    "programmes": 9623,
     "note": null
    },
    {
@@ -256,19 +256,19 @@
    }
   ],
   "dropped": {
-   "duplicates": 13591,
-   "outOfHorizon": 11137,
+   "duplicates": 13630,
+   "outOfHorizon": 10727,
    "invalidTimestamp": 0,
-   "unknownChannel": 50620,
+   "unknownChannel": 49581,
    "malformed": 0
   },
-  "missingChannelsCount": 6568,
+  "missingChannelsCount": 6676,
   "slices": {
-   "files": 932,
-   "programmes": 29564,
+   "files": 939,
+   "programmes": 30176,
    "horizonHours": 24,
-   "totalKB": 6726.3,
-   "largestKB": 49.2,
+   "totalKB": 6805.1,
+   "largestKB": 71.3,
    "indexUrl": "https://raw.githubusercontent.com/melocalex/lighteye/main/docs/epg/index.json"
   }
  },
@@ -276,65 +276,65 @@
   {
    "file": "playlist.m3u",
    "title": "Main (all sections, validated)",
-   "channels": 7500,
-   "entries": 7500,
+   "channels": 7615,
+   "entries": 7615,
    "sections": 100
   },
   {
    "file": "playlist-br.m3u",
    "title": "Brazil",
-   "channels": 296,
-   "entries": 296,
+   "channels": 297,
+   "entries": 297,
    "sections": 13
   },
   {
    "file": "playlist-pt.m3u",
    "title": "Portuguese (PT + Portuguese-speaking)",
-   "channels": 352,
-   "entries": 352,
+   "channels": 353,
+   "entries": 353,
    "sections": 32
   },
   {
    "file": "playlist-movies.m3u",
    "title": "Movies",
-   "channels": 491,
-   "entries": 491,
+   "channels": 494,
+   "entries": 494,
    "sections": 10
   },
   {
    "file": "playlist-series.m3u",
    "title": "Series (TV shows)",
-   "channels": 361,
-   "entries": 361,
+   "channels": 362,
+   "entries": 362,
    "sections": 14
   },
   {
    "file": "playlist-sports.m3u",
    "title": "Sports",
-   "channels": 298,
-   "entries": 298,
+   "channels": 305,
+   "entries": 305,
    "sections": 9
   },
   {
    "file": "playlist-international.m3u",
    "title": "International (everything outside Brazil)",
-   "channels": 7204,
-   "entries": 7204,
+   "channels": 7318,
+   "entries": 7318,
    "sections": 87
   },
   {
    "file": "playlist-all.m3u",
    "title": "Everything, including unverified and unavailable",
-   "channels": 12410,
-   "entries": 18509,
+   "channels": 12414,
+   "entries": 18526,
    "sections": 101
   }
  ],
  "limitations": [
   "Results from 2 observation points (local-br, github-us) are reported separately and **do not add up**: the same stream can be WORKING at one and GEO_BLOCKED at another.",
-  "3851 channels have never been checked. The per-run cap is `validation.maxChecksPerRun` = 1200; coverage grows each round.",
-  "Measured guide coverage: 932 of 7500 channels in the main playlist (6568 without a guide). Measured, with no rounding up.",
-  "8218 channels are served over HLS. ffprobe does not open the subtitle variant playlist, so **absence of a subtitle track does not prove absence of subtitles** on those channels.",
+  "3741 channels have never been checked. The per-run cap is `validation.maxChecksPerRun` = 1200; coverage grows each round.",
+  "Measured guide coverage: 939 of 7615 channels in the main playlist (6676 without a guide). Measured, with no rounding up.",
+  "8331 channels are served over HLS. ffprobe does not open the subtitle variant playlist, so **absence of a subtitle track does not prove absence of subtitles** on those channels.",
   "No playlist performs automatic failover. Alternative streams are kept in `data/channels.json`, but switching streams is up to the player: the project neither implements nor has tested failover, so it does not claim one exists.",
   "Nothing here circumvents DRM, authentication, paywalls or geoblocking. `GEO_BLOCKED` is only a diagnostic label, based on HTTP 451 or explicit text in the response.",
   "2092 streams have no channel metadata in the source. They stay out of the validated playlists and appear only in `playlist-all.m3u`, because classifying by channel name would be guessing."
