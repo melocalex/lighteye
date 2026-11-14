@@ -636,9 +636,6 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ArarunaTV.br@SD" tvg-name="Araruna TV" tvg-logo="https://i.imgur.com/jl39ula.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Araruna TV
 #EXTGRP:🇧🇷 Brasil • Geral
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-name="Boas Novas" tvg-logo="https://i.imgur.com/ZqhizdP.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Boas Novas
-#EXTGRP:🇧🇷 Brasil • Geral
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-name="Canal 25 Jundiai" tvg-logo="https://i.imgur.com/7igGMwH.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Canal 25 Jundiai
 #EXTGRP:🇧🇷 Brasil • Geral
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
@@ -783,9 +780,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-name="TV Alternativa" tvg-logo="https://i.imgur.com/wM9xXhc.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Alternativa
 #EXTGRP:🇧🇷 Brasil • Geral
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Arapuan
-#EXTGRP:🇧🇷 Brasil • Geral
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Bahia
 #EXTGRP:🇧🇷 Brasil • Geral
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -871,9 +865,6 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/duy6waL.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Senado
 #EXTGRP:🇧🇷 Brasil • Geral
 http://170.83.16.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia" tvg-logo="https://i.imgur.com/qM6nMWm.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Sul Bahia
-#EXTGRP:🇧🇷 Brasil • Geral
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-name="TV Vila Real" tvg-logo="https://i.imgur.com/Z1uWe7g.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Vila Real
 #EXTGRP:🇧🇷 Brasil • Geral
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8

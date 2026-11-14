@@ -839,7 +839,7 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/M9kMFJl.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",B4U Movies
 #EXTGRP:🏳️ Other Countries • Filmes
-http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" tvg-language="bho" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Bhojpuri Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
@@ -1113,9 +1113,9 @@ http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="ItageTV.ng@SD" tvg-name="Itage TV" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" tvg-language="yor" tvg-country="NG" group-title="🏳️ Other Countries • Filmes",Itage TV
 #EXTGRP:🏳️ Other Countries • Filmes
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/25eWjX2.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Jalsha Movies
+#EXTINF:-1 tvg-id="JalshaMovies.in@SD" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/25eWjX2.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Jalsha Movies
 #EXTGRP:🏳️ Other Countries • Filmes
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
+https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="Kairali We" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Kairali We
 #EXTGRP:🏳️ Other Countries • Filmes
 https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8

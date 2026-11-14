@@ -496,6 +496,9 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-name="Nautical Channel" tvg-logo="https://i.imgur.com/2ByDyzL.png" tvg-language="eng;ita;fra" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Nautical Channel
 #EXTGRP:🏳️ Other Countries • Esportes
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD" tvg-name="NHL AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png" tvg-language="eng" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",NHL AntenaPlay
+#EXTGRP:🏳️ Other Countries • Esportes
+https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-name="Oman Sports TV" tvg-logo="https://i.imgur.com/1omi7p8.png" tvg-language="eng;ara" tvg-country="OM" group-title="🏳️ Other Countries • Esportes",Oman Sports TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -532,9 +535,6 @@ https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/212/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2" tvg-logo="https://i.imgur.com/FtRT73R.png" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Star Sports Select 2
-#EXTGRP:🏳️ Other Countries • Esportes
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-name="Talent TV" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-language="eng" tvg-country="LK" group-title="🏳️ Other Countries • Esportes",Talent TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
@@ -692,6 +692,9 @@ http://185.228.163.146:8000/play/a048/index.m3u8
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FastSports.am@SD" tvg-name="Fast Sports" tvg-logo="https://i.imgur.com/VmaYUcq.png" tvg-language="hye" tvg-country="AM" group-title="🏳️ Other Countries • Esportes",Fast Sports
+#EXTGRP:🏳️ Other Countries • Esportes
+http://s7.merlive.am/Fastsports/index.m3u8
 #EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-name="FON TV" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",FON TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8

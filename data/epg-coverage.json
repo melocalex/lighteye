@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-13T14:41:58.246Z",
+ "generatedAt": "2026-11-14T13:34:40.479Z",
  "horizonHours": 72,
- "channelsRequested": 7615,
- "channelsWithGuide": 939,
- "coveragePercent": 12.33,
- "programmes": 38832,
+ "channelsRequested": 7621,
+ "channelsWithGuide": 937,
+ "coveragePercent": 12.29,
+ "programmes": 38682,
  "sources": [
   {
    "id": "mi.tv",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 211,
-   "channelsWithProgrammes": 197,
-   "programmes": 9733,
+   "requestedChannels": 210,
+   "channelsWithProgrammes": 196,
+   "programmes": 9749,
    "note": null
   },
   {
@@ -21,25 +21,25 @@
    "ok": true,
    "requestedChannels": 33,
    "channelsWithProgrammes": 18,
-   "programmes": 224,
+   "programmes": 323,
    "note": null
   },
   {
    "id": "meo.pt",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 53,
-   "channelsWithProgrammes": 53,
-   "programmes": 1802,
+   "requestedChannels": 52,
+   "channelsWithProgrammes": 52,
+   "programmes": 1745,
    "note": null
   },
   {
    "id": "nostv.pt",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 36,
-   "channelsWithProgrammes": 29,
-   "programmes": 516,
+   "requestedChannels": 35,
+   "channelsWithProgrammes": 26,
+   "programmes": 522,
    "note": null
   },
   {
@@ -47,8 +47,8 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 128,
-   "channelsWithProgrammes": 123,
-   "programmes": 4660,
+   "channelsWithProgrammes": 124,
+   "programmes": 4421,
    "note": null
   },
   {
@@ -57,7 +57,7 @@
    "ok": true,
    "requestedChannels": 400,
    "channelsWithProgrammes": 387,
-   "programmes": 12274,
+   "programmes": 12253,
    "note": null
   },
   {
@@ -66,7 +66,7 @@
    "ok": true,
    "requestedChannels": -1,
    "channelsWithProgrammes": 337,
-   "programmes": 9623,
+   "programmes": 9669,
    "note": null
   },
   {
@@ -80,10 +80,10 @@
   }
  ],
  "dropped": {
-  "duplicates": 13630,
-  "outOfHorizon": 10727,
+  "duplicates": 12914,
+  "outOfHorizon": 9995,
   "invalidTimestamp": 0,
-  "unknownChannel": 49581,
+  "unknownChannel": 49105,
   "malformed": 0
  },
  "missingChannels": [
@@ -857,12 +857,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "TVArapuan.br@SD",
-   "name": "TV Arapuan",
-   "countryGroup": "BR",
-   "guideSites": []
-  },
-  {
    "tvgId": "TVBrasilOeste.br@SD",
    "name": "TV Brasil Oeste",
    "countryGroup": "BR",
@@ -1021,12 +1015,6 @@
   {
    "tvgId": "TVSimSaoMateus.br@SD",
    "name": "TV Sim Sao Mateus",
-   "countryGroup": "BR",
-   "guideSites": []
-  },
-  {
-   "tvgId": "TVSulBahia.br@SD",
-   "name": "TV Sul Bahia",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -3273,6 +3261,12 @@
    ]
   },
   {
+   "tvgId": "ArpegioTV.pe@SD",
+   "name": "Arpegio TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "AsContenidos.bo@SD",
    "name": "As Contenidos",
    "countryGroup": "LATAM",
@@ -3299,6 +3293,12 @@
   {
    "tvgId": "AtacamaNoticias.cl@SD",
    "name": "Atacama Noticias",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "AtlantisRadioTV.pe@SD",
+   "name": "Atlantis Radio TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -3399,6 +3399,12 @@
   {
    "tvgId": "B15Fresnillo.mx@SD",
    "name": "B15 Fresnillo",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "B15Zacatecas.mx@SD",
+   "name": "B15 Zacatecas",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -11725,6 +11731,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "AnNinhTV.vn@HD",
+   "name": "An Ninh TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "AnadoluNetTV.tr@SD",
    "name": "Anadolu Net TV",
    "countryGroup": "OTHER",
@@ -11942,6 +11954,12 @@
    "guideSites": [
     "sat.tv"
    ]
+  },
+  {
+   "tvgId": "APTV.gh@SD",
+   "name": "AP TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "APATv.az@SD",
@@ -12258,14 +12276,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "AryanTVNational.in@SD",
-   "name": "Aryan TV National",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in"
-   ]
-  },
-  {
    "tvgId": "ASTV.ro@SD",
    "name": "AS TV",
    "countryGroup": "OTHER",
@@ -12460,6 +12470,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "AstrahanRuTV.ru@SD",
+   "name": "Astrahan.Ru TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "AstroBlitarTV.id@SD",
    "name": "Astro Blitar TV",
    "countryGroup": "OTHER",
@@ -12612,14 +12628,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "AusbizTV.au@SD",
-   "name": "Ausbiz TV",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "i.mjh.nz"
-   ]
-  },
-  {
    "tvgId": "AutoPlus.ru@SD",
    "name": "Auto Plus",
    "countryGroup": "OTHER",
@@ -12735,6 +12743,12 @@
   {
    "tvgId": "AXNWhite.pl@SD",
    "name": "AXN White",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "AyazTV.az@SD",
+   "name": "Ayaz TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -12893,6 +12907,12 @@
   {
    "tvgId": "BaichengTV.cn@SD",
    "name": "Baicheng TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BajaiTV.hu@SD",
+   "name": "Bajai TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -18577,6 +18597,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "FastSports.am@SD",
+   "name": "Fast Sports",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "FastFunBox.nl@SD",
    "name": "Fast&FunBox",
    "countryGroup": "OTHER",
@@ -21447,7 +21473,7 @@
    ]
   },
   {
-   "tvgId": "JalshaMovies.in@HD",
+   "tvgId": "JalshaMovies.in@SD",
    "name": "Jalsha Movies",
    "countryGroup": "OTHER",
    "guideSites": [
@@ -26521,6 +26547,12 @@
     "tv.mail.ru",
     "tvireland.ie"
    ]
+  },
+  {
+   "tvgId": "NHLAntenaPlay.ro@SD",
+   "name": "NHL AntenaPlay",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "NHTV.kr@SD",
@@ -33418,6 +33450,16 @@
    "guideSites": []
   },
   {
+   "tvgId": "SozcuTV.tr@SD",
+   "name": "Sozcu TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "digiturk.com.tr",
+    "dsmart.com.tr",
+    "tvplus.com.tr"
+   ]
+  },
+  {
    "tvgId": "SpacetoonArabic.ae@SD",
    "name": "Spacetoon Arabic",
    "countryGroup": "OTHER",
@@ -33810,16 +33852,6 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "dishtv.in"
-   ]
-  },
-  {
-   "tvgId": "StarSportsSelect2.in@HD",
-   "name": "Star Sports Select 2",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
    ]
   },
   {
@@ -38999,6 +39031,12 @@
    ]
   },
   {
+   "tvgId": "VTV1.vn@HD",
+   "name": "VTV1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "VTV2.vn@HD",
    "name": "VTV2",
    "countryGroup": "OTHER",
@@ -41637,6 +41675,12 @@
   {
    "tvgId": "ARTFLIXMovieClassics.us@SD",
    "name": "ARTFLIX Movie Classics",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ARTNTV.us@SD",
+   "name": "ARTN TV",
    "countryGroup": "US",
    "guideSites": []
   },
