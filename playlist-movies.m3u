@@ -174,6 +174,12 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTGRP:🌎 América Latina • Filmes
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.es@SD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="spa;eng" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN
+#EXTGRP:🇪🇸 España • Filmes
+http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+#EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-name="AXN Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN Movies
+#EXTGRP:🇪🇸 España • Filmes
+http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki" tvg-logo="https://i.imgur.com/b3Ospym.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Cine Friki
 #EXTGRP:🇪🇸 España • Filmes
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
@@ -275,19 +281,19 @@ http://15.204.246.24:8080/DHEHD/index.m3u8
 http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8
 #EXTINF:-1 tvg-id="Maxcine.us@HD" tvg-name="Maxcine" tvg-logo="https://gia.tv/streams/pptv/208138.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Maxcine
 #EXTGRP:🇺🇸 United States • Filmes
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8
 #EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-name="Maxcine 2" tvg-logo="https://gia.tv/streams/pptv/209163.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Maxcine 2
 #EXTGRP:🇺🇸 United States • Filmes
-https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineComedy.us@HD" tvg-name="Maxcine Comedy" tvg-logo="https://gia.tv/streams/pptv/208730.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Maxcine Comedy
 #EXTGRP:🇺🇸 United States • Filmes
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineFamily.us@HD" tvg-name="Maxcine Family" tvg-logo="https://gia.tv/streams/pptv/208817.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Maxcine Family
 #EXTGRP:🇺🇸 United States • Filmes
-https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-name="Maxcine Kids" tvg-logo="https://gia.tv/streams/pptv/209909.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Maxcine Kids
 #EXTGRP:🇺🇸 United States • Filmes
-https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaExtrenoHD.us@HD" tvg-name="Mega Extreno HD" tvg-logo="https://cdn.vaughnsoft.net/profile/1792355588/mega_extremo.jpg" tvg-language="spa;eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Mega Extreno HD
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-referrer=https://vaughn.live/
@@ -540,6 +546,9 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Sony Movies
 #EXTGRP:🇺🇸 United States • Filmes
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="StarAction.us@SD" tvg-name="Star Action" tvg-logo="https://i.imgur.com/XD1Tpet.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Star Action
+#EXTGRP:🇺🇸 United States • Filmes
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us@SD" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Star Trek: Deep Space Nine
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
@@ -865,6 +874,18 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 tvg-id="bTVAction.bg@SD" tvg-name="bTV Action" tvg-logo="https://i.imgur.com/hGUXHuT.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",bTV Action
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04n
+#EXTINF:-1 tvg-id="bTVCinema.bg@SD" tvg-name="bTV Cinema" tvg-logo="https://i.imgur.com/uV81rS4.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",bTV Cinema
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 tvg-id="bTVLady.bg@SD" tvg-name="bTV Lady" tvg-logo="https://i.imgur.com/rXBPJ1e.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",bTV Lady
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05i
 #EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-name="Cafe Film" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Filmes",Cafe Film
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cafefhls.wns.live/hls/stream.m3u8
@@ -1295,6 +1316,9 @@ https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-name="Ostrosyuzhetnoye" tvg-logo="https://i.imgur.com/NwQ7GBy.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Ostrosyuzhetnoye
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Filmes",Paramount Network
+#EXTGRP:🏳️ Other Countries • Filmes
+http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema" tvg-logo="https://i.imgur.com/hgIro9r.png" tvg-language="fas" tvg-country="FR" group-title="🏳️ Other Countries • Filmes",Persiana Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -1492,7 +1516,7 @@ https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Filmes",TF1 Series Films
 #EXTGRP:🏳️ Other Countries • Filmes
-http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ThalaaTV.in@HD" tvg-name="Thalaa TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" tvg-language="tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Thalaa TV
 #EXTGRP:🏳️ Other Countries • Filmes
 https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c9d5c8a0-8c52-47bc-954d-e64a11314de2/manifest.m3u8

@@ -553,6 +553,15 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",ACI Sport TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-id="AdriaticSport1.ba@SD" tvg-name="Adriatic Sport 1" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-1.png" tvg-language="cnr" tvg-country="BA" group-title="🏳️ Other Countries • Esportes",Adriatic Sport 1
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=3645291205
+#EXTINF:-1 tvg-id="AdriaticSport2.ba@SD" tvg-name="Adriatic Sport 2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-2.png" tvg-language="cnr" tvg-country="BA" group-title="🏳️ Other Countries • Esportes",Adriatic Sport 2
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=2665922581
+#EXTINF:-1 tvg-id="AdriaticSport3.ba@SD" tvg-name="Adriatic Sport 3" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-3.png" tvg-language="cnr" tvg-country="BA" group-title="🏳️ Other Countries • Esportes",Adriatic Sport 3
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=2743527845
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-name="Al Iraqia Sport" tvg-logo="https://i.imgur.com/DrrlxTO.png" tvg-language="ara" tvg-country="IQ" group-title="🏳️ Other Countries • Esportes",Al Iraqia Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
@@ -665,6 +674,15 @@ https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-name="CT Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",CT Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-name="Digi Sport 2" tvg-logo="https://i.imgur.com/KWDUi3v.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Digi Sport 2
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=867728420
+#EXTINF:-1 tvg-id="DigiSport3.ro@HD" tvg-name="Digi Sport 3" tvg-logo="https://i.imgur.com/T1ci5UK.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Digi Sport 3
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" tvg-name="Digi Sport 4" tvg-logo="https://i.imgur.com/Knj9I6f.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Digi Sport 4
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 #EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-name="DiviSport" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Esportes",DiviSport
 #EXTGRP:🏳️ Other Countries • Esportes
 http://stream.mcquack.net/457/index.m3u8
@@ -688,6 +706,12 @@ http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-language="bul" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Eurosport 2
 #EXTGRP:🏳️ Other Countries • Esportes
 http://185.228.163.146:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-name="Eurosport 3 Polska" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Eurosport 3 Polska
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=512159637
+#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-name="Eurosport 4 Polska" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Eurosport 4 Polska
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",Eurosport 4K Czechia
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -839,6 +863,9 @@ https://cdn.bestream.io/prime/prime.m3u8
 #EXTINF:-1 tvg-id="QazSport.kz@SD" tvg-name="QazSport" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" tvg-language="kaz" tvg-country="KZ" group-title="🏳️ Other Countries • Esportes",QazSport
 #EXTGRP:🏳️ Other Countries • Esportes
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiSport.it@SD" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/6PEevOM.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Rai Sport
+#EXTGRP:🏳️ Other Countries • Esportes
+http://sultanios.alwaysdata.net/vavo.php?ID=843891896
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-name="Realitatea Sportiva" tvg-logo="https://i.imgur.com/BaEyZto.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Realitatea Sportiva
 #EXTGRP:🏳️ Other Countries • Esportes
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
