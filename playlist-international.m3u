@@ -177,15 +177,15 @@ https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-name="Canal N" tvg-logo="https://i.imgur.com/Xytvw3J.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Notícias",Canal N
 #EXTGRP:🌎 América Latina • Notícias
 http://190.108.91.206:9050/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-name="Canal PyC" tvg-logo="https://i.imgur.com/3qxBDhV.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Notícias",Canal PyC
-#EXTGRP:🌎 América Latina • Notícias
-https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD" tvg-name="Canal TDC" tvg-logo="https://i.imgur.com/nPG38B2.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Notícias",Canal TDC
 #EXTGRP:🌎 América Latina • Notícias
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-id="Carivision.do@SD" tvg-name="Carivision" tvg-logo="https://i.imgur.com/XjGb2UM.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Notícias",Carivision
 #EXTGRP:🌎 América Latina • Notícias
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
+#EXTINF:-1 tvg-id="CatamarcaTV.ar@SD" tvg-name="Catamarca TV" tvg-logo="https://i.imgur.com/CEuPoqG.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Notícias",Catamarca TV
+#EXTGRP:🌎 América Latina • Notícias
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-name="Citrico TV" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Notícias",Citrico TV
 #EXTGRP:🌎 América Latina • Notícias
 https://edge.essastream.com/citricotv/playlist.m3u8
@@ -723,9 +723,9 @@ https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:-1 tvg-id="CanicaTV.co@SD" tvg-name="Canica TV" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Entretenimento",Canica TV
 #EXTGRP:🌎 América Latina • Entretenimento
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-name="Capital 21" tvg-logo="https://i.imgur.com/8ign49i.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Entretenimento",Capital 21
+#EXTINF:-1 tvg-id="CarasTV.ar@SD" tvg-name="Caras TV" tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Entretenimento",Caras TV
 #EXTGRP:🌎 América Latina • Entretenimento
-https://video.cdmx.gob.mx/redes/stream.m3u8
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD" tvg-name="Chile Channel" tvg-logo="https://i.imgur.com/F1it6fh.png" tvg-language="spa;eng" tvg-country="CL" group-title="🌎 América Latina • Entretenimento",Chile Channel
 #EXTGRP:🌎 América Latina • Entretenimento
 https://v2.tustreaming.cl/chilechannel/index.m3u8
@@ -1343,6 +1343,9 @@ http://138.121.15.230:9002/BETHEL/index.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe@SD" tvg-name="Bethel TV" tvg-logo="https://i.imgur.com/zCVh765.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Cultura",Bethel TV
 #EXTGRP:🌎 América Latina • Cultura
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-name="Canal 17 RTVD" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Cultura",Canal 17 RTVD
+#EXTGRP:🌎 América Latina • Cultura
+https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-name="Canal 30 TV Bethel" tvg-logo="https://i.imgur.com/PP4U1JL.png" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Cultura",Canal 30 TV Bethel
 #EXTGRP:🌎 América Latina • Cultura
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
@@ -1365,6 +1368,9 @@ https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-id="CanalOrbe21.ar@SD" tvg-name="Canal Orbe 21" tvg-logo="https://i.imgur.com/USD6Wn8.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Cultura",Canal Orbe 21
 #EXTGRP:🌎 América Latina • Cultura
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD" tvg-name="Canal Santa Maria" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Cultura",Canal Santa Maria
+#EXTGRP:🌎 América Latina • Cultura
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CanalTelefamilia.co@SD" tvg-name="Canal Telefamilia" tvg-logo="https://i.imgur.com/D1s1Q3k.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Cultura",Canal Telefamilia
 #EXTGRP:🌎 América Latina • Cultura
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
@@ -2062,12 +2068,12 @@ https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="Canal1Nuble.cl@SD" tvg-name="Canal 1 Nuble" tvg-logo="https://i.imgur.com/PGSixH5.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Canal 1 Nuble
 #EXTGRP:🌎 América Latina • Geral
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10.cr@SD" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/TO6WQbW.png" tvg-language="spa" tvg-country="CR" group-title="🌎 América Latina • Geral",Canal 10
-#EXTGRP:🌎 América Latina • Geral
-https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal10.ni@SD" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/ztp781b.png" tvg-language="spa" tvg-country="NI" group-title="🌎 América Latina • Geral",Canal 10
 #EXTGRP:🌎 América Latina • Geral
 https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/y2ppMnY.png" tvg-language="spa" tvg-country="SV" group-title="🌎 América Latina • Geral",Canal 10
+#EXTGRP:🌎 América Latina • Geral
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Durango.mx@SD" tvg-name="Canal 10 Durango" tvg-logo="https://i.imgur.com/H34quHQ.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Geral",Canal 10 Durango
 #EXTGRP:🌎 América Latina • Geral
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
@@ -2103,7 +2109,7 @@ https://nd106.republicaservers.com:4433/c7827.mp4
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.gt@SD" tvg-name="Canal 13" tvg-logo="https://i.imgur.com/C1yVU3J.png" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Geral",Canal 13
 #EXTGRP:🌎 América Latina • Geral
-http://168.196.127.137:6001/play/a064/index.m3u8
+http://190.61.101.11:7050/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt@SD" tvg-name="Canal 13 Esquipulas" tvg-logo="https://i.imgur.com/INKZvlN.png" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Geral",Canal 13 Esquipulas
 #EXTGRP:🌎 América Latina • Geral
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
@@ -2175,6 +2181,9 @@ http://intelincloud01.com.ar/hls/cn3/index.m3u8
 #EXTINF:-1 tvg-id="Canal3Tacural.ar@SD" tvg-name="Canal 3 Tacural" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal 3 Tacural
 #EXTGRP:🌎 América Latina • Geral
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Canal30Loncomilla.cl@SD" tvg-name="Canal 30 Loncomilla" tvg-logo="https://i.imgur.com/dgUHqrQ.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Canal 30 Loncomilla
+#EXTGRP:🌎 América Latina • Geral
+https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr@SD" tvg-name="Canal 4" tvg-logo="https://i.imgur.com/5arZEgO.png" tvg-language="spa" tvg-country="CR" group-title="🌎 América Latina • Geral",Canal 4
 #EXTGRP:🌎 América Latina • Geral
 http://45.186.106.207:8000/play/a09t/index.m3u8
@@ -2226,9 +2235,6 @@ https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
 #EXTINF:-1 tvg-id="Canal50Morteros.ar@SD" tvg-name="Canal 50 Morteros" tvg-logo="https://i.imgur.com/IDhgBav.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal 50 Morteros
 #EXTGRP:🌎 América Latina • Geral
 https://online.coopmorteros.coop/canal50/vivo.m3u8
-#EXTINF:-1 tvg-id="Canal56QuieroTV.bo@SD" tvg-name="Canal 56 Quiero TV" tvg-logo="https://i.imgur.com/l9kDNld.jpeg" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Geral",Canal 56 Quiero TV
-#EXTGRP:🌎 América Latina • Geral
-http://45.5.118.152:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="Canal6Posadas.ar@SD" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal 6 Posadas
 #EXTGRP:🌎 América Latina • Geral
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
@@ -2238,6 +2244,9 @@ http://181.119.177.253:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar@SD" tvg-name="Canal 7 Jujuy" tvg-logo="https://i.imgur.com/K0jk8p4.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal 7 Jujuy
 #EXTGRP:🌎 América Latina • Geral
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar@SD" tvg-name="Canal 7 Neuquen" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal 7 Neuquen
+#EXTGRP:🌎 América Latina • Geral
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar@SD" tvg-name="Canal 7 Salta" tvg-logo="https://i.imgur.com/CudG6sl.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal 7 Salta
 #EXTGRP:🌎 América Latina • Geral
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
@@ -2274,16 +2283,12 @@ https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="Canal8Sincelejo.co@SD" tvg-name="Canal 8 Sincelejo" tvg-logo="https://i.imgur.com/6lAA8lL.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal 8 Sincelejo
 #EXTGRP:🌎 América Latina • Geral
 http://181.78.21.38:8000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-id="Canal8VisionTV.py@SD" tvg-name="Canal 8 Vision TV" tvg-logo="https://i.imgur.com/mKju6hk.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Geral",Canal 8 Vision TV
+#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-name="Canal 8 TV+" tvg-logo="https://i.imgur.com/peOIG1F.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal 8 TV+
 #EXTGRP:🌎 América Latina • Geral
-#EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
-https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl@SD" tvg-name="Canal 9 Bio-Bio Television" tvg-logo="https://i.imgur.com/J2G1WMs.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Canal 9 Bio-Bio Television
 #EXTGRP:🌎 América Latina • Geral
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Cosespu.co@SD" tvg-name="Canal 9 Cosespu" tvg-logo="https://i.imgur.com/w5e1d8k.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal 9 Cosespu
-#EXTGRP:🌎 América Latina • Geral
-https://video2.lhdserver.es/canal9cosespu/live.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-name="Canal 9 Resistencia" tvg-logo="https://i.imgur.com/xqgRFpC.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal 9 Resistencia
 #EXTGRP:🌎 América Latina • Geral
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
@@ -2294,21 +2299,25 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 #EXTGRP:🌎 América Latina • Geral
 #EXTVLCOPT:http-referrer=https://canalalma.tv
 https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-name="Canal Calima TV" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal Calima TV
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-name="Canal C del Zulia" tvg-logo="https://i.imgur.com/ew44KOZ.png" tvg-language="spa" tvg-country="VE" group-title="🌎 América Latina • Geral",Canal C del Zulia
 #EXTGRP:🌎 América Latina • Geral
-https://movil.ejeserver.com/live/calimatv.m3u8
+#EXTVLCOPT:http-referrer=https://canalc.vercel.app
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-name="Canal Capital" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal Capital
 #EXTGRP:🌎 América Latina • Geral
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-name="Canal Catorce" tvg-logo="https://i.imgur.com/iKLGBbA.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Canal Catorce
 #EXTGRP:🌎 América Latina • Geral
 https://stream.haislin.com/14tv/index.m3u8
-#EXTINF:-1 tvg-id="CanalClaro.cl@SD" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Canal Claro
+#EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-name="Canal CHD" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal CHD
 #EXTGRP:🌎 América Latina • Geral
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co@SD" tvg-name="Canal Congreso" tvg-logo="https://i.imgur.com/3VnL8dp.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal Congreso
 #EXTGRP:🌎 América Latina • Geral
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx@SD" tvg-name="Canal del Congreso 45.1" tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Geral",Canal del Congreso 45.1
+#EXTGRP:🌎 América Latina • Geral
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-name="Canal del Sol" tvg-logo="https://i.imgur.com/gK0M1jB.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Canal del Sol
 #EXTGRP:🌎 América Latina • Geral
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
@@ -2349,6 +2358,9 @@ https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx@SD" tvg-name="Canal Parlamento del Congreso de Jalisco" tvg-logo="https://i.imgur.com/fLpkHfZ.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Geral",Canal Parlamento del Congreso de Jalisco
 #EXTGRP:🌎 América Latina • Geral
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalProvincial.ar@SD" tvg-name="Canal Provincial" tvg-logo="https://i.imgur.com/bXHHtcb.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Canal Provincial
+#EXTGRP:🌎 América Latina • Geral
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-name="Canal RCN" tvg-logo="https://i.imgur.com/5PhTaHp.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal RCN
 #EXTGRP:🌎 América Latina • Geral
 http://38.134.250.110:8000/play/a00i/index.m3u8
@@ -2357,16 +2369,13 @@ http://38.134.250.110:8000/play/a00i/index.m3u8
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co@SD" tvg-name="Canal TRO" tvg-logo="https://i.imgur.com/ZS5WTCd.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal TRO
 #EXTGRP:🌎 América Latina • Geral
-http://138.94.3.106:8000/play/a07i/index.m3u8
+http://181.78.82.130:8000/play/a0o1/index.m3u8
 #EXTINF:-1 tvg-id="CanalTRV.sv@SD" tvg-name="Canal TRV" tvg-logo="https://i.imgur.com/g5QKQ2E.png" tvg-language="spa" tvg-country="SV" group-title="🌎 América Latina • Geral",Canal TRV
 #EXTGRP:🌎 América Latina • Geral
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTV3.co@SD" tvg-name="Canal TV3" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Canal TV3
 #EXTGRP:🌎 América Latina • Geral
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-#EXTINF:-1 tvg-id="Canalda26HD.do@HD" tvg-name="Canalda 26 HD" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Canalda 26 HD
-#EXTGRP:🌎 América Latina • Geral
-https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 #EXTINF:-1 tvg-id="CanangaTV.do@SD" tvg-name="Cananga TV" tvg-logo="https://i.imgur.com/isXlMAh.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Cananga TV
 #EXTGRP:🌎 América Latina • Geral
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
@@ -2382,9 +2391,6 @@ http://45.5.117.57:8200/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Caracol TV
 #EXTGRP:🌎 América Latina • Geral
 http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-id="CaracolaTV.cl@SD" tvg-name="Caracola TV" tvg-logo="https://i.imgur.com/QGvfqug.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Caracola TV
-#EXTGRP:🌎 América Latina • Geral
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-name="Cascara TV" tvg-logo="https://i.imgur.com/DEUR7mB.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Cascara TV
 #EXTGRP:🌎 América Latina • Geral
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
@@ -4606,6 +4612,10 @@ https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
 #EXTGRP:🇪🇸 España • Geral
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTerrassa.es@SD" tvg-name="Canal Terrassa" tvg-logo="https://i.imgur.com/5fc5ZyI.png" tvg-language="cat" tvg-country="ES" group-title="🇪🇸 España • Geral",Canal Terrassa
+#EXTGRP:🇪🇸 España • Geral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DurangaldekoTelebista.es@SD" tvg-name="Durangaldeko Telebista" tvg-logo="https://i.imgur.com/qdlW6cg.png" tvg-language="eus" tvg-country="ES" group-title="🇪🇸 España • Geral",Durangaldeko Telebista
 #EXTGRP:🇪🇸 España • Geral
 https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
@@ -4688,7 +4698,7 @@ https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Notícias",CBS News 24/7
 #EXTGRP:🇺🇸 United States • Notícias
-https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Notícias",CBS News Baltimore
 #EXTGRP:🇺🇸 United States • Notícias
 https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8
@@ -5939,7 +5949,7 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="CanalInfantil.us@SD" tvg-name="Canal Infantil" tvg-logo="https://i.imgur.com/WGk7MJ3.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Infantil",Canal Infantil
 #EXTGRP:🇺🇸 United States • Infantil
-http://179.1.196.222:9000/play/a02y/index.m3u8
+http://177.234.218.66:8084/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Infantil",Cartoon Network
 #EXTGRP:🇺🇸 United States • Infantil
 http://212.5.144.156:8080/cartoon/index.m3u8
@@ -7868,9 +7878,6 @@ https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-id="CANTV19.us@SD" tvg-name="CAN TV19" tvg-logo="https://i.imgur.com/PUQtIa3.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",CAN TV19
 #EXTGRP:🇺🇸 United States • Geral
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
-#EXTINF:-1 tvg-id="CANTV21.us@SD" tvg-name="CAN TV21" tvg-logo="https://i.imgur.com/KP5bCYr.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",CAN TV21
-#EXTGRP:🇺🇸 United States • Geral
-https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CANTV27.us@SD" tvg-name="CAN TV27" tvg-logo="https://i.imgur.com/43EpWsD.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",CAN TV27
 #EXTGRP:🇺🇸 United States • Geral
 https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
@@ -7879,7 +7886,7 @@ https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
 https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KCCI" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",CBS
 #EXTGRP:🇺🇸 United States • Geral
-https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="CCTV.us@SD" tvg-name="CC-TV" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",CC-TV
 #EXTGRP:🇺🇸 United States • Geral
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
@@ -11275,6 +11282,9 @@ http://stream.mcquack.net/33/index.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-name="Boks TV" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Boks TV
 #EXTGRP:🏳️ Other Countries • Esportes
 http://stream.mcquack.net/154/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/EOXnU15.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Canal+ Sport
+#EXTGRP:🏳️ Other Countries • Esportes
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.pl@SD" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/E0WTMa2.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Canal+ Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
@@ -11852,6 +11862,9 @@ https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-language="cze" tvg-country="NL" group-title="🏳️ Other Countries • Filmes",Canal+ Action Europe
 #EXTGRP:🏳️ Other Countries • Filmes
 http://193.33.39.108:9016/play/a02n
+#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-name="CCTV-6" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",CCTV-6
+#EXTGRP:🏳️ Other Countries • Filmes
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-name="CCTV-Storm Theater" tvg-logo="https://i.imgur.com/rEttkKm.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",CCTV-Storm Theater
 #EXTGRP:🏳️ Other Countries • Filmes
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -12563,7 +12576,7 @@ https://jmp2.uk/plu-67a09e25c070cf00083c40fa.m3u8
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
 #EXTINF:-1 tvg-id="CarChase.se@DK" tvg-name="Car Chase" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Car Chase
 #EXTGRP:🏳️ Other Countries • Séries
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
+https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
 #EXTINF:-1 tvg-id="CSI.se@DK" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",CSI
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
@@ -13261,6 +13274,9 @@ http://92.114.85.87:8019/play/a003/index.m3u8
 #EXTGRP:🏳️ Other Countries • Infantil
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-name="Carousel International" tvg-logo="https://i.imgur.com/DnlngRZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Infantil",Carousel International
+#EXTGRP:🏳️ Other Countries • Infantil
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="CartoonClassics.ru@SD" tvg-name="Cartoon Classics" tvg-logo="https://sales.planbkino.tv//b/c/471.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Infantil",Cartoon Classics
 #EXTGRP:🏳️ Other Countries • Infantil
 http://88.218.242.237:8001/Cartoon_Classics
@@ -16293,9 +16309,6 @@ https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg@SD" tvg-name="Aghapy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" tvg-language="ara" tvg-country="EG" group-title="🏳️ Other Countries • Cultura",Aghapy TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AhasaTV.lk@SD" tvg-name="Ahasa TV" tvg-logo="https://ahasatv.lk/_next/image?url=%2Flogo.png&w=256&q=75" tvg-language="sin" tvg-country="LK" group-title="🏳️ Other Countries • Cultura",Ahasa TV
-#EXTGRP:🏳️ Other Countries • Cultura
-https://ahasatv.lk/live-stream/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="AhsanTV.id@SD" tvg-name="Ahsan TV" tvg-logo="https://i.imgur.com/dZdUbYd.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Cultura",Ahsan TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
@@ -17238,6 +17251,9 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="BVG.in@SD" tvg-name="BVG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Educação",BVG
 #EXTGRP:🏳️ Other Countries • Educação
 https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
+#EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-name="Can Tho TV 2" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Educação",Can Tho TV 2
+#EXTGRP:🏳️ Other Countries • Educação
+https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-name="CCTV-10" tvg-logo="https://i.imgur.com/sSSO7UD.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Educação",CCTV-10
 #EXTGRP:🏳️ Other Countries • Educação
 http://74.91.26.218:82/live/cctv10hd.m3u8
@@ -18943,9 +18959,6 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-name="Cao Bang TV" tvg-logo="https://i.imgur.com/dGonewm.png" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Geral",Cao Bang TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="CapitalTVHD.np@HD" tvg-name="Capital TV HD" tvg-logo="https://i.imgur.com/hb4bq1t.png" tvg-language="nep;mai" tvg-country="NP" group-title="🏳️ Other Countries • Geral",Capital TV HD
-#EXTGRP:🏳️ Other Countries • Geral
-https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
 #EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-name="Caruban TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Geral",Caruban TV
 #EXTGRP:🏳️ Other Countries • Geral
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
@@ -22083,7 +22096,7 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 #EXTINF:-1 tvg-id="TVMulhouse.fr@HD" tvg-name="TV Mulhouse" tvg-logo="https://academie.kasumay.international/ico/radiomulhouse.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Geral",TV Mulhouse
 #EXTGRP:🏳️ Other Countries • Geral
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
-#EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-name="TV Niksic" tvg-logo="https://i.imgur.com/51fGwzn.png" tvg-language="srp" tvg-country="ME" group-title="🏳️ Other Countries • Geral",TV Niksic
+#EXTINF:-1 tvg-id="TVNiksic.me@SD" tvg-name="TV Niksic" tvg-logo="https://i.imgur.com/51fGwzn.png" tvg-language="cnr;srp" tvg-country="ME" group-title="🏳️ Other Countries • Geral",TV Niksic
 #EXTGRP:🏳️ Other Countries • Geral
 https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-name="TV Nitricka" tvg-logo="https://i.imgur.com/iwWyG1A.png" tvg-language="slk" tvg-country="SK" group-title="🏳️ Other Countries • Geral",TV Nitricka
@@ -22170,7 +22183,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 #EXTINF:-1 tvg-id="TVTabalong.id@SD" tvg-name="TV Tabalong" tvg-logo="https://i.imgur.com/2YhDH98.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Geral",TV Tabalong
 #EXTGRP:🏳️ Other Countries • Geral
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTeuta.me@SD" tvg-name="TV Teuta" tvg-logo="https://i.imgur.com/sWVqBuW.png" tvg-language="cnr" tvg-country="ME" group-title="🏳️ Other Countries • Geral",TV Teuta
+#EXTINF:-1 tvg-id="TVTeuta.me@SD" tvg-name="TV Teuta" tvg-logo="https://i.imgur.com/sWVqBuW.png" tvg-language="sqi" tvg-country="ME" group-title="🏳️ Other Countries • Geral",TV Teuta
 #EXTGRP:🏳️ Other Countries • Geral
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVTokyo.jp@JOTXDTV" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png" tvg-language="jpn" tvg-country="JP" group-title="🏳️ Other Countries • Geral",TV Tokyo
@@ -22283,7 +22296,7 @@ http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCBenin.bj@SD" tvg-name="TVC Benin" tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-language="fra" tvg-country="BJ" group-title="🏳️ Other Countries • Geral",TVC Benin
 #EXTGRP:🏳️ Other Countries • Geral
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png" tvg-language="srp" tvg-country="ME" group-title="🏳️ Other Countries • Geral",TVCG MNE
+#EXTINF:-1 tvg-id="TVCGMNE.me@SD" tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png" tvg-language="cnr" tvg-country="ME" group-title="🏳️ Other Countries • Geral",TVCG MNE
 #EXTGRP:🏳️ Other Countries • Geral
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh@SD" tvg-name="TVK" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-language="khm" tvg-country="KH" group-title="🏳️ Other Countries • Geral",TVK

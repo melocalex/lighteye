@@ -892,6 +892,9 @@ https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-language="cze" tvg-country="NL" group-title="🏳️ Other Countries • Filmes",Canal+ Action Europe
 #EXTGRP:🏳️ Other Countries • Filmes
 http://193.33.39.108:9016/play/a02n
+#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-name="CCTV-6" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",CCTV-6
+#EXTGRP:🏳️ Other Countries • Filmes
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-name="CCTV-Storm Theater" tvg-logo="https://i.imgur.com/rEttkKm.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",CCTV-Storm Theater
 #EXTGRP:🏳️ Other Countries • Filmes
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub

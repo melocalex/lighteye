@@ -618,6 +618,9 @@ http://stream.mcquack.net/33/index.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-name="Boks TV" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Boks TV
 #EXTGRP:🏳️ Other Countries • Esportes
 http://stream.mcquack.net/154/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/EOXnU15.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Canal+ Sport
+#EXTGRP:🏳️ Other Countries • Esportes
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.pl@SD" tvg-name="Canal+ Sport" tvg-logo="https://i.imgur.com/E0WTMa2.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Canal+ Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36

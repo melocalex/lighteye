@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-15T14:03:09.540Z",
+ "generatedAt": "2026-11-16T15:46:45.457Z",
  "horizonHours": 72,
- "channelsRequested": 7658,
+ "channelsRequested": 7662,
  "channelsWithGuide": 937,
- "coveragePercent": 12.24,
- "programmes": 37768,
+ "coveragePercent": 12.23,
+ "programmes": 38320,
  "sources": [
   {
    "id": "mi.tv",
@@ -12,7 +12,7 @@
    "ok": true,
    "requestedChannels": 209,
    "channelsWithProgrammes": 195,
-   "programmes": 9548,
+   "programmes": 9608,
    "note": null
   },
   {
@@ -21,7 +21,7 @@
    "ok": true,
    "requestedChannels": 33,
    "channelsWithProgrammes": 18,
-   "programmes": 350,
+   "programmes": 359,
    "note": null
   },
   {
@@ -30,7 +30,7 @@
    "ok": true,
    "requestedChannels": 52,
    "channelsWithProgrammes": 52,
-   "programmes": 1731,
+   "programmes": 1664,
    "note": null
   },
   {
@@ -38,8 +38,8 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 35,
-   "channelsWithProgrammes": 26,
-   "programmes": 499,
+   "channelsWithProgrammes": 22,
+   "programmes": 450,
    "note": null
   },
   {
@@ -47,8 +47,8 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 130,
-   "channelsWithProgrammes": 126,
-   "programmes": 3502,
+   "channelsWithProgrammes": 125,
+   "programmes": 4468,
    "note": null
   },
   {
@@ -57,7 +57,7 @@
    "ok": true,
    "requestedChannels": 400,
    "channelsWithProgrammes": 387,
-   "programmes": 12518,
+   "programmes": 12218,
    "note": null
   },
   {
@@ -66,7 +66,7 @@
    "ok": true,
    "requestedChannels": -1,
    "channelsWithProgrammes": 336,
-   "programmes": 9620,
+   "programmes": 9553,
    "note": null
   },
   {
@@ -80,10 +80,10 @@
   }
  ],
  "dropped": {
-  "duplicates": 13024,
-  "outOfHorizon": 10140,
+  "duplicates": 13386,
+  "outOfHorizon": 11476,
   "invalidTimestamp": 0,
-  "unknownChannel": 48787,
+  "unknownChannel": 48994,
   "malformed": 0
  },
  "missingChannels": [
@@ -1396,6 +1396,12 @@
   {
    "tvgId": "CanalTaronjaOsonaiMoianes.es@SD",
    "name": "Canal Taronja Osona i Moianes",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "CanalTerrassa.es@SD",
+   "name": "Canal Terrassa",
    "countryGroup": "ES",
    "guideSites": []
   },
@@ -3714,12 +3720,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "Canal10.cr@SD",
-   "name": "Canal 10",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "Canal10.ni@SD",
    "name": "Canal 10",
    "countryGroup": "LATAM",
@@ -3788,6 +3788,12 @@
   {
    "tvgId": "Canal13LaRioja.ar@SD",
    "name": "Canal 13 La Rioja",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Canal17RTVD.do@HD",
+   "name": "Canal 17 RTVD",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -3906,6 +3912,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "Canal30Loncomilla.cl@SD",
+   "name": "Canal 30 Loncomilla",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "Canal30TVBethel.gt@SD",
    "name": "Canal 30 TV Bethel",
    "countryGroup": "LATAM",
@@ -4002,12 +4014,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "Canal56QuieroTV.bo@SD",
-   "name": "Canal 56 Quiero TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "Canal6Posadas.ar@SD",
    "name": "Canal 6 Posadas",
    "countryGroup": "LATAM",
@@ -4022,6 +4028,12 @@
   {
    "tvgId": "Canal7.gt@SD",
    "name": "Canal 7",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Canal7Neuquen.ar@SD",
+   "name": "Canal 7 Neuquen",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4092,14 +4104,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "Canal8VisionTV.py@SD",
-   "name": "Canal 8 Vision TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "Canal9Cosespu.co@SD",
-   "name": "Canal 9 Cosespu",
+   "tvgId": "Canal8TVPlus.co@SD",
+   "name": "Canal 8 TV+",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4128,8 +4134,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "CanalCalimaTV.co@SD",
-   "name": "Canal Calima TV",
+   "tvgId": "CanalCdelZulia.ve@HD",
+   "name": "Canal C del Zulia",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4148,6 +4154,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "CanalCHD.co@SD",
+   "name": "Canal CHD",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "CanalChilote.cl@SD",
    "name": "Canal Chilote",
    "countryGroup": "LATAM",
@@ -4156,6 +4168,12 @@
   {
    "tvgId": "CanalCineDios.co@SD",
    "name": "Canal Cine Dios",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "CanaldelCongreso451.mx@SD",
+   "name": "Canal del Congreso 45.1",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4284,14 +4302,20 @@
    "guideSites": []
   },
   {
+   "tvgId": "CanalProvincial.ar@SD",
+   "name": "Canal Provincial",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "CanalPulpoTV.ar@SD",
    "name": "Canal Pulpo TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
   {
-   "tvgId": "CanalPyC.co@SD",
-   "name": "Canal PyC",
+   "tvgId": "CanalSantaMaria.ar@SD",
+   "name": "Canal Santa Maria",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4356,12 +4380,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "Canalda26HD.do@HD",
-   "name": "Canalda 26 HD",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "CanangaTV.do@SD",
    "name": "Cananga TV",
    "countryGroup": "LATAM",
@@ -4386,20 +4404,14 @@
    "guideSites": []
   },
   {
-   "tvgId": "Capital21.mx@SD",
-   "name": "Capital 21",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "CaracolHD2.co@SD",
    "name": "Caracol HD2",
    "countryGroup": "LATAM",
    "guideSites": []
   },
   {
-   "tvgId": "CaracolaTV.cl@SD",
-   "name": "Caracola TV",
+   "tvgId": "CarasTV.ar@SD",
+   "name": "Caras TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4424,6 +4436,12 @@
   {
    "tvgId": "CasmaTV.pe@SD",
    "name": "Casma TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "CatamarcaTV.ar@SD",
+   "name": "Catamarca TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -10998,12 +11016,6 @@
    ]
   },
   {
-   "tvgId": "AhasaTV.lk@SD",
-   "name": "Ahasa TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "AhsanTV.id@SD",
    "name": "Ahsan TV",
    "countryGroup": "OTHER",
@@ -14284,6 +14296,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "CanThoTV2.vn@SD",
+   "name": "Can Tho TV 2",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "CanThoTV3.vn@SD",
    "name": "Can Tho TV 3",
    "countryGroup": "OTHER",
@@ -14337,6 +14355,20 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "programtv.onet.pl"
+   ]
+  },
+  {
+   "tvgId": "CanalPlusSport.fr@SD",
+   "name": "Canal+ Sport",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tvcesoir.fr"
    ]
   },
   {
@@ -14475,12 +14507,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "CapitalTVHD.np@HD",
-   "name": "Capital TV HD",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "Captain.in@SD",
    "name": "Captain",
    "countryGroup": "OTHER",
@@ -14565,6 +14591,15 @@
    "name": "Carousel",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "CarouselInternational.ru@SD",
+   "name": "Carousel International",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.blue.ch"
+   ]
   },
   {
    "tvgId": "CartoonClassics.ru@SD",
@@ -14753,6 +14788,12 @@
     "starhubtvplus.com",
     "wavve.com"
    ]
+  },
+  {
+   "tvgId": "CCTV6.cn@HD",
+   "name": "CCTV-6",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "CCTV7.cn@SD",
@@ -42472,12 +42513,6 @@
   {
    "tvgId": "CANTV19.us@SD",
    "name": "CAN TV19",
-   "countryGroup": "US",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CANTV21.us@SD",
-   "name": "CAN TV21",
    "countryGroup": "US",
    "guideSites": []
   },
