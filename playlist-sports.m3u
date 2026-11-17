@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="Band Sports" tvg-logo="https://i.imgur.com/EuPvzJe.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Esportes",Band Sports
 #EXTGRP:🇧🇷 Brasil • Esportes
 http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Esportes",CazeTV
-#EXTGRP:🇧🇷 Brasil • Esportes
-http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Esportes",ESPN
 #EXTGRP:🇧🇷 Brasil • Esportes
 http://181.78.197.59:8000/play/a07z/index.m3u8
@@ -47,6 +44,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar@SD" tvg-name="Canal Showsport" tvg-logo="https://i.imgur.com/0L9tW3Z.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Esportes",Canal Showsport
 #EXTGRP:🌎 América Latina • Esportes
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-name="CDN Deportes" tvg-logo="https://i.imgur.com/yU5LqTL.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Esportes",CDN Deportes
+#EXTGRP:🌎 América Latina • Esportes
+https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Esportes",Claro Sports
 #EXTGRP:🌎 América Latina • Esportes
 http://45.228.234.9:8000/play/a06i/index.m3u8
@@ -56,9 +56,6 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="CRTV.cl@SD" tvg-name="CRTV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Esportes",CRTV
 #EXTGRP:🌎 América Latina • Esportes
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-name="Deportes TVC" tvg-logo="https://i.imgur.com/Y1t8xkL.png" tvg-language="spa" tvg-country="HN" group-title="🌎 América Latina • Esportes",Deportes TVC
-#EXTGRP:🌎 América Latina • Esportes
-https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-name="DeporTV" tvg-logo="https://i.imgur.com/THk9ARS.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Esportes",DeporTV
 #EXTGRP:🌎 América Latina • Esportes
 http://158.172.155.130:8000/play/a09y/index.m3u8
@@ -719,12 +716,12 @@ http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="FastSports.am@SD" tvg-name="Fast Sports" tvg-logo="https://i.imgur.com/VmaYUcq.png" tvg-language="hye" tvg-country="AM" group-title="🏳️ Other Countries • Esportes",Fast Sports
-#EXTGRP:🏳️ Other Countries • Esportes
-http://s7.merlive.am/Fastsports/index.m3u8
 #EXTINF:-1 tvg-id="FONTV.ru@HD" tvg-name="FON TV" tvg-logo="https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",FON TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD" tvg-name="Formula 2 AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Formula 2 AntenaPlay
+#EXTGRP:🏳️ Other Countries • Esportes
+https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-name="Futbol" tvg-logo="https://i.imgur.com/RngmCDn.png" tvg-language="tgk" tvg-country="TJ" group-title="🏳️ Other Countries • Esportes",Futbol
 #EXTGRP:🏳️ Other Countries • Esportes
 http://185.121.1.163:8083/FootballHD/index.m3u8
@@ -833,6 +830,9 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-name="More Than Sports TV" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Esportes",More Than Sports TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD" tvg-name="NBA AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",NBA AntenaPlay
+#EXTGRP:🏳️ Other Countries • Esportes
+https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-name="Okko Futbol" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Okko Futbol
 #EXTGRP:🏳️ Other Countries • Esportes
 http://178.124.179.122:8080/Setanta1/index.m3u8
@@ -934,6 +934,9 @@ http://media1.skifnet.by/sporttv/index.m3u8
 #EXTINF:-1 tvg-id="Sport1.cz@HD" tvg-name="Sport1" tvg-logo="https://i.imgur.com/X5X3tKC.png" tvg-language="ces;slk" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",Sport1
 #EXTGRP:🏳️ Other Countries • Esportes
 http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.de@SD" tvg-name="Sport1" tvg-logo="https://i.imgur.com/Tsjt7v9.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Esportes",Sport1
+#EXTGRP:🏳️ Other Countries • Esportes
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz@HD" tvg-name="Sport2" tvg-logo="https://i.imgur.com/UxflVoU.png" tvg-language="ces;slk" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",Sport2
 #EXTGRP:🏳️ Other Countries • Esportes
 http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8

@@ -92,7 +92,7 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar@HD" tvg-name="Cosmos Tv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Notícias",Cosmos Tv
 #EXTGRP:🌎 América Latina • Notícias
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="AlternaTV" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Filmes",AlternaTV
 #EXTGRP:🌎 América Latina • Filmes
 https://tv.alterna.ar/stream/hls/live.m3u8
@@ -110,7 +110,7 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-name="CineLatino" tvg-logo="https://i.imgur.com/2V0R0xT.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Filmes",CineLatino
 #EXTGRP:🌎 América Latina • Filmes
-http://168.196.127.137:6001/play/a08o/index.m3u8
+http://200.115.96.61:9090/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="ClaroCinema.mx@SD" tvg-name="Claro Cinema" tvg-logo="https://i.imgur.com/SOLGQxQ.jpg" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Filmes",Claro Cinema
 #EXTGRP:🌎 América Latina • Filmes
 http://45.171.64.30:6060/play/a039/index.m3u8
@@ -174,12 +174,15 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTGRP:🌎 América Latina • Filmes
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.es@SD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="spa;eng" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN
+#EXTINF:-1 tvg-id="AXN.es@HD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN
 #EXTGRP:🇪🇸 España • Filmes
-http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-name="AXN Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN Movies
 #EXTGRP:🇪🇸 España • Filmes
 http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
+#EXTINF:-1 tvg-id="BomCine.es@SD" tvg-name="Bom Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Bom Cine
+#EXTGRP:🇪🇸 España • Filmes
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki" tvg-logo="https://i.imgur.com/b3Ospym.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Cine Friki
 #EXTGRP:🇪🇸 España • Filmes
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
@@ -219,6 +222,9 @@ https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="SensaCineTVxPluto.de@ES" tvg-name="SensaCine TV x Pluto" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",SensaCine TV x Pluto
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
+#EXTINF:-1 tvg-id="Squirrel.es@SD" tvg-name="Squirrel" tvg-logo="https://i.imgur.com/9y8VcBr.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Squirrel
+#EXTGRP:🇪🇸 España • Filmes
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.de@ES" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Star Trek: Voyager
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
@@ -624,10 +630,6 @@ http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="spa" group-title="🌐 International • Filmes",Star Channel Latin America
 #EXTGRP:🌐 International • Filmes
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1 tvg-id="AXNAdria.us@SD" tvg-name="AXN Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="eng" group-title="🌐 International • Filmes",AXN Adria
-#EXTGRP:🌐 International • Filmes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl@HD" tvg-name="FILMBOX+ Festival" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" tvg-language="eng" group-title="🌐 International • Filmes",FILMBOX+ Festival
 #EXTGRP:🌐 International • Filmes
 https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
@@ -806,6 +808,9 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="4everCinema.ua@SD" tvg-name="4ever Cinema" tvg-logo="https://i.imgur.com/vFOgVbG.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Filmes",4ever Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/258/index.m3u8
+#EXTINF:-1 tvg-id="Action.fr@SD" tvg-name="Action" tvg-logo="https://i.imgur.com/Zv9VsVq.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Filmes",Action
+#EXTGRP:🏳️ Other Countries • Filmes
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Action24.gr@SD" tvg-name="Action 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" tvg-language="ell" tvg-country="GR" group-title="🏳️ Other Countries • Filmes",Action 24
 #EXTGRP:🏳️ Other Countries • Filmes
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
@@ -958,7 +963,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4x
 https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD" tvg-name="Cinema" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
-http://flussonic.linkintel.ru/cinema/index.m3u8
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro@HD" tvg-name="Cinemaraton Plus" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Filmes",Cinemaraton Plus
 #EXTGRP:🏳️ Other Countries • Filmes
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
@@ -968,6 +973,9 @@ http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax2.cz@Czechia" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Filmes",Cinemax 2
 #EXTGRP:🏳️ Other Countries • Filmes
 http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="CineStar1Bulgaria.bg@SD" tvg-name="CineStar 1 Bulgaria" tvg-logo="https://i.imgur.com/t9vVTLH.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",CineStar 1 Bulgaria
+#EXTGRP:🏳️ Other Countries • Filmes
+http://213.91.179.28:8000/play/a05h
 #EXTINF:-1 tvg-id="CineStarActionBulgaria.bg@SD" tvg-name="CineStar Action Bulgaria" tvg-logo="https://i.imgur.com/bTf7A9J.png" tvg-language="bul" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",CineStar Action Bulgaria
 #EXTGRP:🏳️ Other Countries • Filmes
 http://213.91.179.28:8000/play/a06b
@@ -977,9 +985,6 @@ https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoAction.ru@HD" tvg-name="City Eden KinoAction" tvg-logo="https://i.imgur.com/uuzuvD0.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",City Eden KinoAction
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoArt.ru@HD" tvg-name="City Eden KinoArt" tvg-logo="https://i.imgur.com/67CWCtz.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",City Eden KinoArt
-#EXTGRP:🏳️ Other Countries • Filmes
-https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoAsia.ru@HD" tvg-name="City Eden KinoAsia" tvg-logo="https://i.imgur.com/gaket4B.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",City Eden KinoAsia
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cityeden.catcast.tv/content/34393/index.m3u8
@@ -1001,9 +1006,6 @@ https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD" tvg-name="City Eden KinoMistika" tvg-logo="https://i.imgur.com/s1Pid0K.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",City Eden KinoMistika
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" tvg-name="CND Film Middle School Channel" tvg-logo="https://i.imgur.com/4uG8HsQ.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",CND Film Middle School Channel
-#EXTGRP:🏳️ Other Countries • Filmes
-http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" tvg-name="Colors Bangla Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Colors Bangla Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8

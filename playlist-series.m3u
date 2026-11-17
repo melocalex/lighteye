@@ -108,6 +108,9 @@ https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Pluto TV Zombies
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-id="Squirrel.es@SD" tvg-name="Squirrel" tvg-logo="https://i.imgur.com/9y8VcBr.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Squirrel
+#EXTGRP:🇪🇸 España • Filmes
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.de@ES" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Star Trek: Voyager
 #EXTGRP:🇪🇸 España • Filmes
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
@@ -965,12 +968,12 @@ https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-name="City Eden KinoDok" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",City Eden KinoDok
 #EXTGRP:🏳️ Other Countries • Séries
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-name="City Eden TeleNovella" tvg-logo="https://i.imgur.com/mT5liTh.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",City Eden TeleNovella
-#EXTGRP:🏳️ Other Countries • Séries
-https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr@SD" tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Séries",CNBC-e
 #EXTGRP:🏳️ Other Countries • Séries
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr@SD" tvg-name="Crime District" tvg-logo="https://i.imgur.com/WQJ6Lbk.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Séries",Crime District
+#EXTGRP:🏳️ Other Countries • Séries
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CTVDlaCiebieTV.ee@SD" tvg-name="CTV Dla Ciebie TV" tvg-logo="https://ukrtvr.org/images/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B5/CTV%20-%20Dla%20Ciebie%20TV.png" tvg-language="ukr;pol" tvg-country="EE" group-title="🏳️ Other Countries • Séries",CTV Dla Ciebie TV
 #EXTGRP:🏳️ Other Countries • Séries
 http://90.183.52.46:4000/play/a065/index.m3u8

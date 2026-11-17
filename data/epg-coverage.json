@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-16T15:46:45.457Z",
+ "generatedAt": "2026-11-17T16:06:32.458Z",
  "horizonHours": 72,
- "channelsRequested": 7662,
- "channelsWithGuide": 937,
- "coveragePercent": 12.23,
- "programmes": 38320,
+ "channelsRequested": 7721,
+ "channelsWithGuide": 941,
+ "coveragePercent": 12.19,
+ "programmes": 37586,
  "sources": [
   {
    "id": "mi.tv",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 209,
-   "channelsWithProgrammes": 195,
-   "programmes": 9608,
+   "requestedChannels": 211,
+   "channelsWithProgrammes": 196,
+   "programmes": 9757,
    "note": null
   },
   {
@@ -20,8 +20,8 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 33,
-   "channelsWithProgrammes": 18,
-   "programmes": 359,
+   "channelsWithProgrammes": 20,
+   "programmes": 334,
    "note": null
   },
   {
@@ -30,25 +30,25 @@
    "ok": true,
    "requestedChannels": 52,
    "channelsWithProgrammes": 52,
-   "programmes": 1664,
+   "programmes": 1684,
    "note": null
   },
   {
    "id": "nostv.pt",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 35,
-   "channelsWithProgrammes": 22,
-   "programmes": 450,
+   "requestedChannels": 37,
+   "channelsWithProgrammes": 21,
+   "programmes": 473,
    "note": null
   },
   {
    "id": "gatotv.com",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 130,
-   "channelsWithProgrammes": 125,
-   "programmes": 4468,
+   "requestedChannels": 131,
+   "channelsWithProgrammes": 111,
+   "programmes": 3679,
    "note": null
   },
   {
@@ -57,7 +57,7 @@
    "ok": true,
    "requestedChannels": 400,
    "channelsWithProgrammes": 387,
-   "programmes": 12218,
+   "programmes": 12302,
    "note": null
   },
   {
@@ -65,8 +65,8 @@
    "kind": "published",
    "ok": true,
    "requestedChannels": -1,
-   "channelsWithProgrammes": 336,
-   "programmes": 9553,
+   "channelsWithProgrammes": 337,
+   "programmes": 9357,
    "note": null
   },
   {
@@ -80,10 +80,10 @@
   }
  ],
  "dropped": {
-  "duplicates": 13386,
-  "outOfHorizon": 11476,
+  "duplicates": 14614,
+  "outOfHorizon": 12042,
   "invalidTimestamp": 0,
-  "unknownChannel": 48994,
+  "unknownChannel": 49009,
   "malformed": 0
  },
  "missingChannels": [
@@ -231,12 +231,6 @@
   {
    "tvgId": "Catve2.br@SD",
    "name": "Catve2",
-   "countryGroup": "BR",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CazeTV.br@SD",
-   "name": "CazeTV",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -857,6 +851,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TVArapuan.br@SD",
+   "name": "TV Arapuan",
+   "countryGroup": "BR",
+   "guideSites": []
+  },
+  {
    "tvgId": "TVBrasilOeste.br@SD",
    "name": "TV Brasil Oeste",
    "countryGroup": "BR",
@@ -1013,8 +1013,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "TVSimSaoMateus.br@SD",
-   "name": "TV Sim Sao Mateus",
+   "tvgId": "TVSulBahia.br@SD",
+   "name": "TV Sul Bahia",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -1228,6 +1228,12 @@
    ]
   },
   {
+   "tvgId": "AXN.es@HD",
+   "name": "AXN",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
    "tvgId": "AXNCEE.es@Bulgary",
    "name": "AXN CEE",
    "countryGroup": "ES",
@@ -1275,6 +1281,14 @@
     "movistarplus.es",
     "orangetv.orange.es",
     "programacion-tv.elpais.com"
+   ]
+  },
+  {
+   "tvgId": "BomCine.es@SD",
+   "name": "Bom Cine",
+   "countryGroup": "ES",
+   "guideSites": [
+    "tv.blue.ch"
    ]
   },
   {
@@ -1432,12 +1446,6 @@
    ]
   },
   {
-   "tvgId": "CiudadesdelOcioTV.es@SD",
-   "name": "Ciudades del Ocio TV",
-   "countryGroup": "ES",
-   "guideSites": []
-  },
-  {
    "tvgId": "ClanInternacional.es@SD",
    "name": "Clan Internacional",
    "countryGroup": "ES",
@@ -1448,6 +1456,12 @@
   {
    "tvgId": "CMMTV.es@HD",
    "name": "CMM TV",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "CostaNoroesteTV.es@SD",
+   "name": "Costa Noroeste TV",
    "countryGroup": "ES",
    "guideSites": []
   },
@@ -1788,6 +1802,12 @@
    ]
   },
   {
+   "tvgId": "Nickelodeon.es@HD",
+   "name": "Nickelodeon",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
    "tvgId": "Nortevision.es@SD",
    "name": "Nortevision",
    "countryGroup": "ES",
@@ -1989,6 +2009,14 @@
    "name": "SpektraTV",
    "countryGroup": "ES",
    "guideSites": []
+  },
+  {
+   "tvgId": "Squirrel.es@SD",
+   "name": "Squirrel",
+   "countryGroup": "ES",
+   "guideSites": [
+    "movistarplus.es"
+   ]
   },
   {
    "tvgId": "StarTrekVoyager.de@ES",
@@ -2301,14 +2329,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "AXNAdria.us@SD",
-   "name": "AXN Adria",
-   "countryGroup": "INT",
-   "guideSites": [
-    "tvprofil.com"
-   ]
-  },
-  {
    "tvgId": "AXNBlack.de@SD",
    "name": "AXN Black",
    "countryGroup": "INT",
@@ -2348,22 +2368,6 @@
     "teleboy.ch",
     "tv.blue.ch",
     "web.magentatv.de"
-   ]
-  },
-  {
-   "tvgId": "ComedyCentral.fr@SD",
-   "name": "Comedy Central",
-   "countryGroup": "INT",
-   "guideSites": [
-    "canalplus.com",
-    "chaines-tv.orange.fr",
-    "guidetnt.com",
-    "pickx.be",
-    "programme-tv.net",
-    "tv-programme.telecablesat.fr",
-    "tv.blue.ch",
-    "tv.sfr.fr",
-    "tvcesoir.fr"
    ]
   },
   {
@@ -2578,6 +2582,17 @@
    "guideSites": []
   },
   {
+   "tvgId": "MotorvisionPlus.de@SD",
+   "name": "Motorvision+",
+   "countryGroup": "INT",
+   "guideSites": [
+    "neo.io",
+    "osn.com",
+    "sky.com",
+    "teleboy.ch"
+   ]
+  },
+  {
    "tvgId": "MTV.fr@SD",
    "name": "MTV",
    "countryGroup": "INT",
@@ -2757,8 +2772,28 @@
    "guideSites": []
   },
   {
+   "tvgId": "RTL9.lu@SD",
+   "name": "RTL9",
+   "countryGroup": "INT",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.sfr.fr"
+   ]
+  },
+  {
    "tvgId": "SabrinaTotalverhext.de@DACH",
    "name": "Sabrina: Total verhext!",
+   "countryGroup": "INT",
+   "guideSites": []
+  },
+  {
+   "tvgId": "SmashRadioTT.tt@HD",
+   "name": "Smash Radio TT",
    "countryGroup": "INT",
    "guideSites": []
   },
@@ -2891,6 +2926,24 @@
    "guideSites": []
   },
   {
+   "tvgId": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD",
+   "name": "TV5Monde France Belgium Switzerland Monaco",
+   "countryGroup": "INT",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "teleboy.ch",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr"
+   ]
+  },
+  {
    "tvgId": "UNWebTV.us@SD",
    "name": "UN Web TV",
    "countryGroup": "INT",
@@ -3018,6 +3071,12 @@
   {
    "tvgId": "ARCanal.pa@SD",
    "name": "A&R Canal",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "A24Paraguay.py@SD",
+   "name": "A24 Paraguay",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -3234,6 +3293,12 @@
   {
    "tvgId": "AmericaInternacional.pe@SD",
    "name": "America Internacional",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "AmericaParaguay.py@SD",
+   "name": "America Paraguay",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -3504,6 +3569,12 @@
   {
    "tvgId": "BeatsRadio.ar@SD",
    "name": "Beats Radio",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BebetoTV.do@SD",
+   "name": "Bebeto TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4458,8 +4529,20 @@
    "guideSites": []
   },
   {
+   "tvgId": "CEACOMTV.bo@SD",
+   "name": "CEACOM TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "CeltaTV.ar@SD",
    "name": "Celta TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "CenovisionHD.do@HD",
+   "name": "Cenovision HD",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4472,12 +4555,6 @@
   {
    "tvgId": "ChamameTV.ar@SD",
    "name": "Chamame TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CharapaTV.pe@SD",
-   "name": "Charapa TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4530,12 +4607,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "CibaenaTV.do@SD",
-   "name": "Cibaena TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "CieloTV.do@SD",
    "name": "Cielo TV",
    "countryGroup": "LATAM",
@@ -4556,12 +4627,6 @@
   {
    "tvgId": "CitricoTV.do@SD",
    "name": "Citrico TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CiudadMagica.ar@SD",
-   "name": "Ciudad Magica",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4602,12 +4667,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "ClaroVisionTV.do@SD",
-   "name": "Claro Vision TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "ClubTV.cl@SD",
    "name": "Club TV",
    "countryGroup": "LATAM",
@@ -4616,6 +4675,12 @@
   {
    "tvgId": "CMBTelevision.co@SD",
    "name": "CMB Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "CNCBugavision.co@SD",
+   "name": "CNC Bugavision",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4634,12 +4699,6 @@
   {
    "tvgId": "CNCSantanderdeQuilichao.co@SD",
    "name": "CNC Santander de Quilichao",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CNCValledupar.co@SD",
-   "name": "CNC Valledupar",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4760,6 +4819,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "CorrientesTV.ar@SD",
+   "name": "Corrientes TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "CosmosTv.ar@HD",
    "name": "Cosmos Tv",
    "countryGroup": "LATAM",
@@ -4804,6 +4869,12 @@
   {
    "tvgId": "CreaLaTV.mx@SD",
    "name": "CreaLaTV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "CristoVisionCanal31.cr@SD",
+   "name": "Cristo Vision Canal 31",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4923,12 +4994,6 @@
   {
    "tvgId": "DeltaTV.pe@SD",
    "name": "DeltaTV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "DeportesTVC.hn@SD",
-   "name": "Deportes TVC",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5541,6 +5606,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "GuaymateTV.do@SD",
+   "name": "Guaymate TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "GVision.cl@SD",
    "name": "GVision",
    "countryGroup": "LATAM",
@@ -5591,6 +5662,12 @@
   {
    "tvgId": "HTV.us@Argentina",
    "name": "HTV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "HTVLive.do@SD",
+   "name": "HTV Live",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -8345,6 +8422,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TelenewsTV.do@SD",
+   "name": "Telenews TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "Telenord10.do@SD",
    "name": "Telenord 10",
    "countryGroup": "LATAM",
@@ -8769,6 +8852,12 @@
   {
    "tvgId": "TVCanal72.ar@SD",
    "name": "TV Canal 72",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVCanalSur.do@SD",
+   "name": "TV Canal Sur",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -9504,6 +9593,12 @@
   {
    "tvgId": "VideoTourChannel.cr@SD",
    "name": "Video Tour Channel",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "VillaAltagraciaTV.do@SD",
+   "name": "Villa Altagracia TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -10662,6 +10757,22 @@
    ]
   },
   {
+   "tvgId": "AB1.fr@SD",
+   "name": "AB1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "AbadanTV.ir@SD",
    "name": "Abadan TV",
    "countryGroup": "OTHER",
@@ -10831,6 +10942,24 @@
    "name": "ACNN",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "Action.fr@SD",
+   "name": "Action",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
   },
   {
    "tvgId": "Action24.gr@SD",
@@ -11783,12 +11912,6 @@
    ]
   },
   {
-   "tvgId": "AMNTV.in@SD",
-   "name": "AMN TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "AmouYazidTV.dz@SD",
    "name": "Amou Yazid TV",
    "countryGroup": "OTHER",
@@ -11937,6 +12060,25 @@
    "name": "Animal Planet",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "Animaux.fr@SD",
+   "name": "Animaux",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.mail.ru",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
   },
   {
    "tvgId": "AnimaxAsia.sg@India",
@@ -12734,6 +12876,24 @@
     "epg.iptvx.one",
     "tv.mail.ru",
     "tv.sfr.fr"
+   ]
+  },
+  {
+   "tvgId": "Automotolachaine.fr@SD",
+   "name": "Automoto la chaine",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
    ]
   },
   {
@@ -13546,6 +13706,12 @@
   {
    "tvgId": "BihorTV.ro@SD",
    "name": "Bihor TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BikeChannel.it@HD",
+   "name": "Bike Channel",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -14608,6 +14774,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "CartoonNetwork.jp@HD",
+   "name": "Cartoon Network",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "CartoonNetwork.pk@SD",
    "name": "Cartoon Network",
    "countryGroup": "OTHER",
@@ -14896,6 +15068,12 @@
    ]
   },
   {
+   "tvgId": "CCTVPlus1.cn@SD",
+   "name": "CCTV+ 1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "CCTVPlus2.cn@SD",
    "name": "CCTV+ 2",
    "countryGroup": "OTHER",
@@ -15005,12 +15183,6 @@
   {
    "tvgId": "ChampionTV.ci@SD",
    "name": "Champion TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ChandelTV.tg@SD",
-   "name": "Chandel TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -15181,6 +15353,21 @@
    "guideSites": []
   },
   {
+   "tvgId": "ChannelOneCIS.ru@SD",
+   "name": "Channel One CIS",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ChannelOneEurasia.kz@SD",
+   "name": "Channel One Eurasia",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one",
+    "galamtv.kz"
+   ]
+  },
+  {
    "tvgId": "ChannelWIN.in@SD",
    "name": "Channel WIN",
    "countryGroup": "OTHER",
@@ -15192,12 +15379,6 @@
   {
    "tvgId": "Channel16.ru@SD",
    "name": "Channel-16",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ChaozhouPublicChannel.cn@SD",
-   "name": "Chaozhou Public Channel",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -15248,6 +15429,22 @@
    "guideSites": []
   },
   {
+   "tvgId": "ChassePeche.fr@SD",
+   "name": "Chasse & Peche",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "mon-programme-tv.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "Che.ru@SD",
    "name": "Che!",
    "countryGroup": "OTHER",
@@ -15270,12 +15467,6 @@
   {
    "tvgId": "Chefiro.ro@HD",
    "name": "Chefi.ro",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CheksizTV.uz@SD",
-   "name": "Cheksiz TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -15430,6 +15621,12 @@
    ]
   },
   {
+   "tvgId": "CineStar1Bulgaria.bg@SD",
+   "name": "CineStar 1 Bulgaria",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "CineStarActionBulgaria.bg@SD",
    "name": "CineStar Action Bulgaria",
    "countryGroup": "OTHER",
@@ -15462,20 +15659,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "CityEdenClassicMusic.ru@HD",
-   "name": "City Eden Classic Music",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "CityEdenKinoAction.ru@HD",
    "name": "City Eden KinoAction",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CityEdenKinoArt.ru@HD",
-   "name": "City Eden KinoArt",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -15546,14 +15731,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "CityEdenSirtakiTV.ru@HD",
-   "name": "City Eden Sirtaki TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "CityEdenTeleNovella.ru@HD",
-   "name": "City Eden TeleNovella",
+   "tvgId": "CityEdenTV.ru@HD",
+   "name": "City Eden TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -15653,12 +15832,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "CLTV36.ph@SD",
-   "name": "CLTV 36",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "CMCTV.hr@SD",
    "name": "CMC TV",
    "countryGroup": "OTHER",
@@ -15718,6 +15891,12 @@
    ]
   },
   {
+   "tvgId": "CNBCAsia.sg@HD",
+   "name": "CNBC Asia",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "CNBCAwaaz.in@SD",
    "name": "CNBC Awaaz",
    "countryGroup": "OTHER",
@@ -15735,6 +15914,15 @@
     "airtelxstream.in",
     "dishtv.in",
     "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "CNBCIndonesia.id@SD",
+   "name": "CNBC Indonesia",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "cubmu.com",
+    "maxstream.tv"
    ]
   },
   {
@@ -15771,26 +15959,10 @@
    ]
   },
   {
-   "tvgId": "CNDFilmMiddleSchoolChannel.cn@SD",
-   "name": "CND Film Middle School Channel",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "CNEWSPRIME.fr@HD",
    "name": "CNEWS PRIME",
    "countryGroup": "OTHER",
    "guideSites": []
-  },
-  {
-   "tvgId": "CNNIndonesia.id@SD",
-   "name": "CNN Indonesia",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "cubmu.com",
-    "maxstream.tv",
-    "tivie.id"
-   ]
   },
   {
    "tvgId": "CNNNews18.in@SD",
@@ -15823,22 +15995,6 @@
     "tv.blue.ch",
     "tvplus.com.tr",
     "tvprofil.com"
-   ]
-  },
-  {
-   "tvgId": "CodeFashionTV.bg@SD",
-   "name": "Code Fashion TV",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "tv.dir.bg"
-   ]
-  },
-  {
-   "tvgId": "CodeHealthTV.bg@SD",
-   "name": "Code Health TV",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "tv.dir.bg"
    ]
   },
   {
@@ -15988,6 +16144,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "ComedyCentral.fr@HD",
+   "name": "Comedy Central",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "ComedyCentral.it@SD",
    "name": "Comedy Central",
    "countryGroup": "OTHER",
@@ -16037,6 +16199,12 @@
    ]
   },
   {
+   "tvgId": "CoolChannel.th@SD",
+   "name": "Cool Channel",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "CoolFM989.aw@SD",
    "name": "Cool FM 98.9",
    "countryGroup": "OTHER",
@@ -16059,6 +16227,14 @@
    "name": "Coza TV",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "CP24.ca@SD",
+   "name": "CP24",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tvpassport.com"
+   ]
   },
   {
    "tvgId": "CrazyExGirlfriend.se@DK",
@@ -16090,6 +16266,22 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "programtv.onet.pl"
+   ]
+  },
+  {
+   "tvgId": "CrimeDistrict.fr@SD",
+   "name": "Crime District",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
    ]
   },
   {
@@ -17236,6 +17428,15 @@
    ]
   },
   {
+   "tvgId": "DisneyChannel.jp@SD",
+   "name": "Disney Channel",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "skyperfectv.co.jp",
+    "tvguide.myjcom.jp"
+   ]
+  },
+  {
    "tvgId": "DisneyChannel.nl@SD",
    "name": "Disney Channel",
    "countryGroup": "OTHER",
@@ -17874,6 +18075,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "EBCLifelongLearning.kh@SD",
+   "name": "EBC Lifelong Learning",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "EBS1TV.kr@SD",
    "name": "EBS 1TV",
    "countryGroup": "OTHER",
@@ -18316,6 +18523,12 @@
   {
    "tvgId": "EsperiaTV.it@SD",
    "name": "Esperia TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "EspoirTV.cd@SD",
+   "name": "Espoir TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -18832,12 +19045,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "FastSports.am@SD",
-   "name": "Fast Sports",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "FastFunBox.nl@SD",
    "name": "Fast&FunBox",
    "countryGroup": "OTHER",
@@ -19247,6 +19454,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "Formula2AntenaPlay.ro@SD",
+   "name": "Formula 2 AntenaPlay",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "Forsidefruer.se@DK",
    "name": "Forsidefruer",
    "countryGroup": "OTHER",
@@ -19365,6 +19578,12 @@
   {
    "tvgId": "FS1Salzburg.at@SD",
    "name": "FS1 Salzburg",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "FujiTV.jp@JOCXDTV",
+   "name": "Fuji TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -20410,6 +20629,25 @@
    "guideSites": []
   },
   {
+   "tvgId": "HistoireTV.fr@SD",
+   "name": "Histoire TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr",
+    "zap.co.ao"
+   ]
+  },
+  {
    "tvgId": "History.bg@SD",
    "name": "History",
    "countryGroup": "OTHER",
@@ -21265,6 +21503,12 @@
   {
    "tvgId": "InformatiaTV.ro@SD",
    "name": "Informatia TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "InformerTV.rs@SD",
+   "name": "Informer TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -23958,6 +24202,21 @@
    ]
   },
   {
+   "tvgId": "M6Music.fr@SD",
+   "name": "M6 Music",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "mon-programme-tv.be",
+    "programme-tv.net",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "M9TVRomania.ro@SD",
    "name": "M9TV Romania",
    "countryGroup": "OTHER",
@@ -24271,6 +24530,23 @@
    "guideSites": []
   },
   {
+   "tvgId": "Mangas.fr@SD",
+   "name": "Mangas",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "Mango.in@SD",
    "name": "Mango",
    "countryGroup": "OTHER",
@@ -24371,6 +24647,12 @@
   {
    "tvgId": "MarkizaPlus1.sk@SD",
    "name": "Markiza +1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "MarkizaTNLive.sk@SD",
+   "name": "Markiza TN Live",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -24903,6 +25185,23 @@
    "name": "Mekameleen TV",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "Melody.fr@SD",
+   "name": "Melody",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
   },
   {
    "tvgId": "MelodyFM.jo@SD",
@@ -25620,6 +25919,15 @@
    ]
   },
   {
+   "tvgId": "MTV.jp@SD",
+   "name": "MTV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "skyperfectv.co.jp",
+    "tvguide.myjcom.jp"
+   ]
+  },
+  {
    "tvgId": "MTVCatfish.se@DK",
    "name": "MTV Catfish",
    "countryGroup": "OTHER",
@@ -26239,6 +26547,12 @@
   {
    "tvgId": "NaxatraNewsHindi.in@SD",
    "name": "Naxatra News Hindi",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "NBAAntenaPlay.ro@SD",
+   "name": "NBA AntenaPlay",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -27326,6 +27640,14 @@
    "name": "Novorossiya TV",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "NovosadskaTV.rs@SD",
+   "name": "Novosadska TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tvprofil.com"
+   ]
   },
   {
    "tvgId": "NovyiChannel.ua@SD",
@@ -28578,6 +28900,19 @@
    "name": "Pardesi TV",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "ParisPremiere.fr@SD",
+   "name": "Paris Premiere",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
   },
   {
    "tvgId": "Parlamentsfernsehen1.de@SD",
@@ -30425,6 +30760,16 @@
    ]
   },
   {
+   "tvgId": "Rai1.it@HD",
+   "name": "Rai 1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "guidatv.sky.it",
+    "pickx.be",
+    "sky.com"
+   ]
+  },
+  {
    "tvgId": "Rai2.it@HD",
    "name": "Rai 2",
    "countryGroup": "OTHER",
@@ -31657,6 +32002,20 @@
    "guideSites": []
   },
   {
+   "tvgId": "RTS1.ch@SD",
+   "name": "RTS 1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "mon-programme-tv.be",
+    "programme-tv.net",
+    "programtv.onet.pl",
+    "rts.ch",
+    "teleboy.ch",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch"
+   ]
+  },
+  {
    "tvgId": "RTS2.rs@SD",
    "name": "RTS 2",
    "countryGroup": "OTHER",
@@ -32675,6 +33034,22 @@
    ]
   },
   {
+   "tvgId": "ScienceVieTV.fr@SD",
+   "name": "Science & Vie TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "SciFi.fr@HD",
    "name": "SciFi",
    "countryGroup": "OTHER",
@@ -32810,6 +33185,19 @@
    "name": "Sercem TV",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "SerieClub.fr@SD",
+   "name": "Serie Club",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
   },
   {
    "tvgId": "SerieMax.ci@SD",
@@ -33967,6 +34355,23 @@
    "guideSites": []
   },
   {
+   "tvgId": "Sport1.de@SD",
+   "name": "Sport1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "programtv.onet.pl",
+    "sky.com",
+    "teleboy.ch",
+    "tv.blue.ch",
+    "tv.magenta.at",
+    "tv.post.lu",
+    "tv2go.t-2.net",
+    "tvheute.at",
+    "tvprofil.com",
+    "web.magentatv.de"
+   ]
+  },
+  {
    "tvgId": "Sport2.cz@HD",
    "name": "Sport2",
    "countryGroup": "OTHER",
@@ -34014,6 +34419,15 @@
    "name": "SRC TV",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "SRFinfo.ch@SD",
+   "name": "SRF info",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "teleboy.ch",
+    "tv.blue.ch"
+   ]
   },
   {
    "tvgId": "SriwijayaTV.id@SD",
@@ -35701,6 +36115,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TelevizijaE.me@HD",
+   "name": "Televizija E",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "TelewizjaBiznesowa.pl@SD",
    "name": "Telewizja Biznesowa",
    "countryGroup": "OTHER",
@@ -35783,10 +36203,42 @@
    "guideSites": []
   },
   {
+   "tvgId": "Teva.fr@SD",
+   "name": "Teva",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "TezaurTV.md@SD",
    "name": "Tezaur TV",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "TF1.fr@SD",
+   "name": "TF1",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "m.tv.sms.cz",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "teleboy.ch",
+    "tv-programme.telecablesat.fr",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
   },
   {
    "tvgId": "TF1SeriesFilms.fr@SD",
@@ -36426,6 +36878,23 @@
    "guideSites": []
   },
   {
+   "tvgId": "ToutelHistoire.fr@SD",
+   "name": "Toute l'Histoire",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "TownTV.kh@SD",
    "name": "Town TV",
    "countryGroup": "OTHER",
@@ -37028,6 +37497,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TVAsahi.jp@JOEXDTV",
+   "name": "TV Asahi",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "TVASTA.pl@SD",
    "name": "TV ASTA",
    "countryGroup": "OTHER",
@@ -37043,6 +37518,24 @@
     "horizon.tv",
     "m.tv.sms.cz",
     "mujtvprogram.cz"
+   ]
+  },
+  {
+   "tvgId": "TVBreizh.fr@SD",
+   "name": "TV Breizh",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "telenet.tv",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
    ]
   },
   {
@@ -37233,6 +37726,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TVKragujevac.rs@SD",
+   "name": "TV Kragujevac",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "TVKujawy.pl@SD",
    "name": "TV Kujawy",
    "countryGroup": "OTHER",
@@ -37304,7 +37803,7 @@
    "guideSites": []
   },
   {
-   "tvgId": "TVNiksic.me@SD",
+   "tvgId": "TVNiksic.me@HD",
    "name": "TV Niksic",
    "countryGroup": "OTHER",
    "guideSites": []
@@ -37526,6 +38025,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TVSmederevo.rs@SD",
+   "name": "TV Smederevo",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "TVSpravedlivaBulgariya.bg@SD",
    "name": "TV Spravedliva Bulgariya",
    "countryGroup": "OTHER",
@@ -37546,7 +38051,7 @@
    "guideSites": []
   },
   {
-   "tvgId": "TVTeuta.me@SD",
+   "tvgId": "TVTeuta.me@HD",
    "name": "TV Teuta",
    "countryGroup": "OTHER",
    "guideSites": []
@@ -38112,17 +38617,10 @@
    "guideSites": []
   },
   {
-   "tvgId": "TVCGMNE.me@SD",
+   "tvgId": "TVCGMNE.me@HD",
    "name": "TVCG MNE",
    "countryGroup": "OTHER",
-   "guideSites": [
-    "m.tv.sms.cz",
-    "tv.blue.ch",
-    "tv.magenta.at",
-    "tv24.se",
-    "tv2go.t-2.net",
-    "tvprofil.com"
-   ]
+   "guideSites": []
   },
   {
    "tvgId": "Tviyserial.ua@SD",
@@ -38168,6 +38666,16 @@
    "name": "TVMarineret",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "TVN.pl@SD",
+   "name": "TVN",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "m.tv.sms.cz",
+    "programtv.onet.pl",
+    "tvprofil.com"
+   ]
   },
   {
    "tvgId": "TvoeTV.ru@SD",
@@ -38527,6 +39035,24 @@
    ]
   },
   {
+   "tvgId": "UshuaiaTV.fr@SD",
+   "name": "Ushuaia TV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "mon-programme-tv.be",
+    "pickx.be",
+    "programme-tv.net",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.sfr.fr",
+    "tvcesoir.fr",
+    "zap.co.ao"
+   ]
+  },
+  {
    "tvgId": "USMTV.id@SD",
    "name": "USM TV",
    "countryGroup": "OTHER",
@@ -38685,6 +39211,14 @@
    "name": "Vati Lao",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "VaticanMedia.va@SD",
+   "name": "Vatican Media",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sky.com"
+   ]
   },
   {
    "tvgId": "VavTV.tr@SD",
@@ -39391,6 +39925,22 @@
    ]
   },
   {
+   "tvgId": "W9.fr@SD",
+   "name": "W9",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "guidetnt.com",
+    "programme-tv.net",
+    "teleboy.ch",
+    "tv-programme.telecablesat.fr",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "WaarTV.iq@SD",
    "name": "Waar TV",
    "countryGroup": "OTHER",
@@ -39941,6 +40491,32 @@
    "name": "ZB Music",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "ZDF.de@HD",
+   "name": "ZDF",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "pickx.be",
+    "sky.com",
+    "tv.magenta.at"
+   ]
+  },
+  {
+   "tvgId": "ZDFinfo.de@SD",
+   "name": "ZDFinfo",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "m.tv.sms.cz",
+    "programetv.ro",
+    "programtv.onet.pl",
+    "sky.com",
+    "teleboy.ch",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tvheute.at",
+    "web.magentatv.de"
+   ]
   },
   {
    "tvgId": "ZdorovoeTV.ru@SD",
@@ -40649,16 +41225,57 @@
    "guideSites": []
   },
   {
+   "tvgId": "BBCFour.uk@UK",
+   "name": "BBC Four",
+   "countryGroup": "UK",
+   "guideSites": [
+    "entertainment.ie",
+    "freeview.co.uk",
+    "m.tv.sms.cz",
+    "mytelly.co.uk",
+    "player.ee.co.uk",
+    "programme-tv.net",
+    "teleboy.ch",
+    "tv.blue.ch",
+    "tv24.co.uk",
+    "tvireland.ie",
+    "webtv.delta.nl"
+   ]
+  },
+  {
    "tvgId": "BBCNewsPashto.uk@HD",
    "name": "BBC News Pashto",
    "countryGroup": "UK",
    "guideSites": []
   },
   {
+   "tvgId": "BBCOne.uk@ChannelIslands",
+   "name": "BBC One",
+   "countryGroup": "UK",
+   "guideSites": [
+    "freeview.co.uk",
+    "mytelly.co.uk"
+   ]
+  },
+  {
    "tvgId": "BBCPersian.uk@SD",
    "name": "BBC Persian",
    "countryGroup": "UK",
    "guideSites": []
+  },
+  {
+   "tvgId": "BBCTwo.uk@HD",
+   "name": "BBC Two",
+   "countryGroup": "UK",
+   "guideSites": [
+    "freeview.co.uk",
+    "mytelly.co.uk",
+    "pickx.be",
+    "player.ee.co.uk",
+    "sky.com",
+    "tvgids.nl",
+    "virgintvgo.virginmedia.com"
+   ]
   },
   {
    "tvgId": "BritAsiaTV.uk@HD",
@@ -40689,6 +41306,21 @@
    "name": "Cartoonito CEE",
    "countryGroup": "UK",
    "guideSites": []
+  },
+  {
+   "tvgId": "Channel4.uk@UK",
+   "name": "Channel 4",
+   "countryGroup": "UK",
+   "guideSites": [
+    "entertainment.ie",
+    "freeview.co.uk",
+    "mytelly.co.uk",
+    "player.ee.co.uk",
+    "teleboy.ch",
+    "tv.blue.ch",
+    "tv24.co.uk",
+    "tvireland.ie"
+   ]
   },
   {
    "tvgId": "CNBCUK.uk@SD",
@@ -41626,12 +42258,6 @@
   {
    "tvgId": "90sKidsTV2.us@SD",
    "name": "90s Kids TV 2",
-   "countryGroup": "US",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ABC.us@KAAL",
-   "name": "ABC",
    "countryGroup": "US",
    "guideSites": []
   },
