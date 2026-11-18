@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-17T16:06:32.458Z",
+ "generatedAt": "2026-11-18T15:44:30.870Z",
  "horizonHours": 72,
- "channelsRequested": 7721,
- "channelsWithGuide": 941,
- "coveragePercent": 12.19,
- "programmes": 37586,
+ "channelsRequested": 7719,
+ "channelsWithGuide": 944,
+ "coveragePercent": 12.23,
+ "programmes": 37829,
  "sources": [
   {
    "id": "mi.tv",
@@ -12,7 +12,7 @@
    "ok": true,
    "requestedChannels": 211,
    "channelsWithProgrammes": 196,
-   "programmes": 9757,
+   "programmes": 9855,
    "note": null
   },
   {
@@ -20,26 +20,26 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 33,
-   "channelsWithProgrammes": 20,
-   "programmes": 334,
+   "channelsWithProgrammes": 19,
+   "programmes": 280,
    "note": null
   },
   {
    "id": "meo.pt",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 52,
-   "channelsWithProgrammes": 52,
-   "programmes": 1684,
+   "requestedChannels": 53,
+   "channelsWithProgrammes": 53,
+   "programmes": 1754,
    "note": null
   },
   {
    "id": "nostv.pt",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 37,
-   "channelsWithProgrammes": 21,
-   "programmes": 473,
+   "requestedChannels": 38,
+   "channelsWithProgrammes": 22,
+   "programmes": 481,
    "note": null
   },
   {
@@ -48,7 +48,7 @@
    "ok": true,
    "requestedChannels": 131,
    "channelsWithProgrammes": 111,
-   "programmes": 3679,
+   "programmes": 3650,
    "note": null
   },
   {
@@ -57,7 +57,7 @@
    "ok": true,
    "requestedChannels": 400,
    "channelsWithProgrammes": 387,
-   "programmes": 12302,
+   "programmes": 12325,
    "note": null
   },
   {
@@ -65,8 +65,8 @@
    "kind": "published",
    "ok": true,
    "requestedChannels": -1,
-   "channelsWithProgrammes": 337,
-   "programmes": 9357,
+   "channelsWithProgrammes": 338,
+   "programmes": 9484,
    "note": null
   },
   {
@@ -80,10 +80,10 @@
   }
  ],
  "dropped": {
-  "duplicates": 14614,
-  "outOfHorizon": 12042,
+  "duplicates": 14892,
+  "outOfHorizon": 11863,
   "invalidTimestamp": 0,
-  "unknownChannel": 49009,
+  "unknownChannel": 49544,
   "malformed": 0
  },
  "missingChannels": [
@@ -2377,6 +2377,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "DGTV.au@HD",
+   "name": "DG:TV",
+   "countryGroup": "INT",
+   "guideSites": []
+  },
+  {
    "tvgId": "DiscoveryChannelLatinAmerica.us@Panregional",
    "name": "Discovery Channel Latin America",
    "countryGroup": "INT",
@@ -2443,32 +2449,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "ElyssaTV.tn@HD",
-   "name": "Elyssa TV",
-   "countryGroup": "INT",
-   "guideSites": []
-  },
-  {
    "tvgId": "EnergiaTV.bq@SD",
    "name": "Energia TV",
-   "countryGroup": "INT",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ESPN5LatinAmerica.us@South",
-   "name": "ESPN 5 Latin America",
-   "countryGroup": "INT",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ESPN6LatinAmerica.us@SD",
-   "name": "ESPN 6 Latin America",
-   "countryGroup": "INT",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ESPN7LatinAmerica.us@SD",
-   "name": "ESPN 7 Latin America",
    "countryGroup": "INT",
    "guideSites": []
   },
@@ -4912,6 +4894,12 @@
    ]
   },
   {
+   "tvgId": "Cultura24.pe@SD",
+   "name": "Cultura 24",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "CumbiaMix.ar@HD",
    "name": "Cumbia Mix",
    "countryGroup": "LATAM",
@@ -4924,8 +4912,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "CVNTV.pe@SD",
-   "name": "CVN TV",
+   "tvgId": "DacTV.pe@SD",
+   "name": "Dac TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5004,6 +4992,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "DespiertaTV.mx@SD",
+   "name": "Despierta TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "DigitalVision63.do@SD",
    "name": "Digital Vision 63",
    "countryGroup": "LATAM",
@@ -5018,12 +5012,6 @@
   {
    "tvgId": "DiosTeVeKids.hn@SD",
    "name": "Dios Te Ve Kids",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "DiosTvTalanga.hn@SD",
-   "name": "Dios Tv Talanga",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5046,18 +5034,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "DobleCTelevision.pe@SD",
-   "name": "Doble C Television",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "Docevision.cl@SD",
-   "name": "Docevision",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "DreikoTV.pa@SD",
    "name": "Dreiko TV",
    "countryGroup": "LATAM",
@@ -5066,12 +5042,6 @@
   {
    "tvgId": "DTV.pe@SD",
    "name": "DTV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ELatinAmerica.us@Colombia",
-   "name": "E! Latin America",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5094,24 +5064,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "EclipseTV.mx@SD",
-   "name": "Eclipse TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ECOTelevision.pe@SD",
-   "name": "ECO Television",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "EcoTV.ar@SD",
-   "name": "Eco TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "EcosCanal57.do@HD",
    "name": "Ecos Canal 57",
    "countryGroup": "LATAM",
@@ -5120,12 +5072,6 @@
   {
    "tvgId": "EcotelTV.ec@SD",
    "name": "Ecotel TV",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "Ecovision.do@SD",
-   "name": "Ecovision",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5148,12 +5094,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "Educanal.py@SD",
-   "name": "Educanal",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "Eduvision.co@SD",
    "name": "Eduvision",
    "countryGroup": "LATAM",
@@ -5162,6 +5102,12 @@
   {
    "tvgId": "El3deConce.cl@SD",
    "name": "El 3 de Conce",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ElCaminoTV.sv@SD",
+   "name": "El Camino TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5210,8 +5156,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "ElPuertoTV.do@SD",
-   "name": "El Puerto TV",
+   "tvgId": "ElPitucoTV.do@HD",
+   "name": "El Pituco TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5230,6 +5176,12 @@
   {
    "tvgId": "ElSolNetworkTV.ec@SD",
    "name": "El Sol Network TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ElSonorense.mx@SD",
+   "name": "El Sonorense",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -5284,6 +5236,18 @@
    "guideSites": []
   },
   {
+   "tvgId": "EnlaceTelevision.co@SD",
+   "name": "Enlace Television",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Enntivision.do@SD",
+   "name": "Enntivision",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "entelevision.do@SD",
    "name": "entelevision",
    "countryGroup": "LATAM",
@@ -5310,12 +5274,6 @@
   {
    "tvgId": "ESPN2LatinAmerica.us@Argentina",
    "name": "ESPN 2 Latin America",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ESPN3LatinAmerica.us@Argentina",
-   "name": "ESPN 3 Latin America",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -10416,6 +10374,46 @@
   {
    "tvgId": "5AABTV.ca@SD",
    "name": "5AAB TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "5Gold.il@SD",
+   "name": "5Gold",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "5Live.il@SD",
+   "name": "5Live",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "5Plus.il@SD",
+   "name": "5Plus",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "5Sport.il@SD",
+   "name": "5Sport",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one"
+   ]
+  },
+  {
+   "tvgId": "5Sport4K.il@SD",
+   "name": "5Sport 4K",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "epg.iptvx.one"
+   ]
+  },
+  {
+   "tvgId": "5Stars.il@SD",
+   "name": "5Stars",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -15959,6 +15957,23 @@
    ]
   },
   {
+   "tvgId": "CNews.fr@SD",
+   "name": "CNews",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "canalplus.com",
+    "chaines-tv.orange.fr",
+    "mon-programme-tv.be",
+    "programme-tv.net",
+    "teleboy.ch",
+    "tv-programme.telecablesat.fr",
+    "tv.blue.ch",
+    "tv.post.lu",
+    "tv.sfr.fr",
+    "tvcesoir.fr"
+   ]
+  },
+  {
    "tvgId": "CNEWSPRIME.fr@HD",
    "name": "CNEWS PRIME",
    "countryGroup": "OTHER",
@@ -16448,12 +16463,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "D3TV.ml@SD",
-   "name": "D3 TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "D5ChannelPunjabi.in@SD",
    "name": "D5 Channel Punjabi",
    "countryGroup": "OTHER",
@@ -16641,12 +16650,6 @@
   {
    "tvgId": "DatingNakedUK.se@DK",
    "name": "Dating Naked UK",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "DavikaTV.id@SD",
-   "name": "Davika TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -17024,12 +17027,6 @@
    ]
   },
   {
-   "tvgId": "DeewanaHD.in@SD",
-   "name": "Deewana HD",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "DejTV.ir@HD",
    "name": "Dej TV",
    "countryGroup": "OTHER",
@@ -17206,6 +17203,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "DiadoraTV.hr@SD",
+   "name": "Diadora TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "DiagnosisMurder.se@DK",
    "name": "Diagnosis Murder",
    "countryGroup": "OTHER",
@@ -17224,10 +17227,22 @@
    "guideSites": []
   },
   {
-   "tvgId": "DienBienTV.vn@SD",
-   "name": "Dien Bien TV",
+   "tvgId": "Diema.bg@SD",
+   "name": "Diema",
    "countryGroup": "OTHER",
-   "guideSites": []
+   "guideSites": [
+    "tv.dir.bg",
+    "tvprofil.com"
+   ]
+  },
+  {
+   "tvgId": "DiemaFamily.bg@SD",
+   "name": "Diema Family",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "tv.dir.bg",
+    "tvprofil.com"
+   ]
   },
   {
    "tvgId": "Digi24.ro@SD",
@@ -17296,14 +17311,6 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "musor.tv"
-   ]
-  },
-  {
-   "tvgId": "Dikij.ru@SD",
-   "name": "Dikij",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "tv.mail.ru"
    ]
   },
   {
@@ -17397,14 +17404,6 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "sky.com"
-   ]
-  },
-  {
-   "tvgId": "DiscoveryChannel.ro@SD",
-   "name": "Discovery Channel",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "programetv.ro"
    ]
   },
   {
@@ -17814,15 +17813,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "DragonTVInternational.cn@SD",
-   "name": "Dragon TV International",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "mewatch.sg",
-    "singtel.com"
-   ]
-  },
-  {
    "tvgId": "DreamTurk.tr@SD",
    "name": "Dream Turk",
    "countryGroup": "OTHER",
@@ -17857,6 +17847,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "DRTVInternational.cg@SD",
+   "name": "DRTV International",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "DSTV.bg@SD",
    "name": "DSTV",
    "countryGroup": "OTHER",
@@ -17881,12 +17877,6 @@
    "guideSites": [
     "webtv.delta.nl"
    ]
-  },
-  {
-   "tvgId": "DubaiTVInternational.ae@SD",
-   "name": "Dubai TV International",
-   "countryGroup": "OTHER",
-   "guideSites": []
   },
   {
    "tvgId": "ducktv.sk@HD",
@@ -18029,6 +18019,16 @@
    ]
   },
   {
+   "tvgId": "DY365.in@SD",
+   "name": "DY 365",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
    "tvgId": "DynamoKyivTV.ua@SD",
    "name": "Dynamo Kyiv TV",
    "countryGroup": "OTHER",
@@ -18167,12 +18167,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "EgnatiaTV.gr@SD",
-   "name": "Egnatia TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "EkamraBharatOdia.in@SD",
    "name": "Ekamra Bharat Odia",
    "countryGroup": "OTHER",
@@ -18203,12 +18197,6 @@
    ]
   },
   {
-   "tvgId": "EkusheyTV.bd@SD",
-   "name": "Ekushey TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "ElRadio9090FM.eg@SD",
    "name": "El Radio 9090 FM",
    "countryGroup": "OTHER",
@@ -18219,24 +18207,6 @@
    "name": "EL TV",
    "countryGroup": "OTHER",
    "guideSites": []
-  },
-  {
-   "tvgId": "ElWatania1.tn@SD",
-   "name": "El Watania 1",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "elcinema.com",
-    "tv.blue.ch"
-   ]
-  },
-  {
-   "tvgId": "ElWatania2.tn@SD",
-   "name": "El Watania 2",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "elcinema.com",
-    "tv.sfr.fr"
-   ]
   },
   {
    "tvgId": "eldoTV.lu@SD",
@@ -18364,6 +18334,18 @@
    "guideSites": []
   },
   {
+   "tvgId": "EpicCrimes.in@SD",
+   "name": "Epic Crimes",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "EpicKids.in@Digital",
+   "name": "Epic Kids",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "EpicMusic.in@Digital",
    "name": "Epic Music",
    "countryGroup": "OTHER",
@@ -18419,12 +18401,6 @@
   {
    "tvgId": "ERTCosmos.gr@SD",
    "name": "ERT Cosmos",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "ERTCosmosCyprus.cy@HD",
-   "name": "ERT Cosmos Cyprus",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -18511,14 +18487,6 @@
    "name": "Eslah TV",
    "countryGroup": "OTHER",
    "guideSites": []
-  },
-  {
-   "tvgId": "EspansioneTV.it@SD",
-   "name": "Espansione TV",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "tv.blue.ch"
-   ]
   },
   {
    "tvgId": "EsperiaTV.it@SD",
@@ -18633,6 +18601,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "ETVNews.in@HD",
+   "name": "ETV News",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "ETVPlus.in@HD",
    "name": "ETV Plus",
    "countryGroup": "OTHER",
@@ -18684,12 +18658,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "EuroTV.gr@SD",
-   "name": "Euro TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "EuroTV.it@SD",
    "name": "Euro TV",
    "countryGroup": "OTHER",
@@ -18698,6 +18666,12 @@
   {
    "tvgId": "Euronews.pl@FAST",
    "name": "Euronews",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "EuronewsBulgaria.bg@SD",
+   "name": "Euronews Bulgaria",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -18818,12 +18792,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "Evtele.cg@SD",
-   "name": "Ev-tele",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "EvandisGospelTV.fr@SD",
    "name": "Evandis Gospel TV",
    "countryGroup": "OTHER",
@@ -18834,6 +18802,14 @@
    "name": "Eventyrlig Oppussing",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "Eveo.fi@SD",
+   "name": "Eveo",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "telsu.fi"
+   ]
   },
   {
    "tvgId": "EverybodyHatesChris.se@DK",
@@ -18884,14 +18860,6 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "musor.tv"
-   ]
-  },
-  {
-   "tvgId": "ExpoChannel.au@SD",
-   "name": "Expo Channel",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "foxtel.com.au"
    ]
   },
   {
@@ -19937,12 +19905,6 @@
   {
    "tvgId": "GoodNewsTV.in@SD",
    "name": "GoodNews TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "GospelTVIndia.in@SD",
-   "name": "Gospel TV India",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -33984,12 +33946,34 @@
    ]
   },
   {
+   "tvgId": "SonySportsTen3Hindi.in@SD",
+   "name": "Sony Sports Ten 3 Hindi",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
    "tvgId": "SonyWah.in@SD",
    "name": "Sony Wah",
    "countryGroup": "OTHER",
    "guideSites": [
     "airtelxstream.in",
     "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "SonyYay.in@SD",
+   "name": "Sony Yay!",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "playtv.unifi.com.my",
+    "singtel.com",
     "tataplay.com"
    ]
   },
@@ -34327,12 +34311,6 @@
   {
    "tvgId": "Sport5.ua@SD",
    "name": "Sport 5",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "SportExtra.ro@HD",
-   "name": "Sport Extra",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -35514,6 +35492,16 @@
     "ipko.tv",
     "tv.blue.ch",
     "tvim.tv"
+   ]
+  },
+  {
+   "tvgId": "TA3.sk@SD",
+   "name": "TA3",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "horizon.tv",
+    "m.tv.sms.cz",
+    "mujtvprogram.cz"
    ]
   },
   {
@@ -43760,6 +43748,12 @@
    ]
   },
   {
+   "tvgId": "DiscoveryFamily.us@East",
+   "name": "Discovery Family",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
    "tvgId": "DiscoveryTurbo.us@SD",
    "name": "Discovery Turbo",
    "countryGroup": "US",
@@ -43768,6 +43762,12 @@
   {
    "tvgId": "DistrictofColumbiaNetwork.us@SD",
    "name": "District of Columbia Network",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "DiyaTV.us@SD",
+   "name": "Diya TV",
    "countryGroup": "US",
    "guideSites": []
   },
@@ -46934,12 +46934,6 @@
   {
    "tvgId": "TomAndJerry.do@HD",
    "name": "Tom And Jerry",
-   "countryGroup": "US",
-   "guideSites": []
-  },
-  {
-   "tvgId": "TomSingsTV.us@HD",
-   "name": "Tom Sings TV",
    "countryGroup": "US",
    "guideSites": []
   },
