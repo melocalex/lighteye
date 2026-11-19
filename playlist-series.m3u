@@ -916,6 +916,10 @@ https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se@DK" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Rawhide
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
+#EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-name="Sci Fi" tvg-logo="https://i.imgur.com/FPumwfg.png" tvg-language="srp;eng" tvg-country="RS" group-title="🏳️ Other Countries • Séries",Sci Fi
+#EXTGRP:🏳️ Other Countries • Séries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 #EXTINF:-1 tvg-id="Scorpion.se@DK" tvg-name="Scorpion" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Scorpion
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
@@ -1095,6 +1099,9 @@ http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-name="viju+ Serial" tvg-logo="https://i.imgur.com/8yXZET5.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",viju+ Serial
 #EXTGRP:🏳️ Other Countries • Séries
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-name="Viva Telenovelas" tvg-logo="https://static.g-cdn.app/streams/viva-il.png" tvg-language="heb" tvg-country="IL" group-title="🏳️ Other Countries • Séries",Viva Telenovelas
+#EXTGRP:🏳️ Other Countries • Séries
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="YamTichoni.il@SD" tvg-name="Yam Tichoni" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" tvg-language="her" tvg-country="IL" group-title="🏳️ Other Countries • Séries",Yam Tichoni
 #EXTGRP:🏳️ Other Countries • Séries
 http://stream.mcquack.net/46/index.m3u8

@@ -1045,9 +1045,6 @@ https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnt
 #EXTINF:-1 tvg-id="Evrokino.ru@HD" tvg-name="Evrokino" tvg-logo="https://i.imgur.com/8LPtPf6.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Evrokino
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 tvg-id="FAN.ru@SD" tvg-name="FAN" tvg-logo="https://i.imgur.com/mDeTbaF.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",FAN
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 tvg-id="FilmCafe.hu@Hungary" tvg-name="Film Cafe" tvg-logo="https://i.imgur.com/jaKRnzU.png" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Filmes",Film Cafe
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
