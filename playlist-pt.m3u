@@ -1049,6 +1049,8 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceToca.fr@SD" tvg-name="Trace Toca" tvg-logo="https://i.imgur.com/6SpWnBR.png" tvg-language="por" tvg-country="FR" group-title="🏳️ Other Countries • Música",Trace Toca
 #EXTGRP:🏳️ Other Countries • Música
+#EXTVLCOPT:http-referrer=https://trace.plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TVCidade.cv@SD" tvg-name="TV Cidade" tvg-logo="https://i.imgur.com/gmSu21X.jpg" tvg-language="por" tvg-country="CV" group-title="🏳️ Other Countries • Música",TV Cidade
 #EXTGRP:🏳️ Other Countries • Música
