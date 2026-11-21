@@ -417,9 +417,6 @@ https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-id="JerseyShore.us@SD" tvg-name="Jersey Shore" tvg-logo="https://i.imgur.com/SssCaj1.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Jersey Shore
 #EXTGRP:🇺🇸 United States • Séries
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
-#EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" tvg-name="Johnny Carson TV" tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Johnny Carson TV
-#EXTGRP:🇺🇸 United States • Séries
-https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-id="JudgeFaith.us@SD" tvg-name="Judge Faith" tvg-logo="https://i.imgur.com/BXgfOzW.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Séries",Judge Faith
 #EXTGRP:🇺🇸 United States • Séries
 https://amg18477-mycode-amg18477c1-vizio-us-9644.playouts.now.amagi.tv/playlist.m3u8
@@ -788,9 +785,6 @@ http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-name="Nashe" tvg-logo="https://i.imgur.com/KO8dhi9.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Filmes",Paramount Network
-#EXTGRP:🏳️ Other Countries • Filmes
-http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
 #EXTINF:-1 tvg-id="PlutoTV90sClassics.de@FR" tvg-name="Pluto TV 90's Classics" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Filmes",Pluto TV 90's Classics
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
@@ -843,7 +837,7 @@ https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.se@DK" tvg-name="Judge Judy" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Judge Judy
 #EXTGRP:🏳️ Other Countries • Séries
-https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
+https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
 #EXTINF:-1 tvg-id="LuksusfellenSverige.se@NO" tvg-name="Luksusfellen Sverige" tvg-logo="https://images.pluto.tv/channels/61c1e0f1d6d97900076ea16f/colorLogoPNG.png" tvg-language="eng;nor" tvg-country="SE" group-title="🏳️ Other Countries • Séries",Luksusfellen Sverige
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8

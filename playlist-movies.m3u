@@ -177,9 +177,6 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.es@HD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN
 #EXTGRP:🇪🇸 España • Filmes
 http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
-#EXTINF:-1 tvg-id="AXNMovies.es@SD" tvg-name="AXN Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN Movies
-#EXTGRP:🇪🇸 España • Filmes
-http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
 #EXTINF:-1 tvg-id="BomCine.es@SD" tvg-name="Bom Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Bom Cine
 #EXTGRP:🇪🇸 España • Filmes
 https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
@@ -432,9 +429,6 @@ https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us@East" tvg-name="Hallmark Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Hallmark Mystery
 #EXTGRP:🇺🇸 United States • Filmes
 http://41.205.93.154/HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="IFC.us@East" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",IFC
-#EXTGRP:🇺🇸 United States • Filmes
-http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-id="KidsMovieClub.us@SD" tvg-name="Kids Movie Club" tvg-logo="https://i.imgur.com/avFk0Tt.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Kids Movie Club
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
@@ -776,6 +770,12 @@ http://116.90.120.149:8000/play/a138/index.m3u8
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="Star Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" tvg-language="eng;hin;tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Movies
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" tvg-language="eng;hin;tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Movies Select
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a139/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se@DK" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Star Trek Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
@@ -1083,13 +1083,15 @@ https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-name="Goldmines" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Goldmines
 #EXTGRP:🏳️ Other Countries • Filmes
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-name="Goldmines 2" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Goldmines 2
+#EXTGRP:🏳️ Other Countries • Filmes
+https://samitaorigin.tangotv.in/GOLDMINES2/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in@SD" tvg-name="Goldmines Action" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Goldmines Action
 #EXTGRP:🏳️ Other Countries • Filmes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/584/master.m3u8
+https://samitaorigin.tangotv.in/GOLDMINESACTION/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" tvg-name="Goldmines Bollywood" tvg-logo="https://i.imgur.com/6mNQ9mM.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Goldmines Bollywood
 #EXTGRP:🏳️ Other Countries • Filmes
-https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+https://samitaorigin.tangotv.in/GOLDMINESBOLLYWOOD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-name="Goldmines Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Goldmines Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
@@ -1241,8 +1243,7 @@ http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-name="MH One Movies" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",MH One Movies
 #EXTGRP:🏳️ Other Countries • Filmes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/639/master.m3u8
+https://samitaorigin.tangotv.in/MHONEMOVIE/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-name="Mix Hollywood" tvg-logo="https://i.imgur.com/1ENdbZn.png" tvg-language="ara" tvg-country="EG" group-title="🏳️ Other Countries • Filmes",Mix Hollywood
 #EXTGRP:🏳️ Other Countries • Filmes
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
@@ -1323,9 +1324,6 @@ https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-name="Ostrosyuzhetnoye" tvg-logo="https://i.imgur.com/NwQ7GBy.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Ostrosyuzhetnoye
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/214/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Filmes",Paramount Network
-#EXTGRP:🏳️ Other Countries • Filmes
-http://sultanios.alwaysdata.net/vavo.php?ID=3390498693
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema" tvg-logo="https://i.imgur.com/hgIro9r.png" tvg-language="fas" tvg-country="FR" group-title="🏳️ Other Countries • Filmes",Persiana Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -1503,6 +1501,18 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@SD" tvg-name="Star Family" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Star Family
 #EXTGRP:🏳️ Other Countries • Filmes
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/xC460sj.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a12a/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/G0ZfzZr.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold 2
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-name="Star Gold Romance" tvg-logo="https://i.imgur.com/gSWv9U3.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold Romance
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a12c/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="Star Gold Select" tvg-logo="https://i.imgur.com/U7eiuqv.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold Select
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a131/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" tvg-language="tel" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Maa Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
@@ -1584,3 +1594,9 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-name="Zee Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in@HD" tvg-name="Zee Talkies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png" tvg-language="mar" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Talkies
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a116/index.m3u8
+#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-name="Zee Thirai" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png" tvg-language="tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Thirai
+#EXTGRP:🏳️ Other Countries • Filmes
+http://116.90.120.149:8000/play/a11q/index.m3u8
