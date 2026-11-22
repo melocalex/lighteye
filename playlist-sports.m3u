@@ -83,9 +83,6 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-name="L1 Max" tvg-logo="https://i.imgur.com/2fziU2B.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Esportes",L1 Max
 #EXTGRP:🌎 América Latina • Esportes
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
-#EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-name="Meridiano TV" tvg-logo="https://i.imgur.com/I6gsUqD.png" tvg-language="spa" tvg-country="VE" group-title="🌎 América Latina • Esportes",Meridiano TV
-#EXTGRP:🌎 América Latina • Esportes
-http://181.78.8.199:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-name="Monterrico TV" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Esportes",Monterrico TV
 #EXTGRP:🌎 América Latina • Esportes
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
@@ -695,7 +692,7 @@ http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-language="bul" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Eurosport 2
 #EXTGRP:🏳️ Other Countries • Esportes
 http://185.228.163.146:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",Eurosport 4K Czechia
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",Eurosport 4K Czechia
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
@@ -743,7 +740,7 @@ https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
 http://176.118.197.101/KHL/index.m3u8
 #EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-name="KHL Prime" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",KHL Prime
 #EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/178/index.m3u8
+https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-name="KTV Sport Plus" tvg-logo="https://i.imgur.com/l4oX0gf.png" tvg-language="ara" tvg-country="KW" group-title="🏳️ Other Countries • Esportes",KTV Sport Plus
 #EXTGRP:🏳️ Other Countries • Esportes
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
@@ -751,9 +748,9 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-id="LRTPlius.lt@SD" tvg-name="LRT Plius" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png" tvg-language="lit" tvg-country="LT" group-title="🏳️ Other Countries • Esportes",LRT Plius
+#EXTINF:-1 tvg-id="LazioStyleChannel.it@HD" tvg-name="Lazio Style Channel" tvg-logo="https://i.imgur.com/vDB8HFq.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Lazio Style Channel
 #EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/353/index.m3u8
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="MSports.pk@SD" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" tvg-language="urd" tvg-country="PK" group-title="🏳️ Other Countries • Esportes",M Sports
 #EXTGRP:🏳️ Other Countries • Esportes
 https://cdn.rabta.stream/M-Sports/index.m3u8
@@ -764,27 +761,12 @@ http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it@SD" tvg-name="MadeinBO TV" tvg-logo="https://i.imgur.com/47X44DD.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",MadeinBO TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MaincastCybersport.ua@SD" tvg-name="Maincast Cybersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Esportes",Maincast Cybersport
+#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" tvg-name="Match! Planeta" tvg-logo="https://i.imgur.com/vhyMb9D.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Match! Planeta
 #EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/487/index.m3u8
-#EXTINF:-1 tvg-id="MaincastSport.ua@SD" tvg-name="Maincast Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Esportes",Maincast Sport
-#EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/490/index.m3u8
-#EXTINF:-1 tvg-id="MatchArena.ru@SD" tvg-name="Match! Arena" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Match! Arena
-#EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/163/index.m3u8
-#EXTINF:-1 tvg-id="MatchBoets.ru@SD" tvg-name="Match! Boets" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Match! Boets
-#EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/112/index.m3u8
-#EXTINF:-1 tvg-id="MatchIgra.ru@SD" tvg-name="Match! Igra" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Match! Igra
-#EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/188/index.m3u8
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="MatchPremier.ru@SD" tvg-name="Match! Premier" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Match! Premier
 #EXTGRP:🏳️ Other Countries • Esportes
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
-#EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-name="Match! Strana" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Match! Strana
-#EXTGRP:🏳️ Other Countries • Esportes
-http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-name="Match! Ultra" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Match! Ultra
 #EXTGRP:🏳️ Other Countries • Esportes
 http://31.148.5.241/kanal_3/index.m3u8
@@ -807,9 +789,6 @@ http://213.91.179.28:8000/play/a0ar
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05n
-#EXTINF:-1 tvg-id="MEGOGOSport.ua@SD" tvg-name="MEGOGO Sport" tvg-logo="https://i.imgur.com/5JmT4mW.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Esportes",MEGOGO Sport
-#EXTGRP:🏳️ Other Countries • Esportes
-http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-name="Milan TV" tvg-logo="https://i.imgur.com/gAMQfUw.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Milan TV
 #EXTGRP:🏳️ Other Countries • Esportes
 http://team-tv.co:81/milan/index.m3u8
