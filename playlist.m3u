@@ -97,7 +97,7 @@ https://stream.ichibansys.com:3230/hybrid/play.m3u8
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Filmes",AMC Latin America
 #EXTGRP:🇧🇷 Brasil • Filmes
-http://138.121.15.230:9002/AMC/index.m3u8
+http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Filmes",AXN
 #EXTGRP:🇧🇷 Brasil • Filmes
 http://170.83.16.50/AXN/index.m3u8
@@ -519,6 +519,9 @@ http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br@HD" tvg-name="TV Life America" tvg-logo="https://i.imgur.com/HZI0ilU.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Life America
 #EXTGRP:🇧🇷 Brasil • Cultura
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="TVMaanaim.br@SD" tvg-name="TV Maanaim" tvg-logo="https://i.imgur.com/PZhdHvf.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Maanaim
+#EXTGRP:🇧🇷 Brasil • Cultura
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br@SD" tvg-name="TV Padre Cicero" tvg-logo="https://i.imgur.com/Y7b29VG.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Padre Cicero
 #EXTGRP:🇧🇷 Brasil • Cultura
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
@@ -627,9 +630,6 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ArarunaTV.br@SD" tvg-name="Araruna TV" tvg-logo="https://i.imgur.com/jl39ula.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Araruna TV
 #EXTGRP:🇧🇷 Brasil • Geral
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-name="Boas Novas" tvg-logo="https://i.imgur.com/ZqhizdP.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Boas Novas
-#EXTGRP:🇧🇷 Brasil • Geral
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-name="Canal 25 Jundiai" tvg-logo="https://i.imgur.com/7igGMwH.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Canal 25 Jundiai
 #EXTGRP:🇧🇷 Brasil • Geral
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
@@ -761,7 +761,7 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-name="Studio Universal Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Studio Universal Latin America
 #EXTGRP:🇧🇷 Brasil • Geral
-http://187.102.210.46/universo/index.m3u8
+http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br@SD" tvg-name="TV A Critica" tvg-logo="https://i.imgur.com/j51rBro.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV A Critica
 #EXTGRP:🇧🇷 Brasil • Geral
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
@@ -815,9 +815,6 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Gazeta
 #EXTGRP:🇧🇷 Brasil • Geral
 http://186.219.52.187/gazeta/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboBrasilia.br@SD" tvg-name="TV Globo Brasilia" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Globo Brasilia
-#EXTGRP:🇧🇷 Brasil • Geral
-http://79.127.238.228:14173
 #EXTINF:-1 tvg-id="TVGuara.br@SD" tvg-name="TV Guara" tvg-logo="https://i.imgur.com/8PErNBT.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Guara
 #EXTGRP:🇧🇷 Brasil • Geral
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
@@ -1138,7 +1135,8 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-name="Nanduti" tvg-logo="https://i.imgur.com/AsuVsLa.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Notícias",Nanduti
 #EXTGRP:🌎 América Latina • Notícias
-http://190.128.214.97:64333/play/a02d/index.m3u8
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-id="NCTV.cl@SD" tvg-name="NCTV" tvg-logo="https://i.imgur.com/oo5vDBv.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Notícias",NCTV
 #EXTGRP:🌎 América Latina • Notícias
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
@@ -1179,6 +1177,9 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-id="RadioAncon.pa@SD" tvg-name="Radio Ancon" tvg-logo="https://i.imgur.com/xum8PNe.jpg" tvg-language="spa" tvg-country="PA" group-title="🌎 América Latina • Notícias",Radio Ancon
 #EXTGRP:🌎 América Latina • Notícias
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-id="RadioIslaTV.pr@SD" tvg-name="Radio Isla TV" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Notícias",Radio Isla TV
+#EXTGRP:🌎 América Latina • Notícias
+https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe@SD" tvg-name="Radio Uno Tacna" tvg-logo="https://i.imgur.com/PswowQP.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Notícias",Radio Uno Tacna
 #EXTGRP:🌎 América Latina • Notícias
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
@@ -1295,7 +1296,7 @@ https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Argentina" tvg-name="ESPN 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Esportes",ESPN 2 Latin America
 #EXTGRP:🌎 América Latina • Esportes
-http://190.61.47.54:8000/play/a005/index.m3u8
+http://38.211.118.56:50002/play/a0fa/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Argentina" tvg-name="ESPN Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Esportes",ESPN Latin America
 #EXTGRP:🌎 América Latina • Esportes
 http://168.228.44.241:9997/play/a06p/index.m3u8
@@ -1510,7 +1511,7 @@ https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us@Argentina" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Infantil",Tooncast
 #EXTGRP:🌎 América Latina • Infantil
-http://170.83.16.50:80/TOONCAST/index.m3u8
+http://170.83.16.50/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-name="TV Familia" tvg-logo="https://i.imgur.com/A3bU5e7.png" tvg-language="spa" tvg-country="VE" group-title="🌎 América Latina • Infantil",TV Familia
 #EXTGRP:🌎 América Latina • Infantil
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
@@ -1693,7 +1694,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="MiTV.py@SD" tvg-name="MiTV" tvg-logo="https://i.imgur.com/sgrEt9z.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Entretenimento",MiTV
 #EXTGRP:🌎 América Latina • Entretenimento
-http://190.128.214.97:64333/play/a02w/index.m3u8
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovistarPlus.pe@SD" tvg-name="Movistar Plus" tvg-logo="https://i.imgur.com/yGQGDoi.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Entretenimento",Movistar Plus
 #EXTGRP:🌎 América Latina • Entretenimento
 http://190.108.91.206:9050/play/a0bb/index.m3u8
@@ -1904,6 +1905,9 @@ https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe@SD" tvg-name="La Fabulosa TV" tvg-logo="https://i.imgur.com/GjME5H0.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Música",La Fabulosa TV
 #EXTGRP:🌎 América Latina • Música
 https://eu1.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-id="LaGranjaTV.cl@SD" tvg-name="La Granja TV" tvg-logo="https://i.imgur.com/90luGab.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Música",La Granja TV
+#EXTGRP:🌎 América Latina • Música
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 #EXTINF:-1 tvg-id="LaKalle.co@SD" tvg-name="La Kalle" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Música",La Kalle
 #EXTGRP:🌎 América Latina • Música
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
@@ -1949,12 +1953,9 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="MontonesTV.do@HD" tvg-name="Montones TV" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Música",Montones TV
 #EXTGRP:🌎 América Latina • Música
 https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar@SD" tvg-name="MusicTop" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Música",MusicTop
+#EXTINF:-1 tvg-id="PalMundoFM.cl@SD" tvg-name="PalMundo FM" tvg-logo="https://cdn.m3u.cl/logo/1803_PalMundo_FM.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Música",PalMundo FM
 #EXTGRP:🌎 América Latina • Música
-http://190.128.214.97:64333/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr@SD" tvg-name="Nueva Vida FM" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Música",Nueva Vida FM
-#EXTGRP:🌎 América Latina • Música
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
 #EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-name="Parranda Vallenata" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Música",Parranda Vallenata
 #EXTGRP:🌎 América Latina • Música
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
@@ -2307,9 +2308,6 @@ https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr@SD" tvg-name="Extrema TV" tvg-logo="https://i.imgur.com/E9AuhOU.png" tvg-language="spa" tvg-country="CR" group-title="🌎 América Latina • Cultura",Extrema TV
 #EXTGRP:🌎 América Latina • Cultura
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="FamiliaVisionHD.pr@SD" tvg-name="Familia Vision HD" tvg-logo="https://i.imgur.com/uqTH7m5.jpg" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Cultura",Familia Vision HD
-#EXTGRP:🌎 América Latina • Cultura
-https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr@SD" tvg-name="Faro de Santidad TV" tvg-logo="https://i.imgur.com/GoNBFzI.png" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Cultura",Faro de Santidad TV
 #EXTGRP:🌎 América Latina • Cultura
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
@@ -2376,6 +2374,9 @@ https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 tvg-id="MariaVision.mx@SD" tvg-name="Maria Vision" tvg-logo="https://i.imgur.com/GylOPxE.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Cultura",Maria Vision
 #EXTGRP:🌎 América Latina • Cultura
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MasterVideo.pr@SD" tvg-name="Master Video" tvg-logo="https://i.imgur.com/0jj9Vx0.png" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Cultura",Master Video
+#EXTGRP:🌎 América Latina • Cultura
+https://eco.streams.ovh:8081/mastervideotv/index.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl@SD" tvg-name="Mega 2" tvg-logo="https://i.imgur.com/c1ME00r.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Cultura",Mega 2
 #EXTGRP:🌎 América Latina • Cultura
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
@@ -2537,9 +2538,9 @@ https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-
 #EXTINF:-1 tvg-id="VTVCanal17.bo@SD" tvg-name="VTV Canal 17" tvg-logo="https://i.imgur.com/TUhFzql.png" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Cultura",VTV Canal 17
 #EXTGRP:🌎 América Latina • Cultura
 http://190.181.61.93:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="WECN.pr@SD" tvg-name="WECN" tvg-logo="https://i.imgur.com/NYBZBY0.png" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Cultura",WECN
+#EXTINF:-1 tvg-id="WCLO501.pr@SD" tvg-name="WCLO 50.1" tvg-logo="https://publicfiles.fcc.gov/api/manager/download/entity/logo/3255/tv" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Cultura",WCLO 50.1
 #EXTGRP:🌎 América Latina • Cultura
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="WELU81.pr@HD" tvg-name="WELU 8.1" tvg-logo="https://i.imgur.com/42UdwD0.png" tvg-language="spa" tvg-country="PR" group-title="🌎 América Latina • Cultura",WELU 8.1
 #EXTGRP:🌎 América Latina • Cultura
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
@@ -3583,12 +3584,18 @@ https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 #EXTINF:-1 tvg-id="HainaVision.do@SD" tvg-name="Haina Vision" tvg-logo="https://i.imgur.com/eoodUNJ.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Haina Vision
 #EXTGRP:🌎 América Latina • Geral
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 tvg-id="HatoDelYaqueTV.do@HD" tvg-name="Hato Del Yaque TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4075-294x165-FFFFFF.jpg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Hato Del Yaque TV
+#EXTGRP:🌎 América Latina • Geral
+https://streamunoapp.com:3739/live/hatodelyaquetvlive.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec@SD" tvg-name="Hechos Ecuador" tvg-logo="https://i.imgur.com/koMQZNX.png" tvg-language="spa" tvg-country="EC" group-title="🌎 América Latina • Geral",Hechos Ecuador
 #EXTGRP:🌎 América Latina • Geral
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe@SD" tvg-name="Huacho Peru TV" tvg-logo="https://i.imgur.com/PevmfqK.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",Huacho Peru TV
 #EXTGRP:🌎 América Latina • Geral
 https://tv.huachotv.com/stream.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co@SD" tvg-name="Huila TV" tvg-logo="https://i.imgur.com/hFlGHNZ.png" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Huila TV
+#EXTGRP:🌎 América Latina • Geral
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-name="Icrtv Colima" tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Geral",Icrtv Colima
 #EXTGRP:🌎 América Latina • Geral
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
@@ -3747,6 +3754,9 @@ https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
 #EXTINF:-1 tvg-id="MasNorteTV.co@SD" tvg-name="Mas Norte TV" tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" tvg-language="spa" tvg-country="CO" group-title="🌎 América Latina • Geral",Mas Norte TV
 #EXTGRP:🌎 América Latina • Geral
 https://live.arnoproducciones.com/hls/norte.m3u8
+#EXTINF:-1 tvg-id="MasRadioTV.cl@SD" tvg-name="Mas Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1495_Mas_Radio_TV.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Mas Radio TV
+#EXTGRP:🌎 América Latina • Geral
+https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8
 #EXTINF:-1 tvg-id="MASTV.gt@SD" tvg-name="MAS TV" tvg-logo="https://i.imgur.com/3XuwlkQ.jpg" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Geral",MAS TV
 #EXTGRP:🌎 América Latina • Geral
 https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
@@ -3792,12 +3802,22 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenialTV.pe@SD" tvg-name="Milenial TV" tvg-logo="https://i.imgur.com/8ZiNoEa.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",Milenial TV
 #EXTGRP:🌎 América Latina • Geral
 https://www.milenial.news/salida/milenial.m3u8
+#EXTINF:-1 tvg-id="MisionesCuatro.ar@SD" tvg-name="Misiones Cuatro" tvg-logo="https://i.imgur.com/HXRpRlK.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",Misiones Cuatro
+#EXTGRP:🌎 América Latina • Geral
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 tvg-id="MontecristiDigital8.do@HD" tvg-name="Montecristi Digital 8" tvg-logo="https://imgur.com/ExoOHQI.jpeg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Montecristi Digital 8
+#EXTGRP:🌎 América Latina • Geral
+https://soportedvb.click:3400/live/montecristitvlive.m3u8
 #EXTINF:-1 tvg-id="MonumentalTV.py@SD" tvg-name="Monumental TV" tvg-logo="https://i.imgur.com/kEcOYML.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Geral",Monumental TV
 #EXTGRP:🌎 América Latina • Geral
-http://190.128.214.97:64333/play/a046/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-name="MorroTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",MorroTV
 #EXTGRP:🌎 América Latina • Geral
 https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-name="Multivision Canal 3" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Geral",Multivision Canal 3
+#EXTGRP:🌎 América Latina • Geral
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 tvg-id="MundosLacustresTV.cl@SD" tvg-name="Mundos Lacustres TV" tvg-logo="https://i.imgur.com/5xKtvnD.jpeg" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Mundos Lacustres TV
 #EXTGRP:🌎 América Latina • Geral
 https://video.ipstream.cl:3710/hybrid/play.m3u8
@@ -3807,9 +3827,6 @@ https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NacionalTvPeru.pe@SD" tvg-name="Nacional Tv Peru" tvg-logo="https://i.imgur.com/ad0GNqa.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",Nacional Tv Peru
 #EXTGRP:🌎 América Latina • Geral
 https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
-#EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-name="Naranja TV" tvg-logo="https://i.imgur.com/g7iFN3s.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Naranja TV
-#EXTGRP:🌎 América Latina • Geral
-https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-name="Nativa" tvg-logo="https://i.imgur.com/Y9k9XSO.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Geral",Nativa
 #EXTGRP:🌎 América Latina • Geral
 http://187.102.210.46/NATIVATV/index.m3u8
@@ -3888,6 +3905,9 @@ http://45.224.97.181:9999/Oromar/index.m3u8
 #EXTINF:-1 tvg-id="OromarTVPlus.ec@SD" tvg-name="Oromar TV+" tvg-logo="https://oromartv.com/images/OTV400.png" tvg-language="spa" tvg-country="EC" group-title="🌎 América Latina • Geral",Oromar TV+
 #EXTGRP:🌎 América Latina • Geral
 https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-id="OsornoTV.cl@SD" tvg-name="Osorno TV" tvg-logo="https://i.imgur.com/0ELjva6.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Osorno TV
+#EXTGRP:🌎 América Latina • Geral
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py@SD" tvg-name="Oviedo TV" tvg-logo="https://i.imgur.com/6OlfgSQ.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Geral",Oviedo TV
 #EXTGRP:🌎 América Latina • Geral
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
@@ -3990,6 +4010,9 @@ https://v2.tustreaming.cl/americamovil/index.m3u8
 #EXTINF:-1 tvg-id="RadioAncoaTV.cl@SD" tvg-name="Radio Ancoa TV" tvg-logo="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Radio Ancoa TV
 #EXTGRP:🌎 América Latina • Geral
 https://v2.tustreaming.cl/radioancoatv/index.m3u8
+#EXTINF:-1 tvg-id="RadioBohemiaTV.cl@SD" tvg-name="Radio Bohemia TV" tvg-logo="https://cdn.m3u.cl/logo/1776_Radio_Bohemia_TV.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Radio Bohemia TV
+#EXTGRP:🌎 América Latina • Geral
+https://portalstream.cl:8080/bohemia1.m3u8
 #EXTINF:-1 tvg-id="RadioCentro.bo@SD" tvg-name="Radio Centro" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" tvg-language="spa" tvg-country="BO" group-title="🌎 América Latina • Geral",Radio Centro
 #EXTGRP:🌎 América Latina • Geral
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
@@ -4101,6 +4124,9 @@ https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py@SD" tvg-name="Republica TV" tvg-logo="https://i.ibb.co/qYRw4JP/Captura.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Geral",Republica TV
 #EXTGRP:🌎 América Latina • Geral
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetrovisionTV.do@HD" tvg-name="Retro vision TV" tvg-logo="https://retrovisionmia.com/assets/retrovision-logo-BHToA3lv.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Retro vision TV
+#EXTGRP:🌎 América Latina • Geral
+https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8
 #EXTINF:-1 tvg-id="RialTV.cl@SD" tvg-name="Rial TV" tvg-logo="https://i.imgur.com/zcwQyPI.png" tvg-language="spa" tvg-country="CL" group-title="🌎 América Latina • Geral",Rial TV
 #EXTGRP:🌎 América Latina • Geral
 https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
@@ -4302,6 +4328,9 @@ https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="T5Satelital.ar@SD" tvg-name="T5 Satelital" tvg-logo="https://i.imgur.com/ZcD0rUP.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Geral",T5 Satelital
 #EXTGRP:🌎 América Latina • Geral
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
+#EXTINF:-1 tvg-id="TainoLiveTV.do@HD" tvg-name="Taino Live TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4090-294x165-FFFFFF.jpg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Taino Live TV
+#EXTGRP:🌎 América Latina • Geral
+https://tainolivetv.com/hls/taino2026.m3u8
 #EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-name="TAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" tvg-language="spa" tvg-country="VE" group-title="🌎 América Latina • Geral",TAM TV
 #EXTGRP:🌎 América Latina • Geral
 https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
@@ -4323,6 +4352,9 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-name="Tele Antillas" tvg-logo="https://i.imgur.com/G1pJZkC.png" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Tele Antillas
 #EXTGRP:🌎 América Latina • Geral
 https://hls.tvabierta.net/hls/010.m3u8
+#EXTINF:-1 tvg-id="TeleAzul.do@HD" tvg-name="Tele Azul" tvg-logo="https://imgur.com/a/cU7MHiu.jpg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Tele Azul
+#EXTGRP:🌎 América Latina • Geral
+https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8
 #EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-name="Tele Dajabon TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" tvg-language="spa" tvg-country="DO" group-title="🌎 América Latina • Geral",Tele Dajabon TV
 #EXTGRP:🌎 América Latina • Geral
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
@@ -5809,9 +5841,6 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN SPORTS XTRA en Espanol
 #EXTGRP:🇺🇸 United States • Esportes
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
-#EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Esportes",DSports 2
-#EXTGRP:🇺🇸 United States • Esportes
-http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" tvg-language="spa;eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Fox Deportes
 #EXTGRP:🇺🇸 United States • Esportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -6063,6 +6092,9 @@ http://138.121.15.230:9002/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" tvg-name="DHE" tvg-logo="https://i.imgur.com/nsttoEa.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",DHE
 #EXTGRP:🇺🇸 United States • Filmes
 http://15.204.246.24:8080/DHEHD/index.m3u8
+#EXTINF:-1 tvg-id="FMHMovies.us@SD" tvg-name="FMH Movies" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",FMH Movies
+#EXTGRP:🇺🇸 United States • Filmes
+http://45.186.254.75:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",HBO 2 Latin America
 #EXTGRP:🇺🇸 United States • Filmes
 http://45.171.64.30:6060/play/a00i/index.m3u8
@@ -7240,9 +7272,6 @@ https://jmp2.uk/plu-638693db857364000781b471.m3u8
 #EXTINF:-1 tvg-id="MTVenEspanol.us@SD" tvg-name="MTV en Espanol" tvg-logo="https://i.imgur.com/vQWWfyW.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",MTV en Espanol
 #EXTGRP:🇺🇸 United States • Entretenimento
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
-#EXTINF:-1 tvg-id="MTV2.us@East" tvg-name="MTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",MTV2
-#EXTGRP:🇺🇸 United States • Entretenimento
-http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-name="Pasiones Latin America" tvg-logo="https://i.imgur.com/VGnbWjO.png" tvg-language="spa" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",Pasiones Latin America
 #EXTGRP:🇺🇸 United States • Entretenimento
 http://15.204.246.24:8080/PasionesHD/index.m3u8
@@ -7498,9 +7527,6 @@ https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 #EXTINF:-1 tvg-id="MoreTVSitcoms.us@SD" tvg-name="More TV Sitcoms" tvg-logo="https://i.imgur.com/4mbhOEo.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",More TV Sitcoms
 #EXTGRP:🇺🇸 United States • Entretenimento
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
-#EXTINF:-1 tvg-id="MTV.us@East" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",MTV
-#EXTGRP:🇺🇸 United States • Entretenimento
-http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVJerseyShore.us@CA" tvg-name="MTV Jersey Shore" tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Entretenimento",MTV Jersey Shore
 #EXTGRP:🇺🇸 United States • Entretenimento
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
@@ -7697,12 +7723,9 @@ https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us@SD" tvg-name="LIVExLIVE" tvg-logo="https://i.imgur.com/KFzEoed.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Música",LIVExLIVE
 #EXTGRP:🇺🇸 United States • Música
 https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Música",MTV Live
-#EXTGRP:🇺🇸 United States • Música
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Música",MTV Spankin' New
 #EXTGRP:🇺🇸 United States • Música
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us@SD" tvg-name="NEW K-POP" tvg-logo="https://i.imgur.com/B7ILXMc.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Música",NEW K-POP
 #EXTGRP:🇺🇸 United States • Música
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
@@ -8201,6 +8224,9 @@ https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us@SD" tvg-name="Midpen Media Center Channel 28" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Educação",Midpen Media Center Channel 28
 #EXTGRP:🇺🇸 United States • Educação
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us@SD" tvg-name="Monroe Community Media Education Channel" tvg-logo="https://i.imgur.com/gS4x0uX.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Educação",Monroe Community Media Education Channel
+#EXTGRP:🇺🇸 United States • Educação
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="NashuaETV.us@SD" tvg-name="Nashua ETV" tvg-logo="https://i.imgur.com/iv9Vfcb.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Educação",Nashua ETV
 #EXTGRP:🇺🇸 United States • Educação
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -9063,9 +9089,15 @@ https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MNT.us@KCTV" tvg-name="MNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",MNT
 #EXTGRP:🇺🇸 United States • Geral
 https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaPublicAccessChannel.us@SD" tvg-name="Monroe Community Media Public Access Channel" tvg-logo="https://i.imgur.com/gS4x0uX.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",Monroe Community Media Public Access Channel
+#EXTGRP:🇺🇸 United States • Geral
+https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us@SD" tvg-name="Monroe County TV" tvg-logo="https://i.imgur.com/YJfzdSu.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",Monroe County TV
 #EXTGRP:🇺🇸 United States • Geral
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="MontgomeryChannel.us@SD" tvg-name="Montgomery Channel" tvg-logo="https://i.imgur.com/mU1Ixfj.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",Montgomery Channel
+#EXTGRP:🇺🇸 United States • Geral
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="MRVTVChannel44.us@SD" tvg-name="MRVTV Channel 44" tvg-logo="https://i.imgur.com/QZcENP2.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Geral",MRVTV Channel 44
 #EXTGRP:🇺🇸 United States • Geral
 https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -9564,6 +9596,9 @@ https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTGRP:🇬🇧 United Kingdom • Séries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Documentários",BBC Earth
+#EXTGRP:🇬🇧 United Kingdom • Documentários
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Documentários",BBC Four
 #EXTGRP:🇬🇧 United Kingdom • Documentários
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
@@ -9594,9 +9629,6 @@ https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
 #EXTINF:-1 tvg-id="SensingMurder.us@UK" tvg-name="Sensing Murder" tvg-logo="https://i.imgur.com/HYEABSt.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Documentários",Sensing Murder
 #EXTGRP:🇬🇧 United Kingdom • Documentários
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-language="cze" tvg-country="UK" group-title="🇬🇧 United Kingdom • Documentários",BBC Earth
-#EXTGRP:🇬🇧 United Kingdom • Documentários
-http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-name="JimJam Europe" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-language="eng;por;ces;slk;heb" tvg-country="UK" group-title="🇬🇧 United Kingdom • Infantil",JimJam Europe
 #EXTGRP:🇬🇧 United Kingdom • Infantil
 http://212.5.144.156:8080/jimjam/index.m3u8
@@ -9640,6 +9672,10 @@ https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.de@GB" tvg-name="Judge Judy" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Entretenimento",Judge Judy
 #EXTGRP:🇬🇧 United Kingdom • Entretenimento
 https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD" tvg-name="MTV Global" tvg-logo="https://i.imgur.com/n2BoU7Q.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Entretenimento",MTV Global
+#EXTGRP:🇬🇧 United Kingdom • Entretenimento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.67:5000
 #EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-name="Mystery TV" tvg-logo="https://i.imgur.com/K4gwstM.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Entretenimento",Mystery TV
 #EXTGRP:🇬🇧 United Kingdom • Entretenimento
 https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
@@ -9913,6 +9949,9 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" tvg-language="spa" group-title="🌐 International • Esportes",DSports
 #EXTGRP:🌐 International • Esportes
 http://45.186.254.75:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",DSports 2
+#EXTGRP:🌐 International • Esportes
+http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar@HD" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-language="spa" group-title="🌐 International • Esportes",TNT Sports
 #EXTGRP:🌐 International • Esportes
 http://181.78.79.131:8000/play/a0mo
@@ -10041,12 +10080,6 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-language="eng" group-title="🌐 International • Documentários",INWILD
 #EXTGRP:🌐 International • Documentários
 https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-name="National Geographic" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" tvg-language="eng;hin;kan;mal;tel;tam;ben;mar" group-title="🌐 International • Documentários",National Geographic
-#EXTGRP:🌐 International • Documentários
-http://116.90.120.149:8000/play/a115/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-name="National Geographic Wild" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" tvg-language="eng;hin;kan;mal;tel;tam;ben;mar" group-title="🌐 International • Documentários",National Geographic Wild
-#EXTGRP:🌐 International • Documentários
-http://116.90.120.149:8000/play/a11h/index.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-name="WildEarth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" tvg-language="eng" group-title="🌐 International • Documentários",WildEarth
 #EXTGRP:🌐 International • Documentários
 https://wildearth-xumo.amagi.tv/master.m3u8
@@ -10080,6 +10113,9 @@ https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-language="spa" group-title="🌐 International • Infantil",Nickelodeon Latin America
 #EXTGRP:🌐 International • Infantil
 http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1 tvg-id="CartoonCartoons.us@SD" tvg-name="Cartoon Cartoons" tvg-logo="https://cartooncartoons.thatsoretro.com/logo" tvg-language="eng" group-title="🌐 International • Infantil",Cartoon Cartoons
+#EXTGRP:🌐 International • Infantil
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-language="bul;eng" group-title="🌐 International • Infantil",Disney Channel
 #EXTGRP:🌐 International • Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -10087,9 +10123,6 @@ http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-name="Mr Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-language="eng" group-title="🌐 International • Infantil",Mr Bean Animated
 #EXTGRP:🌐 International • Infantil
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-name="Nick Jr." tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png" tvg-language="eng;hin" group-title="🌐 International • Infantil",Nick Jr.
-#EXTGRP:🌐 International • Infantil
-http://103.135.253.32:8080/NICK-Jr/index.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@SD" tvg-name="Nick/Comedy Central +1" tvg-logo="https://i.imgur.com/08ZUI9k.png" tvg-language="deu;eng" group-title="🌐 International • Infantil",Nick/Comedy Central +1
 #EXTGRP:🌐 International • Infantil
 http://90.183.52.46:4000/play/a046/index.m3u8
@@ -10113,18 +10146,12 @@ https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" tvg-language="deu" group-title="🌐 International • Infantil",Nick Jr. Club
 #EXTGRP:🌐 International • Infantil
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-name="Nickelodeon" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" tvg-language="hin;tam;tel;kan;mal;ben;mar" group-title="🌐 International • Infantil",Nickelodeon
-#EXTGRP:🌐 International • Infantil
-http://103.135.253.32:8080/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-name="Nickelodeon Classics" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" tvg-language="deu" group-title="🌐 International • Infantil",Nickelodeon Classics
 #EXTGRP:🌐 International • Infantil
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-language="fra" group-title="🌐 International • Infantil",Nickelodeon Junior
 #EXTGRP:🌐 International • Infantil
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Sonic.in@SD" tvg-name="Sonic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" tvg-language="hin;tam;tel;kan;mal;ben;mar" group-title="🌐 International • Infantil",Sonic
-#EXTGRP:🌐 International • Infantil
-http://116.90.120.149:8000/play/a12e/index.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-name="SpongeBob Schwammkopf" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" tvg-language="deu" group-title="🌐 International • Infantil",SpongeBob Schwammkopf
 #EXTGRP:🌐 International • Infantil
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
@@ -10295,7 +10322,7 @@ http://88.212.15.50/live/svoboda/index.m3u8
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-name="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-language="spa" tvg-country="CN" group-title="🏳️ Other Countries • Notícias",CGTN Spanish
 #EXTGRP:🏳️ Other Countries • Notícias
-https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="Euronews Spanish" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-language="spa" tvg-country="FR" group-title="🏳️ Other Countries • Notícias",Euronews Spanish
 #EXTGRP:🏳️ Other Countries • Notícias
 https://iptv.bitred.cl/euronews/index.m3u8
@@ -10871,13 +10898,13 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn@SD" tvg-name="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png" tvg-language="ara" tvg-country="CN" group-title="🏳️ Other Countries • Notícias",CGTN Arabic
 #EXTGRP:🏳️ Other Countries • Notícias
-https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-name="CGTN French" tvg-logo="https://i.imgur.com/BwhledK.png" tvg-language="fra" tvg-country="CN" group-title="🏳️ Other Countries • Notícias",CGTN French
 #EXTGRP:🏳️ Other Countries • Notícias
-https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-name="CGTN Russian" tvg-logo="https://i.imgur.com/nDWkCmL.png" tvg-language="rus" tvg-country="CN" group-title="🏳️ Other Countries • Notícias",CGTN Russian
 #EXTGRP:🏳️ Other Countries • Notícias
-https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel24.ua@SD" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Notícias",Channel 24
 #EXTGRP:🏳️ Other Countries • Notícias
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
@@ -11160,6 +11187,9 @@ https://mumt04.tangotv.in/m18aqlK4HMTV/index.m3u8
 #EXTINF:-1 tvg-id="HNN24x7.in@SD" tvg-name="HNN 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HNN24x7.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",HNN 24x7
 #EXTGRP:🏳️ Other Countries • Notícias
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
+#EXTINF:-1 tvg-id="HTV9.vn@SD" tvg-name="HTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Notícias",HTV9
+#EXTGRP:🏳️ Other Countries • Notícias
+https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:-1 tvg-id="INews.iq@SD" tvg-name="I News" tvg-logo="https://i.imgur.com/9lOuzHQ.png" tvg-language="ara" tvg-country="IQ" group-title="🏳️ Other Countries • Notícias",I News
 #EXTGRP:🏳️ Other Countries • Notícias
 https://live.i-news.tv/hls/stream.m3u8
@@ -11279,6 +11309,9 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 #EXTGRP:🏳️ Other Countries • Notícias
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/669/master.m3u8
+#EXTINF:-1 tvg-id="KannurVision.in@SD" tvg-name="Kannur Vision" tvg-logo="https://i.imgur.com/FCXqPer.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Kannur Vision
+#EXTGRP:🏳️ Other Countries • Notícias
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KarnatakaNewsBeat.in@SD" tvg-name="Karnataka News Beat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png" tvg-language="kan" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Karnataka News Beat
 #EXTGRP:🏳️ Other Countries • Notícias
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8
@@ -11447,13 +11480,12 @@ https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-name="Moon TV" tvg-logo="https://i.imgur.com/3l25EZI.png" tvg-language="tam" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Moon TV
 #EXTGRP:🏳️ Other Countries • Notícias
 https://samitaorigin.tangotv.in/MOONTV/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm@SD" tvg-name="MRTV News" tvg-logo="https://i.imgur.com/5eK8Bc4.png" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Notícias",MRTV News
+#EXTGRP:🏳️ Other Countries • Notícias
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-name="Munsif TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png" tvg-language="urd" tvg-country="IN" group-title="🏳️ Other Countries • Notícias",Munsif TV
 #EXTGRP:🏳️ Other Countries • Notícias
 https://stream.ottlive.co.in/munsiftv/index.m3u8
-#EXTINF:-1 tvg-id="MyUkrainaTV.ua@SD" tvg-name="My-Ukraina TV" tvg-logo="https://i.imgur.com/OD84Oga.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Notícias",My-Ukraina TV
-#EXTGRP:🏳️ Other Countries • Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/442/index.m3u8
 #EXTINF:-1 tvg-id="NaftemporikiTV.gr@HD" tvg-name="Naftemporiki TV" tvg-logo="https://i.imgur.com/9OFdMud.png" tvg-language="ell" tvg-country="GR" group-title="🏳️ Other Countries • Notícias",Naftemporiki TV
 #EXTGRP:🏳️ Other Countries • Notícias
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
@@ -12109,9 +12141,6 @@ http://92.114.85.87:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports4.pl@SD" tvg-name="Eleven Sports 4" tvg-logo="https://i.imgur.com/SEKXaAW.png" tvg-language="eng" tvg-country="PL" group-title="🏳️ Other Countries • Esportes",Eleven Sports 4
 #EXTGRP:🏳️ Other Countries • Esportes
 http://92.114.85.87:8002/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.in@HD" tvg-name="Eurosport" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Eurosport
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a118/index.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-name="Fast&FunBox" tvg-logo="https://i.imgur.com/a9ZtP17.png" tvg-language="eng" tvg-country="NL" group-title="🏳️ Other Countries • Esportes",Fast&FunBox
 #EXTGRP:🏳️ Other Countries • Esportes
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
@@ -12186,25 +12215,10 @@ http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-name="Sky Racing 1" tvg-logo="https://i.imgur.com/Hf0EiaW.png" tvg-language="eng" tvg-country="AU" group-title="🏳️ Other Countries • Esportes",Sky Racing 1
 #EXTGRP:🏳️ Other Countries • Esportes
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-name="Sony Sports Ten 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" tvg-language="eng;mal" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Sony Sports Ten 1
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a11t/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-name="Sony Sports Ten 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Sony Sports Ten 2
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a137/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-name="Sony Sports Ten 5" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" tvg-language="eng;ben;mal" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Sony Sports Ten 5
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a117/index.m3u8
 #EXTINF:-1 tvg-id="Sport5.ua@SD" tvg-name="Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" tvg-language="eng" tvg-country="UA" group-title="🏳️ Other Countries • Esportes",Sport 5
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/212/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/E5jjKHI.png" tvg-language="eng;kan" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Star Sports 1
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a11x/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-name="Star Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" tvg-language="eng;hin;tam;tel" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Star Sports 2
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk@HD" tvg-name="Talent TV" tvg-logo="https://talenttv.lk/logo-footer.png" tvg-language="eng" tvg-country="LK" group-title="🏳️ Other Countries • Esportes",Talent TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
@@ -12214,9 +12228,6 @@ https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" tvg-language="eng" tvg-country="CA" group-title="🏳️ Other Countries • Esportes",TSN The Ocho
 #EXTGRP:🏳️ Other Countries • Esportes
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-name="Unite8 Sports 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Unite8 Sports 2
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a129/index.m3u8
 #EXTINF:-1 tvg-id="VoyoEvents.ro@SD" tvg-name="Voyo Events" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Voyo_2026.svg/revision/latest/scale-to-width-down/1000?cb=20261006171646" tvg-language="ron;eng" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Voyo Events
 #EXTGRP:🏳️ Other Countries • Esportes
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
@@ -12472,6 +12483,9 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" tvg-name="More Than Sports TV" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Esportes",More Than Sports TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTVSports.mm@SD" tvg-name="MRTV Sports" tvg-logo="https://i.imgur.com/cFTR4kC.png" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Esportes",MRTV Sports
+#EXTGRP:🏳️ Other Countries • Esportes
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD" tvg-name="NBA AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",NBA AntenaPlay
 #EXTGRP:🏳️ Other Countries • Esportes
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
@@ -12597,9 +12611,6 @@ https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-id="SportyTV.cz@SD" tvg-name="Sporty TV" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Esportes",Sporty TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-name="Star Sports 1 Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" tvg-language="hin;mar;bho;bgc" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Star Sports 1 Hindi
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a122/index.m3u8
 #EXTINF:-1 tvg-id="SuspilneSport.ua@SD" tvg-name="Suspilne. Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Esportes",Suspilne. Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -12622,9 +12633,6 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UDAR.ru@SD" tvg-name="UDAR" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",UDAR
 #EXTGRP:🏳️ Other Countries • Esportes
 http://stream.mcquack.net/279/index.m3u8
-#EXTINF:-1 tvg-id="Unite8Sports1.in@HD" tvg-name="Unite8 Sports 1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Esportes",Unite8 Sports 1
-#EXTGRP:🏳️ Other Countries • Esportes
-http://116.90.120.149:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@HD" tvg-name="viju+ Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",viju+ Sport
 #EXTGRP:🏳️ Other Countries • Esportes
 http://46.53.200.153:7777/play/a01l/index.m3u8
@@ -12670,18 +12678,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 #EXTINF:-1 tvg-id="MerryChristmasfromViafree.se@DK" tvg-name="Merry Christmas from Viafree" tvg-logo="https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Merry Christmas from Viafree
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
-#EXTINF:-1 tvg-id="MNX.in@HD" tvg-name="MNX" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",MNX
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a11m/index.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa@SD" tvg-name="Movies Action" tvg-logo="https://i.imgur.com/NIVhISa.png" tvg-language="ara;eng" tvg-country="SA" group-title="🏳️ Other Countries • Filmes",Movies Action
 #EXTGRP:🏳️ Other Countries • Filmes
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-name="Movies Now" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" tvg-language="eng;tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Movies Now
 #EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a11f/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNowPlus.in@HD" tvg-name="Movies Now +" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" tvg-language="eng;tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Movies Now +
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a11k/index.m3u8
+http://27.124.71.27/Movies_Now/index.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-name="Movies Thriller" tvg-logo="https://i.imgur.com/JWihdcl.png" tvg-language="ara;eng" tvg-country="SA" group-title="🏳️ Other Countries • Filmes",Movies Thriller
 #EXTGRP:🏳️ Other Countries • Filmes
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
@@ -12715,9 +12717,6 @@ https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWildWest.se@DK" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Wild West
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" tvg-language="eng;hin;tam;tel" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Sony Pix
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a138/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="bul;eng" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",Star Channel
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -12725,9 +12724,6 @@ http://213.91.179.28:8000/play/a0c9
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="Star Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" tvg-language="eng;hin;tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 http://116.90.120.149:8000/play/a13a/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" tvg-language="eng;hin;tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Movies Select
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a139/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se@DK" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Star Trek Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
@@ -12748,15 +12744,9 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR
-#EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-name="&pictures" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",&pictures
+#EXTINF:-1 tvg-id="AndTV.in@International" tvg-name="&TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",&TV
 #EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a132/index.m3u8
-#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-name="&TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",&TV
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a133/index.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-name="&xplor HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",&xplor HD
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a11o/index.m3u8
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="312Kino.kg@SD" tvg-name="312 Kino" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-language="rus;kir" tvg-country="KG" group-title="🏳️ Other Countries • Filmes",312 Kino
 #EXTGRP:🏳️ Other Countries • Filmes
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -12849,7 +12839,7 @@ http://213.91.179.28:8000/play/a05i
 #EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-name="Cafe Film" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Filmes",Cafe Film
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-language="cze" tvg-country="NL" group-title="🏳️ Other Countries • Filmes",Canal+ Action Europe
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Austria" tvg-name="Canal+ Action Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-language="ger" tvg-country="NL" group-title="🏳️ Other Countries • Filmes",Canal+ Action Europe
 #EXTGRP:🏳️ Other Countries • Filmes
 http://193.33.39.108:9016/play/a02n
 #EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-name="CCTV-6" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Filmes",CCTV-6
@@ -12979,7 +12969,7 @@ http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="Domkino.ru@International" tvg-name="Dom kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Dom kino
 #EXTGRP:🏳️ Other Countries • Filmes
-http://88.212.15.50/live/test_dom_kino/playlist.m3u8
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-name="Dom kino Premium" tvg-logo="https://i.imgur.com/rJpQtvK.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Dom kino Premium
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/108/index.m3u8
@@ -13091,7 +13081,7 @@ http://176.118.197.101/Illuzion+/index.m3u8
 https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-name="Indiyskoye Kino" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Indiyskoye Kino
 #EXTGRP:🏳️ Other Countries • Filmes
-http://188.113.190.12/329/index.m3u8
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ItageTV.ng@SD" tvg-name="Itage TV" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" tvg-language="yor" tvg-country="NG" group-title="🏳️ Other Countries • Filmes",Itage TV
 #EXTGRP:🏳️ Other Countries • Filmes
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
@@ -13190,9 +13180,6 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-name="Mosfilm Gold Collection" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Mosfilm Gold Collection
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" tvg-language="ben" tvg-country="BD" group-title="🏳️ Other Countries • Filmes",Movie Bangla
 #EXTGRP:🏳️ Other Countries • Filmes
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -13215,9 +13202,6 @@ http://88.212.7.14/live/mozi_plusz/index.m3u8
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/moziverzum/index.m3u8
-#EXTINF:-1 tvg-id="Muzhskoekino.ru@SD" tvg-name="Muzhskoe kino" tvg-logo="https://i.imgur.com/8RN3tQC.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Muzhskoe kino
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoy.ru@HD" tvg-name="Muzhskoy" tvg-logo="https://i.imgur.com/xyztpBf.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Muzhskoy
 #EXTGRP:🏳️ Other Countries • Filmes
 https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
@@ -13227,16 +13211,6 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-name="Nash Kinopokaz" tvg-logo="https://i.imgur.com/iwTMl8O.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nash Kinopokaz
 #EXTGRP:🏳️ Other Countries • Filmes
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
-#EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-name="Nashe" tvg-logo="https://i.imgur.com/KO8dhi9.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua@SD" tvg-name="Nashe Lubimoe Kino Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/%D0%9D%D0%B0%D1%88%D0%B5_%D0%A3%D0%BB%D1%8E%D0%B1%D0%BB%D0%B5%D0%BD%D0%B5_%D0%9A%D1%96%D0%BD%D0%BE.webp" tvg-language="rus;ukr" tvg-country="UA" group-title="🏳️ Other Countries • Filmes",Nashe Lubimoe Kino Ukraine
-#EXTGRP:🏳️ Other Countries • Filmes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/456/index.m3u8
-#EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-name="Nashe muzhskoe" tvg-logo="https://i.imgur.com/QRWKpmb.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe muzhskoe
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-name="Nashe Novoe Kino" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe Novoe Kino
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
@@ -13358,7 +13332,7 @@ https://gtc.ottlive.co.in/punjabshort/index.m3u8
 http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Rodnoe Kino
 #EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/242/index.m3u8
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-name="Russkiy Bestseller" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Russkiy Bestseller
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/208/index.m3u8
@@ -13416,9 +13390,9 @@ https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" tvg-name="Smotrim 100% Klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Smotrim 100% Klassika
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Sony Max
+#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Sony Max
 #EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a123/index.m3u8
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 #EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-name="Sony One Favoris" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Filmes",Sony One Favoris
 #EXTGRP:🏳️ Other Countries • Filmes
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
@@ -13440,18 +13414,6 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@SD" tvg-name="Star Family" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Star Family
 #EXTGRP:🏳️ Other Countries • Filmes
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/xC460sj.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a12a/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="Star Gold 2" tvg-logo="https://i.imgur.com/G0ZfzZr.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold 2
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a12b/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-name="Star Gold Romance" tvg-logo="https://i.imgur.com/gSWv9U3.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold Romance
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a12c/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="Star Gold Select" tvg-logo="https://i.imgur.com/U7eiuqv.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Gold Select
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a131/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-name="Star Maa Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" tvg-language="tel" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Maa Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
@@ -13507,7 +13469,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4x
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" tvg-name="viju TV1000 action" tvg-logo="https://i.imgur.com/TMmyuzh.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",viju TV1000 action
 #EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/100/index.m3u8
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000novella.ru@HD" tvg-name="viju TV1000 novella" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",viju TV1000 novella
 #EXTGRP:🏳️ Other Countries • Filmes
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
@@ -13533,12 +13495,6 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-name="Zee Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in@HD" tvg-name="Zee Talkies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png" tvg-language="mar" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Talkies
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a116/index.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-name="Zee Thirai" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png" tvg-language="tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Thirai
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a11q/index.m3u8
 #EXTINF:-1 tvg-id="2900Happiness.se@DK" tvg-name="2900 Happiness" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Séries",2900 Happiness
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
@@ -13655,6 +13611,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playli
 #EXTINF:-1 tvg-id="CTVDlaCiebieTV.ee@SD" tvg-name="CTV Dla Ciebie TV" tvg-logo="https://ukrtvr.org/images/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B5/CTV%20-%20Dla%20Ciebie%20TV.png" tvg-language="ukr;pol" tvg-country="EE" group-title="🏳️ Other Countries • Séries",CTV Dla Ciebie TV
 #EXTGRP:🏳️ Other Countries • Séries
 http://90.183.52.46:4000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-name="HTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Séries",HTV3
+#EXTGRP:🏳️ Other Countries • Séries
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-id="InvestigationbyPlutoTV.de@FR" tvg-name="Investigation by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Séries",Investigation by Pluto TV
 #EXTGRP:🏳️ Other Countries • Séries
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
@@ -13804,15 +13763,9 @@ http://92.114.85.87:8015/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="History2.pl@SD" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-language="eng" tvg-country="PL" group-title="🏳️ Other Countries • Documentários",History 2
 #EXTGRP:🏳️ Other Countries • Documentários
 http://116.90.120.149:8000/play/a0l1/index.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-name="History TV18" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-language="eng;hin;tam;tel" tvg-country="IN" group-title="🏳️ Other Countries • Documentários",History TV18
-#EXTGRP:🏳️ Other Countries • Documentários
-http://116.90.120.149:8000/play/a12z/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu@SD" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-language="ces;eng;hun" tvg-country="HU" group-title="🏳️ Other Countries • Documentários",Investigation Discovery
 #EXTGRP:🏳️ Other Countries • Documentários
 http://88.212.7.14/live/id_hun/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-name="Investigation Discovery" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" tvg-language="eng;hin" tvg-country="IN" group-title="🏳️ Other Countries • Documentários",Investigation Discovery
-#EXTGRP:🏳️ Other Countries • Documentários
-http://116.90.120.149:8000/play/a119/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-language="bul;eng" tvg-country="BG" group-title="🏳️ Other Countries • Documentários",National Geographic
 #EXTGRP:🏳️ Other Countries • Documentários
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -13832,9 +13785,6 @@ https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-name="RT Documentary" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-language="eng" tvg-country="RU" group-title="🏳️ Other Countries • Documentários",RT Documentary
 #EXTGRP:🏳️ Other Countries • Documentários
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-name="Sony BBC Earth" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" tvg-language="eng;hin;tam;tel" tvg-country="IN" group-title="🏳️ Other Countries • Documentários",Sony BBC Earth
-#EXTGRP:🏳️ Other Countries • Documentários
-http://116.90.120.149:8000/play/a130/index.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca@CA" tvg-name="Total Crime" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png" tvg-language="eng" tvg-country="CA" group-title="🏳️ Other Countries • Documentários",Total Crime
 #EXTGRP:🏳️ Other Countries • Documentários
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
@@ -13856,7 +13806,7 @@ http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CT2.cz@SD" tvg-name="CT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Documentários",CT2
 #EXTGRP:🏳️ Other Countries • Documentários
 http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="DocuBox.nl@Russia" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-language="rus" tvg-country="NL" group-title="🏳️ Other Countries • Documentários",DocuBox
+#EXTINF:-1 tvg-id="DocuBox.nl@Polska" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-language="pol" tvg-country="NL" group-title="🏳️ Other Countries • Documentários",DocuBox
 #EXTGRP:🏳️ Other Countries • Documentários
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-name="Dokusat" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Documentários",Dokusat
@@ -13903,6 +13853,9 @@ https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:-1 tvg-id="KarbalaDocumentary.iq@HD" tvg-name="Karbala Documentary" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" tvg-language="ara" tvg-country="IQ" group-title="🏳️ Other Countries • Documentários",Karbala Documentary
 #EXTGRP:🏳️ Other Countries • Documentários
 https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-name="MRTV Farmer" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Documentários",MRTV Farmer
+#EXTGRP:🏳️ Other Countries • Documentários
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="MWDDocumentary.mm@SD" tvg-name="MWD Documentary" tvg-logo="https://i.imgur.com/4XV7cjU.png" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Documentários",MWD Documentary
 #EXTGRP:🏳️ Other Countries • Documentários
 http://203.81.84.130/hls/mwd_document/index.m3u8
@@ -14079,9 +14032,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 #EXTGRP:🏳️ Other Countries • Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" tvg-name="Cartoon Network HD+" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" tvg-language="eng;hin;tam;tel;kan;mal;mar" tvg-country="IN" group-title="🏳️ Other Countries • Infantil",Cartoon Network HD+
-#EXTGRP:🏳️ Other Countries • Infantil
-http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-name="Cartoonito Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Infantil",Cartoonito Asia
 #EXTGRP:🏳️ Other Countries • Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -14089,9 +14039,6 @@ http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" tvg-language="pol;eng" tvg-country="PL" group-title="🏳️ Other Countries • Infantil",CBeebies
 #EXTGRP:🏳️ Other Countries • Infantil
 http://92.114.85.87:8017/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="Disney Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" tvg-language="eng;hin;tam;tel" tvg-country="IN" group-title="🏳️ Other Countries • Infantil",Disney Channel
-#EXTGRP:🏳️ Other Countries • Infantil
-http://116.90.120.149:8000/play/a11r/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-language="jpn;eng" tvg-country="JP" group-title="🏳️ Other Countries • Infantil",Disney Channel
 #EXTGRP:🏳️ Other Countries • Infantil
 http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
@@ -14124,7 +14071,7 @@ http://88.212.15.50/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.it@SD" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/6p3eFgf.png" tvg-language="ita;eng" tvg-country="IT" group-title="🏳️ Other Countries • Infantil",Nick Jr.
 #EXTGRP:🏳️ Other Countries • Infantil
 http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.nl@SD" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-language="nld;eng" tvg-country="NL" group-title="🏳️ Other Countries • Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.nl@HD" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-language="nld;eng" tvg-country="NL" group-title="🏳️ Other Countries • Infantil",Nickelodeon
 #EXTGRP:🏳️ Other Countries • Infantil
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 #EXTINF:-1 tvg-id="NickelodeonArabia.ae@SD" tvg-name="Nickelodeon Arabia" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-language="ara;eng" tvg-country="AE" group-title="🏳️ Other Countries • Infantil",Nickelodeon Arabia
@@ -14374,15 +14321,9 @@ http://88.212.7.14/live/minimax_hun/index.m3u8
 #EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-name="Minimax" tvg-logo="https://i.imgur.com/TJvf8vd.png" tvg-language="urd" tvg-country="PK" group-title="🏳️ Other Countries • Infantil",Minimax
 #EXTGRP:🏳️ Other Countries • Infantil
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" tvg-name="Mixkurdy" tvg-logo="https://i.imgur.com/WHeH5i7.png" tvg-language="kur" tvg-country="IQ" group-title="🏳️ Other Countries • Infantil",Mixkurdy
-#EXTGRP:🏳️ Other Countries • Infantil
-https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-id="Mult.ru@International" tvg-name="Mult" tvg-logo="https://i.imgur.com/xi351Fx.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Infantil",Mult
 #EXTGRP:🏳️ Other Countries • Infantil
-http://stream.mcquack.net/232/index.m3u8
-#EXTINF:-1 tvg-id="Multimuzyka.ru@SD" tvg-name="Mult i muzyka" tvg-logo="https://i.imgur.com/SYt6BZP.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Infantil",Mult i muzyka
-#EXTGRP:🏳️ Other Countries • Infantil
-http://stream.mcquack.net/82/index.m3u8
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Multilandia.ru@SD" tvg-name="Multilandia" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Infantil",Multilandia
 #EXTGRP:🏳️ Other Countries • Infantil
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
@@ -14470,9 +14411,6 @@ https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToons.de@FR" tvg-name="Pluto TV Toons" tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Infantil",Pluto TV Toons
 #EXTGRP:🏳️ Other Countries • Infantil
 https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
-#EXTINF:-1 tvg-id="Pogo.in@SD" tvg-name="Pogo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png" tvg-language="hin;tam;tel;kan;mal;mar" tvg-country="IN" group-title="🏳️ Other Countries • Infantil",Pogo
-#EXTGRP:🏳️ Other Countries • Infantil
-http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-name="Pooya TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Infantil",Pooya TV
 #EXTGRP:🏳️ Other Countries • Infantil
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
@@ -14642,7 +14580,7 @@ https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee
 #EXTINF:-1 tvg-id="AreYouTheOne.se@DK" tvg-name="Are You The One?" tvg-logo="https://images.pluto.tv/channels/61c091c39863900007ac9e8f/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Are You The One?
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8
-#EXTINF:-1 tvg-id="AtlanticTV.tt@SD" tvg-name="Atlantic TV" tvg-language="eng" tvg-country="TT" group-title="🏳️ Other Countries • Entretenimento",Atlantic TV
+#EXTINF:-1 tvg-id="AtlanticTV.tt@SD" tvg-name="Atlantic TV" tvg-logo="https://trinicricket.com/logo" tvg-language="eng" tvg-country="TT" group-title="🏳️ Other Countries • Entretenimento",Atlantic TV
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://trinicricket.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="Awkward.se@DK" tvg-name="Awkward" tvg-logo="https://images.pluto.tv/channels/61c0925c738ecd000882450a/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Awkward
@@ -14702,9 +14640,6 @@ https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-name="Discovery Asia Taiwan" tvg-logo="https://i.imgur.com/foLICwL.png" tvg-language="eng;cmn" tvg-country="TW" group-title="🏳️ Other Countries • Entretenimento",Discovery Asia Taiwan
 #EXTGRP:🏳️ Other Countries • Entretenimento
 http://125.227.210.55:1004/VideoInput/play.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" tvg-name="Discovery Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" tvg-language="eng;hin;tam;tel;kan;mal;ben" tvg-country="IN" group-title="🏳️ Other Countries • Entretenimento",Discovery Channel
-#EXTGRP:🏳️ Other Countries • Entretenimento
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="EventyrligOppussing.se@NO" tvg-name="Eventyrlig Oppussing" tvg-logo="https://images.pluto.tv/channels/61c1de93244e500007581d69/colorLogoPNG.png" tvg-language="eng;nor" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Eventyrlig Oppussing
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
@@ -14732,10 +14667,6 @@ http://92.114.85.87:8015/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="FrusnaVagar.se@SE" tvg-name="Frusna Vagar" tvg-logo="https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png" tvg-language="eng;swe" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Frusna Vagar
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
-#EXTINF:-1 tvg-id="Gametoon.nl@SD" tvg-name="Gametoon" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" tvg-language="eng" tvg-country="NL" group-title="🏳️ Other Countries • Entretenimento",Gametoon
-#EXTGRP:🏳️ Other Countries • Entretenimento
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/gametoon.m3u8
 #EXTINF:-1 tvg-id="GeordieShore.se@DK" tvg-name="Geordie Shore" tvg-logo="https://images.pluto.tv/channels/6442512cee6a2f0008d3351f/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",Geordie Shore
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8
@@ -14804,7 +14735,7 @@ http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun
 https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8
 #EXTINF:-1 tvg-id="MTVTheHills.se@DK" tvg-name="MTV The Hills" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Entretenimento",MTV The Hills
 #EXTGRP:🏳️ Other Countries • Entretenimento
-https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
+https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
 #EXTINF:-1 tvg-id="NuViewTV.za@SD" tvg-name="NuView TV" tvg-logo="https://i.imgur.com/dYRJ7F0.png" tvg-language="eng" tvg-country="ZA" group-title="🏳️ Other Countries • Entretenimento",NuView TV
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
@@ -14951,7 +14882,7 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD" tvg-name="arte" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Entretenimento",arte
 #EXTGRP:🏳️ Other Countries • Entretenimento
-http://5.180.164.197:8080/ARTEFR/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiaExpressNonStop.ro@SD" tvg-name="Asia Express NonStop" tvg-logo="https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Entretenimento",Asia Express NonStop
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
@@ -14969,7 +14900,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1
 #EXTGRP:🏳️ Other Countries • Entretenimento
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/697/master.m3u8
-#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl@HD" tvg-name="ATM Rozrywka REWORK" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Entretenimento",ATM Rozrywka REWORK
+#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl@HD" tvg-name="ATM Rozrywka REWORK" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Entretenimento",ATM Rozrywka REWORK
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNSpin.hu@Poland" tvg-name="AXN Spin" tvg-logo="https://i.imgur.com/uVFenKm.png" tvg-language="pol" tvg-country="HU" group-title="🏳️ Other Countries • Entretenimento",AXN Spin
@@ -15181,6 +15112,10 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FX2.ir@SD" tvg-name="FX 2" tvg-language="fas" tvg-country="IR" group-title="🏳️ Other Countries • Entretenimento",FX 2
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Gametoon.nl@Polska" tvg-name="Gametoon" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" tvg-language="pol" tvg-country="NL" group-title="🏳️ Other Countries • Entretenimento",Gametoon
+#EXTGRP:🏳️ Other Countries • Entretenimento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
 #EXTINF:-1 tvg-id="GangaurTV.in@SD" tvg-name="Gangaur TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Entretenimento",Gangaur TV
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://cdn.pishow.tv/ott/live/1221/master.m3u8
@@ -15295,7 +15230,7 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 http://88.212.7.14/live/lifetv/index.m3u8
 #EXTINF:-1 tvg-id="LTV7.lv@HD" tvg-name="LTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" tvg-language="lav" tvg-country="LV" group-title="🏳️ Other Countries • Entretenimento",LTV7
 #EXTGRP:🏳️ Other Countries • Entretenimento
-https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+http://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="M2.hu@SD" tvg-name="M2" tvg-logo="https://i.imgur.com/B0nYT0l.png" tvg-language="hun" tvg-country="HU" group-title="🏳️ Other Countries • Entretenimento",M2
 #EXTGRP:🏳️ Other Countries • Entretenimento
 http://88.212.7.14/live/m2_hun/index.m3u8
@@ -15365,9 +15300,14 @@ https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 #EXTGRP:🏳️ Other Countries • Entretenimento
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/moziklub_atk/index.m3u8
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm@SD" tvg-name="MRTV Entertainment" tvg-logo="https://i.imgur.com/c9q6oT0.png" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Entretenimento",MRTV Entertainment
+#EXTGRP:🏳️ Other Countries • Entretenimento
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 #EXTINF:-1 tvg-id="MTV.in@HD" tvg-name="MTV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Entretenimento",MTV
 #EXTGRP:🏳️ Other Countries • Entretenimento
-http://116.90.120.149:8000/play/a136/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="MTVCLASSICS.de@FR" tvg-name="MTV CLASSICS" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" tvg-language="fra" tvg-country="DE" group-title="🏳️ Other Countries • Entretenimento",MTV CLASSICS
 #EXTGRP:🏳️ Other Countries • Entretenimento
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
@@ -16541,12 +16481,9 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-name="Muzyka Kino" tvg-logo="https://i.imgur.com/2SG0Swa.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Música",Muzyka Kino
 #EXTGRP:🏳️ Other Countries • Música
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="MuzykaLive.ru@SD" tvg-name="Muzyka Live" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Música",Muzyka Live
-#EXTGRP:🏳️ Other Countries • Música
-http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-name="Muzyka Pervogo" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-language="rus;ukr" tvg-country="RU" group-title="🏳️ Other Countries • Música",Muzyka Pervogo
 #EXTGRP:🏳️ Other Countries • Música
-http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NASHEMusic.ua@SD" tvg-name="NASHE Music" tvg-logo="https://i.imgur.com/ienkbOc.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Música",NASHE Music
 #EXTGRP:🏳️ Other Countries • Música
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
@@ -17068,6 +17005,9 @@ https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FlameTV.ng@SD" tvg-name="Flame TV" tvg-logo="https://i.imgur.com/ORKcnzr.png" tvg-language="eng" tvg-country="NG" group-title="🏳️ Other Countries • Cultura",Flame TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GloriousTimesTV.ug@SD" tvg-name="Glorious Times TV" tvg-logo="https://i.imgur.com/F3sH2Zt.jpeg" tvg-language="eng;lug" tvg-country="UG" group-title="🏳️ Other Countries • Cultura",Glorious Times TV
+#EXTGRP:🏳️ Other Countries • Cultura
+https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="GNNTV.jm@SD" tvg-name="GNN TV" tvg-logo="https://i.imgur.com/itetPKw.png" tvg-language="eng" tvg-country="JM" group-title="🏳️ Other Countries • Cultura",GNN TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
@@ -17827,12 +17767,15 @@ https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8
 #EXTINF:-1 tvg-id="MQTV.id@SD" tvg-name="MQTV" tvg-logo="https://i.imgur.com/d8dQo6E.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Cultura",MQTV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTVNRC.mm@SD" tvg-name="MRTV NRC" tvg-logo="https://i.imgur.com/5aLFslk.jpg" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Cultura",MRTV NRC
+#EXTGRP:🏳️ Other Countries • Cultura
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-id="NabawiTV.id@SD" tvg-name="Nabawi TV" tvg-logo="https://i.imgur.com/O8WONFB.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Cultura",Nabawi TV
 #EXTGRP:🏳️ Other Countries • Cultura
 http://202.150.161.117:8000/play/NabawiTV
 #EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-name="Nambikkai TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" tvg-language="tam" tvg-country="IN" group-title="🏳️ Other Countries • Cultura",Nambikkai TV
 #EXTGRP:🏳️ Other Countries • Cultura
-https://cdn.pishow.tv/ott/live/1389/master.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD" tvg-name="Namdhari TV" tvg-logo="https://i.imgur.com/NalsXTo.png" tvg-language="pan" tvg-country="IN" group-title="🏳️ Other Countries • Cultura",Namdhari TV
 #EXTGRP:🏳️ Other Countries • Cultura
 https://namdhari.tv/live/sbs1.m3u8
@@ -17845,6 +17788,9 @@ http://92.114.85.87:8016/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn@SD" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" tvg-logo="https://i.imgur.com/kpsjahG.png" tvg-language="zho;mon" tvg-country="CN" group-title="🏳️ Other Countries • Cultura",Nei Monggol TV 2 Mongolian Culture Channel
 #EXTGRP:🏳️ Other Countries • Cultura
 http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+#EXTINF:-1 tvg-id="NijamTV.in@SD" tvg-name="Nijam TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png" tvg-language="tam" tvg-country="IN" group-title="🏳️ Other Countries • Cultura",Nijam TV
+#EXTGRP:🏳️ Other Countries • Cultura
+https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in@SD" tvg-name="Nireekshana TV" tvg-logo="https://i.imgur.com/nGJv6QR.png" tvg-language="tel" tvg-country="IN" group-title="🏳️ Other Countries • Cultura",Nireekshana TV
 #EXTGRP:🏳️ Other Countries • Cultura
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -18161,9 +18107,6 @@ https://server.zillarbarta.com/zbbhakti/index.m3u8
 #EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-name="Da Vinci Asia" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-language="vie;eng" tvg-country="DE" group-title="🏳️ Other Countries • Educação",Da Vinci Asia
 #EXTGRP:🏳️ Other Countries • Educação
 https://vmttv.dpdns.org/tv360?id=davinci-hd
-#EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-name="Discovery Science" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" tvg-language="eng;hin" tvg-country="IN" group-title="🏳️ Other Countries • Educação",Discovery Science
-#EXTGRP:🏳️ Other Countries • Educação
-http://116.90.120.149:8000/play/a11b/index.m3u8
 #EXTINF:-1 tvg-id="DLTV1.th@SD" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" tvg-language="tha;eng" tvg-country="TH" group-title="🏳️ Other Countries • Educação",DLTV 1
 #EXTGRP:🏳️ Other Countries • Educação
 https://cdn-live.dltv.ac.th/dltv01.m3u8
@@ -18282,7 +18225,7 @@ https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-id="Gyandarshan.in@HD" tvg-name="Gyandarshan" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Educação",Gyandarshan
 #EXTGRP:🏳️ Other Countries • Educação
 https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
-#EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Educação",HTV4
+#EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-name="HTV4" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Educação",HTV4
 #EXTGRP:🏳️ Other Countries • Educação
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="iSTUFF.de@SD" tvg-name="iSTUFF" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Educação",iSTUFF
@@ -18380,9 +18323,6 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 #EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD" tvg-name="CNBC TV18 Prime HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Variedades",CNBC TV18 Prime HD
 #EXTGRP:🏳️ Other Countries • Variedades
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-name="Discovery Turbo" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" tvg-language="eng" tvg-country="IN" group-title="🏳️ Other Countries • Variedades",Discovery Turbo
-#EXTGRP:🏳️ Other Countries • Variedades
-http://116.90.120.149:8000/play/a11d/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.it@HD" tvg-name="DMAX" tvg-logo="https://i.imgur.com/uGd9fnn.png" tvg-language="ita;eng" tvg-country="IT" group-title="🏳️ Other Countries • Variedades",DMAX
 #EXTGRP:🏳️ Other Countries • Variedades
 http://102.129.186.182:81/dmax/index.m3u8
@@ -18426,9 +18366,6 @@ https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
 #EXTINF:-1 tvg-id="Medknivenforstruben.se@DK" tvg-name="Med kniven for struben" tvg-logo="https://images.pluto.tv/channels/63e3b33e8795f300087e6a46/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Variedades",Med kniven for struben
 #EXTGRP:🏳️ Other Countries • Variedades
 https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
-#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" tvg-name="Monte Carlo Digital Television" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" tvg-language="eng" tvg-country="FR" group-title="🏳️ Other Countries • Variedades",Monte Carlo Digital Television
-#EXTGRP:🏳️ Other Countries • Variedades
-https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-language="eng" tvg-country="DE" group-title="🏳️ Other Countries • Variedades",Motorvision
 #EXTGRP:🏳️ Other Countries • Variedades
 https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
@@ -18440,7 +18377,7 @@ https://cdn.pishow.tv/ott/live/1285/master.m3u8
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-name="Okhota i rybalka" tvg-logo="https://i.imgur.com/nZwBaeW.png" tvg-language="rus;eng" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Okhota i rybalka
 #EXTGRP:🏳️ Other Countries • Variedades
-http://stream.mcquack.net/155/index.m3u8
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PeerTVSouthTyrol.it@SD" tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-language="eng" tvg-country="IT" group-title="🏳️ Other Countries • Variedades",Peer TV South Tyrol
 #EXTGRP:🏳️ Other Countries • Variedades
 https://iptv.peer.biz/live/peertv-en.m3u8
@@ -18471,9 +18408,6 @@ https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
 #EXTINF:-1 tvg-id="TLC.hu@SD" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-language="hun;eng" tvg-country="HU" group-title="🏳️ Other Countries • Variedades",TLC
 #EXTGRP:🏳️ Other Countries • Variedades
 http://88.212.7.14/live/tlc_hungary/index.m3u8
-#EXTINF:-1 tvg-id="TLC.in@HD" tvg-name="TLC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" tvg-language="eng;hin" tvg-country="IN" group-title="🏳️ Other Countries • Variedades",TLC
-#EXTGRP:🏳️ Other Countries • Variedades
-http://116.90.120.149:8000/play/a11g/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.pl@SD" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" tvg-language="eng" tvg-country="PL" group-title="🏳️ Other Countries • Variedades",Travel Channel
 #EXTGRP:🏳️ Other Countries • Variedades
 http://92.114.85.87:8011/play/a00d/index.m3u8
@@ -18759,12 +18693,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="Moymir.ru@SD" tvg-name="Moy mir" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Moy mir
 #EXTGRP:🏳️ Other Countries • Variedades
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-name="Moya Planeta" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Moya Planeta
-#EXTGRP:🏳️ Other Countries • Variedades
-http://stream.mcquack.net/124/index.m3u8
-#EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" tvg-name="Moya stikhiya" tvg-logo="https://i.imgur.com/Sl8c9eB.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Moya stikhiya
-#EXTGRP:🏳️ Other Countries • Variedades
-http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="NashaTema.ru@SD" tvg-name="Nasha Tema" tvg-logo="https://i.imgur.com/67ZVDKW.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Nasha Tema
 #EXTGRP:🏳️ Other Countries • Variedades
 https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
@@ -18835,7 +18763,7 @@ https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" tvg-name="Retro" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Retro
 #EXTGRP:🏳️ Other Countries • Variedades
-http://176.118.197.101/Retro/index.m3u8
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru@HD" tvg-name="RTG TV" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",RTG TV
 #EXTGRP:🏳️ Other Countries • Variedades
 http://46.53.200.153:7777/play/a00u/index.m3u8
@@ -18871,7 +18799,7 @@ https://live.shoppingntmall.com/live/10011.m3u8
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-name="Telecafe" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Variedades",Telecafe
 #EXTGRP:🏳️ Other Countries • Variedades
-http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl@SD" tvg-name="Telewizja Biznesowa" tvg-logo="https://i.imgur.com/XC7i7ZL.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Variedades",Telewizja Biznesowa
 #EXTGRP:🏳️ Other Countries • Variedades
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
@@ -18933,9 +18861,6 @@ https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-name="Zee Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Variedades",Zee Business
 #EXTGRP:🏳️ Other Countries • Variedades
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-name="Zee Classic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Variedades",Zee Classic
-#EXTGRP:🏳️ Other Countries • Variedades
-http://116.90.120.149:8000/play/a121/index.m3u8
 #EXTINF:-1 tvg-id="TVM.mz@SD" tvg-name="TVM" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" tvg-language="por" tvg-country="MZ" group-title="🏳️ Other Countries • Geral",TVM
 #EXTGRP:🏳️ Other Countries • Geral
 https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
@@ -19080,6 +19005,9 @@ https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="KRCTV.ug@SD" tvg-name="KRC TV" tvg-logo="https://i.imgur.com/8c9Uqks.jpeg" tvg-language="eng;lug" tvg-country="UG" group-title="🏳️ Other Countries • Geral",KRC TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://channels.ad-ug.com/live/ch03/index.m3u8
+#EXTINF:-1 tvg-id="KTV.ug@SD" tvg-name="KTV" tvg-logo="https://i.imgur.com/IA8Srft.jpg" tvg-language="eng;lug" tvg-country="UG" group-title="🏳️ Other Countries • Geral",KTV
+#EXTGRP:🏳️ Other Countries • Geral
+https://stream.kingdommediaug.com/ktv/video.m3u8
 #EXTINF:-1 tvg-id="MERUTV.ke@SD" tvg-name="MERU TV" tvg-logo="https://i.imgur.com/EPmWNfz.jpg" tvg-language="eng" tvg-country="KE" group-title="🏳️ Other Countries • Geral",MERU TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
@@ -19089,6 +19017,12 @@ https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 #EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-name="MMTV" tvg-logo="https://i.imgur.com/21tpl5b.png" tvg-language="eng;div" tvg-country="MV" group-title="🏳️ Other Countries • Geral",MMTV
 #EXTGRP:🏳️ Other Countries • Geral
 https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="Moji.id@SD" tvg-name="Moji" tvg-logo="https://i.imgur.com/mM9zapJ.png" tvg-language="ind;eng" tvg-country="ID" group-title="🏳️ Other Countries • Geral",Moji
+#EXTGRP:🏳️ Other Countries • Geral
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
+#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm@SD" tvg-name="Myanmar International TV" tvg-logo="https://i.imgur.com/ClmWqE5.png" tvg-language="eng" tvg-country="MM" group-title="🏳️ Other Countries • Geral",Myanmar International TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://mrtvott.com/cache/MITV/master.m3u8
 #EXTINF:-1 tvg-id="NACTV.ca@SD" tvg-name="NACTV" tvg-logo="https://i.imgur.com/FzM95rH.png" tvg-language="eng" tvg-country="CA" group-title="🏳️ Other Countries • Geral",NACTV
 #EXTGRP:🏳️ Other Countries • Geral
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
@@ -19676,12 +19610,17 @@ https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Avers.ua@SD" tvg-name="Avers" tvg-logo="https://i.imgur.com/rHHz94D.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",Avers
 #EXTGRP:🏳️ Other Countries • Geral
 https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-name="Ayaz TV" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" tvg-language="aze" tvg-country="AZ" group-title="🏳️ Other Countries • Geral",Ayaz TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-name="Az Star TV" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-language="aze" tvg-country="CA" group-title="🏳️ Other Countries • Geral",Az Star TV
 #EXTGRP:🏳️ Other Countries • Geral
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AzTV.az@HD" tvg-name="Az TV" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-language="aze" tvg-country="AZ" group-title="🏳️ Other Countries • Geral",Az TV
 #EXTGRP:🏳️ Other Countries • Geral
-https://operativmm.az/tvs/az/stream9/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az@HD" tvg-name="Azad TV" tvg-language="aze" tvg-country="AZ" group-title="🏳️ Other Countries • Geral",Azad TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
@@ -19898,7 +19837,7 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CalvaryTV.in@SD" tvg-name="Calvary TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png" tvg-language="tel" tvg-country="IN" group-title="🏳️ Other Countries • Geral",Calvary TV
 #EXTGRP:🏳️ Other Countries • Geral
-https://cdn.pishow.tv/ott/live/963/master.m3u8
+https://5dd3981940faa.streamlock.net/calvarytv/calvarytv/playlist.m3u8
 #EXTINF:-1 tvg-id="CAM10TV.cm@SD" tvg-name="CAM 10 TV" tvg-logo="https://i.imgur.com/xspb9uY.png" tvg-language="fra" tvg-country="CM" group-title="🏳️ Other Countries • Geral",CAM 10 TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://stream.it-innov.com/cam10tv/index.m3u8
@@ -20542,6 +20481,12 @@ https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-id="hrfernsehen.de@HD" tvg-name="hr-fernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",hr-fernsehen
 #EXTGRP:🏳️ Other Countries • Geral
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Geral",HTV1
+#EXTGRP:🏳️ Other Countries • Geral
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 tvg-id="HTV7.vn@HD" tvg-name="HTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Geral",HTV7
+#EXTGRP:🏳️ Other Countries • Geral
+https://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:-1 tvg-id="HunanEconomyChannel.cn@SD" tvg-name="Hunan Economy Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/hnjs.jpg" tvg-language="zho" tvg-country="CN" group-title="🏳️ Other Countries • Geral",Hunan Economy Channel
 #EXTGRP:🏳️ Other Countries • Geral
 https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
@@ -20578,7 +20523,7 @@ https://netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="Ingushetia.ru@SD" tvg-name="Ingushetia" tvg-logo="https://i.imgur.com/Fw2Hkk4.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Ingushetia
 #EXTGRP:🏳️ Other Countries • Geral
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 tvg-id="InterPlus.ua@SD" tvg-name="Inter+" tvg-logo="https://i.imgur.com/Y392Hh4.png" tvg-language="ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",Inter+
+#EXTINF:-1 tvg-id="InterPlus.ua@HD" tvg-name="Inter+" tvg-logo="https://i.imgur.com/Y392Hh4.png" tvg-language="rus;ukr" tvg-country="UA" group-title="🏳️ Other Countries • Geral",Inter+
 #EXTGRP:🏳️ Other Countries • Geral
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro@SD" tvg-name="Intermedia TV" tvg-logo="https://i.imgur.com/cNXM4Mu.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Geral",Intermedia TV
@@ -21067,9 +21012,6 @@ https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
 #EXTGRP:🏳️ Other Countries • Geral
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 tvg-id="MirBelogorya.ru@SD" tvg-name="Mir Belogorya" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Mir Belogorya
-#EXTGRP:🏳️ Other Countries • Geral
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MnauTV.cz@SD" tvg-name="Mnau TV" tvg-logo="https://i.imgur.com/deVHJKS.png" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Geral",Mnau TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
@@ -21100,15 +21042,27 @@ https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
 #EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-name="Moskva. Doveriye" tvg-logo="https://i.imgur.com/QDqDQzt.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Moskva. Doveriye
 #EXTGRP:🏳️ Other Countries • Geral
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+#EXTINF:-1 tvg-id="MRTV.mm@HD" tvg-name="MRTV" tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-language="mya" tvg-country="MM" group-title="🏳️ Other Countries • Geral",MRTV
+#EXTGRP:🏳️ Other Countries • Geral
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:-1 tvg-id="MTR.sk@SD" tvg-name="MTR" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" tvg-language="slk" tvg-country="SK" group-title="🏳️ Other Countries • Geral",MTR
 #EXTGRP:🏳️ Other Countries • Geral
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-id="MTRK.kz@SD" tvg-name="MTRK" tvg-logo="https://i.imgur.com/XMyRwDk.png" tvg-language="rus" tvg-country="KZ" group-title="🏳️ Other Countries • Geral",MTRK
+#EXTGRP:🏳️ Other Countries • Geral
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-name="MTV Lebanon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" tvg-language="ara" tvg-country="LB" group-title="🏳️ Other Countries • Geral",MTV Lebanon
 #EXTGRP:🏳️ Other Countries • Geral
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+#EXTINF:-1 tvg-id="MTVSub.fi@SD" tvg-name="MTV Sub" tvg-language="fin" tvg-country="FI" group-title="🏳️ Other Countries • Geral",MTV Sub
+#EXTGRP:🏳️ Other Countries • Geral
+https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" tvg-name="MTV Volgograd" tvg-logo="https://i.imgur.com/pdCAUrP.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",MTV Volgograd
 #EXTGRP:🏳️ Other Countries • Geral
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV3.fi@SD" tvg-name="MTV3" tvg-language="fin;swe" tvg-country="FI" group-title="🏳️ Other Countries • Geral",MTV3
+#EXTGRP:🏳️ Other Countries • Geral
+https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de@SD" tvg-name="Munchen TV" tvg-logo="https://i.imgur.com/lt7xNWW.png" tvg-language="deu" tvg-country="DE" group-title="🏳️ Other Countries • Geral",Munchen TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
@@ -22600,7 +22554,7 @@ https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="T24.ru@SD" tvg-name="T24" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",T24
 #EXTGRP:🏳️ Other Countries • Geral
-http://178.134.1.158:8081/t24/index.m3u8
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="T7.xk@SD" tvg-name="T7" tvg-logo="https://i.imgur.com/b7FvSJj.png" tvg-language="sqi" tvg-country="XK" group-title="🏳️ Other Countries • Geral",T7
 #EXTGRP:🏳️ Other Countries • Geral
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
@@ -22903,6 +22857,12 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playl
 #EXTINF:-1 tvg-id="TownTV.kh@SD" tvg-name="Town TV" tvg-logo="https://i.imgur.com/9fUGvVG.png" tvg-language="khm" tvg-country="KH" group-title="🏳️ Other Countries • Geral",Town TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+#EXTINF:-1 tvg-id="TransTV.id@HD" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Geral",Trans TV
+#EXTGRP:🏳️ Other Countries • Geral
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7.id@HD" tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" tvg-language="ind" tvg-country="ID" group-title="🏳️ Other Countries • Geral",Trans7
+#EXTGRP:🏳️ Other Countries • Geral
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.cz@SD" tvg-name="Travel Channel" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/e4/Travel_Channel_International_%282017%29.svg/revision/latest?cb=20250820081027" tvg-language="ces" tvg-country="CZ" group-title="🏳️ Other Countries • Geral",Travel Channel
 #EXTGRP:🏳️ Other Countries • Geral
 http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
@@ -22918,7 +22878,7 @@ https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="TropojaTelevizion.al@SD" tvg-name="Tropoja Televizion" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-language="sqi" tvg-country="AL" group-title="🏳️ Other Countries • Geral",Tropoja Televizion
 #EXTGRP:🏳️ Other Countries • Geral
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Geral",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr@HD" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Geral",TRT 1
 #EXTGRP:🏳️ Other Countries • Geral
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr@SD" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/iOCQdyD.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Geral",TRT 2
@@ -23638,7 +23598,7 @@ https://streaming.televizor-24-tochka.ru/live/25.m3u8
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" tvg-name="Zagorodnaya Zhizn" tvg-logo="https://i.imgur.com/RoYd5pz.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Geral",Zagorodnaya Zhizn
 #EXTGRP:🏳️ Other Countries • Geral
-http://185.57.68.33/40/index.m3u8
+https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/9Mspf32.png" tvg-language="ara" tvg-country="IQ" group-title="🏳️ Other Countries • Geral",Zagros TV
 #EXTGRP:🏳️ Other Countries • Geral
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
