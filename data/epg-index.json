@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-11-23T18:17:46.309Z",
+ "generatedAt": "2026-11-24T17:47:27.194Z",
  "horizonHours": 72,
- "channelsInGuide": 934,
- "programmes": 36641,
+ "channelsInGuide": 932,
+ "programmes": 29574,
  "sources": [
   {
    "id": "mi.tv",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 208,
-   "channelsWithProgrammes": 193,
-   "programmes": 8924,
+   "requestedChannels": 209,
+   "channelsWithProgrammes": 194,
+   "programmes": 9324,
    "note": null
   },
   {
@@ -18,17 +18,17 @@
    "kind": "grabber",
    "ok": true,
    "requestedChannels": 33,
-   "channelsWithProgrammes": 16,
-   "programmes": 288,
+   "channelsWithProgrammes": 19,
+   "programmes": 276,
    "note": null
   },
   {
    "id": "meo.pt",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 51,
-   "channelsWithProgrammes": 51,
-   "programmes": 1591,
+   "requestedChannels": 52,
+   "channelsWithProgrammes": 52,
+   "programmes": 1627,
    "note": null
   },
   {
@@ -37,16 +37,16 @@
    "ok": true,
    "requestedChannels": 37,
    "channelsWithProgrammes": 23,
-   "programmes": 416,
+   "programmes": 464,
    "note": null
   },
   {
    "id": "gatotv.com",
    "kind": "grabber",
    "ok": true,
-   "requestedChannels": 131,
-   "channelsWithProgrammes": 126,
-   "programmes": 4188,
+   "requestedChannels": 128,
+   "channelsWithProgrammes": 109,
+   "programmes": 3353,
    "note": null
   },
   {
@@ -55,7 +55,7 @@
    "ok": true,
    "requestedChannels": 400,
    "channelsWithProgrammes": 387,
-   "programmes": 12448,
+   "programmes": 12179,
    "note": null
   },
   {
@@ -63,8 +63,8 @@
    "kind": "published",
    "ok": true,
    "requestedChannels": -1,
-   "channelsWithProgrammes": 339,
-   "programmes": 8786,
+   "channelsWithProgrammes": 326,
+   "programmes": 2351,
    "note": null
   },
   {
@@ -78,10 +78,10 @@
   }
  ],
  "dropped": {
-  "duplicates": 14758,
-  "outOfHorizon": 13811,
+  "duplicates": 12809,
+  "outOfHorizon": 22762,
   "invalidTimestamp": 0,
-  "unknownChannel": 48843,
+  "unknownChannel": 48951,
   "malformed": 0
  },
  "missing": [
@@ -843,6 +843,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TVArapuan.br@SD",
+   "name": "TV Arapuan",
+   "countryGroup": "BR",
+   "guideSites": []
+  },
+  {
    "tvgId": "TVBrasilOeste.br@SD",
    "name": "TV Brasil Oeste",
    "countryGroup": "BR",
@@ -857,6 +863,12 @@
   {
    "tvgId": "TVBrusque.br@SD",
    "name": "TV Brusque",
+   "countryGroup": "BR",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVCAJUIWEB.br@HD",
+   "name": "TV CAJUI WEB",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -911,6 +923,12 @@
   {
    "tvgId": "TVLifeAmerica.br@HD",
    "name": "TV Life America",
+   "countryGroup": "BR",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVLitoralRN.br@SD",
+   "name": "TV Litoral RN",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -989,6 +1007,12 @@
   {
    "tvgId": "TVSimCachoeiro.br@SD",
    "name": "TV Sim Cachoeiro",
+   "countryGroup": "BR",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVSulBahia.br@SD",
+   "name": "TV Sul Bahia",
    "countryGroup": "BR",
    "guideSites": []
   },
@@ -1600,6 +1624,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "FuengirolaTV.es@SD",
+   "name": "Fuengirola TV",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
    "tvgId": "FuerteventuraTV.es@SD",
    "name": "Fuerteventura TV",
    "countryGroup": "ES",
@@ -2075,6 +2105,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "TV4LaVall.es@SD",
+   "name": "TV4 La Vall",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
    "tvgId": "TVA.es@SD",
    "name": "TVA",
    "countryGroup": "ES",
@@ -2089,6 +2125,30 @@
   {
    "tvgId": "TVEStar.es@HD",
    "name": "TVE Star",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVGCativos.es@SD",
+   "name": "TVG Cativos",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVGMiraRadioGalega.es@SD",
+   "name": "TVG Mira Radio Galega",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVGMocinos.es@SD",
+   "name": "TVG Mocinos",
+   "countryGroup": "ES",
+   "guideSites": []
+  },
+  {
+   "tvgId": "TVGPequerrechos.es@SD",
+   "name": "TVG Pequerrechos",
    "countryGroup": "ES",
    "guideSites": []
   },
@@ -2449,6 +2509,12 @@
    "guideSites": [
     "watch.whaletvplus.com"
    ]
+  },
+  {
+   "tvgId": "KNMusicTV.az@SD",
+   "name": "KN Music TV",
+   "countryGroup": "INT",
+   "guideSites": []
   },
   {
    "tvgId": "LCI.fr@HD",
@@ -3561,6 +3627,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "BoricuaTV.pr@SD",
+   "name": "Boricua TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "BragadoTV.ar@SD",
    "name": "Bragado TV",
    "countryGroup": "LATAM",
@@ -3701,6 +3773,18 @@
   {
    "tvgId": "Canal11.gt@SD",
    "name": "Canal 11",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Canal11delaCosta.ar@SD",
+   "name": "Canal 11 de la Costa",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Canal11Machagai.ar@SD",
+   "name": "Canal 11 Machagai",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -4966,12 +5050,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "DiscoveryScienceLatinAmerica.us@ColombiaPeru",
-   "name": "Discovery Science Latin America",
-   "countryGroup": "LATAM",
-   "guideSites": []
-  },
-  {
    "tvgId": "DismarRadioTV.py@SD",
    "name": "Dismar Radio TV",
    "countryGroup": "LATAM",
@@ -5358,6 +5436,12 @@
   {
    "tvgId": "FortalezaTV.cl@SD",
    "name": "Fortaleza TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
+   "tvgId": "FOX.mx@HD",
+   "name": "FOX",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -6521,14 +6605,14 @@
    "guideSites": []
   },
   {
-   "tvgId": "NeoTV.ar@SD",
+   "tvgId": "NeoTV.pe@SD",
    "name": "Neo TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
   {
-   "tvgId": "NeoTV.pe@SD",
-   "name": "Neo TV",
+   "tvgId": "NeoxTV.ar@SD",
+   "name": "Neox TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -6563,6 +6647,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "NimTV.gt@SD",
+   "name": "Nim TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "NinaTV.cl@SD",
    "name": "Nina TV",
    "countryGroup": "LATAM",
@@ -6581,8 +6671,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "Noticias16.do@SD",
-   "name": "Noticias 16",
+   "tvgId": "NorteTV.ar@SD",
+   "name": "Norte TV",
    "countryGroup": "LATAM",
    "guideSites": []
   },
@@ -8614,7 +8704,7 @@
    "guideSites": []
   },
   {
-   "tvgId": "TheRetroChannel.pr@SD",
+   "tvgId": "TheRetroChannel.pr@HD",
    "name": "The Retro Channel",
    "countryGroup": "LATAM",
    "guideSites": []
@@ -8630,14 +8720,6 @@
    "name": "TicaVision",
    "countryGroup": "LATAM",
    "guideSites": []
-  },
-  {
-   "tvgId": "TigoSports.gt@SD",
-   "name": "Tigo Sports",
-   "countryGroup": "LATAM",
-   "guideSites": [
-    "gatotv.com"
-   ]
   },
   {
    "tvgId": "TigoSportsPlus.py@SD",
@@ -9785,6 +9867,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "WIMNTV.pr@SD",
+   "name": "WIMN-TV",
+   "countryGroup": "LATAM",
+   "guideSites": []
+  },
+  {
    "tvgId": "WinPlusFutbol.co@SD",
    "name": "Win+ Futbol",
    "countryGroup": "LATAM",
@@ -9975,10 +10063,13 @@
    "guideSites": []
   },
   {
-   "tvgId": "black.ru@HD",
+   "tvgId": "black.ru@SD",
    "name": ".black",
    "countryGroup": "OTHER",
-   "guideSites": []
+   "guideSites": [
+    "epg.iptvx.one",
+    "tv.mail.ru"
+   ]
   },
   {
    "tvgId": "red.ru@HD",
@@ -10189,7 +10280,7 @@
    ]
   },
   {
-   "tvgId": "2MMonde.ma@Plus1",
+   "tvgId": "2MMonde.ma@HD",
    "name": "2M Monde",
    "countryGroup": "OTHER",
    "guideSites": []
@@ -10736,12 +10827,6 @@
    ]
   },
   {
-   "tvgId": "AagaazTimes.in@SD",
-   "name": "Aagaaz Times",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "AajKiKhabar.in@SD",
    "name": "Aaj Ki Khabar",
    "countryGroup": "OTHER",
@@ -11214,6 +11299,12 @@
   {
    "tvgId": "AISTTV.ru@SD",
    "name": "AIST TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "AJNetNews.in@SD",
+   "name": "AJ Net News",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -12075,6 +12166,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "AnewZTV.az@SD",
+   "name": "AnewZ TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "AngelTV.in@Africa",
    "name": "Angel TV",
    "countryGroup": "OTHER",
@@ -12641,12 +12738,6 @@
   {
    "tvgId": "AshwaveegaNews24x7.in@SD",
    "name": "Ashwaveega News 24x7",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "AsiaExpressNonStop.ro@SD",
-   "name": "Asia Express NonStop",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -13244,6 +13335,12 @@
   {
    "tvgId": "BajaiTV.hu@SD",
    "name": "Bajai TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BakuTV.az@SD",
+   "name": "Baku.TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -14136,6 +14233,12 @@
    ]
   },
   {
+   "tvgId": "BRIDGEDance.ru@SD",
+   "name": "BRIDGE Dance",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "BRIDGEDeluxe.ru@HD",
    "name": "BRIDGE Deluxe",
    "countryGroup": "OTHER",
@@ -14152,12 +14255,48 @@
    ]
   },
   {
+   "tvgId": "BRIDGEJazz.ru@SD",
+   "name": "BRIDGE Jazz",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BRIDGERap.ru@SD",
+   "name": "BRIDGE Rap",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BRIDGERNB.ru@SD",
+   "name": "BRIDGE RNB",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "BRIDGERock.ru@SD",
    "name": "BRIDGE Rock",
    "countryGroup": "OTHER",
    "guideSites": [
     "tv.mail.ru"
    ]
+  },
+  {
+   "tvgId": "BRIDGESoul.ru@SD",
+   "name": "BRIDGE Soul",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BRIDGESymphony.ru@SD",
+   "name": "BRIDGE Symphony",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "BRIDGEVostok.ru@SD",
+   "name": "BRIDGE Vostok",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "BrionnaisTV.fr@SD",
@@ -15450,12 +15589,6 @@
    ]
   },
   {
-   "tvgId": "Chefilacutite.ro@SD",
-   "name": "Chefi la cutite",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "Chefiro.ro@HD",
    "name": "Chefi.ro",
    "countryGroup": "OTHER",
@@ -15526,6 +15659,12 @@
   {
    "tvgId": "CinCin.de@IT",
    "name": "Cin Cin",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Cine1.tr@SD",
+   "name": "Cine 1",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -16006,32 +16145,19 @@
    ]
   },
   {
-   "tvgId": "Colors.in@HD",
+   "tvgId": "Colors.in@SD",
    "name": "Colors",
    "countryGroup": "OTHER",
    "guideSites": [
     "airtelxstream.in",
-    "dishtv.in"
-   ]
-  },
-  {
-   "tvgId": "ColorsBangla.in@HD",
-   "name": "Colors Bangla",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
+    "content.astro.com.my",
     "dishtv.in",
-    "tataplay.com"
-   ]
-  },
-  {
-   "tvgId": "ColorsBanglaCinema.in@SD",
-   "name": "Colors Bangla Cinema",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
+    "singtel.com",
+    "sky.com",
+    "startimestv.com",
+    "tataplay.com",
+    "tv.sfr.fr",
+    "ziggogo.tv"
    ]
   },
   {
@@ -16375,6 +16501,12 @@
     "mujtvprogram.cz",
     "tv.blue.ch"
    ]
+  },
+  {
+   "tvgId": "CTN.kh@SD",
+   "name": "CTN",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "CTV9.kh@SD",
@@ -17990,12 +18122,6 @@
    ]
   },
   {
-   "tvgId": "E.pl@SD",
-   "name": "E!",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "EACNewsTV.kh@SD",
    "name": "EAC News TV",
    "countryGroup": "OTHER",
@@ -18144,6 +18270,12 @@
   {
    "tvgId": "ElRadio9090FM.eg@SD",
    "name": "El Radio 9090 FM",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ELTV.az@SD",
+   "name": "EL TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -18855,6 +18987,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "FajerTV1.ps@SD",
+   "name": "Fajer TV 1",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "FaktMarathi.in@SD",
    "name": "Fakt Marathi",
    "countryGroup": "OTHER",
@@ -19036,6 +19174,12 @@
   {
    "tvgId": "FicomChannel.id@SD",
    "name": "Ficom Channel",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "FieriTv.al@HD",
+   "name": "Fieri Tv",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -19331,12 +19475,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "FormulaAcademyAntenaPlay.ro@SD",
-   "name": "Formula Academy AntenaPlay",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "Forsidefruer.se@DK",
    "name": "Forsidefruer",
    "countryGroup": "OTHER",
@@ -19552,12 +19690,6 @@
   {
    "tvgId": "GaundaPunjabTV.ca@SD",
    "name": "Gaunda Punjab TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "GaziTV.bd@SD",
-   "name": "Gazi TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -20515,17 +20647,6 @@
    ]
   },
   {
-   "tvgId": "History2.pl@SD",
-   "name": "History 2",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "epg.iptvx.one",
-    "programtv.onet.pl",
-    "tv2go.t-2.net",
-    "tvprofil.com"
-   ]
-  },
-  {
    "tvgId": "History2.cz@SD",
    "name": "History2",
    "countryGroup": "OTHER",
@@ -20814,13 +20935,19 @@
    ]
   },
   {
+   "tvgId": "HTV2.vn@HD",
+   "name": "HTV2",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "HTV3.vn@SD",
    "name": "HTV3",
    "countryGroup": "OTHER",
    "guideSites": []
   },
   {
-   "tvgId": "HTV4.vn@SD",
+   "tvgId": "HTV4.vn@HD",
    "name": "HTV4",
    "countryGroup": "OTHER",
    "guideSites": []
@@ -21813,12 +21940,6 @@
    ]
   },
   {
-   "tvgId": "JalwaTV.pk@SD",
-   "name": "Jalwa TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "JambiTV.id@SD",
    "name": "Jambi TV",
    "countryGroup": "OTHER",
@@ -22447,6 +22568,12 @@
   {
    "tvgId": "KantipurTV.np@HD",
    "name": "Kantipur TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "KapazTV.az@SD",
+   "name": "Kapaz TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -23636,6 +23763,12 @@
    ]
   },
   {
+   "tvgId": "LixdofTV.gh@SD",
+   "name": "Lixdof TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "LN24SA.za@SD",
    "name": "LN24SA",
    "countryGroup": "OTHER",
@@ -23912,6 +24045,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "M3UWorld4K.bd@HD",
+   "name": "M3U World 4K",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "M4Sport.hu@SD",
    "name": "M4 Sport",
    "countryGroup": "OTHER",
@@ -24133,6 +24272,12 @@
   {
    "tvgId": "MahdawiounTV.iq@HD",
    "name": "MahdawiounTV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "MahimaiTV.in@SD",
+   "name": "Mahimai TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -25089,6 +25234,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "MiniDisco.ru@SD",
+   "name": "Mini Disco",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "MinikaCocuk.tr@SD",
    "name": "Minika Cocuk",
    "countryGroup": "OTHER",
@@ -25561,6 +25712,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "MSJTV.kh@SD",
+   "name": "MSJ TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "MTR.sk@SD",
    "name": "MTR",
    "countryGroup": "OTHER",
@@ -25994,12 +26151,6 @@
    ]
   },
   {
-   "tvgId": "Nasim.ir@SD",
-   "name": "Nasim",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "NasulTV.ro@SD",
    "name": "Nasul TV",
    "countryGroup": "OTHER",
@@ -26105,14 +26256,6 @@
    ]
   },
   {
-   "tvgId": "NationalGeographicWild.pl@SD",
-   "name": "National Geographic Wild",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "programtv.onet.pl"
-   ]
-  },
-  {
    "tvgId": "NationalGeographicWild.ro@SD",
    "name": "National Geographic Wild",
    "countryGroup": "OTHER",
@@ -26142,14 +26285,6 @@
    "countryGroup": "OTHER",
    "guideSites": [
     "magticom.ge"
-   ]
-  },
-  {
-   "tvgId": "Nauka.ua@SD",
-   "name": "Nauka",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "epg.iptvx.one"
    ]
   },
   {
@@ -26205,17 +26340,6 @@
    "name": "NCN",
    "countryGroup": "OTHER",
    "guideSites": []
-  },
-  {
-   "tvgId": "NDRFernsehen.de@Hamburg",
-   "name": "NDR Fernsehen",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "sky.com",
-    "teleboy.ch",
-    "tv.blue.ch",
-    "ziggogo.tv"
-   ]
   },
   {
    "tvgId": "NDTV.in@SD",
@@ -26445,6 +26569,12 @@
    ]
   },
   {
+   "tvgId": "NewsCapitalGujarat.in@SD",
+   "name": "News Capital Gujarat",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "NewsCapitalMarket.in@SD",
    "name": "News Capital Market",
    "countryGroup": "OTHER",
@@ -26475,21 +26605,6 @@
    "guideSites": [
     "dishtv.in"
    ]
-  },
-  {
-   "tvgId": "NewsJ.in@SD",
-   "name": "News J",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "tataplay.com"
-   ]
-  },
-  {
-   "tvgId": "NewsLeader.in@SD",
-   "name": "News Leader",
-   "countryGroup": "OTHER",
-   "guideSites": []
   },
   {
    "tvgId": "NewsLive.in@SD",
@@ -26604,6 +26719,160 @@
    "name": "News1",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "News18AssamNorthEast.in@SD",
+   "name": "News18 Assam North-East",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Bangla.in@SD",
+   "name": "News18 Bangla",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18BiharJharkhand.in@SD",
+   "name": "News18 Bihar Jharkhand",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18DelhiNCRJK.in@SD",
+   "name": "News18 Delhi NCR JK",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Gujarati.in@SD",
+   "name": "News18 Gujarati",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18India.in@SD",
+   "name": "News18 India",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Kannada.in@SD",
+   "name": "News18 Kannada",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Kerala.in@SD",
+   "name": "News18 Kerala",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18MadhyaPradeshChhattisgarh.in@SD",
+   "name": "News18 Madhya Pradesh/Chhattisgarh",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Marathi.in@SD",
+   "name": "News18 Marathi",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Odia.in@SD",
+   "name": "News18 Odia",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18PunjabHaryanaHimachal.in@SD",
+   "name": "News18 Punjab/Haryana/Himachal",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Rajasthan.in@SD",
+   "name": "News18 Rajasthan",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18TamilNadu.in@SD",
+   "name": "News18 Tamil Nadu",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
+  },
+  {
+   "tvgId": "News18Urdu.in@SD",
+   "name": "News18 Urdu",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "News18UttarPradeshUttarakhand.in@SD",
+   "name": "News18 Uttar Pradesh Uttarakhand",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "airtelxstream.in",
+    "dishtv.in",
+    "tataplay.com"
+   ]
   },
   {
    "tvgId": "News24.au@SD",
@@ -26733,16 +27002,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "NickHDPlus.in@HD",
-   "name": "Nick HD+",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
-   ]
-  },
-  {
    "tvgId": "NickJr.cz@SD",
    "name": "Nick Jr.",
    "countryGroup": "OTHER",
@@ -26841,14 +27100,6 @@
     "guidatv.sky.it",
     "sky.com",
     "superguidatv.it"
-   ]
-  },
-  {
-   "tvgId": "Nickelodeon.nl@HD",
-   "name": "Nickelodeon",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "pickx.be"
    ]
   },
   {
@@ -26958,22 +27209,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "NikiJunior.ua@SD",
-   "name": "Niki Junior",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "epg.iptvx.one"
-   ]
-  },
-  {
-   "tvgId": "NikiKids.ua@SD",
-   "name": "Niki Kids",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "epg.iptvx.one"
-   ]
-  },
-  {
    "tvgId": "NileDrama.eg@SD",
    "name": "Nile Drama",
    "countryGroup": "OTHER",
@@ -27064,6 +27299,14 @@
    "guideSites": []
   },
   {
+   "tvgId": "NogoumFMTV.eg@SD",
+   "name": "NogoumFMTV",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "sat.tv"
+   ]
+  },
+  {
    "tvgId": "NonStopBharat.in@SD",
    "name": "Non Stop Bharat",
    "countryGroup": "OTHER",
@@ -27076,18 +27319,18 @@
    "guideSites": []
   },
   {
+   "tvgId": "NoorTV.ir@SD",
+   "name": "Noor TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "NOOSTV.nl@SD",
    "name": "NOOS TV",
    "countryGroup": "OTHER",
    "guideSites": [
     "webtv.delta.nl"
    ]
-  },
-  {
-   "tvgId": "NopolaNews.fi@SD",
-   "name": "Nopola News",
-   "countryGroup": "OTHER",
-   "guideSites": []
   },
   {
    "tvgId": "NordiskkrimfraViaplay.se@NO",
@@ -27260,24 +27503,12 @@
    ]
   },
   {
-   "tvgId": "NovorossiyaTV.ru@SD",
-   "name": "Novorossiya TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "NovosadskaTV.rs@SD",
    "name": "Novosadska TV",
    "countryGroup": "OTHER",
    "guideSites": [
     "tvprofil.com"
    ]
-  },
-  {
-   "tvgId": "NovyiChannel.ua@SD",
-   "name": "Novyi Channel",
-   "countryGroup": "OTHER",
-   "guideSites": []
   },
   {
    "tvgId": "Now14.il@SD",
@@ -27311,6 +27542,12 @@
    ]
   },
   {
+   "tvgId": "NRTSport.iq@HD",
+   "name": "NRT Sport",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "NRWision.de@SD",
    "name": "NRWision",
    "countryGroup": "OTHER",
@@ -27339,15 +27576,6 @@
    "name": "NTC TV",
    "countryGroup": "OTHER",
    "guideSites": []
-  },
-  {
-   "tvgId": "NTK.kz@SD",
-   "name": "NTK",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "epg.iptvx.one",
-    "galamtv.kz"
-   ]
   },
   {
    "tvgId": "NTK21.ru@HD",
@@ -27561,6 +27789,24 @@
    "guideSites": []
   },
   {
+   "tvgId": "NWEconomie.tg@SD",
+   "name": "NW Economie",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "NWInfo.tg@SD",
+   "name": "NW Info",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "NWInfo2.tg@SD",
+   "name": "NW Info 2",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "NZTV.sk@SD",
    "name": "NZTV",
    "countryGroup": "OTHER",
@@ -27601,6 +27847,12 @@
   {
    "tvgId": "ObservatorNews.ro@SD",
    "name": "Observator News",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "ObshchestvennoeNezavisimoeTelevidenie.ua@SD",
+   "name": "Obshchestvennoe Nezavisimoe Televidenie",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -27651,12 +27903,6 @@
    ]
   },
   {
-   "tvgId": "Odeon24.it@SD",
-   "name": "Odeon 24",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "OdishaTV.in@SD",
    "name": "Odisha TV",
    "countryGroup": "OTHER",
@@ -27665,12 +27911,6 @@
     "dishtv.in",
     "tataplay.com"
    ]
-  },
-  {
-   "tvgId": "OfoghTV.ir@SD",
-   "name": "Ofogh TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
   },
   {
    "tvgId": "OhMuangLaoTV.la@SD",
@@ -27750,12 +27990,6 @@
     "epg.iptvx.one",
     "tv.mail.ru"
    ]
-  },
-  {
-   "tvgId": "OkkoFutbol.ru@SD",
-   "name": "Okko Futbol",
-   "countryGroup": "OTHER",
-   "guideSites": []
   },
   {
    "tvgId": "Okto.at@SD",
@@ -28071,14 +28305,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "OnePlanet.ua@SD",
-   "name": "One Planet",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "epg.iptvx.one"
-   ]
-  },
-  {
    "tvgId": "OneTV.lb@SD",
    "name": "One TV",
    "countryGroup": "OTHER",
@@ -28145,12 +28371,6 @@
    ]
   },
   {
-   "tvgId": "Oplot2.ru@SD",
-   "name": "Oplot 2",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "OplotTV.ru@Khartsyzsk",
    "name": "Oplot TV",
    "countryGroup": "OTHER",
@@ -28177,24 +28397,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "ORF1.at@SD",
-   "name": "ORF 1",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "canalplus.com",
-    "horizon.tv",
-    "m.tv.sms.cz",
-    "mujtvprogram.cz",
-    "neo.io",
-    "programtv.onet.pl",
-    "teleboy.ch",
-    "tv.blue.ch",
-    "tv.lv",
-    "tv2go.t-2.net",
-    "tvheute.at"
-   ]
-  },
-  {
    "tvgId": "ORF2.at@HD",
    "name": "ORF 2",
    "countryGroup": "OTHER",
@@ -28207,15 +28409,6 @@
    "guideSites": [
     "sky.com",
     "tv.magenta.at"
-   ]
-  },
-  {
-   "tvgId": "ORFSportPlus.at@SD",
-   "name": "ORF Sport+",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "tv.blue.ch",
-    "tvheute.at"
    ]
   },
   {
@@ -28257,6 +28450,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "OSBCTV.ng@SD",
+   "name": "OSBC TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "OscarMoviesBhojpuri.in@SD",
    "name": "Oscar Movies Bhojpuri",
    "countryGroup": "OTHER",
@@ -28272,20 +28471,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "OstWest24.de@SD",
-   "name": "Ost West 24",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "Ostrosyuzhetnoye.ru@HD",
-   "name": "Ostrosyuzhetnoye",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "tv.mail.ru"
-   ]
-  },
-  {
    "tvgId": "OtkritiymirZdorove.ru@SD",
    "name": "Otkritiy mir. Zdorove",
    "countryGroup": "OTHER",
@@ -28298,20 +28483,6 @@
    "guideSites": [
     "tv.mail.ru"
    ]
-  },
-  {
-   "tvgId": "OTSE.ua@SD",
-   "name": "OTSE",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "epg.iptvx.one"
-   ]
-  },
-  {
-   "tvgId": "OTV.gh@SD",
-   "name": "OTV",
-   "countryGroup": "OTHER",
-   "guideSites": []
   },
   {
    "tvgId": "OTV.lb@SD",
@@ -28379,12 +28550,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "PadangTV.id@SD",
-   "name": "Padang TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "PadharoSA.in@SD",
    "name": "Padharo SA",
    "countryGroup": "OTHER",
@@ -28437,12 +28602,6 @@
    ]
   },
   {
-   "tvgId": "Palestinetv.ir@SD",
-   "name": "Palestinetv",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "PalitraNews.ge@SD",
    "name": "Palitra News",
    "countryGroup": "OTHER",
@@ -28453,12 +28612,6 @@
   {
    "tvgId": "PamirTV.ca@SD",
    "name": "Pamir TV",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
-   "tvgId": "PanafricanMediaTV.cm@SD",
-   "name": "Panafrican Media TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -30556,16 +30709,6 @@
    ]
   },
   {
-   "tvgId": "RajTV.in@SD",
-   "name": "Raj TV",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
-   ]
-  },
-  {
    "tvgId": "RajdhaniTV.bd@SD",
    "name": "Rajdhani TV",
    "countryGroup": "OTHER",
@@ -30679,6 +30822,12 @@
   {
    "tvgId": "RBW.de@SD",
    "name": "RBW",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "RCTI.id@HD",
+   "name": "RCTI",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -31241,6 +31390,50 @@
    "guideSites": []
   },
   {
+   "tvgId": "RotanaCinemaKSA.sa@SD",
+   "name": "Rotana Cinema KSA",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "elcinema.com",
+    "rotana.net",
+    "sat.tv",
+    "tv.sfr.fr"
+   ]
+  },
+  {
+   "tvgId": "RotanaClassic.sa@SD",
+   "name": "Rotana Classic",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "chaines-tv.orange.fr",
+    "elcinema.com",
+    "rotana.net",
+    "sat.tv",
+    "tv.sfr.fr",
+    "tvtv.us"
+   ]
+  },
+  {
+   "tvgId": "RotanaClip.sa@SD",
+   "name": "Rotana Clip",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "chaines-tv.orange.fr",
+    "rotana.net",
+    "sat.tv"
+   ]
+  },
+  {
+   "tvgId": "RotanaMusic.sa@SD",
+   "name": "Rotana Music",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "chaines-tv.orange.fr",
+    "sat.tv",
+    "tv.sfr.fr"
+   ]
+  },
+  {
    "tvgId": "RotanaRadioJordanStudio.jo@SD",
    "name": "Rotana Radio Jordan Studio",
    "countryGroup": "OTHER",
@@ -31372,6 +31565,17 @@
    "name": "RTC Telecalabria",
    "countryGroup": "OTHER",
    "guideSites": []
+  },
+  {
+   "tvgId": "RTEjr.ie@SD",
+   "name": "RTEjr",
+   "countryGroup": "OTHER",
+   "guideSites": [
+    "entertainment.ie",
+    "mytelly.co.uk",
+    "sky.com",
+    "tvireland.ie"
+   ]
   },
   {
    "tvgId": "RTGTV.ru@HD",
@@ -32326,8 +32530,8 @@
    "guideSites": []
   },
   {
-   "tvgId": "SamayKolkata.in@SD",
-   "name": "Samay Kolkata",
+   "tvgId": "SamarraTV.iq@SD",
+   "name": "Samarra TV",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -32862,6 +33066,12 @@
     "tvheute.at",
     "web.magentatv.de"
    ]
+  },
+  {
+   "tvgId": "SesTV.az@SD",
+   "name": "Ses TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "SetantaSports1Eurasia.ie@SD",
@@ -33667,16 +33877,6 @@
    ]
   },
   {
-   "tvgId": "SonySAB.in@HD",
-   "name": "Sony SAB",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
-   ]
-  },
-  {
    "tvgId": "SonySportsTen3Hindi.in@SD",
    "name": "Sony Sports Ten 3 Hindi",
    "countryGroup": "OTHER",
@@ -33833,6 +34033,12 @@
     "dsmart.com.tr",
     "tvplus.com.tr"
    ]
+  },
+  {
+   "tvgId": "SpaceTV.az@SD",
+   "name": "Space TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "SpacetoonArabic.ae@SD",
@@ -34121,16 +34327,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "StarBharat.in@HD",
-   "name": "Star Bharat",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
-   ]
-  },
-  {
    "tvgId": "StarChannel.bg@SD",
    "name": "Star Channel",
    "countryGroup": "OTHER",
@@ -34226,22 +34422,6 @@
    ]
   },
   {
-   "tvgId": "StarMovies.in@HD",
-   "name": "Star Movies",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
-   ]
-  },
-  {
-   "tvgId": "StarNews.bd@SD",
-   "name": "Star News",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "StarPravah.in@HD",
    "name": "Star Pravah",
    "countryGroup": "OTHER",
@@ -34322,16 +34502,6 @@
    "name": "Starnet",
    "countryGroup": "OTHER",
    "guideSites": []
-  },
-  {
-   "tvgId": "StarPlus.in@HD",
-   "name": "StarPlus",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "dishtv.in",
-    "tataplay.com"
-   ]
   },
   {
    "tvgId": "StarsTV.pl@SD",
@@ -35073,6 +35243,12 @@
   {
    "tvgId": "SwamijiTVEuropean.at@SD",
    "name": "Swamiji TV European",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "Swantham.in@SD",
+   "name": "Swantham",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -37018,12 +37194,6 @@
    ]
   },
   {
-   "tvgId": "TTN24.in@SD",
-   "name": "TTN24",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "TTVNews.tw@SD",
    "name": "TTV News",
    "countryGroup": "OTHER",
@@ -38393,6 +38563,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "tvOne.id@HD",
+   "name": "tvOne",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "TvoyeTVYumor.ru@SD",
    "name": "Tvoye TV Yumor",
    "countryGroup": "OTHER",
@@ -38690,6 +38866,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "UniTV.mm@SD",
+   "name": "Uni TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "UNIANSerial.ua@SD",
    "name": "UNIAN Serial",
    "countryGroup": "OTHER",
@@ -38934,6 +39116,12 @@
    ]
   },
   {
+   "tvgId": "VBCNews.in@SD",
+   "name": "VBC News",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "VCV.in@SD",
    "name": "VCV",
    "countryGroup": "OTHER",
@@ -38977,6 +39165,12 @@
    "guideSites": [
     "tataplay.com"
    ]
+  },
+  {
+   "tvgId": "Verba.ru@SD",
+   "name": "Verba",
+   "countryGroup": "OTHER",
+   "guideSites": []
   },
   {
    "tvgId": "VerbumTV.lk@SD",
@@ -39300,6 +39494,12 @@
    ]
   },
   {
+   "tvgId": "VilayetTV.az@SD",
+   "name": "Vilayet TV",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
    "tvgId": "VillageTV.in@SD",
    "name": "Village TV",
    "countryGroup": "OTHER",
@@ -39562,12 +39762,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "VRLive.in@SD",
-   "name": "VR Live",
-   "countryGroup": "OTHER",
-   "guideSites": []
-  },
-  {
    "tvgId": "Vremya.ru@SD",
    "name": "Vremya",
    "countryGroup": "OTHER",
@@ -39728,6 +39922,12 @@
   {
    "tvgId": "WavezFM.aw@SD",
    "name": "Wavez FM",
+   "countryGroup": "OTHER",
+   "guideSites": []
+  },
+  {
+   "tvgId": "WayanadVision.in@SD",
+   "name": "Wayanad Vision",
    "countryGroup": "OTHER",
    "guideSites": []
   },
@@ -40415,16 +40615,6 @@
    ]
   },
   {
-   "tvgId": "ZeePower.in@HD",
-   "name": "Zee Power",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
-    "tataplay.com",
-    "zee5.com"
-   ]
-  },
-  {
    "tvgId": "ZeePunjabHaryanaHimachal.in@SD",
    "name": "Zee Punjab Haryana Himachal",
    "countryGroup": "OTHER",
@@ -40473,17 +40663,6 @@
    "name": "Zee Telugu News",
    "countryGroup": "OTHER",
    "guideSites": [
-    "dishtv.in",
-    "tataplay.com",
-    "zee5.com"
-   ]
-  },
-  {
-   "tvgId": "ZeeTV.in@HD",
-   "name": "Zee TV",
-   "countryGroup": "OTHER",
-   "guideSites": [
-    "airtelxstream.in",
     "dishtv.in",
     "tataplay.com",
     "zee5.com"
@@ -42263,6 +42442,12 @@
    "guideSites": []
   },
   {
+   "tvgId": "AmericaTeVe.us@SD",
+   "name": "America TeVe",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
    "tvgId": "AmericasNextTopModel.us@CA",
    "name": "America's Next Top Model",
    "countryGroup": "US",
@@ -43512,6 +43697,12 @@
   {
    "tvgId": "DiscoveryFamily.us@East",
    "name": "Discovery Family",
+   "countryGroup": "US",
+   "guideSites": []
+  },
+  {
+   "tvgId": "DiscoveryScienceLatinAmerica.us@ColombiaPeru",
+   "name": "Discovery Science Latin America",
    "countryGroup": "US",
    "guideSites": []
   },
@@ -45174,12 +45365,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "NationalGeographicWild.us@HDEast",
-   "name": "National Geographic Wild",
-   "countryGroup": "US",
-   "guideSites": []
-  },
-  {
    "tvgId": "NationalIranianCongressTV.us@SD",
    "name": "National Iranian Congress TV",
    "countryGroup": "US",
@@ -45323,12 +45508,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "OCNTV.us@SD",
-   "name": "OCN TV",
-   "countryGroup": "US",
-   "guideSites": []
-  },
-  {
    "tvgId": "Olelo49.us@SD",
    "name": "Olelo 49",
    "countryGroup": "US",
@@ -45414,12 +45593,6 @@
   {
    "tvgId": "Outlaw.us@WGGSTV",
    "name": "Outlaw",
-   "countryGroup": "US",
-   "guideSites": []
-  },
-  {
-   "tvgId": "OvercomersTV.us@SD",
-   "name": "Overcomers TV",
    "countryGroup": "US",
    "guideSites": []
   },
@@ -46480,12 +46653,6 @@
    "guideSites": []
   },
   {
-   "tvgId": "Telemundo.us@EastHD",
-   "name": "Telemundo",
-   "countryGroup": "US",
-   "guideSites": []
-  },
-  {
    "tvgId": "TelemundoCorpusChristi.us@SD",
    "name": "Telemundo Corpus Christi",
    "countryGroup": "US",
@@ -47487,939 +47654,937 @@
   }
  ],
  "byChannel": {
-  "13C.cl@SD": 43,
+  "13C.cl@SD": 44,
   "247CanaldeNoticias.ar@SD": 16,
-  "24Horas.es@SD": 85,
-  "24HourFreeMovies.us@SD": 7,
-  "3ABNLatino.us@SD": 56,
+  "24Horas.es@SD": 57,
+  "24HourFreeMovies.us@SD": 1,
+  "3ABNLatino.us@SD": 57,
   "3sat.de@SD": 8,
-  "50CentAction.us@SD": 17,
-  "5Cops.us@UK": 30,
-  "70sCinema.us@SD": 16,
+  "50CentAction.us@SD": 4,
+  "5Cops.us@UK": 29,
+  "70sCinema.us@SD": 15,
   "80sRewind.us@SD": 16,
   "90sThrowback.us@SD": 16,
   "A24.ar@SD": 27,
-  "ABC.us@East": 34,
+  "ABC.us@East": 13,
   "ABCNewsLive.us@SD": 44,
-  "ACCDigitalNetwork.us@SD": 11,
-  "AELatinAmerica.us@Brazil": 58,
-  "ALLBLKGems.us@SD": 65,
-  "AMCLatinAmerica.us@Brazil": 26,
-  "AMCThrillers.us@SD": 18,
-  "AMCenEspanol.us@SD": 34,
-  "ARTV.pt@SD": 14,
-  "ATVPlus.pe@SD": 38,
-  "ATVSur.pe@SD": 35,
+  "ACCDigitalNetwork.us@SD": 3,
+  "AELatinAmerica.us@Brazil": 53,
+  "ALLBLKGems.us@SD": 36,
+  "AMCLatinAmerica.us@Brazil": 24,
+  "AMCThrillers.us@SD": 5,
+  "AMCenEspanol.us@SD": 8,
+  "ARTV.pt@SD": 13,
+  "ATVPlus.pe@SD": 39,
+  "ATVSur.pe@SD": 36,
   "AXN.br@SD": 44,
-  "AXNLatinAmerica.us@Andes": 70,
-  "AXNMovies.pt@SD": 34,
+  "AXNLatinAmerica.us@Andes": 43,
+  "AXNMovies.pt@SD": 32,
   "AcapulcoShore.us@LatAm": 27,
-  "AccuWeatherNOW.us@SD": 8,
+  "AccuWeatherNOW.us@SD": 3,
   "AdrenalinaPuraTV.us@Brazil": 15,
-  "AdventureEarth.de@SD": 31,
-  "AgroMais.br@SD": 43,
-  "AgrotendenciaTV.cr@SD": 68,
-  "AlJazeera.qa@Arabic": 46,
-  "AlientoVision.us@SD": 70,
-  "AllRealitybyWEtv.us@SD": 62,
-  "AllWeddingsWEtv.us@SD": 34,
-  "AmazonSat.br@SD": 70,
-  "AmericaTV.ar@SD": 49,
-  "AmericaTeVe.pr@SD": 62,
-  "AmericaTelevision.pe@SD": 44,
-  "AmericanHeroesChannel.us@SD": 37,
-  "AmericasTestKitchen.us@SD": 55,
+  "AdventureEarth.de@SD": 7,
+  "AgroMais.br@SD": 38,
+  "AgrotendenciaTV.cr@SD": 67,
+  "AlJazeera.qa@Arabic": 47,
+  "AlientoVision.us@SD": 71,
+  "AllRealitybyWEtv.us@SD": 35,
+  "AllWeddingsWEtv.us@SD": 8,
+  "AmazonSat.br@SD": 69,
+  "AmericaTV.ar@SD": 34,
+  "AmericaTelevision.pe@SD": 46,
+  "AmericanHeroesChannel.us@SD": 14,
+  "AmericasTestKitchen.us@SD": 53,
   "AmericasVoiceNews.us@SD": 24,
-  "AngerManagementChannel.us@SD": 70,
-  "AnimalPlanet.us@East": 37,
-  "AnimexHIDIVE.us@SD": 106,
-  "AntiquesRoadTrip.us@SD": 91,
-  "AntiquesRoadshowUK.us@SD": 62,
-  "AreWeThereYet.us@SD": 74,
-  "ArgentinisimaSatelital.ar@SD": 12,
-  "Arte1.br@SD": 60,
-  "AsianCrush.us@SD": 24,
-  "AsianDrama.hk@SD": 37,
-  "AtHomewithFamilyHandyman.us@SD": 42,
-  "AyMSports.mx@SD": 27,
+  "AngerManagementChannel.us@SD": 15,
+  "AnimalPlanet.us@East": 14,
+  "AnimexHIDIVE.us@SD": 63,
+  "AntiquesRoadTrip.us@SD": 65,
+  "AntiquesRoadshowUK.us@SD": 35,
+  "AreWeThereYet.us@SD": 17,
+  "ArgentinisimaSatelital.ar@SD": 13,
+  "Arte1.br@SD": 67,
+  "AsianCrush.us@SD": 6,
+  "AsianDrama.hk@SD": 7,
+  "AtHomewithFamilyHandyman.us@SD": 10,
+  "AyMSports.mx@SD": 23,
   "AzCinema.mx@SD": 23,
-  "AzCorazon.mx@SD": 40,
-  "Azteca7.mx@SD": 57,
-  "BBCHomeGarden.us@SD": 35,
-  "BBCNews.uk@Africa": 67,
-  "BBCTravel.us@Germany": 83,
+  "AzCorazon.mx@SD": 31,
+  "Azteca7.mx@SD": 54,
+  "BBCHomeGarden.us@SD": 8,
+  "BBCNews.uk@Africa": 66,
+  "BBCTravel.us@Germany": 56,
   "BETPlutoTV.us@BR": 38,
   "BFMBusiness.fr@SD": 7,
   "BFMTV.fr@SD": 7,
-  "BMCNews.br@SD": 23,
+  "BMCNews.br@SD": 21,
   "BNT4.bg@SD": 8,
-  "BVN.nl@SD": 67,
-  "BYUTV.us@SD": 62,
-  "Backstage.us@SD": 23,
-  "BandNews.br@SD": 33,
-  "BandSports.br@SD": 38,
-  "Bandamax.mx@SD": 42,
-  "Baywatch.us@US": 36,
-  "BellatorMMA.us@SD": 23,
-  "BestofDrPhil.us@SD": 40,
-  "BethelTV.pe@SD": 44,
-  "BeverlyHillbillies.us@US": 54,
-  "BeyondBeliefFactorFiction.us@UK": 61,
-  "BigTenNetwork.us@SD": 38,
-  "BilliardTV.us@SD": 14,
+  "BVN.nl@SD": 72,
+  "BYUTV.us@SD": 63,
+  "Backstage.us@SD": 4,
+  "BandNews.br@SD": 35,
+  "BandSports.br@SD": 41,
+  "Bandamax.mx@SD": 41,
+  "Baywatch.us@US": 8,
+  "BellatorMMA.us@SD": 22,
+  "BestofDrPhil.us@SD": 9,
+  "BethelTV.pe@SD": 45,
+  "BeverlyHillbillies.us@US": 53,
+  "BeyondBeliefFactorFiction.us@UK": 36,
+  "BigTenNetwork.us@SD": 15,
+  "BilliardTV.us@SD": 3,
   "BlackInkCrew.us@SD": 30,
-  "BlazeLive.us@SD": 22,
+  "BlazeLive.us@SD": 21,
   "BlueBloods.us@SD": 30,
-  "Boomerang.us@SD": 146,
-  "BounceXL.us@SD": 41,
-  "Bravo.us@East": 35,
-  "BritBoxMysteries.us@SD": 35,
-  "BritishComedy.us@CA": 31,
-  "Buzzr.us@SD": 48,
-  "CBCNewsNetwork.ca@SD": 30,
-  "CBSNews247.us@SD": 36,
-  "CBSNewsBaltimore.us@SD": 39,
-  "CBSNewsBayArea.us@SD": 42,
-  "CBSNewsBoston.us@SD": 41,
-  "CBSNewsChicago.us@SD": 34,
-  "CBSNewsColorado.us@SD": 34,
-  "CBSNewsDetroit.us@SD": 38,
-  "CBSNewsLosAngeles.us@SD": 40,
-  "CBSNewsMiami.us@SD": 39,
+  "Boomerang.us@SD": 55,
+  "BounceXL.us@SD": 45,
+  "Bravo.us@East": 13,
+  "BritBoxMysteries.us@SD": 28,
+  "BritishComedy.us@CA": 38,
+  "Buzzr.us@SD": 42,
+  "CBCNewsNetwork.ca@SD": 7,
+  "CBSNews247.us@SD": 31,
+  "CBSNewsBaltimore.us@SD": 38,
+  "CBSNewsBayArea.us@SD": 37,
+  "CBSNewsBoston.us@SD": 34,
+  "CBSNewsChicago.us@SD": 33,
+  "CBSNewsColorado.us@SD": 33,
+  "CBSNewsDetroit.us@SD": 37,
+  "CBSNewsLosAngeles.us@SD": 35,
+  "CBSNewsMiami.us@SD": 38,
   "CBSNewsMinnesota.us@SD": 35,
-  "CBSNewsNewYork.us@SD": 32,
-  "CBSNewsPittsburgh.us@SD": 37,
-  "CBSNewsSacramento.us@SD": 34,
-  "CBSSportsGolazoNetwork.us@SD": 24,
+  "CBSNewsNewYork.us@SD": 31,
+  "CBSNewsPittsburgh.us@SD": 39,
+  "CBSNewsSacramento.us@SD": 33,
+  "CBSSportsGolazoNetwork.us@SD": 23,
   "CBSSportsHQ.us@SD": 15,
-  "CCIChannel.hn@SD": 62,
-  "CCPlutoTV.de@DACH": 50,
+  "CCIChannel.hn@SD": 63,
+  "CCPlutoTV.de@DACH": 49,
   "CCTV4America.cn@SD": 62,
-  "CCTV4Europe.cn@SD": 54,
-  "CDMInternacional.pr@SD": 60,
+  "CCTV4Europe.cn@SD": 56,
+  "CDMInternacional.pr@SD": 58,
   "CDNDeportes.do@SD": 10,
-  "CGTN.cn@SD": 69,
-  "CGTNDocumentary.cn@SD": 45,
-  "CMT.us@East": 66,
+  "CGTN.cn@SD": 70,
+  "CGTNDocumentary.cn@SD": 46,
+  "CMT.us@East": 26,
   "CMTEqualPlay.us@SD": 30,
-  "CNBCEurope.uk@SD": 56,
-  "CNNBrasil.br@SD": 28,
-  "CNNPortugal.pt@SD": 29,
-  "CNNenEspanol.us@SD": 47,
-  "CSI.us@SD": 30,
-  "CSIenespanol.us@SD": 16,
-  "Cablenoticias.co@SD": 58,
-  "CaliTV.co@SD": 44,
-  "Canal1.co@SD": 88,
-  "Canal10.sv@SD": 63,
-  "Canal11.cr@SD": 29,
-  "Canal11.hn@SD": 28,
-  "Canal13.cl@SD": 47,
+  "CNBCEurope.uk@SD": 57,
+  "CNNBrasil.br@SD": 30,
+  "CNNPortugal.pt@SD": 32,
+  "CNNenEspanol.us@SD": 44,
+  "CSI.us@SD": 29,
+  "CSIenespanol.us@SD": 3,
+  "Cablenoticias.co@SD": 42,
+  "CaliTV.co@SD": 43,
+  "Canal1.co@SD": 60,
+  "Canal10.sv@SD": 64,
+  "Canal11.cr@SD": 36,
+  "Canal11.hn@SD": 30,
+  "Canal13.cl@SD": 26,
   "Canal20VillaMaria.ar@SD": 11,
   "Canal26.ar@SD": 24,
-  "Canal3.gt@SD": 23,
-  "Canal4.cr@SD": 23,
-  "Canal5.mx@SD": 32,
-  "Canal5ElLider.hn@SD": 22,
-  "Canal7Jujuy.ar@SD": 26,
-  "Canal8.cr@SD": 28,
-  "Canal9BioBioTelevision.cl@SD": 48,
-  "CanalCapital.co@SD": 35,
-  "CanalCongreso.co@SD": 43,
-  "CanalFutura.br@SD": 96,
-  "CanalISB.cl@SD": 51,
-  "CanalInstitucional.co@SD": 62,
-  "CanalOrbe21.ar@SD": 36,
-  "CanalRCN.co@SD": 28,
+  "Canal3.gt@SD": 31,
+  "Canal4.cr@SD": 25,
+  "Canal5.mx@SD": 34,
+  "Canal5ElLider.hn@SD": 29,
+  "Canal7Jujuy.ar@SD": 30,
+  "Canal8.cr@SD": 34,
+  "Canal9BioBioTelevision.cl@SD": 47,
+  "CanalCapital.co@SD": 33,
+  "CanalCongreso.co@SD": 47,
+  "CanalFutura.br@SD": 104,
+  "CanalISB.cl@SD": 52,
+  "CanalInstitucional.co@SD": 64,
+  "CanalOrbe21.ar@SD": 38,
+  "CanalRCN.co@SD": 27,
   "CanalRural.br@SD": 37,
-  "CanalSurAndalucia.es@SD": 21,
-  "CanalTRO.co@SD": 99,
+  "CanalSurAndalucia.es@SD": 27,
+  "CanalTRO.co@SD": 68,
   "CanaldoBoi.br@SD": 52,
-  "CaracolInternacional.co@SD": 64,
-  "CaracolTV.co@SD": 60,
-  "CartoonNetwork.us@East": 108,
-  "CartoonNetworkLatinAmerica.us@Brazil": 332,
-  "CartoonitoLatinAmerica.us@SD": 258,
-  "CelebrityNameGame.us@SD": 75,
-  "ChaosCity.us@Germany": 59,
-  "CheddarNews.us@SD": 54,
-  "ChileVision.cl@SD": 38,
-  "Cine666byPlutoTV.de@FR": 41,
-  "CineActionbyPlutoTV.de@FR": 17,
-  "CineAdrenalina.us@SD": 9,
-  "CineCatastrophebyPlutoTV.de@FR": 17,
-  "CineHorreurbyPlutoTV.de@FR": 47,
-  "CineLatino.mx@SD": 43,
-  "CinePremiere.us@SD": 8,
-  "CinePride.us@SD": 2,
-  "CineRetrobyPlutoTV.de@FR": 14,
-  "CineRomancebyPlutoTV.de@FR": 15,
-  "CineSciFibyPlutoTV.de@FR": 15,
-  "CineSony.us@SD": 22,
-  "CineTerror.us@BR": 16,
+  "CaracolInternacional.co@SD": 48,
+  "CaracolTV.co@SD": 33,
+  "CartoonNetwork.us@East": 38,
+  "CartoonNetworkLatinAmerica.us@Brazil": 342,
+  "CartoonitoLatinAmerica.us@SD": 257,
+  "CelebrityNameGame.us@SD": 17,
+  "ChaosCity.us@Germany": 57,
+  "CheddarNews.us@SD": 11,
+  "ChileVision.cl@SD": 20,
+  "Cine666byPlutoTV.de@FR": 44,
+  "CineActionbyPlutoTV.de@FR": 16,
+  "CineAdrenalina.us@SD": 3,
+  "CineCatastrophebyPlutoTV.de@FR": 16,
+  "CineHorreurbyPlutoTV.de@FR": 42,
+  "CineLatino.mx@SD": 25,
+  "CinePremiere.us@SD": 3,
+  "CinePride.us@SD": 1,
+  "CineRetrobyPlutoTV.de@FR": 15,
+  "CineRomancebyPlutoTV.de@FR": 17,
+  "CineSciFibyPlutoTV.de@FR": 16,
+  "CineSony.us@SD": 21,
+  "CineTerror.us@BR": 15,
   "CineThrillersbyPlutoTV.de@FR": 16,
   "CineWesternbyPlutoTV.de@FR": 16,
   "CinebyPlutoTV.de@FR": 16,
-  "Cinecanal.us@Pacific": 38,
-  "CinedAsiebyPlutoTV.de@FR": 14,
-  "CinemaxLatinAmerica.us@SD": 85,
-  "CinevaultWesterns.us@SD": 20,
-  "CitytvBogota.co@SD": 30,
-  "Clan.es@SD": 109,
+  "Cinecanal.us@Pacific": 20,
+  "CinedAsiebyPlutoTV.de@FR": 16,
+  "CinemaxLatinAmerica.us@SD": 55,
+  "CinevaultWesterns.us@SD": 6,
+  "CitytvBogota.co@SD": 31,
+  "Clan.es@SD": 107,
   "ClassicMoviesChannel.us@SD": 15,
-  "ClassicTVComedy.us@SD": 53,
+  "ClassicTVComedy.us@SD": 52,
   "ClassicTVDrama.us@SD": 30,
   "ClassicTVFamilies.us@CA": 51,
-  "Classica.us@SD": 23,
-  "ColorVision.do@SD": 25,
-  "ComediaalobestiadePlutoTV.de@ES": 59,
-  "ComedyCentral.es@SD": 63,
-  "ComedyCentralLatinAmerica.us@Panregional": 93,
-  "ComedyCentralPlutoTV.us@BR": 50,
-  "ComedyCentralenEspanol.us@SD": 21,
-  "ComedyDynamics.us@SD": 30,
-  "ConcertChannel.us@SD": 56,
-  "CookingChannel.us@SD": 62,
-  "CookingPanda.us@SD": 133,
-  "CourtTV.us@SD": 32,
-  "Crime360.us@SD": 43,
-  "CrimePlusInvestigation.us@SD": 45,
-  "CrimenesImperfectos.us@SD": 30,
-  "Cristovision.co@SD": 56,
-  "CubavisionInternacional.cu@SD": 72,
-  "CuriosityChannel.de@SD": 51,
-  "CuriosityNOW.de@EN": 56,
-  "DAZNDartsxPlutoTV.de@DACH": 9,
-  "DAZNHeldinnenxPlutoTV.de@DACH": 25,
-  "DHE.us@SD": 44,
-  "DarkMatterTV.us@SD": 17,
-  "Dateline247.us@SD": 27,
-  "DaystarTV.us@SD": 70,
-  "DaystarTVEspanol.us@SD": 51,
-  "DePeliculaLatinAmerica.mx@SD": 69,
+  "Classica.us@SD": 22,
+  "ColorVision.do@SD": 32,
+  "ComediaalobestiadePlutoTV.de@ES": 56,
+  "ComedyCentral.es@SD": 60,
+  "ComedyCentralLatinAmerica.us@Panregional": 95,
+  "ComedyCentralPlutoTV.us@BR": 49,
+  "ComedyCentralenEspanol.us@SD": 3,
+  "ComedyDynamics.us@SD": 5,
+  "ConcertChannel.us@SD": 27,
+  "CookingChannel.us@SD": 18,
+  "CookingPanda.us@SD": 27,
+  "CourtTV.us@SD": 27,
+  "Crime360.us@SD": 7,
+  "CrimePlusInvestigation.us@SD": 19,
+  "CrimenesImperfectos.us@SD": 3,
+  "Cristovision.co@SD": 61,
+  "CubavisionInternacional.cu@SD": 74,
+  "CuriosityChannel.de@SD": 50,
+  "CuriosityNOW.de@EN": 8,
+  "DAZN3.uk@Portugal": 19,
+  "DAZNDartsxPlutoTV.de@DACH": 11,
+  "DAZNHeldinnenxPlutoTV.de@DACH": 30,
+  "DHE.us@SD": 23,
+  "DarkMatterTV.us@SD": 4,
+  "Dateline247.us@SD": 6,
+  "DaystarTV.us@SD": 71,
+  "DaystarTVEspanol.us@SD": 52,
+  "DePeliculaLatinAmerica.mx@SD": 48,
   "DeadlyWomen.us@UK": 29,
-  "DealorNoDeal.us@SD": 68,
-  "Degrassi.us@US": 121,
-  "DeporTV.ar@SD": 31,
-  "DesignatedSurvivor.us@SD": 36,
-  "DestinationAmerica.us@SD": 74,
-  "Digital15.do@SD": 21,
-  "DiscoveryChannel.us@East": 36,
-  "DiscoveryKidsLatinAmerica.us@Brazil": 187,
-  "DiscoveryTheaterLatinAmerica.us@SD": 87,
+  "DealorNoDeal.us@SD": 31,
+  "Degrassi.us@US": 65,
+  "DeporTV.ar@SD": 28,
+  "DesignatedSurvivor.us@SD": 9,
+  "DestinationAmerica.us@SD": 27,
+  "Digital15.do@SD": 23,
+  "DiscoveryChannel.us@East": 14,
+  "DiscoveryKidsLatinAmerica.us@Brazil": 194,
+  "DiscoveryTheaterLatinAmerica.us@SD": 49,
   "DiscoveryTurboLatinAmerica.us@Panregional": 51,
-  "DiscoveryWorld.us@Brazil": 79,
-  "DisneyChannel.us@East": 65,
-  "DisneyChannelLatinAmerica.ar@Center": 153,
-  "DisneyJrLatinAmerica.ar@North": 70,
-  "DisneyJunior.us@East": 86,
-  "DisneyXD.us@East": 74,
-  "DistritoComedia.mx@SD": 32,
-  "DoctorWhoClassic.us@US": 56,
-  "DocumentaryPlus.us@International": 25,
-  "DogWhisperer.us@UK": 30,
-  "DogtheBountyHunter.us@UK": 42,
-  "DontTellTheBride.uk@SD": 31,
-  "DuckDynasty.us@UK": 58,
-  "E.us@East": 54,
-  "ESNETV.us@SD": 41,
-  "ESPN.br@SD": 28,
-  "EbonyTVbyLionsgate.us@SD": 40,
+  "DiscoveryWorld.us@Brazil": 81,
+  "DisneyChannel.us@East": 23,
+  "DisneyChannelLatinAmerica.ar@Center": 141,
+  "DisneyJrLatinAmerica.ar@North": 71,
+  "DisneyJunior.us@East": 32,
+  "DisneyXD.us@East": 27,
+  "DistritoComedia.mx@SD": 27,
+  "DoctorWhoClassic.us@US": 54,
+  "DocumentaryPlus.us@International": 8,
+  "DogWhisperer.us@UK": 7,
+  "DogtheBountyHunter.us@UK": 43,
+  "DontTellTheBride.uk@SD": 7,
+  "DuckDynasty.us@UK": 54,
+  "E.us@East": 19,
+  "ESNETV.us@SD": 42,
+  "ESPN.br@SD": 31,
+  "EbonyTVbyLionsgate.us@SD": 11,
   "EcuadorTV.ec@SD": 36,
-  "ElNueve.ar@SD": 31,
-  "ElTrece.ar@SD": 46,
-  "ElectricNow.us@SD": 30,
-  "Encuentro.ar@SD": 67,
-  "Enlace.cr@SD": 66,
+  "ElNueve.ar@SD": 32,
+  "ElTrece.ar@SD": 28,
+  "ElectricNow.us@SD": 7,
+  "Encuentro.ar@SD": 64,
+  "Enlace.cr@SD": 68,
   "EntertainmentTonight.us@SD": 50,
-  "EstrellaGames.us@SD": 30,
-  "EstrellaNews.us@SD": 43,
-  "EstrellaTV.us@SD": 56,
-  "Eurochannel.uk@SD": 46,
-  "EuronewsGerman.fr@SD": 157,
-  "EuronewsPortuguese.fr@SD": 169,
-  "EuronewsSpanish.fr@SD": 143,
-  "EuropaEuropa.ar@SD": 45,
-  "F1Channel.ie@US": 15,
-  "FBIFiles.us@UK": 56,
-  "FIFAPlus.uk@English": 27,
+  "EstrellaGames.us@SD": 7,
+  "EstrellaNews.us@SD": 5,
+  "EstrellaTV.us@SD": 41,
+  "Eurochannel.uk@SD": 25,
+  "EuronewsGerman.fr@SD": 153,
+  "EuronewsPortuguese.fr@SD": 158,
+  "EuronewsSpanish.fr@SD": 140,
+  "EuropaEuropa.ar@SD": 22,
+  "F1Channel.ie@US": 3,
+  "FBIFiles.us@UK": 32,
+  "FIFAPlus.uk@English": 19,
   "FREEDOM.ua@SD": 7,
-  "FUTV.cr@SD": 21,
+  "FUTV.cr@SD": 30,
   "FXLatinAmerica.us@Panregional": 20,
-  "FailArmy.us@Brazil": 49,
+  "FailArmy.us@Brazil": 47,
   "FamilyTies.us@SD": 52,
-  "Farscape.us@SD": 64,
-  "FastTV.us@SD": 37,
-  "FearFactor.us@US": 33,
-  "FightNetwork.ca@SD": 33,
-  "FilmArts.ar@Panregional": 34,
-  "Filmex.mx@SD": 17,
-  "FilmexClasico.mx@SD": 18,
+  "Farscape.us@SD": 36,
+  "FastTV.us@SD": 35,
+  "FearFactor.us@US": 7,
+  "FightNetwork.ca@SD": 28,
+  "FilmArts.ar@Panregional": 39,
+  "Filmex.mx@SD": 5,
+  "FilmexClasico.mx@SD": 5,
   "FishTV.br@SD": 55,
-  "FlicksofFury.us@SD": 16,
-  "FoodNetworkLatinAmerica.us@Panregional": 61,
-  "ForensicFiles.us@SD": 114,
-  "ForeverKids.us@SD": 60,
-  "FoxBusinessNetwork.us@SD": 36,
-  "FoxDeportes.us@SD": 32,
-  "FoxNewsChannel.us@SD": 39,
-  "FoxSports1.us@HD": 24,
-  "France2.fr@SD": 46,
-  "France4.fr@SD": 40,
-  "France5.fr@SD": 41,
-  "Franceinfo.fr@SD": 5,
-  "FunnyAF.us@SD": 85,
-  "Fuse.us@East": 52,
-  "GaliciaTVEuropa.es@SD": 33,
-  "GalxyTV.us@SD": 2,
-  "Gamavision.ec@SD": 33,
-  "GameShowCentral.us@SD": 116,
-  "GameShowNetwork.us@East": 64,
-  "GarageTVLatinAmerica.ar@SD": 64,
-  "GarfieldandFriends.us@US": 56,
-  "Getfactual.us@UK": 10,
-  "GhostHunters.us@UK": 92,
-  "GirlfriendsFilms.us@SD": 61,
-  "GlobalTV.pe@SD": 18,
+  "FlicksofFury.us@SD": 17,
+  "FoodNetworkLatinAmerica.us@Panregional": 63,
+  "ForensicFiles.us@SD": 64,
+  "ForeverKids.us@SD": 58,
+  "FoxBusinessNetwork.us@SD": 14,
+  "FoxDeportes.us@SD": 33,
+  "FoxNewsChannel.us@SD": 32,
+  "FoxSports1.us@HD": 7,
+  "France2.fr@SD": 43,
+  "France4.fr@SD": 39,
+  "France5.fr@SD": 43,
+  "Franceinfo.fr@SD": 6,
+  "Freeform.us@East": 10,
+  "FunnyAF.us@SD": 81,
+  "Fuse.us@East": 21,
+  "GaliciaTVEuropa.es@SD": 32,
+  "GalxyTV.us@SD": 1,
+  "Gamavision.ec@SD": 34,
+  "GameShowCentral.us@SD": 71,
+  "GameShowNetwork.us@East": 23,
+  "GarageTVLatinAmerica.ar@SD": 68,
+  "GarfieldandFriends.us@US": 53,
+  "Getfactual.us@UK": 6,
+  "GhostHunters.us@UK": 65,
+  "GirlfriendsFilms.us@SD": 59,
+  "GlobalTV.pe@SD": 19,
   "GloboNews.br@SD": 24,
-  "Golden.mx@Panregional": 36,
+  "Golden.mx@Panregional": 21,
   "GoldenEdge.mx@Panregional": 21,
-  "GoldenPlus.mx@SD": 22,
-  "GoldenPremier.mx@SD": 48,
+  "GoldenPlus.mx@SD": 21,
+  "GoldenPremier.mx@SD": 26,
   "GoldenPremier2.mx@SD": 22,
-  "GolfChannel.us@SD": 30,
-  "GolfChannelLatinAmerica.us@SD": 33,
+  "GolfChannel.us@SD": 9,
+  "GolfChannelLatinAmerica.us@SD": 24,
   "GordonRamsaysHellsKitchen.us@SD": 30,
-  "GravitasMovies.us@SD": 18,
-  "GritXtra.us@SD": 43,
-  "GrjngoWesternMovies.de@SD": 17,
-  "Guatevision.gt@SD": 62,
-  "Gunsmoke.us@SD": 36,
-  "HBCUGOSports.us@SD": 22,
-  "HBOFamilyLatinAmerica.us@SD": 42,
+  "GravitasMovies.us@SD": 5,
+  "GritXtra.us@SD": 13,
+  "GrjngoWesternMovies.de@SD": 4,
+  "Guatevision.gt@SD": 42,
+  "Gunsmoke.us@SD": 44,
+  "HBCUGOSports.us@SD": 7,
+  "HBOFamilyLatinAmerica.us@SD": 39,
   "HBOLatinAmerica.us@SD": 40,
-  "HBOPlusLatinAmerica.us@SD": 38,
-  "HBOPopLatinAmerica.us@SD": 46,
-  "HBOXtremeLatinAmerica.us@SD": 36,
-  "HCH.hn@SD": 36,
+  "HBOPlusLatinAmerica.us@SD": 22,
+  "HBOPopLatinAmerica.us@SD": 44,
+  "HBOXtremeLatinAmerica.us@SD": 39,
+  "HCH.hn@SD": 37,
   "HGTVLatinAmerica.us@Panregional": 67,
-  "HLN.us@SD": 74,
+  "HLN.us@SD": 68,
   "HSN.us@East": 30,
-  "HallmarkMoviesMore.us@SD": 34,
-  "Heartland.us@Eastern": 37,
-  "HellsKitchen.us@UK": 4,
-  "HiYAH.us@SD": 15,
-  "HighwaytoHeaven.us@UK": 59,
+  "HallmarkMoviesMore.us@SD": 22,
+  "Heartland.us@Eastern": 9,
+  "HellsKitchen.us@UK": 14,
+  "HiYAH.us@SD": 4,
+  "HighwaytoHeaven.us@UK": 35,
   "History.br@SD": 47,
-  "History.us@East": 40,
-  "History2LatinAmerica.us@Brazil": 43,
-  "HistoryHit.uk@SD": 30,
-  "HistoryLatinAmerica.us@Panregional": 34,
-  "HolaTVLatinAmerica.us@SD": 59,
-  "HomeMadeNation.us@SD": 51,
-  "Homeful.ca@US": 33,
-  "HomesUnderHammer.us@UK": 24,
-  "IONTV.us@East": 30,
-  "IcePilots.us@Germany": 31,
-  "ImpossibleQuizShow.us@SD": 36,
-  "InWonder.nl@SD": 37,
-  "InsideCrime.us@UK": 31,
-  "Investiga.us@LatAm": 27,
-  "InvestigationDiscovery.us@East": 37,
-  "InvestigationbyPlutoTV.de@FR": 28,
-  "IronChef.us@US": 35,
+  "History.us@East": 14,
+  "History2LatinAmerica.us@Brazil": 46,
+  "HistoryHit.uk@SD": 7,
+  "HistoryLatinAmerica.us@Panregional": 42,
+  "HolaTVLatinAmerica.us@SD": 53,
+  "HomeMadeNation.us@SD": 13,
+  "Homeful.ca@US": 7,
+  "HomesUnderHammer.us@UK": 23,
+  "IONTV.us@East": 7,
+  "IcePilots.us@Germany": 30,
+  "ImpossibleQuizShow.us@SD": 8,
+  "InWonder.nl@SD": 10,
+  "InsideCrime.us@UK": 30,
+  "Investiga.us@LatAm": 25,
+  "InvestigationDiscovery.us@East": 14,
+  "InvestigationbyPlutoTV.de@FR": 27,
+  "IronChef.us@US": 9,
   "JerseyShore.us@SD": 29,
-  "Journy.us@SD": 57,
+  "Journy.us@SD": 12,
   "JovemPanNews.br@SD": 27,
-  "JudgeFaith.us@SD": 78,
+  "JudgeFaith.us@SD": 17,
   "JudgeNosey.us@US": 30,
-  "JustforLaughsGags.us@SD": 60,
-  "KBSWorld.kr@SD": 45,
-  "KNXVTV611.us@HD": 2,
-  "KartoonChannel.us@SD": 56,
-  "KevinHartsLOLNetwork.us@SD": 18,
-  "KidsFlix.us@SD": 25,
-  "KuriakosTV.pt@SD": 41,
-  "LEGOKidsTV.us@SD": 110,
-  "La2.es@SD": 49,
+  "JustforLaughsGags.us@SD": 13,
+  "KBSWorld.kr@SD": 46,
+  "KNXVTV611.us@HD": 1,
+  "KartoonChannel.us@SD": 55,
+  "KevinHartsLOLNetwork.us@SD": 4,
+  "KidsFlix.us@SD": 5,
+  "KuriakosTV.pt@SD": 42,
+  "LEGOKidsTV.us@SD": 70,
+  "La2.es@SD": 46,
   "LaRed.cl@SD": 11,
   "LaTele.pe@SD": 44,
-  "LasEstrellasLatinAmerica.mx@SD": 62,
+  "LasEstrellasLatinAmerica.mx@SD": 64,
   "Latele.py@SD": 34,
-  "Latina.pe@SD": 54,
-  "LawCrime.us@SD": 36,
+  "Latina.pe@SD": 33,
+  "LawCrime.us@SD": 7,
   "LifetimeLatinAmerica.us@Brazil": 26,
-  "LittleStarsUniverse.us@SD": 55,
-  "LiveNOWfromFOX.us@SD": 11,
-  "LogoPlutoTV.us@SD": 29,
-  "LosAsesinatosdeMidsomer.us@Spain": 17,
+  "LittleStarsUniverse.us@SD": 54,
+  "LiveNOWfromFOX.us@SD": 9,
+  "LogoPlutoTV.us@SD": 31,
+  "LosAsesinatosdeMidsomer.us@Spain": 4,
   "LoveHipHop.us@SD": 30,
-  "LovePets.ca@US": 55,
-  "LoveThyNeighbor.us@SD": 71,
-  "M6.fr@HD": 30,
-  "MC.mx@SD": 17,
+  "LovePets.ca@US": 13,
+  "LoveThyNeighbor.us@SD": 16,
+  "M6.fr@HD": 29,
+  "MC.mx@SD": 19,
   "MCMTop.fr@SD": 13,
-  "MLB.us@SD": 22,
-  "MST3K.us@US": 33,
-  "MTVLatinAmerica.us@Panregional": 115,
+  "MLB.us@SD": 21,
+  "MST3K.us@US": 21,
+  "MTVLatinAmerica.us@Panregional": 91,
   "MTVPlutoTV.us@BR": 33,
-  "MTVenEspanol.us@SD": 15,
-  "MariaVision.mx@SD": 55,
+  "MTVenEspanol.us@SD": 3,
+  "MariaVision.mx@SD": 44,
   "MasterChef.us@Brazil": 15,
-  "MaverickBlackCinema.us@SD": 18,
-  "Mega.cl@SD": 50,
+  "MaverickBlackCinema.us@SD": 4,
+  "Mega.cl@SD": 36,
   "MegavisionCanal19.sv@SD": 20,
-  "MegavisionCanal21.sv@SD": 77,
-  "MexiquenseTV.mx@SD": 34,
-  "Mezzo.fr@SD": 28,
-  "MidnightPulp.us@SD": 17,
-  "MidsomerMurders.us@SD": 33,
-  "MilenioTelevision.mx@SD": 76,
-  "Misteriossinresolver.us@SD": 17,
-  "MonsterJam.us@SD": 33,
-  "MoreTVDrama.us@SD": 29,
-  "MoreTVSitcoms.us@SD": 54,
-  "MostHaunted.uk@UK": 28,
-  "Motorvision.de@SD": 127,
+  "MegavisionCanal21.sv@SD": 55,
+  "MexiquenseTV.mx@SD": 38,
+  "Mezzo.fr@SD": 26,
+  "MidnightPulp.us@SD": 5,
+  "MidsomerMurders.us@SD": 19,
+  "MilenioTelevision.mx@SD": 62,
+  "Misteriossinresolver.us@SD": 3,
+  "MonsterJam.us@SD": 31,
+  "MoreTVDrama.us@SD": 30,
+  "MoreTVSitcoms.us@SD": 53,
+  "MostHaunted.uk@UK": 25,
+  "Motorvision.de@SD": 68,
   "Moviedome.us@Germany": 18,
-  "MrBeanAnimated.uk@English": 9,
+  "MrBeanAnimated.uk@English": 3,
   "MultiPremier.mx@SD": 22,
-  "MusicBoxBrazil.br@SD": 180,
-  "MyTimeMovieNetworkEast.us@SD": 19,
-  "MyZenTV.fr@SD": 41,
-  "Mythbusters.us@UK": 73,
-  "N24Doku.de@SD": 25,
-  "NBATV.us@SD": 46,
-  "NBC.us@East": 34,
-  "NBCComedyVault.us@SD": 78,
-  "NBCNewsNOW.us@SD": 34,
-  "NBCSportsNOW.us@SD": 26,
-  "NETTV.ar@SD": 27,
-  "NEWKMOVIES.us@SD": 16,
-  "NEWKPOP.us@SD": 30,
-  "NFLChannel.us@SD": 66,
-  "NFLNetwork.us@SD": 41,
+  "MusicBoxBrazil.br@SD": 193,
+  "MyTimeMovieNetworkEast.us@SD": 4,
+  "MyZenTV.fr@SD": 42,
+  "Mythbusters.us@UK": 59,
+  "N24Doku.de@SD": 26,
+  "NBATV.us@SD": 13,
+  "NBC.us@East": 12,
+  "NBCComedyVault.us@SD": 17,
+  "NBCNewsNOW.us@SD": 29,
+  "NBCSportsNOW.us@SD": 5,
+  "NETTV.ar@SD": 28,
+  "NEWKMOVIES.us@SD": 4,
+  "NEWKPOP.us@SD": 9,
+  "NFLChannel.us@SD": 28,
+  "NFLNetwork.us@SD": 28,
   "NHKWorldPremium.jp@SD": 99,
-  "NHLNetwork.us@SD": 43,
-  "NPY.py@SD": 23,
-  "NTN24.co@SD": 38,
-  "Naruto.us@Brazil": 60,
-  "NashBridges.us@SD": 35,
+  "NHLNetwork.us@SD": 11,
+  "NPY.py@SD": 24,
+  "NTN24.co@SD": 39,
+  "Naruto.us@Brazil": 56,
+  "NashBridges.us@SD": 8,
   "NationalGeographic.mx@SD": 37,
-  "NationalGeographic.us@East": 40,
-  "NationalGeographicLatinAmerica.us@Panregional": 40,
-  "NauticalChannel.it@SD": 56,
-  "News12NewYork.us@SD": 56,
-  "NewsmaxTV.us@SD": 29,
-  "Newsy.us@SD": 30,
-  "NickJr.us@East": 76,
+  "NationalGeographicLatinAmerica.us@Panregional": 43,
+  "NauticalChannel.it@SD": 57,
+  "News12NewYork.us@SD": 52,
+  "NewsmaxTV.us@SD": 6,
+  "Newsy.us@SD": 7,
   "NickJrPlutoTV.us@CA": 52,
-  "NickelodeonLatinAmerica.us@Panregional": 99,
-  "NickelodeonPlutoTV.us@SD": 64,
-  "NinjaKidzTV.us@SD": 2,
-  "NoticiasRCN.co@SD": 28,
-  "Now90s00s.uk@Poland": 51,
+  "NickelodeonLatinAmerica.us@Panregional": 101,
+  "NickelodeonPlutoTV.us@SD": 62,
+  "NinjaKidzTV.us@SD": 1,
+  "NoticiasRCN.co@SD": 6,
+  "Now90s00s.uk@Poland": 50,
   "OEncantadordeCaes.us@Brazil": 38,
   "OReinoInfantil.us@Brazil": 49,
-  "OWN.us@East": 43,
-  "OnTheCase.us@UK": 30,
-  "OuterSphere.us@SD": 17,
-  "OutsideTV.us@SD": 45,
-  "Overtime.us@SD": 10,
-  "PBRRidePass.us@SD": 16,
-  "PBS.us@East": 48,
-  "PBSAntiquesRoadshow.us@SD": 56,
-  "PBSNature.us@SD": 56,
-  "PBSRetro.us@SD": 63,
-  "PBSTravel.us@SD": 44,
-  "PFLMMA.us@SD": 20,
-  "PGATour.us@SD": 29,
+  "OWN.us@East": 15,
+  "OnTheCase.us@UK": 29,
+  "OuterSphere.us@SD": 4,
+  "OutsideTV.us@SD": 9,
+  "Overtime.us@SD": 2,
+  "PBRRidePass.us@SD": 20,
+  "PBS.us@East": 16,
+  "PBSAntiquesRoadshow.us@SD": 32,
+  "PBSNature.us@SD": 33,
+  "PBSRetro.us@SD": 13,
+  "PBSTravel.us@SD": 11,
+  "PFLMMA.us@SD": 29,
+  "PGATour.us@SD": 24,
   "PROTVInternational.ro@SD": 29,
-  "PanamericanaTV.pe@SD": 63,
-  "Panico.mx@SD": 21,
-  "ParaguayTV.py@SD": 29,
+  "Pakapaka.ar@SD": 120,
+  "PanamericanaTV.pe@SD": 33,
+  "Panico.mx@SD": 22,
+  "ParaguayTV.py@SD": 32,
   "ParamountMovieChannel.us@SD": 17,
-  "ParamountNetwork.us@East": 29,
-  "ParamountPlusPicks.us@SD": 42,
-  "ParanormalState.us@UK": 56,
-  "Paravision.py@SD": 29,
-  "PasionesLatinAmerica.us@SD": 36,
-  "PlutoTV90sClassics.de@FR": 56,
+  "ParamountNetwork.us@East": 9,
+  "ParamountPlusPicks.us@SD": 41,
+  "ParanormalState.us@UK": 55,
+  "PasionesLatinAmerica.us@SD": 37,
+  "PlutoTV90sClassics.de@FR": 55,
   "PlutoTVALaMexicana.us@LatAm": 17,
-  "PlutoTVANIMEGO.de@FR": 58,
-  "PlutoTVAction.us@US": 13,
+  "PlutoTVANIMEGO.de@FR": 57,
+  "PlutoTVAction.us@US": 14,
   "PlutoTVActionMovies.us@CA": 16,
-  "PlutoTVAdultAnimation.de@DACH": 58,
-  "PlutoTVAdventure.us@CA": 57,
-  "PlutoTVAlbertoSordi.de@IT": 15,
-  "PlutoTVAlienInvasion.se@DK": 29,
-  "PlutoTVAliens.us@BR": 31,
-  "PlutoTVAmoryMentiras.us@LatAm": 31,
-  "PlutoTVAnimais.us@BR": 28,
+  "PlutoTVAdultAnimation.de@DACH": 57,
+  "PlutoTVAdventure.us@CA": 48,
+  "PlutoTVAlbertoSordi.de@IT": 16,
+  "PlutoTVAlienInvasion.se@DK": 28,
+  "PlutoTVAliens.us@BR": 30,
+  "PlutoTVAmoryMentiras.us@LatAm": 30,
+  "PlutoTVAnimais.us@BR": 27,
   "PlutoTVAnimales.de@ES": 27,
-  "PlutoTVAnimals.de@DACH": 29,
-  "PlutoTVAnimaux.de@FR": 37,
-  "PlutoTVAnime.us@BR": 54,
-  "PlutoTVAnimeAcao.us@BR": 53,
+  "PlutoTVAnimals.de@DACH": 28,
+  "PlutoTVAnimaux.de@FR": 36,
+  "PlutoTVAnime.us@BR": 53,
+  "PlutoTVAnimeAcao.us@BR": 52,
   "PlutoTVAnimeMovies.us@SD": 18,
-  "PlutoTVAventura.us@LatAm": 32,
-  "PlutoTVAventure.de@FR": 42,
+  "PlutoTVAventura.us@LatAm": 31,
+  "PlutoTVAventure.de@FR": 30,
   "PlutoTVBangBang.us@BR": 15,
-  "PlutoTVBrigadeCriminelle.de@FR": 19,
-  "PlutoTVBritischeSerien.de@DACH": 39,
-  "PlutoTVBudTerence.se@DK": 16,
+  "PlutoTVBrigadeCriminelle.de@FR": 18,
+  "PlutoTVBritischeSerien.de@DACH": 38,
+  "PlutoTVBudTerence.se@DK": 15,
   "PlutoTVBuskis.se@SE": 13,
-  "PlutoTVCanalUOL.us@BR": 21,
+  "PlutoTVCanalUOL.us@BR": 23,
   "PlutoTVCars.us@CA": 49,
-  "PlutoTVCatastrofes.de@ES": 18,
+  "PlutoTVCatastrofes.de@ES": 17,
   "PlutoTVChristmastuttolanno.de@IT": 18,
   "PlutoTVCineAccion.us@LatAm": 31,
-  "PlutoTVCineClasico.us@LatAm": 16,
-  "PlutoTVCineClassicos.us@BR": 14,
-  "PlutoTVCineComedia.de@ES": 17,
-  "PlutoTVCineComedia.us@BR": 15,
-  "PlutoTVCineComediaRomantica.us@BR": 15,
-  "PlutoTVCineCrime.us@BR": 15,
+  "PlutoTVCineClasico.us@LatAm": 15,
+  "PlutoTVCineClassicos.us@BR": 15,
+  "PlutoTVCineComedia.de@ES": 16,
+  "PlutoTVCineComedia.us@BR": 16,
+  "PlutoTVCineComediaRomantica.us@BR": 14,
+  "PlutoTVCineCrime.us@BR": 13,
   "PlutoTVCineCrimen.us@LatAm": 15,
   "PlutoTVCineDrama.us@BR": 13,
   "PlutoTVCineEstelar.us@LatAm": 28,
   "PlutoTVCineFamilia.us@BR": 15,
-  "PlutoTVCineInspiracao.us@BR": 12,
-  "PlutoTVCineInspirador.us@LatAm": 16,
+  "PlutoTVCineInspiracao.us@BR": 13,
+  "PlutoTVCineInspirador.us@LatAm": 14,
   "PlutoTVCineRomance.us@BR": 15,
-  "PlutoTVCineRomantico.de@ES": 18,
-  "PlutoTVCineSucessos.us@BR": 13,
-  "PlutoTVCineSuspenso.us@LatAm": 16,
-  "PlutoTVCinedeautor.de@ES": 15,
-  "PlutoTVCinemaItaliano.de@IT": 16,
+  "PlutoTVCineRomantico.de@ES": 15,
+  "PlutoTVCineSucessos.us@BR": 15,
+  "PlutoTVCineSuspenso.us@LatAm": 15,
+  "PlutoTVCinedeautor.de@ES": 14,
+  "PlutoTVCinemaItaliano.de@IT": 17,
   "PlutoTVCinemaOrientale.de@IT": 18,
-  "PlutoTVClassicTVVariety.us@CA": 37,
-  "PlutoTVCocina.de@ES": 41,
-  "PlutoTVComediamadeinSpain.de@ES": 29,
+  "PlutoTVClassicTVVariety.us@CA": 38,
+  "PlutoTVCocina.de@ES": 44,
+  "PlutoTVComediamadeinSpain.de@ES": 31,
   "PlutoTVComediasRomanticas.de@ES": 17,
-  "PlutoTVComedie.de@FR": 50,
+  "PlutoTVComedie.de@FR": 49,
   "PlutoTVComediesCultes.de@FR": 17,
-  "PlutoTVComedy.us@CA": 58,
+  "PlutoTVComedy.us@CA": 57,
   "PlutoTVComedyMovies.us@CA": 16,
-  "PlutoTVCompetencias.us@LatAm": 60,
+  "PlutoTVCompetencias.us@LatAm": 58,
   "PlutoTVCompetition.us@SD": 36,
-  "PlutoTVCozinha.us@BR": 38,
-  "PlutoTVCrime.de@DACH": 27,
-  "PlutoTVCrimeDrama.us@CA": 31,
-  "PlutoTVCrimeMovies.us@SD": 15,
-  "PlutoTVCucina.de@IT": 34,
+  "PlutoTVCozinha.us@BR": 33,
+  "PlutoTVCrime.de@DACH": 26,
+  "PlutoTVCrimeDrama.us@CA": 30,
+  "PlutoTVCrimeMovies.us@SD": 12,
+  "PlutoTVCucina.de@IT": 25,
   "PlutoTVCuisine.de@FR": 51,
   "PlutoTVCultFilms.us@US": 16,
   "PlutoTVDanskeklassikere.se@DK": 16,
-  "PlutoTVDating.de@FR": 51,
-  "PlutoTVDeportes.us@LatAm": 41,
-  "PlutoTVDesenhosClassicos.us@BR": 55,
-  "PlutoTVDeutscheComedy.de@DACH": 45,
-  "PlutoTVDiseno.de@ES": 29,
-  "PlutoTVDocumentales.us@LatAm": 26,
-  "PlutoTVDocumentari.de@IT": 31,
-  "PlutoTVDokumentar.se@DK": 24,
-  "PlutoTVDrama.us@US": 15,
-  "PlutoTVDramaMovies.us@CA": 15,
-  "PlutoTVDramasCoreanos.us@LatAm": 23,
-  "PlutoTVDramasCoreanosTeen.us@LatAm": 21,
-  "PlutoTVESports.us@LatAm": 59,
-  "PlutoTVElReinoInfantil.us@SD": 30,
-  "PlutoTVEsportes.us@BR": 35,
-  "PlutoTVEstilodeVida.us@LatAm": 24,
-  "PlutoTVExplore.de@DACH": 31,
-  "PlutoTVFBI.us@CA": 32,
-  "PlutoTVFantastic.us@SD": 13,
-  "PlutoTVFiccaoCientifica.us@BR": 16,
-  "PlutoTVFilm.de@IT": 15,
+  "PlutoTVDating.de@FR": 50,
+  "PlutoTVDeportes.us@LatAm": 48,
+  "PlutoTVDesenhosClassicos.us@BR": 54,
+  "PlutoTVDeutscheComedy.de@DACH": 43,
+  "PlutoTVDiseno.de@ES": 27,
+  "PlutoTVDocumentales.us@LatAm": 32,
+  "PlutoTVDocumentari.de@IT": 22,
+  "PlutoTVDokumentar.se@DK": 26,
+  "PlutoTVDrama.us@US": 14,
+  "PlutoTVDramaMovies.us@CA": 14,
+  "PlutoTVDramasCoreanos.us@LatAm": 21,
+  "PlutoTVDramasCoreanosTeen.us@LatAm": 22,
+  "PlutoTVESports.us@LatAm": 57,
+  "PlutoTVElReinoInfantil.us@SD": 3,
+  "PlutoTVEsportes.us@BR": 31,
+  "PlutoTVEstilodeVida.us@LatAm": 29,
+  "PlutoTVExplore.de@DACH": 26,
+  "PlutoTVFBI.us@CA": 31,
+  "PlutoTVFantastic.us@SD": 15,
+  "PlutoTVFiccaoCientifica.us@BR": 15,
+  "PlutoTVFilm.de@IT": 16,
   "PlutoTVFilm.se@DK": 16,
-  "PlutoTVFilmAzione.de@IT": 17,
-  "PlutoTVFilmCommedia.de@IT": 15,
+  "PlutoTVFilmAzione.de@IT": 16,
+  "PlutoTVFilmCommedia.de@IT": 16,
   "PlutoTVFilmRomantici.de@IT": 17,
   "PlutoTVFilmStorici.de@IT": 15,
   "PlutoTVFilmThriller.de@IT": 17,
-  "PlutoTVFilmesAcao.us@BR": 16,
+  "PlutoTVFilmesAcao.us@BR": 15,
   "PlutoTVFilmesAventura.us@BR": 15,
-  "PlutoTVFilmesNacionais.us@BR": 16,
+  "PlutoTVFilmesNacionais.us@BR": 13,
   "PlutoTVFilmesdeLuta.us@BR": 15,
-  "PlutoTVFishing.se@DK": 51,
-  "PlutoTVFood.de@DACH": 49,
-  "PlutoTVFrenchCollection.de@FR": 25,
-  "PlutoTVGameShows.us@SD": 54,
-  "PlutoTVGasolina.de@ES": 51,
-  "PlutoTVGoreSlasher.de@ES": 43,
-  "PlutoTVHandboldHighlights.se@DK": 15,
-  "PlutoTVHandboldLive.se@DK": 52,
-  "PlutoTVHandbollHighlights.se@SE": 17,
-  "PlutoTVHandbollLive.se@SE": 54,
+  "PlutoTVFishing.se@DK": 55,
+  "PlutoTVFood.de@DACH": 48,
+  "PlutoTVFrenchCollection.de@FR": 20,
+  "PlutoTVGameShows.us@SD": 47,
+  "PlutoTVGasolina.de@ES": 55,
+  "PlutoTVGoreSlasher.de@ES": 44,
+  "PlutoTVHandboldHighlights.se@DK": 14,
+  "PlutoTVHandboldLive.se@DK": 55,
+  "PlutoTVHandbollHighlights.se@SE": 16,
+  "PlutoTVHandbollLive.se@SE": 59,
   "PlutoTVHarlequin.se@DK": 16,
-  "PlutoTVHistoire.de@FR": 28,
-  "PlutoTVHistoria.de@ES": 36,
+  "PlutoTVHistoire.de@FR": 25,
+  "PlutoTVHistoria.de@ES": 35,
   "PlutoTVHistoria.us@BR": 25,
   "PlutoTVHistory.us@US": 35,
-  "PlutoTVHometownDrama.us@SD": 30,
-  "PlutoTVHorror.us@CA": 22,
-  "PlutoTVHorrorSerien.de@DACH": 43,
-  "PlutoTVHumor.us@LatAm": 51,
-  "PlutoTVIcons.us@SD": 9,
-  "PlutoTVImpacto.de@ES": 56,
-  "PlutoTVInside.de@FR": 41,
-  "PlutoTVInvasionAlien.de@ES": 22,
-  "PlutoTVInvestigacao.us@BR": 39,
-  "PlutoTVJohnWayne.se@DK": 14,
-  "PlutoTVJunior.us@BR": 56,
-  "PlutoTVJuniorklubben.se@DK": 66,
-  "PlutoTVKDrama.de@ES": 21,
-  "PlutoTVKFOOD.us@BR": 30,
-  "PlutoTVKids.us@BR": 63,
-  "PlutoTVKidsClassics.de@ES": 51,
-  "PlutoTVKidsClub.us@BR": 53,
-  "PlutoTVKlassisketegnefilm.se@DK": 51,
-  "PlutoTVKlassisketegnefilmer.se@NO": 51,
-  "PlutoTVKomedi.se@SE": 17,
-  "PlutoTVKultComedies.de@DACH": 16,
-  "PlutoTVKultfilm.se@DK": 15,
-  "PlutoTVKultfilme.de@DACH": 13,
+  "PlutoTVHometownDrama.us@SD": 29,
+  "PlutoTVHorror.us@CA": 21,
+  "PlutoTVHorrorSerien.de@DACH": 42,
+  "PlutoTVHumor.us@LatAm": 50,
+  "PlutoTVIcons.us@SD": 3,
+  "PlutoTVImpacto.de@ES": 53,
+  "PlutoTVInside.de@FR": 40,
+  "PlutoTVInvasionAlien.de@ES": 21,
+  "PlutoTVInvestigacao.us@BR": 41,
+  "PlutoTVJohnWayne.se@DK": 15,
+  "PlutoTVJunior.us@BR": 55,
+  "PlutoTVJuniorklubben.se@DK": 64,
+  "PlutoTVKDrama.de@ES": 18,
+  "PlutoTVKFOOD.us@BR": 28,
+  "PlutoTVKids.us@BR": 61,
+  "PlutoTVKidsClassics.de@ES": 50,
+  "PlutoTVKidsClub.us@BR": 52,
+  "PlutoTVKlassisketegnefilm.se@DK": 50,
+  "PlutoTVKlassisketegnefilmer.se@NO": 50,
+  "PlutoTVKomedi.se@SE": 15,
+  "PlutoTVKultComedies.de@DACH": 15,
+  "PlutoTVKultfilm.se@DK": 14,
+  "PlutoTVKultfilme.de@DACH": 14,
   "PlutoTVKultfilmer.se@NO": 16,
   "PlutoTVLegamiLetali.de@IT": 18,
-  "PlutoTVLives.us@US": 16,
-  "PlutoTVMilitary.us@SD": 14,
-  "PlutoTVMisterios.us@BR": 34,
+  "PlutoTVLives.us@US": 3,
+  "PlutoTVMilitary.us@SD": 3,
+  "PlutoTVMisterios.us@BR": 35,
   "PlutoTVMotor.de@ES": 32,
-  "PlutoTVMotor.se@DK": 38,
+  "PlutoTVMotor.se@DK": 34,
   "PlutoTVMovies.de@DACH": 14,
-  "PlutoTVMystery.de@DACH": 30,
-  "PlutoTVNatura.de@IT": 48,
-  "PlutoTVNaturaleza.us@LatAm": 35,
-  "PlutoTVNature.de@DACH": 28,
+  "PlutoTVMystery.de@DACH": 28,
+  "PlutoTVNatura.de@IT": 43,
+  "PlutoTVNaturaleza.us@LatAm": 45,
+  "PlutoTVNature.de@DACH": 27,
   "PlutoTVNatureza.us@BR": 28,
-  "PlutoTVNegocioFechado.us@BR": 60,
-  "PlutoTVNetmovies.us@BR": 16,
-  "PlutoTVNottidiPassione.de@IT": 26,
+  "PlutoTVNegocioFechado.us@BR": 58,
+  "PlutoTVNetmovies.us@BR": 15,
+  "PlutoTVNottidiPassione.de@IT": 24,
   "PlutoTVNovelas.us@BR": 29,
-  "PlutoTVNovelasdeMexico.us@LatAm": 33,
-  "PlutoTVNovelasdeOtrosContinentes.us@LatAm": 29,
-  "PlutoTVNovelasdeVenezuela.us@LatAm": 30,
-  "PlutoTVNuestroCine.us@LatAm": 17,
-  "PlutoTVOvernaturlig.se@NO": 37,
+  "PlutoTVNovelasdeMexico.us@LatAm": 31,
+  "PlutoTVNovelasdeOtrosContinentes.us@LatAm": 28,
+  "PlutoTVNovelasdeVenezuela.us@LatAm": 29,
+  "PlutoTVNuestroCine.us@LatAm": 16,
+  "PlutoTVOvernaturlig.se@NO": 31,
   "PlutoTVPaisagensporStingray.us@BR": 27,
   "PlutoTVParanormal.us@CA": 29,
-  "PlutoTVPeleas.us@LatAm": 23,
-  "PlutoTVPolar.de@FR": 31,
-  "PlutoTVPolicial.us@BR": 45,
-  "PlutoTVPolizeiserien.de@DACH": 23,
-  "PlutoTVPsycho.de@ES": 17,
-  "PlutoTVReaction.us@SD": 9,
-  "PlutoTVRealLife.de@IT": 63,
-  "PlutoTVReality.us@CA": 31,
-  "PlutoTVRecordNews.us@BR": 34,
-  "PlutoTVRetro.us@BR": 41,
-  "PlutoTVRetroActionMovies.us@CA": 14,
+  "PlutoTVPeleas.us@LatAm": 22,
+  "PlutoTVPolar.de@FR": 30,
+  "PlutoTVPolicial.us@BR": 42,
+  "PlutoTVPolizeiserien.de@DACH": 24,
+  "PlutoTVPsycho.de@ES": 18,
+  "PlutoTVReaction.us@SD": 3,
+  "PlutoTVRealLife.de@IT": 40,
+  "PlutoTVReality.us@CA": 29,
+  "PlutoTVRecordNews.us@BR": 35,
+  "PlutoTVRetro.us@BR": 39,
+  "PlutoTVRetroActionMovies.us@CA": 15,
   "PlutoTVRetroCrimeAction.us@CA": 27,
-  "PlutoTVRetroCrimeDrama.us@CA": 28,
+  "PlutoTVRetroCrimeDrama.us@CA": 27,
   "PlutoTVRetroKid.us@CA": 48,
-  "PlutoTVRetroToons.de@FR": 56,
-  "PlutoTVRomance.us@US": 10,
+  "PlutoTVRetroToons.de@FR": 59,
+  "PlutoTVRomance.us@US": 3,
   "PlutoTVRomantik.se@DK": 16,
-  "PlutoTVRomantikk.se@NO": 16,
-  "PlutoTVScherzierisate.de@IT": 47,
-  "PlutoTVSciFi.us@CA": 29,
-  "PlutoTVScience.us@US": 17,
+  "PlutoTVRomantikk.se@NO": 17,
+  "PlutoTVScherzierisate.de@IT": 49,
+  "PlutoTVSciFi.us@CA": 30,
+  "PlutoTVScience.us@US": 3,
   "PlutoTVSerie.de@DACH": 30,
-  "PlutoTVSerieCrime.de@IT": 26,
+  "PlutoTVSerieCrime.de@IT": 25,
   "PlutoTVSerieSciFi.de@IT": 32,
   "PlutoTVSeries.us@LatAm": 30,
   "PlutoTVSeriesAcao.us@BR": 29,
   "PlutoTVSeriesComedia.us@BR": 58,
   "PlutoTVSeriesCriminais.us@BR": 30,
-  "PlutoTVSeriesDrama.us@BR": 39,
+  "PlutoTVSeriesDrama.us@BR": 37,
   "PlutoTVSeriesFantastiques.de@FR": 32,
-  "PlutoTVSeriesLatinas.us@LatAm": 30,
-  "PlutoTVSeriesNovelescas.us@BR": 32,
+  "PlutoTVSeriesLatinas.us@LatAm": 29,
+  "PlutoTVSeriesNovelescas.us@BR": 30,
   "PlutoTVSeriesRetro.us@LatAm": 28,
-  "PlutoTVSeriesSciFi.us@BR": 31,
-  "PlutoTVSeriescriminales.de@ES": 28,
-  "PlutoTVSeriesdeAccion.us@LatAm": 28,
+  "PlutoTVSeriesSciFi.us@BR": 30,
+  "PlutoTVSeriescriminales.de@ES": 30,
+  "PlutoTVSeriesdeAccion.us@LatAm": 27,
   "PlutoTVSeriesdeComedia.us@LatAm": 44,
-  "PlutoTVSeriesdeCrimen.us@LatAm": 18,
-  "PlutoTVSeriesdeDrama.us@LatAm": 30,
-  "PlutoTVSeriesdeOtrosContinentes.us@LatAm": 27,
-  "PlutoTVSeriesdeSciFi.us@LatAm": 26,
-  "PlutoTVShore.de@IT": 47,
+  "PlutoTVSeriesdeCrimen.us@LatAm": 21,
+  "PlutoTVSeriesdeDrama.us@LatAm": 29,
+  "PlutoTVSeriesdeOtrosContinentes.us@LatAm": 22,
+  "PlutoTVSeriesdeSciFi.us@LatAm": 24,
+  "PlutoTVShore.de@IT": 49,
   "PlutoTVShowsporStingray.us@BR": 27,
-  "PlutoTVSitcoms.de@DACH": 62,
-  "PlutoTVSnooker900.se@DK": 12,
-  "PlutoTVSnooker900.us@CA": 12,
-  "PlutoTVSpace.de@DACH": 30,
+  "PlutoTVSitcoms.de@DACH": 60,
+  "PlutoTVSnooker900.se@DK": 9,
+  "PlutoTVSnooker900.us@CA": 9,
+  "PlutoTVSpace.de@DACH": 36,
   "PlutoTVSpace.se@DK": 46,
   "PlutoTVSport.de@IT": 22,
-  "PlutoTVSport.se@DK": 30,
-  "PlutoTVSpotlight.us@SD": 8,
-  "PlutoTVStaffPicks.us@SD": 9,
+  "PlutoTVSport.se@DK": 27,
+  "PlutoTVSpotlight.us@SD": 3,
+  "PlutoTVStaffPicks.us@SD": 3,
   "PlutoTVStarTrek.de@DACH": 28,
-  "PlutoTVStarTrek.se@DK": 35,
-  "PlutoTVStarTrekAnimation.de@DACH": 53,
-  "PlutoTVStoria.de@IT": 26,
-  "PlutoTVSuperKids.de@FR": 67,
-  "PlutoTVTecknadeklassiker.se@SE": 51,
-  "PlutoTVTecknat.se@SE": 50,
-  "PlutoTVTeen.de@ES": 51,
-  "PlutoTVTegnefilm.se@DK": 51,
-  "PlutoTVTelenovelasClasicas.de@ES": 29,
-  "PlutoTVTerror.us@SD": 9,
+  "PlutoTVStarTrek.se@DK": 31,
+  "PlutoTVStarTrekAnimation.de@DACH": 52,
+  "PlutoTVStoria.de@IT": 27,
+  "PlutoTVSuperKids.de@FR": 75,
+  "PlutoTVTecknadeklassiker.se@SE": 50,
+  "PlutoTVTecknat.se@SE": 49,
+  "PlutoTVTeen.de@ES": 50,
+  "PlutoTVTegnefilm.se@DK": 50,
+  "PlutoTVTelenovelasClasicas.de@ES": 28,
+  "PlutoTVTerror.us@SD": 3,
   "PlutoTVTerrorTrash.us@BR": 17,
-  "PlutoTVTheTwilightZone.us@SD": 28,
-  "PlutoTVThrillers.us@US": 9,
-  "PlutoTVToons.de@FR": 50,
+  "PlutoTVTheTwilightZone.us@SD": 3,
+  "PlutoTVThrillers.us@US": 3,
+  "PlutoTVToons.de@FR": 49,
   "PlutoTVToto.de@IT": 17,
-  "PlutoTVTrendingNow.us@SD": 8,
-  "PlutoTVTrueCrime.us@CA": 35,
-  "PlutoTVTurbo.us@BR": 52,
-  "PlutoTVUngdomsserier.se@DK": 51,
-  "PlutoTVVarldskrigen.se@SE": 26,
-  "PlutoTVVelocidad.us@LatAm": 47,
-  "PlutoTVVerdenskrigene.se@DK": 26,
+  "PlutoTVTrendingNow.us@SD": 3,
+  "PlutoTVTrueCrime.us@CA": 34,
+  "PlutoTVTurbo.us@BR": 51,
+  "PlutoTVUngdomsserier.se@DK": 50,
+  "PlutoTVVarldskrigen.se@SE": 25,
+  "PlutoTVVelocidad.us@LatAm": 61,
+  "PlutoTVVerdenskrigene.se@DK": 25,
   "PlutoTVViagens.us@BR": 36,
-  "PlutoTVViaggi.de@IT": 43,
-  "PlutoTVVidaReal.us@BR": 51,
-  "PlutoTVWestern.de@DACH": 17,
-  "PlutoTVWesternSerien.de@DACH": 37,
+  "PlutoTVViaggi.de@IT": 29,
+  "PlutoTVVidaReal.us@BR": 50,
+  "PlutoTVWestern.de@DACH": 14,
+  "PlutoTVWesternSerien.de@DACH": 36,
   "PlutoTVWesterns.us@CA": 49,
   "PlutoTVWildWest.se@DK": 25,
-  "PlutoTVZombies.de@ES": 48,
+  "PlutoTVZombies.de@ES": 44,
   "PodRadiopaPlutoTV.se@DK": 25,
-  "PokerGo.us@US": 14,
-  "Portlandia.us@SD": 68,
-  "PortoCanal.pt@SD": 23,
-  "PowerNationTV.us@SD": 31,
-  "PursuitUP.us@SD": 58,
-  "QVC.us@SD": 24,
-  "QVC2.us@SD": 16,
-  "QuieroMusicaenmiIdioma.ar@SD": 38,
-  "RBATV.br@SD": 40,
-  "RCNNovelas.co@SD": 29,
-  "RTP1.pt@HD": 29,
-  "RTP2.pt@HD": 76,
-  "RTPAcores.pt@HD": 34,
+  "PokerGo.us@US": 3,
+  "Portlandia.us@SD": 14,
+  "PortoCanal.pt@SD": 21,
+  "PowerNationTV.us@SD": 3,
+  "PursuitUP.us@SD": 12,
+  "QVC.us@SD": 7,
+  "QVC2.us@SD": 4,
+  "QuieroMusicaenmiIdioma.ar@SD": 39,
+  "RBATV.br@SD": 41,
+  "RCNNovelas.co@SD": 36,
+  "RTP1.pt@HD": 39,
+  "RTP2.pt@HD": 128,
+  "RTPAcores.pt@HD": 37,
   "RTPAfrica.pt@SD": 33,
-  "RTPNoticias.pt@HD": 46,
-  "RTS.ec@SD": 33,
-  "RTenEspanol.ru@SD": 72,
-  "RacerSelect.us@SD": 54,
+  "RTPNoticias.pt@HD": 49,
+  "RTS.ec@SD": 34,
+  "RTenEspanol.ru@SD": 73,
+  "RacerSelect.us@SD": 13,
   "RaiStoria.it@SD": 8,
-  "RealMadridTV.es@SD": 10,
-  "RealWild.uk@SD": 33,
-  "Record.br@SD": 47,
+  "RealMadridTV.es@SD": 18,
+  "RealWild.uk@SD": 7,
+  "Record.br@SD": 46,
   "RecordNews.br@SD": 65,
-  "RedeBrasil.br@SD": 67,
+  "RedeBrasil.br@SD": 71,
   "RedeFamilia.br@SD": 11,
-  "RedeGospel.br@SD": 38,
+  "RedeGospel.br@SD": 40,
   "RedeMeioNorte.br@SD": 33,
-  "RedeMinas.br@SD": 44,
-  "RedeTV.br@SD": 29,
-  "RedeVida.br@SD": 64,
-  "RetroCrush.us@SD": 55,
-  "RevryLatinX.us@SD": 28,
-  "RiffTrax.us@US": 16,
-  "RumbaTV.co@SD": 36,
-  "RuntimeEspanol.us@SD": 28,
-  "RyanandFriends.us@SD": 35,
-  "SBNTVInternational.us@SD": 30,
-  "SBTNacional.br@SD": 23,
-  "SECNetwork.us@SD": 26,
+  "RedeMinas.br@SD": 47,
+  "RedeTV.br@SD": 30,
+  "RedeVida.br@SD": 69,
+  "RetroCrush.us@SD": 13,
+  "RevryLatinX.us@SD": 9,
+  "RiffTrax.us@US": 3,
+  "RumbaTV.co@SD": 37,
+  "RuntimeEspanol.us@SD": 9,
+  "RyanandFriends.us@SD": 8,
+  "SBNTVInternational.us@SD": 33,
+  "SBTNacional.br@SD": 27,
+  "SECNetwork.us@SD": 11,
   "SESCTV.br@SD": 54,
-  "SICTV.br@SD": 39,
-  "SNLVault.us@SD": 32,
-  "SPEEDVISION.us@SD": 45,
-  "SURTVItapua.py@SD": 22,
-  "ScrippsNews.us@SD": 30,
-  "SemillitasTV.us@SD": 178,
-  "SenalColombia.co@SD": 70,
-  "SensingMurder.us@UK": 25,
+  "SICTV.br@SD": 40,
+  "SNLVault.us@SD": 8,
+  "SPEEDVISION.us@SD": 13,
+  "SURTVItapua.py@SD": 24,
+  "ScrippsNews.us@SD": 7,
+  "SemillitasTV.us@SD": 217,
+  "SenalColombia.co@SD": 76,
+  "SensingMurder.us@UK": 24,
   "SeriesbyPlutoTV.de@FR": 44,
-  "ShowtimeFamilyZone.us@East": 21,
+  "ShowtimeFamilyZone.us@East": 8,
   "SmithsonianChannelPlutoTV.us@BR": 26,
-  "SmithsonianChannelSelects.us@SD": 16,
-  "SonyChannel.br@SD": 38,
+  "SmithsonianChannelSelects.us@SD": 3,
+  "SonyChannel.br@SD": 43,
   "SonyChannelAndes.us@SD": 25,
-  "Space.ar@Panregional": 37,
-  "SpaceLivepoweredbysen.uk@SD": 8,
-  "SparkTVLightLove.us@SD": 18,
-  "SpikeOutdoors.us@SD": 16,
-  "SpikePlutoTV.us@SD": 19,
-  "SportsGrid.us@SD": 27,
-  "Stadium.us@SD": 13,
+  "Space.ar@Panregional": 40,
+  "SpaceLivepoweredbysen.uk@SD": 2,
+  "SparkTVLightLove.us@SD": 4,
+  "SpikeOutdoors.us@SD": 3,
+  "SpikePlutoTV.us@SD": 3,
+  "SportsGrid.us@SD": 8,
+  "Stadium.us@SD": 5,
   "StarChannel.cl@SD": 22,
   "StarChannel.co@SD": 22,
-  "StarTrek.us@BR": 30,
-  "StarzComedy.us@East": 24,
-  "StarzKidsFamily.us@East": 24,
-  "StingrayClassica.ca@SD": 56,
-  "StingrayDJAZZ.ca@SD": 44,
-  "StingrayKaraoke.ca@SD": 30,
-  "StudioUniversalLatinAmerica.us@Brazil": 26,
-  "SunChannel.ve@SD": 67,
-  "Survivor.us@SD": 16,
-  "SwerveSports.us@SD": 24,
-  "TBS.us@East": 74,
-  "TCM.us@East": 20,
-  "TGJunior.us@SD": 78,
-  "TLCLatinAmerica.us@Brazil": 105,
-  "TMZ.us@SD": 40,
-  "TN.ar@SD": 19,
-  "TNAWrestlingChannel.pl@SD": 13,
-  "TNT.us@East": 29,
-  "TNTSports.ar@HD": 24,
-  "TODAYAllDay.us@SD": 40,
-  "TSi.hn@SD": 23,
+  "StarTrek.us@BR": 28,
+  "StarzComedy.us@East": 9,
+  "StarzKidsFamily.us@East": 9,
+  "StingrayClassica.ca@SD": 37,
+  "StingrayDJAZZ.ca@SD": 43,
+  "StingrayKaraoke.ca@SD": 7,
+  "StudioUniversalLatinAmerica.us@Brazil": 27,
+  "SunChannel.ve@SD": 71,
+  "Survivor.us@SD": 3,
+  "SwerveSports.us@SD": 5,
+  "TBS.us@East": 27,
+  "TCM.us@East": 7,
+  "TGJunior.us@SD": 18,
+  "TLCLatinAmerica.us@Brazil": 85,
+  "TMZ.us@SD": 9,
+  "TN.ar@SD": 21,
+  "TNAWrestlingChannel.pl@SD": 3,
+  "TNT.us@East": 9,
+  "TNTSports.ar@HD": 28,
+  "TODAYAllDay.us@SD": 8,
+  "TSi.hn@SD": 28,
   "TUDN.mx@SD": 29,
-  "TUDN.us@SD": 33,
-  "TV5MondeEurope.fr@SD": 61,
+  "TUDN.us@SD": 30,
+  "TV5MondeEurope.fr@SD": 63,
   "TVACritica.br@SD": 23,
-  "TVAgro.co@SD": 72,
-  "TVAparecida.br@SD": 49,
-  "TVBahia.br@HD": 39,
-  "TVBrasil.br@SD": 63,
-  "TVCamara.br@SD": 31,
-  "TVCancaoNova.br@SD": 52,
+  "TVAgro.co@SD": 73,
+  "TVAparecida.br@SD": 52,
+  "TVBahia.br@HD": 40,
+  "TVBrasil.br@SD": 68,
+  "TVCamara.br@SD": 27,
+  "TVCancaoNova.br@SD": 53,
   "TVCidadeVerdeCuiaba.br@SD": 25,
   "TVClube.br@SD": 32,
-  "TVEBahia.br@SD": 32,
-  "TVERS.br@SD": 66,
+  "TVEBahia.br@SD": 38,
+  "TVERS.br@SD": 68,
   "TVGazeta.br@SD": 23,
   "TVGuara.br@SD": 28,
-  "TVI.pt@SD": 42,
-  "TVIReality.pt@SD": 16,
-  "TVJustica.br@SD": 51,
-  "TVLandDrama.us@SD": 15,
-  "TVLandSitcoms.us@SD": 30,
-  "TVMaanaim.br@SD": 33,
+  "TVI.pt@SD": 30,
+  "TVIReality.pt@SD": 17,
+  "TVJustica.br@SD": 48,
+  "TVLandDrama.us@SD": 3,
+  "TVLandSitcoms.us@SD": 3,
+  "TVMaanaim.br@SD": 34,
   "TVN.cl@SD": 30,
-  "TVOCanal23.sv@SD": 9,
-  "TVParanaTurismo.br@SD": 68,
-  "TVPeru.pe@SD": 34,
+  "TVOCanal23.sv@SD": 10,
+  "TVParanaTurismo.br@SD": 72,
+  "TVPeru.pe@SD": 36,
   "TVRInternational.ro@SD": 5,
-  "TVRaTimBum.br@SD": 145,
-  "TVSenado.br@SD": 31,
-  "TVSenado.cl@SD": 26,
+  "TVRaTimBum.br@SD": 148,
+  "TVSenado.br@SD": 29,
+  "TVSenado.cl@SD": 25,
   "TastemadeBrasil.us@Brazil": 27,
-  "TeenMom.us@SD": 48,
-  "TeleAntillas.do@SD": 30,
-  "TeleFormula.mx@SD": 31,
+  "TeenMom.us@SD": 35,
+  "TeleAntillas.do@SD": 36,
+  "TeleFormula.mx@SD": 32,
   "TeleHit.mx@SD": 89,
-  "TeleNostalgia.co@SD": 40,
+  "TeleNostalgia.co@SD": 42,
   "TeleVid.co@SD": 67,
-  "Teleantioquia.co@SD": 82,
-  "Telecafe.co@SD": 55,
-  "Telecaribe.co@SD": 60,
+  "Teleantioquia.co@SD": 51,
+  "Telecafe.co@SD": 57,
+  "Telecaribe.co@SD": 70,
   "Teleceiba.hn@SD": 30,
-  "Telecentro.do@SD": 24,
-  "TelecineAction.br@SD": 22,
-  "Telefe.ar@SD": 61,
-  "TelefeInternacional.ar@SD": 41,
-  "Telefuturo.py@SD": 41,
-  "Teleislas.co@SD": 87,
-  "Telemax.ar@SD": 17,
-  "Telemedellin.co@SD": 40,
-  "TelemundoTelenovelasClasicas.us@SD": 17,
-  "Telepacifico.co@SD": 72,
-  "Telesistema11.do@SD": 39,
-  "Teletica7.cr@SD": 29,
-  "Teletubbies.uk@SD": 115,
-  "Teleunion.do@SD": 26,
-  "Teleuniverso.do@SD": 27,
+  "Telecentro.do@SD": 33,
+  "TelecineAction.br@SD": 21,
+  "Telefe.ar@SD": 38,
+  "TelefeInternacional.ar@SD": 38,
+  "Telefuturo.py@SD": 23,
+  "Teleislas.co@SD": 95,
+  "Telemax.ar@SD": 19,
+  "Telemedellin.co@SD": 43,
+  "TelemundoTelenovelasClasicas.us@SD": 3,
+  "Telepacifico.co@SD": 77,
+  "Telesistema11.do@SD": 48,
+  "Teletubbies.uk@SD": 68,
+  "Teleunion.do@SD": 34,
+  "Teleuniverso.do@SD": 33,
   "Televen.ve@SD": 36,
-  "TelevisionCanaria.es@SD": 36,
-  "TennisChannel.us@Plus2": 14,
-  "TerraViva.br@SD": 39,
-  "TheAddamsFamily.us@SD": 61,
-  "TheAmazingRace.us@SD": 15,
-  "TheAsylum.us@US": 18,
-  "TheBobRossChannel.us@SD": 52,
-  "TheConners.us@SD": 70,
-  "TheFirstTV.us@SD": 17,
-  "TheGrahamNortonShow.uk@SD": 43,
-  "TheJamieOliverChannel.us@SD": 53,
-  "TheLoveBoat.us@SD": 15,
-  "ThePriceIsRightTheBarkerEra.us@SD": 16,
-  "TheRifleman.us@SD": 57,
-  "TheWalkingDeadUniverse.us@SD": 34,
-  "TheWalkingDeadenEspanol.us@SD": 34,
-  "TheWeatherChannel.us@SD": 20,
-  "ThisOldHouse.us@SD": 60,
+  "TelevisionCanaria.es@SD": 33,
+  "TennisChannel.us@Plus2": 3,
+  "TerraViva.br@SD": 43,
+  "TheAddamsFamily.us@SD": 14,
+  "TheAmazingRace.us@SD": 3,
+  "TheAsylum.us@US": 5,
+  "TheBobRossChannel.us@SD": 12,
+  "TheConners.us@SD": 15,
+  "TheFirstTV.us@SD": 3,
+  "TheGrahamNortonShow.uk@SD": 10,
+  "TheJamieOliverChannel.us@SD": 12,
+  "TheLoveBoat.us@SD": 3,
+  "ThePriceIsRightTheBarkerEra.us@SD": 3,
+  "TheRifleman.us@SD": 13,
+  "TheWalkingDeadUniverse.us@SD": 8,
+  "TheWalkingDeadenEspanol.us@SD": 8,
+  "TheWeatherChannel.us@SD": 7,
+  "ThisOldHouse.us@SD": 13,
   "TimelessDiziChannel.ro@SD": 37,
-  "TinyHouseNation.us@SD": 36,
-  "TlnovelasLatinAmerica.mx@SD": 72,
-  "TlnovelasMexico.mx@SD": 56,
-  "Tokusato.us@Brazil": 53,
-  "ToonGoggles.us@SD": 72,
-  "TopGear.uk@SD": 29,
+  "TinyHouseNation.us@SD": 9,
+  "TlnovelasLatinAmerica.mx@SD": 86,
+  "TlnovelasMexico.mx@SD": 36,
+  "Tokusato.us@Brazil": 52,
+  "ToonGoggles.us@SD": 12,
+  "TopGear.uk@SD": 7,
   "TraceSportStars.fr@HD": 68,
   "TraceToca.fr@SD": 18,
-  "TravelBoxBrazil.br@SD": 90,
-  "Trece.co@SD": 62,
-  "TribecaChannel.us@SD": 13,
-  "TrueCrime.uk@SD": 35,
-  "TrueCrimeNow.us@SD": 2,
-  "TrueCrimebyPlutoTV.de@FR": 30,
+  "TravelBoxBrazil.br@SD": 97,
+  "Trece.co@SD": 70,
+  "TribecaChannel.us@SD": 3,
+  "TrueCrime.uk@SD": 32,
+  "TrueCrimeNow.us@SD": 1,
+  "TrueCrimebyPlutoTV.de@FR": 29,
   "TurmadaMonica.us@Brazil": 31,
   "UCVTV.cl@SD": 38,
-  "Unbeaten.us@SD": 22,
-  "Unidentified.us@SD": 26,
-  "UniversalCinema.us@SD": 24,
-  "UniversalCrime.us@East": 59,
-  "Univision.us@East": 39,
-  "UnivisionTlnovelas.us@SD": 39,
-  "UnsolvedMysteries.us@UK": 62,
-  "VH1.us@East": 59,
-  "VICETV.us@SD": 2,
-  "VPlusTVI.pt@SD": 29,
-  "VePlus.ve@Panregional": 36,
-  "Vevo2K.us@SD": 14,
-  "Vevo70s.us@SD": 12,
-  "Vevo80s.us@SD": 16,
-  "Vevo90s.us@SD": 16,
-  "VevoCountry.us@SD": 14,
-  "VevoPop.us@SD": 13,
-  "VevoRB.us@SD": 17,
-  "ViaX.cl@SD": 52,
-  "WAPATV41.pr@HD": 30,
-  "WIPRTV61.pr@HD": 46,
-  "WKAQTV22.pr@HD": 28,
-  "WantedDeadorAlive.us@SD": 60,
-  "WatchitKID.us@SD": 2,
-  "WaypointTV.us@SD": 67,
-  "WeTV.us@East": 41,
-  "WeedsNurseJackie.us@SD": 60,
-  "WildNOut.us@SD": 30,
-  "WildatHeart.us@UK": 29,
-  "WillaxTV.pe@SD": 67,
+  "Unbeaten.us@SD": 4,
+  "Unidentified.us@SD": 5,
+  "UniversalCinema.us@SD": 21,
+  "UniversalCrime.us@East": 53,
+  "Univision.us@East": 15,
+  "UnivisionTlnovelas.us@SD": 40,
+  "UnsolvedMysteries.us@UK": 36,
+  "VH1.us@East": 19,
+  "VICETV.us@SD": 1,
+  "VPlusTVI.pt@SD": 45,
+  "VePlus.ve@Panregional": 37,
+  "Vevo2K.us@SD": 3,
+  "Vevo70s.us@SD": 3,
+  "Vevo80s.us@SD": 3,
+  "Vevo90s.us@SD": 3,
+  "VevoCountry.us@SD": 3,
+  "VevoPop.us@SD": 3,
+  "VevoRB.us@SD": 3,
+  "ViaX.cl@SD": 28,
+  "WAPATV41.pr@HD": 29,
+  "WIPRTV61.pr@HD": 48,
+  "WKAQTV22.pr@HD": 27,
+  "WantedDeadorAlive.us@SD": 13,
+  "WatchitKID.us@SD": 1,
+  "WaypointTV.us@SD": 15,
+  "WeTV.us@East": 14,
+  "WeedsNurseJackie.us@SD": 14,
+  "WildNOut.us@SD": 3,
+  "WildatHeart.us@UK": 27,
+  "WillaxTV.pe@SD": 36,
   "WinSports.co@SD": 23,
-  "WipeoutXtra.us@SD": 25,
-  "WomensSportsNetwork.us@SD": 9,
-  "Wonder.uk@SD": 36,
-  "WooHoo.br@SD": 103,
+  "WipeoutXtra.us@SD": 6,
+  "WomensSportsNetwork.us@SD": 3,
+  "Wonder.uk@SD": 8,
+  "WooHoo.br@SD": 108,
   "WorldPokerTour.us@Germany": 16,
-  "XFCTV.us@SD": 2,
-  "XITE90sThrowback.us@SD": 16,
-  "XITEClassicCountry.nl@SD": 12,
-  "XITEJustChill.nl@US": 12,
-  "XITENuevoLatino.us@SD": 16,
-  "XITEReggaeVibes.nl@HD": 10,
-  "XITERockxMetal.nl@US": 12,
-  "XITESiempreLatino.us@SD": 16,
-  "YuGiOh.us@SD": 60,
+  "XFCTV.us@SD": 1,
+  "XITE90sThrowback.us@SD": 4,
+  "XITEClassicCountry.nl@SD": 3,
+  "XITEJustChill.nl@US": 3,
+  "XITENuevoLatino.us@SD": 4,
+  "XITEReggaeVibes.nl@HD": 2,
+  "XITERockxMetal.nl@US": 3,
+  "XITESiempreLatino.us@SD": 4,
+  "YuGiOh.us@SD": 13,
   "ZDFneo.de@SD": 8,
-  "ZNation.us@SD": 34,
-  "ZonaLatina.cl@SD": 49,
-  "ZooMoo.sg@SD": 486,
-  "Zoom.co@SD": 65,
-  "arte.fr@SD": 34,
-  "beINSPORTSXTRA.us@SD": 39,
-  "beINSPORTSXTRAenEspanol.us@SD": 31,
+  "ZNation.us@SD": 8,
+  "ZonaLatina.cl@SD": 27,
+  "ZooMoo.sg@SD": 559,
+  "Zoom.co@SD": 67,
+  "arte.fr@SD": 41,
+  "beINSPORTSXTRA.us@SD": 11,
+  "beINSPORTSXTRAenEspanol.us@SD": 8,
   "i24NEWSEnglishWorld.il@SD": 7,
   "i24NEWSFrench.il@SD": 7,
   "tagesschau24.de@SD": 8,
-  "truTV.us@East": 55
+  "truTV.us@East": 17
  }
 }

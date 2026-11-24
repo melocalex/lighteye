@@ -56,6 +56,9 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-name="TV Brusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Brusque
 #EXTGRP:🇧🇷 Brasil • Notícias
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br@HD" tvg-name="TV CAJUI WEB" tvg-logo="https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV CAJUI WEB
+#EXTGRP:🇧🇷 Brasil • Notícias
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNatal.br@SD" tvg-name="TV Natal" tvg-logo="https://i.imgur.com/wqQmQml.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Natal
 #EXTGRP:🇧🇷 Brasil • Notícias
 http://185.228.163.146:8000/play/a01y/index.m3u8
@@ -774,6 +777,9 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-name="TV Alternativa" tvg-logo="https://i.imgur.com/wM9xXhc.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Alternativa
 #EXTGRP:🇧🇷 Brasil • Geral
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Arapuan
+#EXTGRP:🇧🇷 Brasil • Geral
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Bahia
 #EXTGRP:🇧🇷 Brasil • Geral
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -826,6 +832,9 @@ https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica" tvg-logo="https://i.imgur.com/rOQKiMO.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Justica
 #EXTGRP:🇧🇷 Brasil • Geral
 http://170.83.16.50/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TVLitoralRN.br@SD" tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Litoral RN
+#EXTGRP:🇧🇷 Brasil • Geral
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br@SD" tvg-name="TV Mais Marica" tvg-logo="https://i.imgur.com/lgCRX7q.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Mais Marica
 #EXTGRP:🇧🇷 Brasil • Geral
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
@@ -853,6 +862,9 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/duy6waL.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Senado
 #EXTGRP:🇧🇷 Brasil • Geral
 http://170.83.16.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia" tvg-logo="https://i.imgur.com/qM6nMWm.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Sul Bahia
+#EXTGRP:🇧🇷 Brasil • Geral
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-name="TV Vila Real" tvg-logo="https://i.imgur.com/Z1uWe7g.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Vila Real
 #EXTGRP:🇧🇷 Brasil • Geral
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8

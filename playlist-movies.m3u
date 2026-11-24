@@ -729,7 +729,7 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="NonStopKungFu.se@DK" tvg-name="NonStop Kung Fu" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",NonStop Kung Fu
 #EXTGRP:🏳️ Other Countries • Filmes
-https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
+https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBudTerence.se@DK" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Bud & Terence
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
@@ -758,9 +758,6 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="Star Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" tvg-language="eng;hin;tam" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Star Movies
-#EXTGRP:🏳️ Other Countries • Filmes
-http://116.90.120.149:8000/play/a13a/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se@DK" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Star Trek Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
@@ -988,9 +985,6 @@ https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD" tvg-name="City Eden KinoMistika" tvg-logo="https://i.imgur.com/s1Pid0K.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",City Eden KinoMistika
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD" tvg-name="Colors Bangla Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Colors Bangla Cinema
-#EXTGRP:🏳️ Other Countries • Filmes
-http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-name="Colors Cineplex" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Colors Cineplex
 #EXTGRP:🏳️ Other Countries • Filmes
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
@@ -1271,9 +1265,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD" tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/s143638_ld_h9_ab.png?lock=720x540" tvg-language="bho" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Oscar Movies Bhojpuri
 #EXTGRP:🏳️ Other Countries • Filmes
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-name="Ostrosyuzhetnoye" tvg-logo="https://i.imgur.com/NwQ7GBy.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Ostrosyuzhetnoye
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema" tvg-logo="https://i.imgur.com/hgIro9r.png" tvg-language="fas" tvg-country="FR" group-title="🏳️ Other Countries • Filmes",Persiana Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -1370,6 +1361,9 @@ http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-name="Rodnoe Kino" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Rodnoe Kino
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-language="ara" tvg-country="SA" group-title="🏳️ Other Countries • Filmes",Rotana Cinema KSA
+#EXTGRP:🏳️ Other Countries • Filmes
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-name="Russkiy Bestseller" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Russkiy Bestseller
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/208/index.m3u8
@@ -1441,7 +1435,7 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-name="Sony Wah" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Sony Wah
 #EXTGRP:🏳️ Other Countries • Filmes
-https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass
 #EXTINF:-1 tvg-id="SouthStation.in@HD" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",South Station
 #EXTGRP:🏳️ Other Countries • Filmes
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8

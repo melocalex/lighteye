@@ -14,6 +14,9 @@ http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVEsportes.us@BR" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Esportes",Pluto TV Esportes
 #EXTGRP:🇧🇷 Brasil • Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+#EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/2rXsq2m.png" tvg-language="por" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",DAZN 3
+#EXTGRP:🇵🇹 Portugal • Esportes
+http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-language="eng" tvg-country="PT" group-title="🇵🇹 Portugal • Esportes",FUEL TV
 #EXTGRP:🇵🇹 Portugal • Esportes
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
@@ -65,6 +68,9 @@ http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" tvg-language="spa" tvg-country="AR" group-title="🌎 América Latina • Esportes",ESPN Premium
 #EXTGRP:🌎 América Latina • Esportes
 http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="FOX.mx@HD" tvg-name="FOX" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-language="spa" tvg-country="MX" group-title="🌎 América Latina • Esportes",FOX
+#EXTGRP:🌎 América Latina • Esportes
+https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FOXCentral.mx@CostaRica" tvg-name="FOX Central" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" tvg-language="spa" tvg-country="CR" group-title="🌎 América Latina • Esportes",FOX Central
 #EXTGRP:🌎 América Latina • Esportes
 http://181.78.106.127:5000/play/a009/index.m3u8
@@ -98,9 +104,6 @@ http://181.79.86.130:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="SqalaTV.pe@SD" tvg-name="Sqala TV" tvg-logo="https://i.imgur.com/DJ05m8s.png" tvg-language="spa" tvg-country="PE" group-title="🌎 América Latina • Esportes",Sqala TV
 #EXTGRP:🌎 América Latina • Esportes
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
-#EXTINF:-1 tvg-id="TigoSports.gt@SD" tvg-name="Tigo Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-language="spa" tvg-country="GT" group-title="🌎 América Latina • Esportes",Tigo Sports
-#EXTGRP:🌎 América Latina • Esportes
-http://168.196.127.137:6001/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py@SD" tvg-name="Tigo Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-language="spa" tvg-country="PY" group-title="🌎 América Latina • Esportes",Tigo Sports+
 #EXTGRP:🌎 América Latina • Esportes
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
@@ -250,7 +253,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",NFL Network
 #EXTGRP:🇺🇸 United States • Esportes
-http://198.58.104.90:8989/nfl/index.m3u8
+https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-name="NHL Network" tvg-logo="https://i.imgur.com/UNZ8bef.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",NHL Network
 #EXTGRP:🇺🇸 United States • Esportes
 https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -452,7 +455,7 @@ https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-name="Formula 1 AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" tvg-language="eng" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Formula 1 AntenaPlay
 #EXTGRP:🏳️ Other Countries • Esportes
-https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
+https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.ca@SD" tvg-name="Hard Knocks" tvg-logo="https://i.imgur.com/nt9B6jx.png" tvg-language="eng" tvg-country="CA" group-title="🏳️ Other Countries • Esportes",Hard Knocks
 #EXTGRP:🏳️ Other Countries • Esportes
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
@@ -684,9 +687,6 @@ https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD" tvg-name="Formula 2 AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Formula 2 AntenaPlay
 #EXTGRP:🏳️ Other Countries • Esportes
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
-#EXTINF:-1 tvg-id="FormulaAcademyAntenaPlay.ro@SD" tvg-name="Formula Academy AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",Formula Academy AntenaPlay
-#EXTGRP:🏳️ Other Countries • Esportes
-https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-name="Futbol" tvg-logo="https://i.imgur.com/RngmCDn.png" tvg-language="tgk" tvg-country="TJ" group-title="🏳️ Other Countries • Esportes",Futbol
 #EXTGRP:🏳️ Other Countries • Esportes
 http://185.121.1.163:8083/FootballHD/index.m3u8
@@ -783,15 +783,9 @@ https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD" tvg-name="NBA AntenaPlay" tvg-logo="https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Esportes",NBA AntenaPlay
 #EXTGRP:🏳️ Other Countries • Esportes
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-name="Okko Futbol" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Esportes",Okko Futbol
-#EXTGRP:🏳️ Other Countries • Esportes
-http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1 tvg-id="One2.il@SD" tvg-name="One 2" tvg-logo="https://i.imgur.com/JQLhYEs.png" tvg-language="heb" tvg-country="IL" group-title="🏳️ Other Countries • Esportes",One 2
 #EXTGRP:🏳️ Other Countries • Esportes
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="ORFSportPlus.at@SD" tvg-name="ORF Sport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/960px-ORF_Sport%2B.svg.png" tvg-language="deu" tvg-country="AT" group-title="🏳️ Other Countries • Esportes",ORF Sport+
-#EXTGRP:🏳️ Other Countries • Esportes
-https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="PersianaFight.fr@HD" tvg-name="Persiana Fight" tvg-language="fas" tvg-country="FR" group-title="🏳️ Other Countries • Esportes",Persiana Fight
 #EXTGRP:🏳️ Other Countries • Esportes
 https://fighthls.persiana.live/hls/stream.m3u8

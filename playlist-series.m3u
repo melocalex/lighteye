@@ -674,7 +674,7 @@ https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
 https://jmp2.uk/plu-5bd833b41843b56328bac189.m3u8
 #EXTINF:-1 tvg-id="Nosey.us@UK" tvg-name="Nosey" tvg-logo="https://i.imgur.com/i5doCQK.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Nosey
 #EXTGRP:🇬🇧 United Kingdom • Séries
-https://jmp2.uk/plu-5aec96ec5126c2157123c657.m3u8
+https://jmp2.uk/plu-619e279d45b45d0007a8d839.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAmericanTrueCrime.de@GB" tvg-name="Pluto TV American True Crime" tvg-logo="https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png" tvg-language="eng" tvg-country="UK" group-title="🇬🇧 United Kingdom • Séries",Pluto TV American True Crime
 #EXTGRP:🇬🇧 United Kingdom • Séries
 https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
@@ -932,7 +932,7 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-name="NTV Series" tvg-logo="https://i.imgur.com/QdVa8tl.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",NTV Series
 #EXTGRP:🏳️ Other Countries • Séries
-http://stream.mcquack.net/301/index.m3u8
+https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-name="NTV-Hit" tvg-logo="https://i.imgur.com/FfKBvz5.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Séries",NTV-Hit
 #EXTGRP:🏳️ Other Countries • Séries
 https://cdn.ntv.ru/th_hit/playlist.m3u8
