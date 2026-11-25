@@ -7,7 +7,7 @@ https://stream.ichibansys.com:3230/hybrid/play.m3u8
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Filmes",AMC Latin America
 #EXTGRP:🇧🇷 Brasil • Filmes
-http://170.83.49.66:8083/AMCHD/index.m3u8
+http://138.121.15.230:9002/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Filmes",AXN
 #EXTGRP:🇧🇷 Brasil • Filmes
 http://170.83.16.50/AXN/index.m3u8
@@ -488,7 +488,7 @@ https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@CA" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Crime Drama
 #EXTGRP:🇺🇸 United States • Filmes
-https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us@SD" tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/SJcqknt.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Filmes",Pluto TV Crime Movies
 #EXTGRP:🇺🇸 United States • Filmes
 https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
@@ -738,7 +738,7 @@ https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
 https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHarlequin.se@DK" tvg-name="Pluto TV Harlequin" tvg-logo="https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Harlequin
 #EXTGRP:🏳️ Other Countries • Filmes
-https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
+https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJohnWayne.se@DK" tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV John Wayne
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
@@ -753,7 +753,7 @@ https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
 https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWildWest.se@DK" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Wild West
 #EXTGRP:🏳️ Other Countries • Filmes
-https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-language="bul;eng" tvg-country="BG" group-title="🏳️ Other Countries • Filmes",Star Channel
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -773,6 +773,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se@DK" tvg-name="Viafree Movies" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" tvg-language="eng;dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Viafree Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ro@SD" tvg-name="Viasat Kino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346" tvg-language="eng;ron" tvg-country="RO" group-title="🏳️ Other Countries • Filmes",Viasat Kino
+#EXTGRP:🏳️ Other Countries • Filmes
+http://91.235.165.117:8001/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-name="Viasat Kino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" tvg-language="eng" tvg-country="UA" group-title="🏳️ Other Countries • Filmes",Viasat Kino
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -1322,6 +1325,9 @@ https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmThriller.de@IT" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png" tvg-language="ita" tvg-country="DE" group-title="🏳️ Other Countries • Filmes",Pluto TV Film Thriller
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKomedie.se@NO" tvg-name="Pluto TV Komedie" tvg-logo="https://images.pluto.tv/channels/61c1e3a679a4390007c78136/colorLogoPNG.png" tvg-language="nor" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Komedie
+#EXTGRP:🏳️ Other Countries • Filmes
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKultfilm.se@DK" tvg-name="Pluto TV Kultfilm" tvg-logo="https://images.pluto.tv/channels/63dbe7ed51f5d000083e9499/colorLogoPNG.png" tvg-language="dan" tvg-country="SE" group-title="🏳️ Other Countries • Filmes",Pluto TV Kultfilm
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
@@ -1343,9 +1349,6 @@ https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToto.de@IT" tvg-name="Pluto TV Toto" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png" tvg-language="ita" tvg-country="DE" group-title="🏳️ Other Countries • Filmes",Pluto TV Toto
 #EXTGRP:🏳️ Other Countries • Filmes
 https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
-#EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-name="Premialnoe" tvg-logo="https://i.imgur.com/ck4aLBP.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Premialnoe
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-id="ProCinema.ro@SD" tvg-name="Pro Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521" tvg-language="ron" tvg-country="RO" group-title="🏳️ Other Countries • Filmes",Pro Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
