@@ -522,9 +522,6 @@ http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br@HD" tvg-name="TV Life America" tvg-logo="https://i.imgur.com/HZI0ilU.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Life America
 #EXTGRP:🇧🇷 Brasil • Cultura
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="TVMaanaim.br@SD" tvg-name="TV Maanaim" tvg-logo="https://i.imgur.com/PZhdHvf.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Maanaim
-#EXTGRP:🇧🇷 Brasil • Cultura
-https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br@SD" tvg-name="TV Padre Cicero" tvg-logo="https://i.imgur.com/Y7b29VG.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Cultura",TV Padre Cicero
 #EXTGRP:🇧🇷 Brasil • Cultura
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
@@ -777,9 +774,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-name="TV Alternativa" tvg-logo="https://i.imgur.com/wM9xXhc.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Alternativa
 #EXTGRP:🇧🇷 Brasil • Geral
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Arapuan
-#EXTGRP:🇧🇷 Brasil • Geral
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Bahia
 #EXTGRP:🇧🇷 Brasil • Geral
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36

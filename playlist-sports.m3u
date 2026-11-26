@@ -162,9 +162,6 @@ https://d53csymoczzde.cloudfront.net/ACC_Digital_Network.m3u8
 #EXTINF:-1 tvg-id="AmericanNinjaWarrior.us@SD" tvg-name="American Ninja Warrior" tvg-logo="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",American Ninja Warrior
 #EXTGRP:🇺🇸 United States • Esportes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-name="beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN Sports USA
-#EXTGRP:🇺🇸 United States • Esportes
-https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",beIN SPORTS XTRA
 #EXTGRP:🇺🇸 United States • Esportes
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -290,7 +287,7 @@ https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-name="Rally TV" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",Rally TV
 #EXTGRP:🇺🇸 United States • Esportes
-https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us@SD" tvg-name="REV'N Action" tvg-logo="https://i.imgur.com/xsm8mMd.png" tvg-language="eng" tvg-country="US" group-title="🇺🇸 United States • Esportes",REV'N Action
 #EXTGRP:🇺🇸 United States • Esportes
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
@@ -703,9 +700,6 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr@SD" tvg-name="HTSpor TV" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" tvg-language="tur" tvg-country="TR" group-title="🏳️ Other Countries • Esportes",HTSpor TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-name="HTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" tvg-language="vie" tvg-country="VN" group-title="🏳️ Other Countries • Esportes",HTV Sports
-#EXTGRP:🏳️ Other Countries • Esportes
-https://vmttv.dpdns.org/tv360?id=htv-the-thao
 #EXTINF:-1 tvg-id="InterTV.it@SD" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" tvg-language="ita" tvg-country="IT" group-title="🏳️ Other Countries • Esportes",Inter TV
 #EXTGRP:🏳️ Other Countries • Esportes
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8

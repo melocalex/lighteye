@@ -222,25 +222,10 @@ https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 #EXTINF:-1 tvg-id="Squirrel.es@SD" tvg-name="Squirrel" tvg-logo="https://i.imgur.com/9y8VcBr.png" tvg-language="spa" tvg-country="ES" group-title="🇪🇸 España • Filmes",Squirrel
 #EXTGRP:🇪🇸 España • Filmes
 https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Finland" tvg-name="Rakuten TV Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="fin;eng" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Top Movies
-#EXTGRP:🇪🇸 España • Filmes
-https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-name="AXN CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="bul" tvg-country="ES" group-title="🇪🇸 España • Filmes",AXN CEE
 #EXTGRP:🇪🇸 España • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.50/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-name="Rakuten TV Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Action Movies
-#EXTGRP:🇪🇸 España • Filmes
-https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Comedy Movies
-#EXTGRP:🇪🇸 España • Filmes
-https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Drama Movies
-#EXTGRP:🇪🇸 España • Filmes
-https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-name="Rakuten TV Family Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="deu" tvg-country="ES" group-title="🇪🇸 España • Filmes",Rakuten TV Family Movies
-#EXTGRP:🇪🇸 España • Filmes
-https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-id="AneflixLive.us@HD" tvg-name="Aneflix Live" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png" tvg-language="eng;spa" tvg-country="US" group-title="🇺🇸 United States • Filmes",Aneflix Live
 #EXTGRP:🇺🇸 United States • Filmes
 #EXTVLCOPT:http-referrer=https://vaughn.live/
@@ -781,6 +766,9 @@ http://91.235.165.117:8001/play/a055/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR
+#EXTINF:-1 tvg-id="WarnerTV.ro@SD" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" tvg-language="eng;ron" tvg-country="RO" group-title="🏳️ Other Countries • Filmes",Warner TV
+#EXTGRP:🏳️ Other Countries • Filmes
+http://91.235.165.117:8001/play/a08h/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-name="&TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",&TV
 #EXTGRP:🏳️ Other Countries • Filmes
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
@@ -1424,7 +1412,7 @@ https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" tvg-name="Smotrim 100% Klassika" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Smotrim 100% Klassika
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Sony Max
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Sony Max
 #EXTGRP:🏳️ Other Countries • Filmes
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 #EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-name="Sony One Favoris" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-language="fra" tvg-country="FR" group-title="🏳️ Other Countries • Filmes",Sony One Favoris
