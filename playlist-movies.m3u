@@ -667,7 +667,10 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-name="Allo Cine" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" tvg-language="fre;eng" tvg-country="CM" group-title="🏳️ Other Countries • Filmes",Allo Cine
 #EXTGRP:🏳️ Other Countries • Filmes
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",Cinemax Asia
+#EXTINF:-1 tvg-id="BoxHits.vn@SD" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/kL9ubfw.png" tvg-language="vie;eng" tvg-country="VN" group-title="🏳️ Other Countries • Filmes",Box Hits
+#EXTGRP:🏳️ Other Countries • Filmes
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-name="Cinemax Asia" tvg-logo="https://i.imgur.com/c8crJfA.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",Cinemax Asia
 #EXTGRP:🏳️ Other Countries • Filmes
 http://125.227.210.55:1001/VideoInput/play.ts
 #EXTINF:-1 tvg-id="FILMBOXPlusAction.pl@HD" tvg-name="FILMBOX+ Action" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-language="eng" tvg-country="PL" group-title="🏳️ Other Countries • Filmes",FILMBOX+ Action
@@ -688,7 +691,7 @@ https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 #EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD" tvg-name="Grjngo Western Movies" tvg-logo="https://i.imgur.com/wFqhK3p.png" tvg-language="eng;deu" tvg-country="DE" group-title="🏳️ Other Countries • Filmes",Grjngo Western Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOAsia.sg@HD" tvg-name="HBO Asia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",HBO Asia
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-name="HBO Asia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" tvg-language="eng" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",HBO Asia
 #EXTGRP:🏳️ Other Countries • Filmes
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-name="iFilm English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-language="eng" tvg-country="IR" group-title="🏳️ Other Countries • Filmes",iFilm English
@@ -799,16 +802,27 @@ https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-name="Amedia Hit" tvg-logo="https://i.imgur.com/a8ZBGBw.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Amedia Hit
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema.in@SD" tvg-name="Anmol Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Anmol Cinema
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema2.in@SD" tvg-name="Anmol Cinema 2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Anmol Cinema 2
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 tvg-id="ArmeniaPremium.am@SD" tvg-name="Armenia Premium" tvg-language="hye" tvg-country="AM" group-title="🏳️ Other Countries • Filmes",Armenia Premium
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/123/index.m3u8
+#EXTINF:-1 tvg-id="AsianetCinema.in@SD" tvg-name="Asianet Cinema" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Asianet Cinema
+#EXTGRP:🏳️ Other Countries • Filmes
+https://b-tr1.planetcast.in/asianet/master.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in@SD" tvg-name="Asianet Movies" tvg-logo="https://i.imgur.com/cps67hs.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Asianet Movies
 #EXTGRP:🏳️ Other Countries • Filmes
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-name="AXN Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="ind" tvg-country="SG" group-title="🏳️ Other Countries • Filmes",AXN Asia
 #EXTGRP:🏳️ Other Countries • Filmes
-http://125.227.210.55:4050/VideoInput/play.ts
+http://103.165.207.108:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="AXNPoland.pl@SD" tvg-name="AXN Poland" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-language="pol" tvg-country="PL" group-title="🏳️ Other Countries • Filmes",AXN Poland
 #EXTGRP:🏳️ Other Countries • Filmes
 http://92.114.85.87:8015/play/a00f/index.m3u8
@@ -1098,9 +1112,6 @@ https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru@SD" tvg-name="Illusion+" tvg-logo="https://i.imgur.com/9GvuHQ5.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Illusion+
 #EXTGRP:🏳️ Other Countries • Filmes
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-id="IndiaTalkies.in@SD" tvg-name="India Talkies" tvg-logo="https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",India Talkies
-#EXTGRP:🏳️ Other Countries • Filmes
-https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru@SD" tvg-name="Indiyskoye Kino" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Indiyskoye Kino
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
@@ -1113,6 +1124,9 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-name="Kairali We" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" tvg-language="mal" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Kairali We
 #EXTGRP:🏳️ Other Countries • Filmes
 https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
+#EXTINF:-1 tvg-id="Kineko.ru@HD" tvg-name="Kineko" tvg-logo="https://i.imgur.com/Otfvlmf.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kineko
+#EXTGRP:🏳️ Other Countries • Filmes
+http://s7.merlive.am/kineko/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru@International" tvg-name="Kino 1" tvg-logo="https://i.imgur.com/zsCPLs4.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kino 1
 #EXTGRP:🏳️ Other Countries • Filmes
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -1133,21 +1147,21 @@ https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-name="KinoHit" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",KinoHit
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-name="Kinomix" tvg-logo="https://i.imgur.com/D4q2XUT.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kinomix
+#EXTINF:-1 tvg-id="Kinomix.ru@HD" tvg-name="Kinomix" tvg-logo="https://i.imgur.com/D4q2XUT.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kinomix
 #EXTGRP:🏳️ Other Countries • Filmes
-https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+http://s7.merlive.am/Kinomix/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru@SD" tvg-name="Kinopokaz" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kinopokaz
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru@HD" tvg-name="Kinopremyera" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kinopremyera
 #EXTGRP:🏳️ Other Countries • Filmes
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/Kinopremera/index.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-name="Kinosemja" tvg-logo="https://i.imgur.com/4BF5VeK.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kinosemja
 #EXTGRP:🏳️ Other Countries • Filmes
-https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+http://s7.merlive.am/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-name="Kinoseriya" tvg-logo="https://i.imgur.com/iao7zLZ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kinoseriya
 #EXTGRP:🏳️ Other Countries • Filmes
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+http://s7.merlive.am/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-name="Kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Kinosvidanie
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
@@ -1202,6 +1216,9 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTGRP:🏳️ Other Countries • Filmes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-name="Mosfilm Gold Collection" tvg-logo="https://i.imgur.com/95Y8jb6.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Mosfilm Gold Collection
+#EXTGRP:🏳️ Other Countries • Filmes
+http://s7.merlive.am/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" tvg-language="ben" tvg-country="BD" group-title="🏳️ Other Countries • Filmes",Movie Bangla
 #EXTGRP:🏳️ Other Countries • Filmes
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -1233,6 +1250,9 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-name="Nash Kinopokaz" tvg-logo="https://i.imgur.com/iwTMl8O.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nash Kinopokaz
 #EXTGRP:🏳️ Other Countries • Filmes
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru@SD" tvg-name="Nashe Lubimoe Kino" tvg-logo="https://i.imgur.com/iKPfM5K.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe Lubimoe Kino
+#EXTGRP:🏳️ Other Countries • Filmes
+http://s7.merlive.am/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-name="Nashe Novoe Kino" tvg-logo="https://i.imgur.com/IOxIsPj.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Nashe Novoe Kino
 #EXTGRP:🏳️ Other Countries • Filmes
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
@@ -1355,15 +1375,9 @@ https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa@SD" tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-language="ara" tvg-country="SA" group-title="🏳️ Other Countries • Filmes",Rotana Cinema KSA
 #EXTGRP:🏳️ Other Countries • Filmes
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-name="Russkiy Bestseller" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Russkiy Bestseller
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-name="Russkiy Detektiv" tvg-logo="https://i.imgur.com/H3qhN8S.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Russkiy Detektiv
-#EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-name="Russkiy roman" tvg-logo="https://i.imgur.com/cQN0P2B.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Russkiy roman
 #EXTGRP:🏳️ Other Countries • Filmes
-http://stream.mcquack.net/266/index.m3u8
+https://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-name="ServusTV" tvg-logo="https://i.imgur.com/6W637Gn.png" tvg-language="deu" tvg-country="AT" group-title="🏳️ Other Countries • Filmes",ServusTV
 #EXTGRP:🏳️ Other Countries • Filmes
 https://s6.hopslan.com/servuz1/index.m3u8
@@ -1373,6 +1387,9 @@ https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru@HD" tvg-name="Shokiruyushchee" tvg-logo="https://i.imgur.com/UG63hZ0.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Shokiruyushchee
 #EXTGRP:🏳️ Other Countries • Filmes
 http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 tvg-id="ShotTV.ru@SD" tvg-name="Shot TV" tvg-logo="https://i.imgur.com/MLSG7tA.png" tvg-language="rus" tvg-country="RU" group-title="🏳️ Other Countries • Filmes",Shot TV
+#EXTGRP:🏳️ Other Countries • Filmes
+http://s7.merlive.am/SHOTTV/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-name="Shubh Cinema TV" tvg-logo="https://i.imgur.com/RQhorAG.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Shubh Cinema TV
 #EXTGRP:🏳️ Other Countries • Filmes
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
@@ -1514,6 +1531,10 @@ http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in@HD" tvg-name="ZB Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" tvg-language="ben" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",ZB Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-name="Zee Action" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Action
+#EXTGRP:🏳️ Other Countries • Filmes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-name="Zee Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" tvg-language="hin" tvg-country="IN" group-title="🏳️ Other Countries • Filmes",Zee Cinema
 #EXTGRP:🏳️ Other Countries • Filmes
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8

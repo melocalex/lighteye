@@ -56,9 +56,6 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-name="TV Brusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Brusque
 #EXTGRP:🇧🇷 Brasil • Notícias
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCAJUIWEB.br@HD" tvg-name="TV CAJUI WEB" tvg-logo="https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV CAJUI WEB
-#EXTGRP:🇧🇷 Brasil • Notícias
-https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNatal.br@SD" tvg-name="TV Natal" tvg-logo="https://i.imgur.com/wqQmQml.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Notícias",TV Natal
 #EXTGRP:🇧🇷 Brasil • Notícias
 http://185.228.163.146:8000/play/a01y/index.m3u8
@@ -338,7 +335,7 @@ https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@BR" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Animação",Pluto TV Anime
 #EXTGRP:🇧🇷 Brasil • Animação
-https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeAcao.us@BR" tvg-name="Pluto TV Anime Acao" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Animação",Pluto TV Anime Acao
 #EXTGRP:🇧🇷 Brasil • Animação
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
@@ -630,6 +627,9 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ArarunaTV.br@SD" tvg-name="Araruna TV" tvg-logo="https://i.imgur.com/jl39ula.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Araruna TV
 #EXTGRP:🇧🇷 Brasil • Geral
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-name="Boas Novas" tvg-logo="https://i.imgur.com/ZqhizdP.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Boas Novas
+#EXTGRP:🇧🇷 Brasil • Geral
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-name="Canal 25 Jundiai" tvg-logo="https://i.imgur.com/7igGMwH.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Canal 25 Jundiai
 #EXTGRP:🇧🇷 Brasil • Geral
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
@@ -761,7 +761,7 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-name="Studio Universal Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",Studio Universal Latin America
 #EXTGRP:🇧🇷 Brasil • Geral
-http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8
+http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br@SD" tvg-name="TV A Critica" tvg-logo="https://i.imgur.com/j51rBro.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV A Critica
 #EXTGRP:🇧🇷 Brasil • Geral
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
@@ -787,6 +787,9 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD" tvg-name="TV BRICS Portuguese" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV BRICS Portuguese
 #EXTGRP:🇧🇷 Brasil • Geral
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br@HD" tvg-name="TV CAJUI WEB" tvg-logo="https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV CAJUI WEB
+#EXTGRP:🇧🇷 Brasil • Geral
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Camara
 #EXTGRP:🇧🇷 Brasil • Geral
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
@@ -815,6 +818,9 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Gazeta
 #EXTGRP:🇧🇷 Brasil • Geral
 http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br@SD" tvg-name="TV Globo Brasilia" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Globo Brasilia
+#EXTGRP:🇧🇷 Brasil • Geral
+http://79.127.238.228:14173
 #EXTINF:-1 tvg-id="TVGuara.br@SD" tvg-name="TV Guara" tvg-logo="https://i.imgur.com/8PErNBT.png" tvg-language="por" tvg-country="BR" group-title="🇧🇷 Brasil • Geral",TV Guara
 #EXTGRP:🇧🇷 Brasil • Geral
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
